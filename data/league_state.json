@@ -262,6 +262,7 @@
     "8150",
     "8151",
     "8155",
+    "8161",
     "8167",
     "8183",
     "8228",
@@ -297,5 +298,1778 @@
     "9756",
     "9758",
     "9997"
-  ]
+  ],
+  "rostered_players": [
+    {
+      "id": "10222",
+      "gsis_id": null,
+      "name": "Jayden Reed",
+      "position": "WR"
+    },
+    {
+      "id": "10229",
+      "gsis_id": null,
+      "name": "Rashee Rice",
+      "position": "WR"
+    },
+    {
+      "id": "10232",
+      "gsis_id": null,
+      "name": "Michael Wilson",
+      "position": "WR"
+    },
+    {
+      "id": "10236",
+      "gsis_id": null,
+      "name": "Dalton Kincaid",
+      "position": "TE"
+    },
+    {
+      "id": "10859",
+      "gsis_id": null,
+      "name": "Sam LaPorta",
+      "position": "TE"
+    },
+    {
+      "id": "10880",
+      "gsis_id": null,
+      "name": "Jack Campbell",
+      "position": "LB"
+    },
+    {
+      "id": "10888",
+      "gsis_id": null,
+      "name": "Jalen Carter",
+      "position": "DL"
+    },
+    {
+      "id": "10892",
+      "gsis_id": null,
+      "name": "Will Anderson",
+      "position": "DL"
+    },
+    {
+      "id": "10898",
+      "gsis_id": null,
+      "name": "Tuli Tuipulotu",
+      "position": "DL"
+    },
+    {
+      "id": "10905",
+      "gsis_id": null,
+      "name": "Brian Branch",
+      "position": "DB"
+    },
+    {
+      "id": "10914",
+      "gsis_id": null,
+      "name": "Daiyan Henley",
+      "position": "LB"
+    },
+    {
+      "id": "10917",
+      "gsis_id": null,
+      "name": "Byron Young",
+      "position": "LB"
+    },
+    {
+      "id": "10921",
+      "gsis_id": null,
+      "name": "Yaya Diaby",
+      "position": "DL"
+    },
+    {
+      "id": "10927",
+      "gsis_id": null,
+      "name": "Jordan Battle",
+      "position": "DB"
+    },
+    {
+      "id": "10949",
+      "gsis_id": null,
+      "name": "Chamarri Conner",
+      "position": "DB"
+    },
+    {
+      "id": "11559",
+      "gsis_id": null,
+      "name": "Michael Penix",
+      "position": "QB"
+    },
+    {
+      "id": "11560",
+      "gsis_id": null,
+      "name": "Caleb Williams",
+      "position": "QB"
+    },
+    {
+      "id": "11563",
+      "gsis_id": null,
+      "name": "Bo Nix",
+      "position": "QB"
+    },
+    {
+      "id": "11564",
+      "gsis_id": null,
+      "name": "Drake Maye",
+      "position": "QB"
+    },
+    {
+      "id": "11566",
+      "gsis_id": null,
+      "name": "Jayden Daniels",
+      "position": "QB"
+    },
+    {
+      "id": "11576",
+      "gsis_id": null,
+      "name": "Braelon Allen",
+      "position": "RB"
+    },
+    {
+      "id": "11584",
+      "gsis_id": null,
+      "name": "Bucky Irving",
+      "position": "RB"
+    },
+    {
+      "id": "11586",
+      "gsis_id": null,
+      "name": "Blake Corum",
+      "position": "RB"
+    },
+    {
+      "id": "11597",
+      "gsis_id": null,
+      "name": "Theo Johnson",
+      "position": "TE"
+    },
+    {
+      "id": "11603",
+      "gsis_id": null,
+      "name": "AJ Barner",
+      "position": "TE"
+    },
+    {
+      "id": "11604",
+      "gsis_id": null,
+      "name": "Brock Bowers",
+      "position": "TE"
+    },
+    {
+      "id": "11618",
+      "gsis_id": null,
+      "name": "Jalen McMillan",
+      "position": "WR"
+    },
+    {
+      "id": "11620",
+      "gsis_id": null,
+      "name": "Rome Odunze",
+      "position": "WR"
+    },
+    {
+      "id": "11624",
+      "gsis_id": null,
+      "name": "Xavier Worthy",
+      "position": "WR"
+    },
+    {
+      "id": "11627",
+      "gsis_id": null,
+      "name": "Troy Franklin",
+      "position": "WR"
+    },
+    {
+      "id": "11628",
+      "gsis_id": null,
+      "name": "Marvin Harrison",
+      "position": "WR"
+    },
+    {
+      "id": "11631",
+      "gsis_id": null,
+      "name": "Brian Thomas",
+      "position": "WR"
+    },
+    {
+      "id": "11632",
+      "gsis_id": null,
+      "name": "Malik Nabers",
+      "position": "WR"
+    },
+    {
+      "id": "11635",
+      "gsis_id": null,
+      "name": "Ladd McConkey",
+      "position": "WR"
+    },
+    {
+      "id": "11638",
+      "gsis_id": null,
+      "name": "Ricky Pearsall",
+      "position": "WR"
+    },
+    {
+      "id": "11646",
+      "gsis_id": null,
+      "name": "Jalen Coker",
+      "position": "WR"
+    },
+    {
+      "id": "11655",
+      "gsis_id": null,
+      "name": "Tyrone Tracy",
+      "position": "RB"
+    },
+    {
+      "id": "11665",
+      "gsis_id": null,
+      "name": "Jared Verse",
+      "position": "DL"
+    },
+    {
+      "id": "11667",
+      "gsis_id": null,
+      "name": "Dallas Turner",
+      "position": "LB"
+    },
+    {
+      "id": "11669",
+      "gsis_id": null,
+      "name": "Laiatu Latu",
+      "position": "DL"
+    },
+    {
+      "id": "11674",
+      "gsis_id": null,
+      "name": "Tyler Nubin",
+      "position": "DB"
+    },
+    {
+      "id": "11678",
+      "gsis_id": null,
+      "name": "Cooper DeJean",
+      "position": "DB"
+    },
+    {
+      "id": "11685",
+      "gsis_id": null,
+      "name": "Kamari Lassiter",
+      "position": "DB"
+    },
+    {
+      "id": "11687",
+      "gsis_id": null,
+      "name": "Edgerrin Cooper",
+      "position": "LB"
+    },
+    {
+      "id": "11705",
+      "gsis_id": null,
+      "name": "Tykee Smith",
+      "position": "DB"
+    },
+    {
+      "id": "11783",
+      "gsis_id": null,
+      "name": "Ryan Flournoy",
+      "position": "WR"
+    },
+    {
+      "id": "1233",
+      "gsis_id": "00-0029255",
+      "name": "Bobby Wagner",
+      "position": "LB"
+    },
+    {
+      "id": "12474",
+      "gsis_id": null,
+      "name": "Woody Marks",
+      "position": "RB"
+    },
+    {
+      "id": "12481",
+      "gsis_id": null,
+      "name": "Cam Skattebo",
+      "position": "RB"
+    },
+    {
+      "id": "12484",
+      "gsis_id": null,
+      "name": "Jayden Higgins",
+      "position": "WR"
+    },
+    {
+      "id": "12489",
+      "gsis_id": null,
+      "name": "RJ Harvey",
+      "position": "RB"
+    },
+    {
+      "id": "12490",
+      "gsis_id": null,
+      "name": "Bhayshul Tuten",
+      "position": "RB"
+    },
+    {
+      "id": "12493",
+      "gsis_id": null,
+      "name": "Oronde Gadsden",
+      "position": "TE"
+    },
+    {
+      "id": "12501",
+      "gsis_id": null,
+      "name": "Matthew Golden",
+      "position": "WR"
+    },
+    {
+      "id": "12504",
+      "gsis_id": null,
+      "name": "Kaleb Johnson",
+      "position": "RB"
+    },
+    {
+      "id": "12506",
+      "gsis_id": null,
+      "name": "Harold Fannin",
+      "position": "TE"
+    },
+    {
+      "id": "12507",
+      "gsis_id": null,
+      "name": "Omarion Hampton",
+      "position": "RB"
+    },
+    {
+      "id": "12508",
+      "gsis_id": null,
+      "name": "Jaxson Dart",
+      "position": "QB"
+    },
+    {
+      "id": "12512",
+      "gsis_id": null,
+      "name": "Quinshon Judkins",
+      "position": "RB"
+    },
+    {
+      "id": "12514",
+      "gsis_id": null,
+      "name": "Emeka Egbuka",
+      "position": "WR"
+    },
+    {
+      "id": "12517",
+      "gsis_id": null,
+      "name": "Colston Loveland",
+      "position": "TE"
+    },
+    {
+      "id": "12518",
+      "gsis_id": null,
+      "name": "Tyler Warren",
+      "position": "TE"
+    },
+    {
+      "id": "12519",
+      "gsis_id": null,
+      "name": "Luther Burden",
+      "position": "WR"
+    },
+    {
+      "id": "12522",
+      "gsis_id": null,
+      "name": "Cam Ward",
+      "position": "QB"
+    },
+    {
+      "id": "12526",
+      "gsis_id": null,
+      "name": "Tetairoa McMillan",
+      "position": "WR"
+    },
+    {
+      "id": "12527",
+      "gsis_id": null,
+      "name": "Ashton Jeanty",
+      "position": "RB"
+    },
+    {
+      "id": "12529",
+      "gsis_id": null,
+      "name": "TreVeyon Henderson",
+      "position": "RB"
+    },
+    {
+      "id": "12530",
+      "gsis_id": null,
+      "name": "Travis Hunter",
+      "position": "WR"
+    },
+    {
+      "id": "12533",
+      "gsis_id": null,
+      "name": "Jacory Croskey-Merritt",
+      "position": "RB"
+    },
+    {
+      "id": "12534",
+      "gsis_id": null,
+      "name": "Kyle Monangai",
+      "position": "RB"
+    },
+    {
+      "id": "12540",
+      "gsis_id": null,
+      "name": "Chimere Dike",
+      "position": "WR"
+    },
+    {
+      "id": "12545",
+      "gsis_id": null,
+      "name": "Tyler Shough",
+      "position": "QB"
+    },
+    {
+      "id": "12562",
+      "gsis_id": null,
+      "name": "Nic Scourton",
+      "position": "DL"
+    },
+    {
+      "id": "12566",
+      "gsis_id": null,
+      "name": "Jihaad Campbell",
+      "position": "LB"
+    },
+    {
+      "id": "12567",
+      "gsis_id": null,
+      "name": "Malaki Starks",
+      "position": "DB"
+    },
+    {
+      "id": "12568",
+      "gsis_id": null,
+      "name": "Jalon Walker",
+      "position": "DL"
+    },
+    {
+      "id": "12574",
+      "gsis_id": null,
+      "name": "Abdul Carter",
+      "position": "DL"
+    },
+    {
+      "id": "12578",
+      "gsis_id": null,
+      "name": "Carson Schwesinger",
+      "position": "LB"
+    },
+    {
+      "id": "12597",
+      "gsis_id": null,
+      "name": "Nick Emmanwori",
+      "position": "DB"
+    },
+    {
+      "id": "12617",
+      "gsis_id": null,
+      "name": "Demetrius Knight",
+      "position": "LB"
+    },
+    {
+      "id": "13269",
+      "gsis_id": null,
+      "name": "Fernando Mendoza",
+      "position": "QB"
+    },
+    {
+      "id": "13272",
+      "gsis_id": null,
+      "name": "Carson Beck",
+      "position": "QB"
+    },
+    {
+      "id": "13274",
+      "gsis_id": null,
+      "name": "Germie Bernard",
+      "position": "WR"
+    },
+    {
+      "id": "13275",
+      "gsis_id": null,
+      "name": "Ty Simpson",
+      "position": "QB"
+    },
+    {
+      "id": "13276",
+      "gsis_id": null,
+      "name": "Omar Cooper",
+      "position": "WR"
+    },
+    {
+      "id": "13278",
+      "gsis_id": null,
+      "name": "Max Klare",
+      "position": "TE"
+    },
+    {
+      "id": "13279",
+      "gsis_id": null,
+      "name": "Carnell Tate",
+      "position": "WR"
+    },
+    {
+      "id": "13281",
+      "gsis_id": null,
+      "name": "Jordyn Tyson",
+      "position": "WR"
+    },
+    {
+      "id": "13285",
+      "gsis_id": null,
+      "name": "Malachi Fields",
+      "position": "WR"
+    },
+    {
+      "id": "13286",
+      "gsis_id": null,
+      "name": "Jadarian Price",
+      "position": "RB"
+    },
+    {
+      "id": "13287",
+      "gsis_id": null,
+      "name": "Jeremiyah Love",
+      "position": "RB"
+    },
+    {
+      "id": "13288",
+      "gsis_id": null,
+      "name": "Nicholas Singleton",
+      "position": "RB"
+    },
+    {
+      "id": "13293",
+      "gsis_id": null,
+      "name": "Ja'Kobi Lane",
+      "position": "WR"
+    },
+    {
+      "id": "13294",
+      "gsis_id": null,
+      "name": "Makai Lemon",
+      "position": "WR"
+    },
+    {
+      "id": "13298",
+      "gsis_id": null,
+      "name": "KC Concepcion",
+      "position": "WR"
+    },
+    {
+      "id": "13301",
+      "gsis_id": null,
+      "name": "Antonio Williams",
+      "position": "WR"
+    },
+    {
+      "id": "13305",
+      "gsis_id": null,
+      "name": "Mike Washington",
+      "position": "RB"
+    },
+    {
+      "id": "13311",
+      "gsis_id": null,
+      "name": "Chris Bell",
+      "position": "WR"
+    },
+    {
+      "id": "13317",
+      "gsis_id": null,
+      "name": "Ted Hurst",
+      "position": "WR"
+    },
+    {
+      "id": "13319",
+      "gsis_id": null,
+      "name": "Oscar Delp",
+      "position": "TE"
+    },
+    {
+      "id": "13320",
+      "gsis_id": null,
+      "name": "Zachariah Branch",
+      "position": "WR"
+    },
+    {
+      "id": "13330",
+      "gsis_id": null,
+      "name": "Kenyon Sadiq",
+      "position": "TE"
+    },
+    {
+      "id": "13337",
+      "gsis_id": null,
+      "name": "Emmett Johnson",
+      "position": "RB"
+    },
+    {
+      "id": "13340",
+      "gsis_id": null,
+      "name": "Rueben Bain",
+      "position": "DL"
+    },
+    {
+      "id": "13341",
+      "gsis_id": null,
+      "name": "Akheem Mesidor",
+      "position": "DL"
+    },
+    {
+      "id": "13345",
+      "gsis_id": null,
+      "name": "Jonah Coleman",
+      "position": "RB"
+    },
+    {
+      "id": "13346",
+      "gsis_id": null,
+      "name": "Denzel Boston",
+      "position": "WR"
+    },
+    {
+      "id": "13349",
+      "gsis_id": null,
+      "name": "Eli Stowers",
+      "position": "TE"
+    },
+    {
+      "id": "13359",
+      "gsis_id": null,
+      "name": "Malachi Lawrence",
+      "position": "DL"
+    },
+    {
+      "id": "13360",
+      "gsis_id": null,
+      "name": "Emmanuel McNeil-Warren",
+      "position": "DB"
+    },
+    {
+      "id": "13363",
+      "gsis_id": null,
+      "name": "David Bailey",
+      "position": "LB"
+    },
+    {
+      "id": "13364",
+      "gsis_id": null,
+      "name": "Cashius Howell",
+      "position": "DL"
+    },
+    {
+      "id": "13365",
+      "gsis_id": null,
+      "name": "Anthony Hill",
+      "position": "LB"
+    },
+    {
+      "id": "13368",
+      "gsis_id": null,
+      "name": "Jermod McCoy",
+      "position": "DB"
+    },
+    {
+      "id": "13371",
+      "gsis_id": null,
+      "name": "Dillon Thieneman",
+      "position": "DB"
+    },
+    {
+      "id": "13375",
+      "gsis_id": null,
+      "name": "Sonny Styles",
+      "position": "LB"
+    },
+    {
+      "id": "13376",
+      "gsis_id": null,
+      "name": "Caleb Downs",
+      "position": "DB"
+    },
+    {
+      "id": "13377",
+      "gsis_id": null,
+      "name": "Arvell Reese",
+      "position": "LB"
+    },
+    {
+      "id": "13379",
+      "gsis_id": null,
+      "name": "Josiah Trotter",
+      "position": "LB"
+    },
+    {
+      "id": "13381",
+      "gsis_id": null,
+      "name": "Jaishawn Barham",
+      "position": "LB"
+    },
+    {
+      "id": "13384",
+      "gsis_id": null,
+      "name": "AJ Haulcy",
+      "position": "DB"
+    },
+    {
+      "id": "13385",
+      "gsis_id": null,
+      "name": "Mansoor Delane",
+      "position": "DB"
+    },
+    {
+      "id": "13388",
+      "gsis_id": null,
+      "name": "CJ Allen",
+      "position": "LB"
+    },
+    {
+      "id": "13389",
+      "gsis_id": null,
+      "name": "Avieon Terrell",
+      "position": "DB"
+    },
+    {
+      "id": "13390",
+      "gsis_id": null,
+      "name": "Peter Woods",
+      "position": "DL"
+    },
+    {
+      "id": "13395",
+      "gsis_id": null,
+      "name": "Keldric Faulk",
+      "position": "DL"
+    },
+    {
+      "id": "13414",
+      "gsis_id": null,
+      "name": "Kaelon Black",
+      "position": "RB"
+    },
+    {
+      "id": "13417",
+      "gsis_id": null,
+      "name": "De'Zhaun Stribling",
+      "position": "WR"
+    },
+    {
+      "id": "13434",
+      "gsis_id": null,
+      "name": "Will Kacmarek",
+      "position": "TE"
+    },
+    {
+      "id": "13453",
+      "gsis_id": null,
+      "name": "Jacob Rodriguez",
+      "position": "LB"
+    },
+    {
+      "id": "13455",
+      "gsis_id": null,
+      "name": "TJ Parker",
+      "position": "DE"
+    },
+    {
+      "id": "13457",
+      "gsis_id": null,
+      "name": "Gabe Jacas",
+      "position": "DE"
+    },
+    {
+      "id": "13458",
+      "gsis_id": null,
+      "name": "Derrick Moore",
+      "position": "DE"
+    },
+    {
+      "id": "1466",
+      "gsis_id": "00-0030506",
+      "name": "Travis Kelce",
+      "position": "TE"
+    },
+    {
+      "id": "2133",
+      "gsis_id": "00-0031381",
+      "name": "Davante Adams",
+      "position": "WR"
+    },
+    {
+      "id": "2216",
+      "gsis_id": "00-0031408",
+      "name": "Mike Evans",
+      "position": "WR"
+    },
+    {
+      "id": "2393",
+      "gsis_id": "00-0031565",
+      "name": "Danielle Hunter",
+      "position": "DE"
+    },
+    {
+      "id": "2617",
+      "gsis_id": " 00-0031898",
+      "name": "Alex Singleton",
+      "position": "LB"
+    },
+    {
+      "id": "3156",
+      "gsis_id": "00-0033156",
+      "name": "Joey Bosa",
+      "position": "LB"
+    },
+    {
+      "id": "3163",
+      "gsis_id": "00-0033106",
+      "name": "Jared Goff",
+      "position": "QB"
+    },
+    {
+      "id": "3198",
+      "gsis_id": "00-0032764",
+      "name": "Derrick Henry",
+      "position": "RB"
+    },
+    {
+      "id": "3214",
+      "gsis_id": "00-0033090",
+      "name": "Hunter Henry",
+      "position": "TE"
+    },
+    {
+      "id": "3233",
+      "gsis_id": "00-0033132",
+      "name": "Kevin Byard",
+      "position": "DB"
+    },
+    {
+      "id": "3294",
+      "gsis_id": "00-0033077",
+      "name": "Dak Prescott",
+      "position": "QB"
+    },
+    {
+      "id": "3973",
+      "gsis_id": "00-0033868",
+      "name": "Myles Garrett",
+      "position": "DE"
+    },
+    {
+      "id": "4034",
+      "gsis_id": "00-0033280",
+      "name": "Christian McCaffrey",
+      "position": "RB"
+    },
+    {
+      "id": "4035",
+      "gsis_id": "00-0033906",
+      "name": "Alvin Kamara",
+      "position": "RB"
+    },
+    {
+      "id": "4046",
+      "gsis_id": "00-0033873",
+      "name": "Patrick Mahomes",
+      "position": "QB"
+    },
+    {
+      "id": "4070",
+      "gsis_id": "00-0033886",
+      "name": "T.J. Watt",
+      "position": "LB"
+    },
+    {
+      "id": "4081",
+      "gsis_id": "00-0033890",
+      "name": "Budda Baker",
+      "position": "DB"
+    },
+    {
+      "id": "4135",
+      "gsis_id": "00-0033935",
+      "name": "Trey Hendrickson",
+      "position": "DE"
+    },
+    {
+      "id": "4137",
+      "gsis_id": "00-0033553",
+      "name": "James Conner",
+      "position": "RB"
+    },
+    {
+      "id": "4199",
+      "gsis_id": "00-0033293",
+      "name": "Aaron Jones",
+      "position": "RB"
+    },
+    {
+      "id": "421",
+      "gsis_id": "00-0026498",
+      "name": "Matthew Stafford",
+      "position": "QB"
+    },
+    {
+      "id": "4217",
+      "gsis_id": "00-0033288",
+      "name": "George Kittle",
+      "position": "TE"
+    },
+    {
+      "id": "4866",
+      "gsis_id": "00-0034844",
+      "name": "Saquon Barkley",
+      "position": "RB"
+    },
+    {
+      "id": "4881",
+      "gsis_id": "00-0034796",
+      "name": "Lamar Jackson",
+      "position": "QB"
+    },
+    {
+      "id": "4892",
+      "gsis_id": "00-0034855",
+      "name": "Baker Mayfield",
+      "position": "QB"
+    },
+    {
+      "id": "4943",
+      "gsis_id": "00-0034869",
+      "name": "Sam Darnold",
+      "position": "QB"
+    },
+    {
+      "id": "4960",
+      "gsis_id": "00-0034874",
+      "name": "Roquan Smith",
+      "position": "LB"
+    },
+    {
+      "id": "4968",
+      "gsis_id": "00-0034673",
+      "name": "Tremaine Edmunds",
+      "position": "LB"
+    },
+    {
+      "id": "4971",
+      "gsis_id": "00-0034790",
+      "name": "Derwin James",
+      "position": "DB"
+    },
+    {
+      "id": "4983",
+      "gsis_id": "00-0034827",
+      "name": "DJ Moore",
+      "position": "WR"
+    },
+    {
+      "id": "4984",
+      "gsis_id": "00-0034857",
+      "name": "Josh Allen",
+      "position": "QB"
+    },
+    {
+      "id": "4999",
+      "gsis_id": "00-0034381",
+      "name": "Josh Sweat",
+      "position": "DE"
+    },
+    {
+      "id": "5012",
+      "gsis_id": "00-0034753",
+      "name": "Mark Andrews",
+      "position": "TE"
+    },
+    {
+      "id": "5017",
+      "gsis_id": " 00-0034675",
+      "name": "Jessie Bates",
+      "position": "DB"
+    },
+    {
+      "id": "5022",
+      "gsis_id": "00-0034351",
+      "name": "Dallas Goedert",
+      "position": "TE"
+    },
+    {
+      "id": "5030",
+      "gsis_id": "00-0034828",
+      "name": "Harold Landry",
+      "position": "LB"
+    },
+    {
+      "id": "5041",
+      "gsis_id": "00-0034815",
+      "name": "Fred Warner",
+      "position": "LB"
+    },
+    {
+      "id": "5045",
+      "gsis_id": "00-0034348",
+      "name": "Courtland Sutton",
+      "position": "WR"
+    },
+    {
+      "id": "5226",
+      "gsis_id": "00-0034234",
+      "name": "Poona Ford",
+      "position": "DT"
+    },
+    {
+      "id": "5330",
+      "gsis_id": "00-0034373",
+      "name": "Dorance Armstrong",
+      "position": "DE"
+    },
+    {
+      "id": "5332",
+      "gsis_id": "00-0034413",
+      "name": "Foyesade Oluokun",
+      "position": "LB"
+    },
+    {
+      "id": "5346",
+      "gsis_id": "00-0034431",
+      "name": "Zaire Franklin",
+      "position": "LB"
+    },
+    {
+      "id": "5580",
+      "gsis_id": "00-0034302",
+      "name": "Frankie Luvu",
+      "position": "LB"
+    },
+    {
+      "id": "5726",
+      "gsis_id": "00-0034720",
+      "name": "Robert Spillane",
+      "position": "LB"
+    },
+    {
+      "id": "5816",
+      "gsis_id": " 00-0035717",
+      "name": "Nick Bosa",
+      "position": "DE"
+    },
+    {
+      "id": "5840",
+      "gsis_id": " 00-0035642",
+      "name": "Josh Hines-Allen",
+      "position": "DE"
+    },
+    {
+      "id": "5844",
+      "gsis_id": " 00-0035229",
+      "name": "T.J. Hockenson",
+      "position": "TE"
+    },
+    {
+      "id": "5846",
+      "gsis_id": " 00-0035640",
+      "name": "DK Metcalf",
+      "position": "WR"
+    },
+    {
+      "id": "5847",
+      "gsis_id": " 00-0035683",
+      "name": "Dexter Lawrence",
+      "position": "DT"
+    },
+    {
+      "id": "5849",
+      "gsis_id": " 00-0035228",
+      "name": "Kyler Murray",
+      "position": "QB"
+    },
+    {
+      "id": "5850",
+      "gsis_id": " 00-0035700",
+      "name": "Josh Jacobs",
+      "position": "RB"
+    },
+    {
+      "id": "5859",
+      "gsis_id": " 00-0035676",
+      "name": "A.J. Brown",
+      "position": "WR"
+    },
+    {
+      "id": "5862",
+      "gsis_id": " 00-0035713",
+      "name": "Brian Burns",
+      "position": "DE"
+    },
+    {
+      "id": "5870",
+      "gsis_id": " 00-0035710",
+      "name": "Daniel Jones",
+      "position": "QB"
+    },
+    {
+      "id": "5871",
+      "gsis_id": " 00-0035248",
+      "name": "Zach Allen",
+      "position": "DE"
+    },
+    {
+      "id": "5872",
+      "gsis_id": " 00-0035719",
+      "name": "Deebo Samuel",
+      "position": "WR"
+    },
+    {
+      "id": "5876",
+      "gsis_id": " 00-0034974",
+      "name": "Julian Love",
+      "position": "DB"
+    },
+    {
+      "id": "5892",
+      "gsis_id": " 00-0035685",
+      "name": "David Montgomery",
+      "position": "RB"
+    },
+    {
+      "id": "5927",
+      "gsis_id": " 00-0035659",
+      "name": "Terry McLaurin",
+      "position": "WR"
+    },
+    {
+      "id": "5947",
+      "gsis_id": " 00-0034960",
+      "name": "Jakobi Meyers",
+      "position": "WR"
+    },
+    {
+      "id": "5967",
+      "gsis_id": " 00-0035261",
+      "name": "Tony Pollard",
+      "position": "RB"
+    },
+    {
+      "id": "5991",
+      "gsis_id": " 00-0034973",
+      "name": "Maxx Crosby",
+      "position": "DE"
+    },
+    {
+      "id": "6118",
+      "gsis_id": " 00-0035718",
+      "name": "Quinnen Williams",
+      "position": "DT"
+    },
+    {
+      "id": "6119",
+      "gsis_id": " 00-0035707",
+      "name": "Devin White",
+      "position": "LB"
+    },
+    {
+      "id": "6125",
+      "gsis_id": " 00-0035643",
+      "name": "Jeffery Simmons",
+      "position": "DT"
+    },
+    {
+      "id": "6183",
+      "gsis_id": " 00-0035272",
+      "name": "Andrew Van Ginkel",
+      "position": "LB"
+    },
+    {
+      "id": "6217",
+      "gsis_id": " 00-0035276",
+      "name": "Blake Cashman",
+      "position": "LB"
+    },
+    {
+      "id": "6302",
+      "gsis_id": " 00-0035316",
+      "name": "Kaden Elliss",
+      "position": "LB"
+    },
+    {
+      "id": "6315",
+      "gsis_id": " 00-0035352",
+      "name": "Tyrel Dodson",
+      "position": "LB"
+    },
+    {
+      "id": "6485",
+      "gsis_id": " 00-0035166",
+      "name": "Azeez Al-Shaair",
+      "position": "LB"
+    },
+    {
+      "id": "6770",
+      "gsis_id": null,
+      "name": "Joe Burrow",
+      "position": "QB"
+    },
+    {
+      "id": "6786",
+      "gsis_id": null,
+      "name": "CeeDee Lamb",
+      "position": "WR"
+    },
+    {
+      "id": "6790",
+      "gsis_id": null,
+      "name": "D'Andre Swift",
+      "position": "RB"
+    },
+    {
+      "id": "6794",
+      "gsis_id": null,
+      "name": "Justin Jefferson",
+      "position": "WR"
+    },
+    {
+      "id": "6797",
+      "gsis_id": null,
+      "name": "Justin Herbert",
+      "position": "QB"
+    },
+    {
+      "id": "6799",
+      "gsis_id": null,
+      "name": "Grant Delpit",
+      "position": "DB"
+    },
+    {
+      "id": "6801",
+      "gsis_id": null,
+      "name": "Tee Higgins",
+      "position": "WR"
+    },
+    {
+      "id": "6803",
+      "gsis_id": null,
+      "name": "Brandon Aiyuk",
+      "position": "WR"
+    },
+    {
+      "id": "6804",
+      "gsis_id": null,
+      "name": "Jordan Love",
+      "position": "QB"
+    },
+    {
+      "id": "6806",
+      "gsis_id": null,
+      "name": "J.K. Dobbins",
+      "position": "RB"
+    },
+    {
+      "id": "6807",
+      "gsis_id": null,
+      "name": "Patrick Queen",
+      "position": "LB"
+    },
+    {
+      "id": "6813",
+      "gsis_id": null,
+      "name": "Jonathan Taylor",
+      "position": "RB"
+    },
+    {
+      "id": "6815",
+      "gsis_id": null,
+      "name": "Zack Baun",
+      "position": "LB"
+    },
+    {
+      "id": "6819",
+      "gsis_id": null,
+      "name": "Michael Pittman",
+      "position": "WR"
+    },
+    {
+      "id": "6888",
+      "gsis_id": null,
+      "name": "Antoine Winfield",
+      "position": "DB"
+    },
+    {
+      "id": "6900",
+      "gsis_id": null,
+      "name": "Jonathan Greenard",
+      "position": "DE"
+    },
+    {
+      "id": "6904",
+      "gsis_id": null,
+      "name": "Jalen Hurts",
+      "position": "QB"
+    },
+    {
+      "id": "6949",
+      "gsis_id": null,
+      "name": "Jordyn Brooks",
+      "position": "LB"
+    },
+    {
+      "id": "7021",
+      "gsis_id": null,
+      "name": "Rico Dowdle",
+      "position": "RB"
+    },
+    {
+      "id": "7049",
+      "gsis_id": null,
+      "name": "Jauan Jennings",
+      "position": "WR"
+    },
+    {
+      "id": "7136",
+      "gsis_id": null,
+      "name": "Kam Curl",
+      "position": "DB"
+    },
+    {
+      "id": "7523",
+      "gsis_id": null,
+      "name": "Trevor Lawrence",
+      "position": "QB"
+    },
+    {
+      "id": "7525",
+      "gsis_id": null,
+      "name": "DeVonta Smith",
+      "position": "WR"
+    },
+    {
+      "id": "7526",
+      "gsis_id": null,
+      "name": "Jaylen Waddle",
+      "position": "WR"
+    },
+    {
+      "id": "7543",
+      "gsis_id": null,
+      "name": "Travis Etienne",
+      "position": "RB"
+    },
+    {
+      "id": "7547",
+      "gsis_id": null,
+      "name": "Amon-Ra St. Brown",
+      "position": "WR"
+    },
+    {
+      "id": "7553",
+      "gsis_id": null,
+      "name": "Kyle Pitts",
+      "position": "TE"
+    },
+    {
+      "id": "7564",
+      "gsis_id": null,
+      "name": "Ja'Marr Chase",
+      "position": "WR"
+    },
+    {
+      "id": "7567",
+      "gsis_id": null,
+      "name": "Kenny Gainwell",
+      "position": "RB"
+    },
+    {
+      "id": "7569",
+      "gsis_id": null,
+      "name": "Nico Collins",
+      "position": "WR"
+    },
+    {
+      "id": "7588",
+      "gsis_id": null,
+      "name": "Javonte Williams",
+      "position": "RB"
+    },
+    {
+      "id": "7594",
+      "gsis_id": null,
+      "name": "Chuba Hubbard",
+      "position": "RB"
+    },
+    {
+      "id": "7611",
+      "gsis_id": null,
+      "name": "Rhamondre Stevenson",
+      "position": "RB"
+    },
+    {
+      "id": "7627",
+      "gsis_id": null,
+      "name": "Greg Rousseau",
+      "position": "DE"
+    },
+    {
+      "id": "7640",
+      "gsis_id": null,
+      "name": "Micah Parsons",
+      "position": "LB"
+    },
+    {
+      "id": "7648",
+      "gsis_id": null,
+      "name": "Nick Bolton",
+      "position": "LB"
+    },
+    {
+      "id": "7659",
+      "gsis_id": null,
+      "name": "Tre'von Moehrig",
+      "position": "DB"
+    },
+    {
+      "id": "7672",
+      "gsis_id": null,
+      "name": "Ernest Jones",
+      "position": "LB"
+    },
+    {
+      "id": "7811",
+      "gsis_id": null,
+      "name": "Talanoa Hufanga",
+      "position": "DB"
+    },
+    {
+      "id": "7841",
+      "gsis_id": null,
+      "name": "Jamien Sherwood",
+      "position": "LB"
+    },
+    {
+      "id": "8110",
+      "gsis_id": null,
+      "name": "Jake Ferguson",
+      "position": "TE"
+    },
+    {
+      "id": "8112",
+      "gsis_id": null,
+      "name": "Drake London",
+      "position": "WR"
+    },
+    {
+      "id": "8126",
+      "gsis_id": null,
+      "name": "Wan'Dale Robinson",
+      "position": "WR"
+    },
+    {
+      "id": "8130",
+      "gsis_id": null,
+      "name": "Trey McBride",
+      "position": "TE"
+    },
+    {
+      "id": "8131",
+      "gsis_id": null,
+      "name": "Isaiah Likely",
+      "position": "TE"
+    },
+    {
+      "id": "8132",
+      "gsis_id": null,
+      "name": "Tyler Allgeier",
+      "position": "RB"
+    },
+    {
+      "id": "8134",
+      "gsis_id": null,
+      "name": "Khalil Shakir",
+      "position": "WR"
+    },
+    {
+      "id": "8137",
+      "gsis_id": null,
+      "name": "George Pickens",
+      "position": "WR"
+    },
+    {
+      "id": "8138",
+      "gsis_id": null,
+      "name": "James Cook",
+      "position": "RB"
+    },
+    {
+      "id": "8142",
+      "gsis_id": null,
+      "name": "Alec Pierce",
+      "position": "WR"
+    },
+    {
+      "id": "8144",
+      "gsis_id": null,
+      "name": "Chris Olave",
+      "position": "WR"
+    },
+    {
+      "id": "8146",
+      "gsis_id": null,
+      "name": "Garrett Wilson",
+      "position": "WR"
+    },
+    {
+      "id": "8148",
+      "gsis_id": null,
+      "name": "Jameson Williams",
+      "position": "WR"
+    },
+    {
+      "id": "8150",
+      "gsis_id": null,
+      "name": "Kyren Williams",
+      "position": "RB"
+    },
+    {
+      "id": "8151",
+      "gsis_id": null,
+      "name": "Kenneth Walker",
+      "position": "RB"
+    },
+    {
+      "id": "8155",
+      "gsis_id": null,
+      "name": "Breece Hall",
+      "position": "RB"
+    },
+    {
+      "id": "8161",
+      "gsis_id": null,
+      "name": "Malik Willis",
+      "position": "QB"
+    },
+    {
+      "id": "8167",
+      "gsis_id": null,
+      "name": "Christian Watson",
+      "position": "WR"
+    },
+    {
+      "id": "8183",
+      "gsis_id": null,
+      "name": "Brock Purdy",
+      "position": "QB"
+    },
+    {
+      "id": "8228",
+      "gsis_id": null,
+      "name": "Jaylen Warren",
+      "position": "RB"
+    },
+    {
+      "id": "8266",
+      "gsis_id": null,
+      "name": "Quay Walker",
+      "position": "LB"
+    },
+    {
+      "id": "8267",
+      "gsis_id": null,
+      "name": "Nakobe Dean",
+      "position": "LB"
+    },
+    {
+      "id": "8280",
+      "gsis_id": null,
+      "name": "Nik Bonitto",
+      "position": "LB"
+    },
+    {
+      "id": "8289",
+      "gsis_id": null,
+      "name": "Aidan Hutchinson",
+      "position": "DL"
+    },
+    {
+      "id": "8314",
+      "gsis_id": null,
+      "name": "Jalen Pitre",
+      "position": "DB"
+    },
+    {
+      "id": "8329",
+      "gsis_id": null,
+      "name": "Devin Lloyd",
+      "position": "LB"
+    },
+    {
+      "id": "8330",
+      "gsis_id": null,
+      "name": "Quentin Lake",
+      "position": "DB"
+    },
+    {
+      "id": "8339",
+      "gsis_id": null,
+      "name": "Kyle Hamilton",
+      "position": "DB"
+    },
+    {
+      "id": "8355",
+      "gsis_id": null,
+      "name": "Kayvon Thibodeaux",
+      "position": "DL"
+    },
+    {
+      "id": "8392",
+      "gsis_id": null,
+      "name": "Nick Cross",
+      "position": "DB"
+    },
+    {
+      "id": "8408",
+      "gsis_id": null,
+      "name": "Jordan Mason",
+      "position": "RB"
+    },
+    {
+      "id": "8659",
+      "gsis_id": null,
+      "name": "Nate Landman",
+      "position": "LB"
+    },
+    {
+      "id": "8676",
+      "gsis_id": null,
+      "name": "Rashid Shaheed",
+      "position": "WR"
+    },
+    {
+      "id": "9221",
+      "gsis_id": null,
+      "name": "Jahmyr Gibbs",
+      "position": "RB"
+    },
+    {
+      "id": "9224",
+      "gsis_id": null,
+      "name": "Chase Brown",
+      "position": "RB"
+    },
+    {
+      "id": "9225",
+      "gsis_id": null,
+      "name": "Tank Bigsby",
+      "position": "RB"
+    },
+    {
+      "id": "9226",
+      "gsis_id": null,
+      "name": "De'Von Achane",
+      "position": "RB"
+    },
+    {
+      "id": "9228",
+      "gsis_id": null,
+      "name": "Bryce Young",
+      "position": "QB"
+    },
+    {
+      "id": "9229",
+      "gsis_id": null,
+      "name": "Anthony Richardson",
+      "position": "QB"
+    },
+    {
+      "id": "9480",
+      "gsis_id": null,
+      "name": "Brenton Strange",
+      "position": "TE"
+    },
+    {
+      "id": "9484",
+      "gsis_id": null,
+      "name": "Tucker Kraft",
+      "position": "TE"
+    },
+    {
+      "id": "9487",
+      "gsis_id": null,
+      "name": "Parker Washington",
+      "position": "WR"
+    },
+    {
+      "id": "9488",
+      "gsis_id": null,
+      "name": "Jaxon Smith-Njigba",
+      "position": "WR"
+    },
+    {
+      "id": "9493",
+      "gsis_id": null,
+      "name": "Puka Nacua",
+      "position": "WR"
+    },
+    {
+      "id": "9500",
+      "gsis_id": null,
+      "name": "Josh Downs",
+      "position": "WR"
+    },
+    {
+      "id": "9504",
+      "gsis_id": null,
+      "name": "Kayshon Boutte",
+      "position": "WR"
+    },
+    {
+      "id": "9509",
+      "gsis_id": null,
+      "name": "Bijan Robinson",
+      "position": "RB"
+    },
+    {
+      "id": "9753",
+      "gsis_id": null,
+      "name": "Zach Charbonnet",
+      "position": "RB"
+    },
+    {
+      "id": "9754",
+      "gsis_id": null,
+      "name": "Quentin Johnston",
+      "position": "WR"
+    },
+    {
+      "id": "9756",
+      "gsis_id": null,
+      "name": "Jordan Addison",
+      "position": "WR"
+    },
+    {
+      "id": "9758",
+      "gsis_id": null,
+      "name": "C.J. Stroud",
+      "position": "QB"
+    },
+    {
+      "id": "9997",
+      "gsis_id": null,
+      "name": "Zay Flowers",
+      "position": "WR"
+    }
+  ],
+  "_gsis_resolved": 71
 }
