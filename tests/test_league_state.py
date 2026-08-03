@@ -37,6 +37,27 @@ def test_handles_empty_or_null_roster_players():
     assert state["rostered_player_ids"] == []
 
 
+def test_players_dictionary_adds_gsis_and_names():
+    """
+    When the Sleeper player dictionary is supplied, each rostered player gets a
+    resolved gsis_id — the path that lets DAVE resolve brand-new rookies.
+    """
+    league = {"total_rosters": 1}
+    rosters = [{"players": ["4034", "13340"]}]
+    players = {
+        "4034": {"gsis_id": "00-0033280", "full_name": "Christian McCaffrey", "position": "RB"},
+        "13340": {"first_name": "New", "last_name": "Rookie", "position": "TE"},  # no gsis yet
+    }
+    state = build_league_state(league, rosters, players)
+
+    recs = {r["id"]: r for r in state["rostered_players"]}
+    assert recs["4034"]["gsis_id"] == "00-0033280"
+    assert recs["4034"]["name"] == "Christian McCaffrey"
+    assert recs["13340"]["name"] == "New Rookie"      # assembled from first/last
+    assert recs["13340"]["gsis_id"] is None            # gracefully absent
+    assert state["_gsis_resolved"] == 1
+
+
 def test_player_ids_are_strings():
     """Sleeper returns numeric-looking IDs; DAVE's crosswalk keys on strings."""
     league = {"total_rosters": 1}
