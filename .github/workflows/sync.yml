@@ -1,4 +1,6 @@
 name: sync-league
+# Sleeper league state sync. Runs on GitHub's runners because the Sleeper API is
+# unreachable from the assistant's sandbox.
 
 # The Sleeper API is unreachable from the assistant's sandbox, so the sync runs
 # here instead — GitHub's runners have open network — and commits the result back.
