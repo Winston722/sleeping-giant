@@ -1,0 +1,8 @@
+# Sleeper's full player dictionary is ~5MB and rarely changes — fetch on demand,
+# never commit.
+data/raw/players.json
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/

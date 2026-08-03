@@ -1,0 +1,43 @@
+name: sync-league
+
+# The Sleeper API is unreachable from the assistant's sandbox, so the sync runs
+# here instead — GitHub's runners have open network — and commits the result back.
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Times are UTC. Chosen around the fantasy week:
+    - cron: "0 13 * * 3"   # Wednesday, after waivers clear
+    - cron: "0 16 * * 5"   # Friday, ahead of the weekend
+    - cron: "0 15 * * 0"   # Sunday, before the early kickoffs
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-league
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Pull league state from Sleeper
+        run: python sync.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "dave-sync[bot]"
+          git config user.email "dave-sync@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "sync league state $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
