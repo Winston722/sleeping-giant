@@ -40,7 +40,24 @@ DAVE translates the Sleeper IDs itself and derives the free-agent pool by
 subtraction, turning replacement level from an assumption into the real question:
 *if I drop someone, who can I actually add?*
 
-## Running it
+## The insights layer
+
+`explain.py` reads DAVE's knowledge artifact (`player_explanations.jsonl` —
+the year-by-year ledger behind every board number) and writes the
+interpretation. It refuses to run unless the artifact's generation identity
+closes (`context.board_sha256 == meta.board_sha256 == sha256(draft_board.csv)`),
+and it enforces the contract's language rules in code: a rookie's ~0.99
+hit probability is never rendered as a success chance, schedule share is
+never called availability, talent numbers are never compared across
+populations, and long value tails are expectation — never confidence.
+
+```bash
+python explain.py "Josh Allen" "Brock Bowers"   # prose per player
+python explain.py --top 10                       # the board's top ten
+python explain.py --top 5 --prompt               # LLM-ready briefs + rules
+```
+
+## Running the sync
 
 ```bash
 python sync.py          # standard library only, no dependencies
