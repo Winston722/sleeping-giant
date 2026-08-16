@@ -1,8 +1,9 @@
 {
-  "as_of": "2026-08-14",
+  "as_of": "2026-08-16",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
+    "10219",
     "10222",
     "10229",
     "10232",
@@ -16,7 +17,6 @@
     "10914",
     "10917",
     "10921",
-    "10927",
     "10949",
     "11559",
     "11560",
@@ -24,12 +24,13 @@
     "11564",
     "11566",
     "11576",
+    "11581",
+    "11583",
     "11584",
     "11586",
     "11597",
     "11603",
     "11604",
-    "11618",
     "11620",
     "11624",
     "11627",
@@ -49,7 +50,6 @@
     "11687",
     "11705",
     "11783",
-    "1233",
     "12474",
     "12481",
     "12484",
@@ -75,7 +75,6 @@
     "12534",
     "12540",
     "12545",
-    "12562",
     "12566",
     "12567",
     "12568",
@@ -114,10 +113,10 @@
     "13359",
     "13360",
     "13363",
-    "13364",
     "13365",
     "13368",
     "13371",
+    "13374",
     "13375",
     "13376",
     "13377",
@@ -129,13 +128,12 @@
     "13389",
     "13390",
     "13395",
+    "13413",
     "13414",
     "13415",
     "13417",
     "13434",
     "13453",
-    "13455",
-    "13457",
     "13458",
     "13533",
     "1466",
@@ -143,7 +141,6 @@
     "2216",
     "2393",
     "2617",
-    "3156",
     "3163",
     "3198",
     "3214",
@@ -215,7 +212,6 @@
     "6797",
     "6799",
     "6801",
-    "6803",
     "6804",
     "6806",
     "6807",
@@ -293,7 +289,6 @@
     "9488",
     "9493",
     "9500",
-    "9504",
     "9509",
     "9753",
     "9754",
@@ -302,6 +297,12 @@
     "9997"
   ],
   "rostered_players": [
+    {
+      "id": "10219",
+      "gsis_id": null,
+      "name": "Chris Rodriguez",
+      "position": "RB"
+    },
     {
       "id": "10222",
       "gsis_id": null,
@@ -381,12 +382,6 @@
       "position": "DL"
     },
     {
-      "id": "10927",
-      "gsis_id": null,
-      "name": "Jordan Battle",
-      "position": "DB"
-    },
-    {
       "id": "10949",
       "gsis_id": null,
       "name": "Chamarri Conner",
@@ -429,6 +424,18 @@
       "position": "RB"
     },
     {
+      "id": "11581",
+      "gsis_id": null,
+      "name": "MarShawn Lloyd",
+      "position": "RB"
+    },
+    {
+      "id": "11583",
+      "gsis_id": null,
+      "name": "Jonathon Brooks",
+      "position": "RB"
+    },
+    {
       "id": "11584",
       "gsis_id": null,
       "name": "Bucky Irving",
@@ -457,12 +464,6 @@
       "gsis_id": null,
       "name": "Brock Bowers",
       "position": "TE"
-    },
-    {
-      "id": "11618",
-      "gsis_id": null,
-      "name": "Jalen McMillan",
-      "position": "WR"
     },
     {
       "id": "11620",
@@ -577,12 +578,6 @@
       "gsis_id": null,
       "name": "Ryan Flournoy",
       "position": "WR"
-    },
-    {
-      "id": "1233",
-      "gsis_id": "00-0029255",
-      "name": "Bobby Wagner",
-      "position": "LB"
     },
     {
       "id": "12474",
@@ -733,12 +728,6 @@
       "gsis_id": null,
       "name": "Tyler Shough",
       "position": "QB"
-    },
-    {
-      "id": "12562",
-      "gsis_id": null,
-      "name": "Nic Scourton",
-      "position": "DL"
     },
     {
       "id": "12566",
@@ -969,12 +958,6 @@
       "position": "LB"
     },
     {
-      "id": "13364",
-      "gsis_id": null,
-      "name": "Cashius Howell",
-      "position": "DL"
-    },
-    {
       "id": "13365",
       "gsis_id": null,
       "name": "Anthony Hill",
@@ -991,6 +974,12 @@
       "gsis_id": null,
       "name": "Dillon Thieneman",
       "position": "DB"
+    },
+    {
+      "id": "13374",
+      "gsis_id": null,
+      "name": "Kayden McDonald",
+      "position": "DL"
     },
     {
       "id": "13375",
@@ -1059,6 +1048,12 @@
       "position": "DL"
     },
     {
+      "id": "13413",
+      "gsis_id": null,
+      "name": "Cyrus Allen",
+      "position": "WR"
+    },
+    {
       "id": "13414",
       "gsis_id": null,
       "name": "Kaelon Black",
@@ -1087,18 +1082,6 @@
       "gsis_id": null,
       "name": "Jacob Rodriguez",
       "position": "LB"
-    },
-    {
-      "id": "13455",
-      "gsis_id": null,
-      "name": "TJ Parker",
-      "position": "DE"
-    },
-    {
-      "id": "13457",
-      "gsis_id": null,
-      "name": "Gabe Jacas",
-      "position": "DE"
     },
     {
       "id": "13458",
@@ -1140,12 +1123,6 @@
       "id": "2617",
       "gsis_id": " 00-0031898",
       "name": "Alex Singleton",
-      "position": "LB"
-    },
-    {
-      "id": "3156",
-      "gsis_id": "00-0033156",
-      "name": "Joey Bosa",
       "position": "LB"
     },
     {
@@ -1572,12 +1549,6 @@
       "id": "6801",
       "gsis_id": null,
       "name": "Tee Higgins",
-      "position": "WR"
-    },
-    {
-      "id": "6803",
-      "gsis_id": null,
-      "name": "Brandon Aiyuk",
       "position": "WR"
     },
     {
@@ -2043,12 +2014,6 @@
       "position": "WR"
     },
     {
-      "id": "9504",
-      "gsis_id": null,
-      "name": "Kayshon Boutte",
-      "position": "WR"
-    },
-    {
       "id": "9509",
       "gsis_id": null,
       "name": "Bijan Robinson",
@@ -2085,5 +2050,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 71
+  "_gsis_resolved": 69
 }
