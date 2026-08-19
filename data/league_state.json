@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-16",
+  "as_of": "2026-08-19",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -31,9 +31,9 @@
     "11597",
     "11603",
     "11604",
+    "11618",
     "11620",
     "11624",
-    "11627",
     "11628",
     "11631",
     "11632",
@@ -75,6 +75,7 @@
     "12534",
     "12540",
     "12545",
+    "12562",
     "12566",
     "12567",
     "12568",
@@ -113,6 +114,7 @@
     "13359",
     "13360",
     "13363",
+    "13364",
     "13365",
     "13368",
     "13371",
@@ -144,7 +146,6 @@
     "3163",
     "3198",
     "3214",
-    "3233",
     "3294",
     "3973",
     "4034",
@@ -466,6 +467,12 @@
       "position": "TE"
     },
     {
+      "id": "11618",
+      "gsis_id": null,
+      "name": "Jalen McMillan",
+      "position": "WR"
+    },
+    {
       "id": "11620",
       "gsis_id": null,
       "name": "Rome Odunze",
@@ -475,12 +482,6 @@
       "id": "11624",
       "gsis_id": null,
       "name": "Xavier Worthy",
-      "position": "WR"
-    },
-    {
-      "id": "11627",
-      "gsis_id": null,
-      "name": "Troy Franklin",
       "position": "WR"
     },
     {
@@ -730,6 +731,12 @@
       "position": "QB"
     },
     {
+      "id": "12562",
+      "gsis_id": null,
+      "name": "Nic Scourton",
+      "position": "DL"
+    },
+    {
       "id": "12566",
       "gsis_id": null,
       "name": "Jihaad Campbell",
@@ -958,6 +965,12 @@
       "position": "LB"
     },
     {
+      "id": "13364",
+      "gsis_id": null,
+      "name": "Cashius Howell",
+      "position": "DL"
+    },
+    {
       "id": "13365",
       "gsis_id": null,
       "name": "Anthony Hill",
@@ -1142,12 +1155,6 @@
       "gsis_id": "00-0033090",
       "name": "Hunter Henry",
       "position": "TE"
-    },
-    {
-      "id": "3233",
-      "gsis_id": "00-0033132",
-      "name": "Kevin Byard",
-      "position": "DB"
     },
     {
       "id": "3294",
@@ -2050,5 +2057,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 69
+  "_gsis_resolved": 68
 }
