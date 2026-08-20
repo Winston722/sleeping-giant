@@ -42,14 +42,24 @@ subtraction, turning replacement level from an assumption into the real question
 
 ## The insights layer
 
-`explain.py` reads DAVE's knowledge artifact (`player_explanations.jsonl` —
-the year-by-year ledger behind every board number) and writes the
-interpretation. It refuses to run unless the artifact's generation identity
-closes (`context.board_sha256 == meta.board_sha256 == sha256(draft_board.csv)`),
-and it enforces the contract's language rules in code: a rookie's ~0.99
-hit probability is never rendered as a success chance, schedule share is
-never called availability, talent numbers are never compared across
-populations, and long value tails are expectation — never confidence.
+`explain.py` **serves the words DAVE already wrote.** DAVE-ID publishes
+`player_briefs.jsonl` — a structured brief plus deterministic prose per board
+row — beside the `player_explanations.jsonl` ledger it is derived from. This
+module renders it.
+
+It used to derive that prose itself, and that was the bug. The contract's
+language rules (a rookie's ~0.99 hit probability is never a success chance,
+schedule share is never called availability, talent numbers are never compared
+across populations, long value tails are expectation and never confidence) are
+semantic claims about DAVE's own state. Enforcing them here kept them a
+repository away from the semantics they constrain, guarded by a docstring
+rather than a suite — so a change in DAVE would leave them stale in silence.
+They now live in `dave_ledger/analysis/prose.py`, tested beside the contract.
+
+What stays here is the consumer's own job: refusing a mixed generation. All
+four artifacts are renamed individually, so nothing is rendered until
+`context.board_sha256 == meta.board_sha256 == sha256(draft_board.csv)` and both
+`meta.explanations.sha256` and `meta.briefs.sha256` match their files.
 
 ```bash
 python explain.py "Josh Allen" "Brock Bowers"   # prose per player
