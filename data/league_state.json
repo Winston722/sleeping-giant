@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-19",
+  "as_of": "2026-08-21",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -146,6 +146,7 @@
     "3163",
     "3198",
     "3214",
+    "3233",
     "3294",
     "3973",
     "4034",
@@ -1157,6 +1158,12 @@
       "position": "TE"
     },
     {
+      "id": "3233",
+      "gsis_id": "00-0033132",
+      "name": "Kevin Byard",
+      "position": "DB"
+    },
+    {
       "id": "3294",
       "gsis_id": "00-0033077",
       "name": "Dak Prescott",
@@ -2057,5 +2064,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 68
+  "_gsis_resolved": 69
 }
