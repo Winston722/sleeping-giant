@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-29",
+  "as_of": "2026-08-30",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -49,6 +49,7 @@
     "11685",
     "11687",
     "11705",
+    "11742",
     "11783",
     "12474",
     "12481",
@@ -205,7 +206,6 @@
     "6183",
     "6217",
     "6302",
-    "6315",
     "6485",
     "6770",
     "6786",
@@ -574,6 +574,12 @@
       "gsis_id": null,
       "name": "Tykee Smith",
       "position": "DB"
+    },
+    {
+      "id": "11742",
+      "gsis_id": null,
+      "name": "Cedric Gray",
+      "position": "LB"
     },
     {
       "id": "11783",
@@ -1512,12 +1518,6 @@
       "position": "LB"
     },
     {
-      "id": "6315",
-      "gsis_id": " 00-0035352",
-      "name": "Tyrel Dodson",
-      "position": "LB"
-    },
-    {
       "id": "6485",
       "gsis_id": " 00-0035166",
       "name": "Azeez Al-Shaair",
@@ -2064,5 +2064,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 69
+  "_gsis_resolved": 68
 }
