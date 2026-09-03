@@ -1,0 +1,40 @@
+name: tests
+# WHY THIS EXISTS, given the repo ran without it for months. This repository
+# became the CANONICAL SLEEPER ACQUISITION on 2026-09-03: dave-ledger stopped
+# calling the Sleeper API and now derives its league state from the files
+# `sync.py` commits here. So `rostered_player_records` and `weeks_played` are
+# no longer local conveniences -- a regression in either silently degrades a
+# different repository's artifacts, and DAVE prices free agents off them.
+#
+# The tests existed and nothing ran them. That is the same shape of gap as a
+# scheduled job whose failures nobody sees, which is what `sync.yml`'s alarm
+# was added for.
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # `sync.py` is deliberately standard-library only, so the whole test
+      # dependency set is the runner itself. If this list ever has to grow,
+      # that is a signal the sync picked up a dependency it does not need --
+      # check before adding, the same rule dave-ledger's snapshot job carries.
+      - name: Install pytest
+        run: pip install pytest
+
+      - name: Run tests
+        run: pytest -q
