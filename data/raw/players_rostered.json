@@ -1,0 +1,4726 @@
+{
+  "10219": {
+    "age": 26,
+    "birth_date": "1999-09-26",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Chris",
+    "full_name": "Chris Rodriguez",
+    "gsis_id": null,
+    "last_name": "Rodriguez",
+    "player_id": "10219",
+    "position": "RB",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 3
+  },
+  "10222": {
+    "age": 26,
+    "birth_date": "2000-04-28",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jayden",
+    "full_name": "Jayden Reed",
+    "gsis_id": null,
+    "last_name": "Reed",
+    "player_id": "10222",
+    "position": "WR",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 3
+  },
+  "10229": {
+    "age": 26,
+    "birth_date": "2000-04-22",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Rashee",
+    "full_name": "Rashee Rice",
+    "gsis_id": null,
+    "last_name": "Rice",
+    "player_id": "10229",
+    "position": "WR",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 3
+  },
+  "10232": {
+    "age": 26,
+    "birth_date": "2000-02-23",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Michael",
+    "full_name": "Michael Wilson",
+    "gsis_id": null,
+    "last_name": "Wilson",
+    "player_id": "10232",
+    "position": "WR",
+    "status": "Active",
+    "team": "ARI",
+    "years_exp": 3
+  },
+  "10236": {
+    "age": 26,
+    "birth_date": "1999-10-18",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Dalton",
+    "full_name": "Dalton Kincaid",
+    "gsis_id": null,
+    "last_name": "Kincaid",
+    "player_id": "10236",
+    "position": "TE",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 3
+  },
+  "10859": {
+    "age": 25,
+    "birth_date": "2001-01-12",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Sam",
+    "full_name": "Sam LaPorta",
+    "gsis_id": null,
+    "last_name": "LaPorta",
+    "player_id": "10859",
+    "position": "TE",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 3
+  },
+  "10880": {
+    "age": 26,
+    "birth_date": "2000-08-22",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Jack",
+    "full_name": "Jack Campbell",
+    "gsis_id": null,
+    "last_name": "Campbell",
+    "player_id": "10880",
+    "position": "LB",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 3
+  },
+  "10888": {
+    "age": 25,
+    "birth_date": "2001-04-04",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Jalen",
+    "full_name": "Jalen Carter",
+    "gsis_id": null,
+    "last_name": "Carter",
+    "player_id": "10888",
+    "position": "DL",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 3
+  },
+  "10892": {
+    "age": 25,
+    "birth_date": "2001-09-02",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Will",
+    "full_name": "Will Anderson",
+    "gsis_id": null,
+    "last_name": "Anderson",
+    "player_id": "10892",
+    "position": "DL",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 3
+  },
+  "10898": {
+    "age": 24,
+    "birth_date": "2002-09-03",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Tuli",
+    "full_name": "Tuli Tuipulotu",
+    "gsis_id": null,
+    "last_name": "Tuipulotu",
+    "player_id": "10898",
+    "position": "DL",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 3
+  },
+  "10905": {
+    "age": 24,
+    "birth_date": "2001-10-22",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Brian",
+    "full_name": "Brian Branch",
+    "gsis_id": null,
+    "last_name": "Branch",
+    "player_id": "10905",
+    "position": "DB",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 3
+  },
+  "10914": {
+    "age": 26,
+    "birth_date": "1999-11-18",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Daiyan",
+    "full_name": "Daiyan Henley",
+    "gsis_id": null,
+    "last_name": "Henley",
+    "player_id": "10914",
+    "position": "LB",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 3
+  },
+  "10917": {
+    "age": 28,
+    "birth_date": "1998-03-13",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Byron",
+    "full_name": "Byron Young",
+    "gsis_id": null,
+    "last_name": "Young",
+    "player_id": "10917",
+    "position": "LB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 3
+  },
+  "10921": {
+    "age": 27,
+    "birth_date": "1999-05-30",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Yaya",
+    "full_name": "Yaya Diaby",
+    "gsis_id": null,
+    "last_name": "Diaby",
+    "player_id": "10921",
+    "position": "DL",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 3
+  },
+  "10949": {
+    "age": 26,
+    "birth_date": "2000-07-11",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Chamarri",
+    "full_name": "Chamarri Conner",
+    "gsis_id": null,
+    "last_name": "Conner",
+    "player_id": "10949",
+    "position": "DB",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 3
+  },
+  "11559": {
+    "age": 26,
+    "birth_date": "2000-05-08",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Michael",
+    "full_name": "Michael Penix",
+    "gsis_id": null,
+    "last_name": "Penix",
+    "player_id": "11559",
+    "position": "QB",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 2
+  },
+  "11560": {
+    "age": 24,
+    "birth_date": "2001-11-18",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Caleb",
+    "full_name": "Caleb Williams",
+    "gsis_id": null,
+    "last_name": "Williams",
+    "player_id": "11560",
+    "position": "QB",
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 2
+  },
+  "11563": {
+    "age": 26,
+    "birth_date": "2000-02-25",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Bo",
+    "full_name": "Bo Nix",
+    "gsis_id": null,
+    "last_name": "Nix",
+    "player_id": "11563",
+    "position": "QB",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 2
+  },
+  "11564": {
+    "age": 24,
+    "birth_date": "2002-08-30",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Drake",
+    "full_name": "Drake Maye",
+    "gsis_id": null,
+    "last_name": "Maye",
+    "player_id": "11564",
+    "position": "QB",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 2
+  },
+  "11566": {
+    "age": 25,
+    "birth_date": "2000-12-18",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Jayden",
+    "full_name": "Jayden Daniels",
+    "gsis_id": null,
+    "last_name": "Daniels",
+    "player_id": "11566",
+    "position": "QB",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 2
+  },
+  "11581": {
+    "age": 25,
+    "birth_date": "2001-01-05",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "MarShawn",
+    "full_name": "MarShawn Lloyd",
+    "gsis_id": null,
+    "last_name": "Lloyd",
+    "player_id": "11581",
+    "position": "RB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 2
+  },
+  "11583": {
+    "age": 23,
+    "birth_date": "2003-07-21",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jonathon",
+    "full_name": "Jonathon Brooks",
+    "gsis_id": null,
+    "last_name": "Brooks",
+    "player_id": "11583",
+    "position": "RB",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 2
+  },
+  "11584": {
+    "age": 24,
+    "birth_date": "2002-08-19",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Bucky",
+    "full_name": "Bucky Irving",
+    "gsis_id": null,
+    "last_name": "Irving",
+    "player_id": "11584",
+    "position": "RB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 2
+  },
+  "11586": {
+    "age": 25,
+    "birth_date": "2000-11-25",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Blake",
+    "full_name": "Blake Corum",
+    "gsis_id": null,
+    "last_name": "Corum",
+    "player_id": "11586",
+    "position": "RB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 2
+  },
+  "11597": {
+    "age": 25,
+    "birth_date": "2001-02-26",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Theo",
+    "full_name": "Theo Johnson",
+    "gsis_id": null,
+    "last_name": "Johnson",
+    "player_id": "11597",
+    "position": "TE",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 2
+  },
+  "11603": {
+    "age": 24,
+    "birth_date": "2002-05-03",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "AJ",
+    "full_name": "AJ Barner",
+    "gsis_id": null,
+    "last_name": "Barner",
+    "player_id": "11603",
+    "position": "TE",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 2
+  },
+  "11604": {
+    "age": 23,
+    "birth_date": "2002-12-13",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Brock",
+    "full_name": "Brock Bowers",
+    "gsis_id": null,
+    "last_name": "Bowers",
+    "player_id": "11604",
+    "position": "TE",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 2
+  },
+  "11618": {
+    "age": 24,
+    "birth_date": "2001-12-07",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jalen",
+    "full_name": "Jalen McMillan",
+    "gsis_id": null,
+    "last_name": "McMillan",
+    "player_id": "11618",
+    "position": "WR",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 2
+  },
+  "11620": {
+    "age": 24,
+    "birth_date": "2002-06-03",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Rome",
+    "full_name": "Rome Odunze",
+    "gsis_id": null,
+    "last_name": "Odunze",
+    "player_id": "11620",
+    "position": "WR",
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 2
+  },
+  "11624": {
+    "age": 23,
+    "birth_date": "2003-04-27",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Xavier",
+    "full_name": "Xavier Worthy",
+    "gsis_id": null,
+    "last_name": "Worthy",
+    "player_id": "11624",
+    "position": "WR",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 2
+  },
+  "11628": {
+    "age": 24,
+    "birth_date": "2002-08-11",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Marvin",
+    "full_name": "Marvin Harrison",
+    "gsis_id": null,
+    "last_name": "Harrison",
+    "player_id": "11628",
+    "position": "WR",
+    "status": "Active",
+    "team": "ARI",
+    "years_exp": 2
+  },
+  "11631": {
+    "age": 23,
+    "birth_date": "2002-10-08",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Brian",
+    "full_name": "Brian Thomas",
+    "gsis_id": null,
+    "last_name": "Thomas",
+    "player_id": "11631",
+    "position": "WR",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 2
+  },
+  "11632": {
+    "age": 23,
+    "birth_date": "2003-07-28",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Malik",
+    "full_name": "Malik Nabers",
+    "gsis_id": null,
+    "last_name": "Nabers",
+    "player_id": "11632",
+    "position": "WR",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 2
+  },
+  "11635": {
+    "age": 24,
+    "birth_date": "2001-11-11",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Ladd",
+    "full_name": "Ladd McConkey",
+    "gsis_id": null,
+    "last_name": "McConkey",
+    "player_id": "11635",
+    "position": "WR",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 2
+  },
+  "11638": {
+    "age": 25,
+    "birth_date": "2000-09-09",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Ricky",
+    "full_name": "Ricky Pearsall",
+    "gsis_id": null,
+    "last_name": "Pearsall",
+    "player_id": "11638",
+    "position": "WR",
+    "status": "Inactive",
+    "team": "SF",
+    "years_exp": 2
+  },
+  "11646": {
+    "age": 24,
+    "birth_date": "2001-10-30",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jalen",
+    "full_name": "Jalen Coker",
+    "gsis_id": null,
+    "last_name": "Coker",
+    "player_id": "11646",
+    "position": "WR",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 2
+  },
+  "11655": {
+    "age": 26,
+    "birth_date": "1999-11-23",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Tyrone",
+    "full_name": "Tyrone Tracy",
+    "gsis_id": null,
+    "last_name": "Tracy",
+    "player_id": "11655",
+    "position": "RB",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 2
+  },
+  "11665": {
+    "age": 25,
+    "birth_date": "2000-11-04",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Jared",
+    "full_name": "Jared Verse",
+    "gsis_id": null,
+    "last_name": "Verse",
+    "player_id": "11665",
+    "position": "DL",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 2
+  },
+  "11667": {
+    "age": 23,
+    "birth_date": "2003-02-02",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Dallas",
+    "full_name": "Dallas Turner",
+    "gsis_id": null,
+    "last_name": "Turner",
+    "player_id": "11667",
+    "position": "LB",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 2
+  },
+  "11669": {
+    "age": 25,
+    "birth_date": "2000-12-31",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Laiatu",
+    "full_name": "Laiatu Latu",
+    "gsis_id": null,
+    "last_name": "Latu",
+    "player_id": "11669",
+    "position": "DL",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 2
+  },
+  "11674": {
+    "age": 25,
+    "birth_date": "2001-06-14",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Tyler",
+    "full_name": "Tyler Nubin",
+    "gsis_id": null,
+    "last_name": "Nubin",
+    "player_id": "11674",
+    "position": "DB",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 2
+  },
+  "11678": {
+    "age": 23,
+    "birth_date": "2003-02-09",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Cooper",
+    "full_name": "Cooper DeJean",
+    "gsis_id": null,
+    "last_name": "DeJean",
+    "player_id": "11678",
+    "position": "DB",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 2
+  },
+  "11685": {
+    "age": 23,
+    "birth_date": "2003-01-23",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Kamari",
+    "full_name": "Kamari Lassiter",
+    "gsis_id": null,
+    "last_name": "Lassiter",
+    "player_id": "11685",
+    "position": "DB",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 2
+  },
+  "11687": {
+    "age": 24,
+    "birth_date": "2001-11-17",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Edgerrin",
+    "full_name": "Edgerrin Cooper",
+    "gsis_id": null,
+    "last_name": "Cooper",
+    "player_id": "11687",
+    "position": "LB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 2
+  },
+  "11705": {
+    "age": 25,
+    "birth_date": "2001-02-18",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Tykee",
+    "full_name": "Tykee Smith",
+    "gsis_id": null,
+    "last_name": "Smith",
+    "player_id": "11705",
+    "position": "DB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 2
+  },
+  "11742": {
+    "age": 23,
+    "birth_date": "2002-10-30",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Cedric",
+    "full_name": "Cedric Gray",
+    "gsis_id": null,
+    "last_name": "Gray",
+    "player_id": "11742",
+    "position": "LB",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 2
+  },
+  "11783": {
+    "age": 26,
+    "birth_date": "1999-10-27",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Ryan",
+    "full_name": "Ryan Flournoy",
+    "gsis_id": null,
+    "last_name": "Flournoy",
+    "player_id": "11783",
+    "position": "WR",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 2
+  },
+  "12474": {
+    "age": 25,
+    "birth_date": "2000-12-29",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Woody",
+    "full_name": "Woody Marks",
+    "gsis_id": null,
+    "last_name": "Marks",
+    "player_id": "12474",
+    "position": "RB",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 1
+  },
+  "12481": {
+    "age": 24,
+    "birth_date": "2002-02-05",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Cam",
+    "full_name": "Cam Skattebo",
+    "gsis_id": null,
+    "last_name": "Skattebo",
+    "player_id": "12481",
+    "position": "RB",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 1
+  },
+  "12484": {
+    "age": 23,
+    "birth_date": "2002-12-15",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jayden",
+    "full_name": "Jayden Higgins",
+    "gsis_id": null,
+    "last_name": "Higgins",
+    "player_id": "12484",
+    "position": "WR",
+    "status": "Inactive",
+    "team": "HOU",
+    "years_exp": 1
+  },
+  "12489": {
+    "age": 25,
+    "birth_date": "2001-02-04",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "RJ",
+    "full_name": "RJ Harvey",
+    "gsis_id": null,
+    "last_name": "Harvey",
+    "player_id": "12489",
+    "position": "RB",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 1
+  },
+  "12490": {
+    "age": 23,
+    "birth_date": "2003-02-14",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Bhayshul",
+    "full_name": "Bhayshul Tuten",
+    "gsis_id": null,
+    "last_name": "Tuten",
+    "player_id": "12490",
+    "position": "RB",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 1
+  },
+  "12493": {
+    "age": 23,
+    "birth_date": "2003-06-25",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Oronde",
+    "full_name": "Oronde Gadsden",
+    "gsis_id": null,
+    "last_name": "Gadsden",
+    "player_id": "12493",
+    "position": "TE",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 1
+  },
+  "12501": {
+    "age": 23,
+    "birth_date": "2003-08-01",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Matthew",
+    "full_name": "Matthew Golden",
+    "gsis_id": null,
+    "last_name": "Golden",
+    "player_id": "12501",
+    "position": "WR",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 1
+  },
+  "12504": {
+    "age": 23,
+    "birth_date": "2003-08-14",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Kaleb",
+    "full_name": "Kaleb Johnson",
+    "gsis_id": null,
+    "last_name": "Johnson",
+    "player_id": "12504",
+    "position": "RB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 1
+  },
+  "12506": {
+    "age": 22,
+    "birth_date": "2004-07-20",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Harold",
+    "full_name": "Harold Fannin",
+    "gsis_id": null,
+    "last_name": "Fannin",
+    "player_id": "12506",
+    "position": "TE",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 1
+  },
+  "12507": {
+    "age": 23,
+    "birth_date": "2003-03-16",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Omarion",
+    "full_name": "Omarion Hampton",
+    "gsis_id": null,
+    "last_name": "Hampton",
+    "player_id": "12507",
+    "position": "RB",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 1
+  },
+  "12508": {
+    "age": 23,
+    "birth_date": "2003-05-13",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Jaxson",
+    "full_name": "Jaxson Dart",
+    "gsis_id": null,
+    "last_name": "Dart",
+    "player_id": "12508",
+    "position": "QB",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 1
+  },
+  "12512": {
+    "age": 22,
+    "birth_date": "2003-10-29",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Quinshon",
+    "full_name": "Quinshon Judkins",
+    "gsis_id": null,
+    "last_name": "Judkins",
+    "player_id": "12512",
+    "position": "RB",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 1
+  },
+  "12514": {
+    "age": 23,
+    "birth_date": "2002-10-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Emeka",
+    "full_name": "Emeka Egbuka",
+    "gsis_id": null,
+    "last_name": "Egbuka",
+    "player_id": "12514",
+    "position": "WR",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 1
+  },
+  "12517": {
+    "age": 22,
+    "birth_date": "2004-04-09",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Colston",
+    "full_name": "Colston Loveland",
+    "gsis_id": null,
+    "last_name": "Loveland",
+    "player_id": "12517",
+    "position": "TE",
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 1
+  },
+  "12518": {
+    "age": 24,
+    "birth_date": "2002-05-24",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Tyler",
+    "full_name": "Tyler Warren",
+    "gsis_id": null,
+    "last_name": "Warren",
+    "player_id": "12518",
+    "position": "TE",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 1
+  },
+  "12519": {
+    "age": 22,
+    "birth_date": "2003-12-12",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Luther",
+    "full_name": "Luther Burden",
+    "gsis_id": null,
+    "last_name": "Burden",
+    "player_id": "12519",
+    "position": "WR",
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 1
+  },
+  "12522": {
+    "age": 24,
+    "birth_date": "2002-05-25",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Cam",
+    "full_name": "Cam Ward",
+    "gsis_id": null,
+    "last_name": "Ward",
+    "player_id": "12522",
+    "position": "QB",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 1
+  },
+  "12526": {
+    "age": 23,
+    "birth_date": "2003-04-05",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Tetairoa",
+    "full_name": "Tetairoa McMillan",
+    "gsis_id": null,
+    "last_name": "McMillan",
+    "player_id": "12526",
+    "position": "WR",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 1
+  },
+  "12527": {
+    "age": 22,
+    "birth_date": "2003-12-02",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Ashton",
+    "full_name": "Ashton Jeanty",
+    "gsis_id": null,
+    "last_name": "Jeanty",
+    "player_id": "12527",
+    "position": "RB",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 1
+  },
+  "12529": {
+    "age": 23,
+    "birth_date": "2002-10-22",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "TreVeyon",
+    "full_name": "TreVeyon Henderson",
+    "gsis_id": null,
+    "last_name": "Henderson",
+    "player_id": "12529",
+    "position": "RB",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 1
+  },
+  "12530": {
+    "age": 23,
+    "birth_date": "2003-05-18",
+    "fantasy_positions": [
+      "DB",
+      "WR"
+    ],
+    "first_name": "Travis",
+    "full_name": "Travis Hunter",
+    "gsis_id": null,
+    "last_name": "Hunter",
+    "player_id": "12530",
+    "position": "WR",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 1
+  },
+  "12533": {
+    "age": 25,
+    "birth_date": "2001-04-12",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jacory",
+    "full_name": "Jacory Croskey-Merritt",
+    "gsis_id": null,
+    "last_name": "Croskey-Merritt",
+    "player_id": "12533",
+    "position": "RB",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 1
+  },
+  "12534": {
+    "age": 24,
+    "birth_date": "2002-06-06",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Kyle",
+    "full_name": "Kyle Monangai",
+    "gsis_id": null,
+    "last_name": "Monangai",
+    "player_id": "12534",
+    "position": "RB",
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 1
+  },
+  "12540": {
+    "age": 24,
+    "birth_date": "2001-12-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Chimere",
+    "full_name": "Chimere Dike",
+    "gsis_id": null,
+    "last_name": "Dike",
+    "player_id": "12540",
+    "position": "WR",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 1
+  },
+  "12545": {
+    "age": 26,
+    "birth_date": "1999-09-28",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Tyler",
+    "full_name": "Tyler Shough",
+    "gsis_id": null,
+    "last_name": "Shough",
+    "player_id": "12545",
+    "position": "QB",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 1
+  },
+  "12562": {
+    "age": 22,
+    "birth_date": "2004-08-25",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Nic",
+    "full_name": "Nic Scourton",
+    "gsis_id": null,
+    "last_name": "Scourton",
+    "player_id": "12562",
+    "position": "DL",
+    "status": "Inactive",
+    "team": "CAR",
+    "years_exp": 1
+  },
+  "12566": {
+    "age": 22,
+    "birth_date": "2004-02-24",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Jihaad",
+    "full_name": "Jihaad Campbell",
+    "gsis_id": null,
+    "last_name": "Campbell",
+    "player_id": "12566",
+    "position": "LB",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 1
+  },
+  "12567": {
+    "age": 22,
+    "birth_date": "2003-11-13",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Malaki",
+    "full_name": "Malaki Starks",
+    "gsis_id": null,
+    "last_name": "Starks",
+    "player_id": "12567",
+    "position": "DB",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 1
+  },
+  "12568": {
+    "age": 22,
+    "birth_date": "2004-02-24",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Jalon",
+    "full_name": "Jalon Walker",
+    "gsis_id": null,
+    "last_name": "Walker",
+    "player_id": "12568",
+    "position": "DL",
+    "status": "Inactive",
+    "team": "ATL",
+    "years_exp": 1
+  },
+  "12574": {
+    "age": 22,
+    "birth_date": "2004-01-02",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Abdul",
+    "full_name": "Abdul Carter",
+    "gsis_id": null,
+    "last_name": "Carter",
+    "player_id": "12574",
+    "position": "DL",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 1
+  },
+  "12578": {
+    "age": 23,
+    "birth_date": "2003-02-24",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Carson",
+    "full_name": "Carson Schwesinger",
+    "gsis_id": null,
+    "last_name": "Schwesinger",
+    "player_id": "12578",
+    "position": "LB",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 1
+  },
+  "12591": {
+    "age": 24,
+    "birth_date": "2001-11-22",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Xavier",
+    "full_name": "Xavier Watts",
+    "gsis_id": null,
+    "last_name": "Watts",
+    "player_id": "12591",
+    "position": "DB",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 1
+  },
+  "12597": {
+    "age": 22,
+    "birth_date": "2004-02-07",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Nick",
+    "full_name": "Nick Emmanwori",
+    "gsis_id": null,
+    "last_name": "Emmanwori",
+    "player_id": "12597",
+    "position": "DB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 1
+  },
+  "12617": {
+    "age": 26,
+    "birth_date": "2000-07-21",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Demetrius",
+    "full_name": "Demetrius Knight",
+    "gsis_id": null,
+    "last_name": "Knight",
+    "player_id": "12617",
+    "position": "LB",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 1
+  },
+  "13269": {
+    "age": 22,
+    "birth_date": "2003-10-01",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Fernando",
+    "full_name": "Fernando Mendoza",
+    "gsis_id": null,
+    "last_name": "Mendoza",
+    "player_id": "13269",
+    "position": "QB",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 0
+  },
+  "13272": {
+    "age": 23,
+    "birth_date": "2002-11-19",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Carson",
+    "full_name": "Carson Beck",
+    "gsis_id": null,
+    "last_name": "Beck",
+    "player_id": "13272",
+    "position": "QB",
+    "status": "Active",
+    "team": "ARI",
+    "years_exp": 0
+  },
+  "13274": {
+    "age": 22,
+    "birth_date": "2003-12-02",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Germie",
+    "full_name": "Germie Bernard",
+    "gsis_id": null,
+    "last_name": "Bernard",
+    "player_id": "13274",
+    "position": "WR",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 0
+  },
+  "13275": {
+    "age": 23,
+    "birth_date": "2002-12-21",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Ty",
+    "full_name": "Ty Simpson",
+    "gsis_id": null,
+    "last_name": "Simpson",
+    "player_id": "13275",
+    "position": "QB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 0
+  },
+  "13276": {
+    "age": 22,
+    "birth_date": "2003-12-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Omar",
+    "full_name": "Omar Cooper",
+    "gsis_id": null,
+    "last_name": "Cooper",
+    "player_id": "13276",
+    "position": "WR",
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 0
+  },
+  "13278": {
+    "age": 23,
+    "birth_date": "2003-07-08",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Max",
+    "full_name": "Max Klare",
+    "gsis_id": null,
+    "last_name": "Klare",
+    "player_id": "13278",
+    "position": "TE",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 0
+  },
+  "13279": {
+    "age": 21,
+    "birth_date": "2005-01-19",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Carnell",
+    "full_name": "Carnell Tate",
+    "gsis_id": null,
+    "last_name": "Tate",
+    "player_id": "13279",
+    "position": "WR",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 0
+  },
+  "13281": {
+    "age": 22,
+    "birth_date": "2004-08-12",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jordyn",
+    "full_name": "Jordyn Tyson",
+    "gsis_id": null,
+    "last_name": "Tyson",
+    "player_id": "13281",
+    "position": "WR",
+    "status": "Inactive",
+    "team": "NO",
+    "years_exp": 0
+  },
+  "13285": {
+    "age": 23,
+    "birth_date": "2003-08-26",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Malachi",
+    "full_name": "Malachi Fields",
+    "gsis_id": null,
+    "last_name": "Fields",
+    "player_id": "13285",
+    "position": "WR",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 0
+  },
+  "13286": {
+    "age": 22,
+    "birth_date": "2003-10-09",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jadarian",
+    "full_name": "Jadarian Price",
+    "gsis_id": null,
+    "last_name": "Price",
+    "player_id": "13286",
+    "position": "RB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 0
+  },
+  "13287": {
+    "age": 21,
+    "birth_date": "2005-05-31",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jeremiyah",
+    "full_name": "Jeremiyah Love",
+    "gsis_id": null,
+    "last_name": "Love",
+    "player_id": "13287",
+    "position": "RB",
+    "status": "Active",
+    "team": "ARI",
+    "years_exp": 0
+  },
+  "13288": {
+    "age": 22,
+    "birth_date": "2004-01-06",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Nicholas",
+    "full_name": "Nicholas Singleton",
+    "gsis_id": null,
+    "last_name": "Singleton",
+    "player_id": "13288",
+    "position": "RB",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 0
+  },
+  "13293": {
+    "age": 22,
+    "birth_date": "2004-05-05",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Ja'Kobi",
+    "full_name": "Ja'Kobi Lane",
+    "gsis_id": null,
+    "last_name": "Lane",
+    "player_id": "13293",
+    "position": "WR",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 0
+  },
+  "13294": {
+    "age": 22,
+    "birth_date": "2004-06-02",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Makai",
+    "full_name": "Makai Lemon",
+    "gsis_id": null,
+    "last_name": "Lemon",
+    "player_id": "13294",
+    "position": "WR",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 0
+  },
+  "13298": {
+    "age": 21,
+    "birth_date": "2004-09-23",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "KC",
+    "full_name": "KC Concepcion",
+    "gsis_id": null,
+    "last_name": "Concepcion",
+    "player_id": "13298",
+    "position": "WR",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 0
+  },
+  "13301": {
+    "age": 22,
+    "birth_date": "2004-07-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Antonio",
+    "full_name": "Antonio Williams",
+    "gsis_id": null,
+    "last_name": "Williams",
+    "player_id": "13301",
+    "position": "WR",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 0
+  },
+  "13305": {
+    "age": 23,
+    "birth_date": "2003-07-03",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Mike",
+    "full_name": "Mike Washington",
+    "gsis_id": null,
+    "last_name": "Washington",
+    "player_id": "13305",
+    "position": "RB",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 0
+  },
+  "13311": {
+    "age": 22,
+    "birth_date": "2004-06-07",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Chris",
+    "full_name": "Chris Bell",
+    "gsis_id": null,
+    "last_name": "Bell",
+    "player_id": "13311",
+    "position": "WR",
+    "status": "Active",
+    "team": "MIA",
+    "years_exp": 0
+  },
+  "13317": {
+    "age": 22,
+    "birth_date": "2004-07-02",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Ted",
+    "full_name": "Ted Hurst",
+    "gsis_id": null,
+    "last_name": "Hurst",
+    "player_id": "13317",
+    "position": "WR",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 0
+  },
+  "13319": {
+    "age": 23,
+    "birth_date": "2003-08-04",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Oscar",
+    "full_name": "Oscar Delp",
+    "gsis_id": null,
+    "last_name": "Delp",
+    "player_id": "13319",
+    "position": "TE",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 0
+  },
+  "13320": {
+    "age": 22,
+    "birth_date": "2004-03-29",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Zachariah",
+    "full_name": "Zachariah Branch",
+    "gsis_id": null,
+    "last_name": "Branch",
+    "player_id": "13320",
+    "position": "WR",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 0
+  },
+  "13330": {
+    "age": 21,
+    "birth_date": "2005-03-04",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Kenyon",
+    "full_name": "Kenyon Sadiq",
+    "gsis_id": null,
+    "last_name": "Sadiq",
+    "player_id": "13330",
+    "position": "TE",
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 0
+  },
+  "13337": {
+    "age": 22,
+    "birth_date": "2003-10-10",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Emmett",
+    "full_name": "Emmett Johnson",
+    "gsis_id": null,
+    "last_name": "Johnson",
+    "player_id": "13337",
+    "position": "RB",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 0
+  },
+  "13340": {
+    "age": 21,
+    "birth_date": "2004-09-08",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Rueben",
+    "full_name": "Rueben Bain",
+    "gsis_id": null,
+    "last_name": "Bain",
+    "player_id": "13340",
+    "position": "DL",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 0
+  },
+  "13341": {
+    "age": 25,
+    "birth_date": "2001-04-05",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Akheem",
+    "full_name": "Akheem Mesidor",
+    "gsis_id": null,
+    "last_name": "Mesidor",
+    "player_id": "13341",
+    "position": "DL",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 0
+  },
+  "13345": {
+    "age": 23,
+    "birth_date": "2003-08-20",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jonah",
+    "full_name": "Jonah Coleman",
+    "gsis_id": null,
+    "last_name": "Coleman",
+    "player_id": "13345",
+    "position": "RB",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 0
+  },
+  "13346": {
+    "age": 22,
+    "birth_date": "2003-12-06",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Denzel",
+    "full_name": "Denzel Boston",
+    "gsis_id": null,
+    "last_name": "Boston",
+    "player_id": "13346",
+    "position": "WR",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 0
+  },
+  "13349": {
+    "age": 23,
+    "birth_date": "2003-04-15",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Eli",
+    "full_name": "Eli Stowers",
+    "gsis_id": null,
+    "last_name": "Stowers",
+    "player_id": "13349",
+    "position": "TE",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 0
+  },
+  "13359": {
+    "age": 23,
+    "birth_date": "2003-07-21",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Malachi",
+    "full_name": "Malachi Lawrence",
+    "gsis_id": null,
+    "last_name": "Lawrence",
+    "player_id": "13359",
+    "position": "DL",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 0
+  },
+  "13360": {
+    "age": 22,
+    "birth_date": "2004-01-08",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Emmanuel",
+    "full_name": "Emmanuel McNeil-Warren",
+    "gsis_id": null,
+    "last_name": "McNeil-Warren",
+    "player_id": "13360",
+    "position": "DB",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 0
+  },
+  "13363": {
+    "age": 23,
+    "birth_date": "2003-08-28",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "David",
+    "full_name": "David Bailey",
+    "gsis_id": null,
+    "last_name": "Bailey",
+    "player_id": "13363",
+    "position": "LB",
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 0
+  },
+  "13364": {
+    "age": 23,
+    "birth_date": "2003-04-16",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Cashius",
+    "full_name": "Cashius Howell",
+    "gsis_id": null,
+    "last_name": "Howell",
+    "player_id": "13364",
+    "position": "DL",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 0
+  },
+  "13365": {
+    "age": 21,
+    "birth_date": "2005-02-14",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Anthony",
+    "full_name": "Anthony Hill",
+    "gsis_id": null,
+    "last_name": "Hill",
+    "player_id": "13365",
+    "position": "LB",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 0
+  },
+  "13368": {
+    "age": 21,
+    "birth_date": "2005-08-16",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Jermod",
+    "full_name": "Jermod McCoy",
+    "gsis_id": null,
+    "last_name": "McCoy",
+    "player_id": "13368",
+    "position": "DB",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 0
+  },
+  "13371": {
+    "age": 22,
+    "birth_date": "2004-08-08",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Dillon",
+    "full_name": "Dillon Thieneman",
+    "gsis_id": null,
+    "last_name": "Thieneman",
+    "player_id": "13371",
+    "position": "DB",
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 0
+  },
+  "13374": {
+    "age": 21,
+    "birth_date": "2005-03-12",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Kayden",
+    "full_name": "Kayden McDonald",
+    "gsis_id": null,
+    "last_name": "McDonald",
+    "player_id": "13374",
+    "position": "DL",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 0
+  },
+  "13375": {
+    "age": 21,
+    "birth_date": "2004-11-24",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Sonny",
+    "full_name": "Sonny Styles",
+    "gsis_id": null,
+    "last_name": "Styles",
+    "player_id": "13375",
+    "position": "LB",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 0
+  },
+  "13376": {
+    "age": 21,
+    "birth_date": "2004-12-10",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Caleb",
+    "full_name": "Caleb Downs",
+    "gsis_id": null,
+    "last_name": "Downs",
+    "player_id": "13376",
+    "position": "DB",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 0
+  },
+  "13377": {
+    "age": 21,
+    "birth_date": "2005-08-30",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Arvell",
+    "full_name": "Arvell Reese",
+    "gsis_id": null,
+    "last_name": "Reese",
+    "player_id": "13377",
+    "position": "LB",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 0
+  },
+  "13379": {
+    "age": 21,
+    "birth_date": "2005-04-15",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Josiah",
+    "full_name": "Josiah Trotter",
+    "gsis_id": null,
+    "last_name": "Trotter",
+    "player_id": "13379",
+    "position": "LB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 0
+  },
+  "13381": {
+    "age": 22,
+    "birth_date": "2004-02-02",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Jaishawn",
+    "full_name": "Jaishawn Barham",
+    "gsis_id": null,
+    "last_name": "Barham",
+    "player_id": "13381",
+    "position": "LB",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 0
+  },
+  "13384": {
+    "age": 22,
+    "birth_date": "2004-01-10",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "AJ",
+    "full_name": "AJ Haulcy",
+    "gsis_id": null,
+    "last_name": "Haulcy",
+    "player_id": "13384",
+    "position": "DB",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 0
+  },
+  "13385": {
+    "age": 22,
+    "birth_date": "2003-12-15",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Mansoor",
+    "full_name": "Mansoor Delane",
+    "gsis_id": null,
+    "last_name": "Delane",
+    "player_id": "13385",
+    "position": "DB",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 0
+  },
+  "13388": {
+    "age": 21,
+    "birth_date": "2005-03-01",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "CJ",
+    "full_name": "CJ Allen",
+    "gsis_id": null,
+    "last_name": "Allen",
+    "player_id": "13388",
+    "position": "LB",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 0
+  },
+  "13389": {
+    "age": 21,
+    "birth_date": "2005-01-11",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Avieon",
+    "full_name": "Avieon Terrell",
+    "gsis_id": null,
+    "last_name": "Terrell",
+    "player_id": "13389",
+    "position": "DB",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 0
+  },
+  "13390": {
+    "age": 21,
+    "birth_date": "2005-03-05",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Peter",
+    "full_name": "Peter Woods",
+    "gsis_id": null,
+    "last_name": "Woods",
+    "player_id": "13390",
+    "position": "DL",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 0
+  },
+  "13395": {
+    "age": 21,
+    "birth_date": "2004-09-07",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Keldric",
+    "full_name": "Keldric Faulk",
+    "gsis_id": null,
+    "last_name": "Faulk",
+    "player_id": "13395",
+    "position": "DL",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 0
+  },
+  "13413": {
+    "age": 23,
+    "birth_date": "2003-02-11",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Cyrus",
+    "full_name": "Cyrus Allen",
+    "gsis_id": null,
+    "last_name": "Allen",
+    "player_id": "13413",
+    "position": "WR",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 0
+  },
+  "13414": {
+    "age": 24,
+    "birth_date": "2001-10-17",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Kaelon",
+    "full_name": "Kaelon Black",
+    "gsis_id": null,
+    "last_name": "Black",
+    "player_id": "13414",
+    "position": "RB",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 0
+  },
+  "13415": {
+    "age": 25,
+    "birth_date": "2001-01-09",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Haynes",
+    "full_name": "Haynes King",
+    "gsis_id": null,
+    "last_name": "King",
+    "player_id": "13415",
+    "position": "QB",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 0
+  },
+  "13417": {
+    "age": 23,
+    "birth_date": "2002-12-18",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "De'Zhaun",
+    "full_name": "De'Zhaun Stribling",
+    "gsis_id": null,
+    "last_name": "Stribling",
+    "player_id": "13417",
+    "position": "WR",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 0
+  },
+  "13434": {
+    "age": 23,
+    "birth_date": "2003-02-12",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Will",
+    "full_name": "Will Kacmarek",
+    "gsis_id": null,
+    "last_name": "Kacmarek",
+    "player_id": "13434",
+    "position": "TE",
+    "status": "Active",
+    "team": "MIA",
+    "years_exp": 0
+  },
+  "13453": {
+    "age": 23,
+    "birth_date": "2002-09-06",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Jacob",
+    "full_name": "Jacob Rodriguez",
+    "gsis_id": null,
+    "last_name": "Rodriguez",
+    "player_id": "13453",
+    "position": "LB",
+    "status": "Active",
+    "team": "MIA",
+    "years_exp": 0
+  },
+  "13458": {
+    "age": 23,
+    "birth_date": "2002-12-06",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Derrick",
+    "full_name": "Derrick Moore",
+    "gsis_id": null,
+    "last_name": "Moore",
+    "player_id": "13458",
+    "position": "DE",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 0
+  },
+  "13533": {
+    "age": 22,
+    "birth_date": "2003-12-12",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Barion",
+    "full_name": "Barion Brown",
+    "gsis_id": null,
+    "last_name": "Brown",
+    "player_id": "13533",
+    "position": "WR",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 0
+  },
+  "1466": {
+    "age": 36,
+    "birth_date": "1989-10-05",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Travis",
+    "full_name": "Travis Kelce",
+    "gsis_id": "00-0030506",
+    "last_name": "Kelce",
+    "player_id": "1466",
+    "position": "TE",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 13
+  },
+  "2133": {
+    "age": 33,
+    "birth_date": "1992-12-24",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Davante",
+    "full_name": "Davante Adams",
+    "gsis_id": "00-0031381",
+    "last_name": "Adams",
+    "player_id": "2133",
+    "position": "WR",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 12
+  },
+  "2216": {
+    "age": 33,
+    "birth_date": "1993-08-21",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Mike",
+    "full_name": "Mike Evans",
+    "gsis_id": "00-0031408",
+    "last_name": "Evans",
+    "player_id": "2216",
+    "position": "WR",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 12
+  },
+  "2227": {
+    "age": 35,
+    "birth_date": "1991-05-23",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Aaron",
+    "full_name": "Aaron Donald",
+    "gsis_id": "00-0031388",
+    "last_name": "Donald",
+    "player_id": "2227",
+    "position": "DT",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 12
+  },
+  "2393": {
+    "age": 31,
+    "birth_date": "1994-10-29",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Danielle",
+    "full_name": "Danielle Hunter",
+    "gsis_id": "00-0031565",
+    "last_name": "Hunter",
+    "player_id": "2393",
+    "position": "DE",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 11
+  },
+  "2617": {
+    "age": 32,
+    "birth_date": "1993-12-07",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Alex",
+    "full_name": "Alex Singleton",
+    "gsis_id": " 00-0031898",
+    "last_name": "Singleton",
+    "player_id": "2617",
+    "position": "LB",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 11
+  },
+  "3163": {
+    "age": 31,
+    "birth_date": "1994-10-14",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Jared",
+    "full_name": "Jared Goff",
+    "gsis_id": "00-0033106",
+    "last_name": "Goff",
+    "player_id": "3163",
+    "position": "QB",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 10
+  },
+  "3198": {
+    "age": 32,
+    "birth_date": "1994-01-04",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Derrick",
+    "full_name": "Derrick Henry",
+    "gsis_id": "00-0032764",
+    "last_name": "Henry",
+    "player_id": "3198",
+    "position": "RB",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 10
+  },
+  "3214": {
+    "age": 31,
+    "birth_date": "1994-12-07",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Hunter",
+    "full_name": "Hunter Henry",
+    "gsis_id": "00-0033090",
+    "last_name": "Henry",
+    "player_id": "3214",
+    "position": "TE",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 10
+  },
+  "3233": {
+    "age": 33,
+    "birth_date": "1993-08-17",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Kevin",
+    "full_name": "Kevin Byard",
+    "gsis_id": "00-0033132",
+    "last_name": "Byard",
+    "player_id": "3233",
+    "position": "DB",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 10
+  },
+  "3294": {
+    "age": 33,
+    "birth_date": "1993-07-29",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Dak",
+    "full_name": "Dak Prescott",
+    "gsis_id": "00-0033077",
+    "last_name": "Prescott",
+    "player_id": "3294",
+    "position": "QB",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 10
+  },
+  "3973": {
+    "age": 30,
+    "birth_date": "1995-12-29",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Myles",
+    "full_name": "Myles Garrett",
+    "gsis_id": "00-0033868",
+    "last_name": "Garrett",
+    "player_id": "3973",
+    "position": "DE",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 9
+  },
+  "4034": {
+    "age": 30,
+    "birth_date": "1996-06-07",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Christian",
+    "full_name": "Christian McCaffrey",
+    "gsis_id": "00-0033280",
+    "last_name": "McCaffrey",
+    "player_id": "4034",
+    "position": "RB",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 9
+  },
+  "4035": {
+    "age": 31,
+    "birth_date": "1995-07-25",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Alvin",
+    "full_name": "Alvin Kamara",
+    "gsis_id": "00-0033906",
+    "last_name": "Kamara",
+    "player_id": "4035",
+    "position": "RB",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 9
+  },
+  "4046": {
+    "age": 30,
+    "birth_date": "1995-09-17",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Patrick",
+    "full_name": "Patrick Mahomes",
+    "gsis_id": "00-0033873",
+    "last_name": "Mahomes",
+    "player_id": "4046",
+    "position": "QB",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 9
+  },
+  "4070": {
+    "age": 31,
+    "birth_date": "1994-10-11",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "T.J.",
+    "full_name": "T.J. Watt",
+    "gsis_id": "00-0033886",
+    "last_name": "Watt",
+    "player_id": "4070",
+    "position": "LB",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 9
+  },
+  "4081": {
+    "age": 30,
+    "birth_date": "1996-01-10",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Budda",
+    "full_name": "Budda Baker",
+    "gsis_id": "00-0033890",
+    "last_name": "Baker",
+    "player_id": "4081",
+    "position": "DB",
+    "status": "Active",
+    "team": "ARI",
+    "years_exp": 9
+  },
+  "4135": {
+    "age": 31,
+    "birth_date": "1994-12-05",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Trey",
+    "full_name": "Trey Hendrickson",
+    "gsis_id": "00-0033935",
+    "last_name": "Hendrickson",
+    "player_id": "4135",
+    "position": "DE",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 9
+  },
+  "4137": {
+    "age": 31,
+    "birth_date": "1995-05-05",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "James",
+    "full_name": "James Conner",
+    "gsis_id": "00-0033553",
+    "last_name": "Conner",
+    "player_id": "4137",
+    "position": "RB",
+    "status": "Inactive",
+    "team": "ARI",
+    "years_exp": 9
+  },
+  "4199": {
+    "age": 31,
+    "birth_date": "1994-12-02",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Aaron",
+    "full_name": "Aaron Jones",
+    "gsis_id": "00-0033293",
+    "last_name": "Jones",
+    "player_id": "4199",
+    "position": "RB",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 9
+  },
+  "421": {
+    "age": 38,
+    "birth_date": "1988-02-07",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Matthew",
+    "full_name": "Matthew Stafford",
+    "gsis_id": "00-0026498",
+    "last_name": "Stafford",
+    "player_id": "421",
+    "position": "QB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 17
+  },
+  "4217": {
+    "age": 32,
+    "birth_date": "1993-10-09",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "George",
+    "full_name": "George Kittle",
+    "gsis_id": "00-0033288",
+    "last_name": "Kittle",
+    "player_id": "4217",
+    "position": "TE",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 9
+  },
+  "4866": {
+    "age": 29,
+    "birth_date": "1997-02-09",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Saquon",
+    "full_name": "Saquon Barkley",
+    "gsis_id": "00-0034844",
+    "last_name": "Barkley",
+    "player_id": "4866",
+    "position": "RB",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 8
+  },
+  "4881": {
+    "age": 29,
+    "birth_date": "1997-01-07",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Lamar",
+    "full_name": "Lamar Jackson",
+    "gsis_id": "00-0034796",
+    "last_name": "Jackson",
+    "player_id": "4881",
+    "position": "QB",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 8
+  },
+  "4892": {
+    "age": 31,
+    "birth_date": "1995-04-14",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Baker",
+    "full_name": "Baker Mayfield",
+    "gsis_id": "00-0034855",
+    "last_name": "Mayfield",
+    "player_id": "4892",
+    "position": "QB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 8
+  },
+  "4943": {
+    "age": 29,
+    "birth_date": "1997-06-05",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Sam",
+    "full_name": "Sam Darnold",
+    "gsis_id": "00-0034869",
+    "last_name": "Darnold",
+    "player_id": "4943",
+    "position": "QB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 8
+  },
+  "4960": {
+    "age": 29,
+    "birth_date": "1997-04-08",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Roquan",
+    "full_name": "Roquan Smith",
+    "gsis_id": "00-0034874",
+    "last_name": "Smith",
+    "player_id": "4960",
+    "position": "LB",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 8
+  },
+  "4968": {
+    "age": 28,
+    "birth_date": "1998-05-02",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Tremaine",
+    "full_name": "Tremaine Edmunds",
+    "gsis_id": "00-0034673",
+    "last_name": "Edmunds",
+    "player_id": "4968",
+    "position": "LB",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 8
+  },
+  "4971": {
+    "age": 30,
+    "birth_date": "1996-08-03",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Derwin",
+    "full_name": "Derwin James",
+    "gsis_id": "00-0034790",
+    "last_name": "James",
+    "player_id": "4971",
+    "position": "DB",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 8
+  },
+  "4983": {
+    "age": 29,
+    "birth_date": "1997-04-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "DJ",
+    "full_name": "DJ Moore",
+    "gsis_id": "00-0034827",
+    "last_name": "Moore",
+    "player_id": "4983",
+    "position": "WR",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 8
+  },
+  "4984": {
+    "age": 30,
+    "birth_date": "1996-05-21",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Josh",
+    "full_name": "Josh Allen",
+    "gsis_id": "00-0034857",
+    "last_name": "Allen",
+    "player_id": "4984",
+    "position": "QB",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 8
+  },
+  "4999": {
+    "age": 29,
+    "birth_date": "1997-03-29",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Josh",
+    "full_name": "Josh Sweat",
+    "gsis_id": "00-0034381",
+    "last_name": "Sweat",
+    "player_id": "4999",
+    "position": "DE",
+    "status": "Active",
+    "team": "ARI",
+    "years_exp": 8
+  },
+  "5012": {
+    "age": 30,
+    "birth_date": "1995-09-06",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Mark",
+    "full_name": "Mark Andrews",
+    "gsis_id": "00-0034753",
+    "last_name": "Andrews",
+    "player_id": "5012",
+    "position": "TE",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 8
+  },
+  "5017": {
+    "age": 29,
+    "birth_date": "1997-02-26",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Jessie",
+    "full_name": "Jessie Bates",
+    "gsis_id": " 00-0034675",
+    "last_name": "Bates",
+    "player_id": "5017",
+    "position": "DB",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 8
+  },
+  "5022": {
+    "age": 31,
+    "birth_date": "1995-01-03",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Dallas",
+    "full_name": "Dallas Goedert",
+    "gsis_id": "00-0034351",
+    "last_name": "Goedert",
+    "player_id": "5022",
+    "position": "TE",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 8
+  },
+  "5030": {
+    "age": 30,
+    "birth_date": "1996-06-05",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Harold",
+    "full_name": "Harold Landry",
+    "gsis_id": "00-0034828",
+    "last_name": "Landry",
+    "player_id": "5030",
+    "position": "LB",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 8
+  },
+  "5041": {
+    "age": 29,
+    "birth_date": "1996-11-19",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Fred",
+    "full_name": "Fred Warner",
+    "gsis_id": "00-0034815",
+    "last_name": "Warner",
+    "player_id": "5041",
+    "position": "LB",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 8
+  },
+  "5045": {
+    "age": 30,
+    "birth_date": "1995-10-10",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Courtland",
+    "full_name": "Courtland Sutton",
+    "gsis_id": "00-0034348",
+    "last_name": "Sutton",
+    "player_id": "5045",
+    "position": "WR",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 8
+  },
+  "5226": {
+    "age": 30,
+    "birth_date": "1995-11-19",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Poona",
+    "full_name": "Poona Ford",
+    "gsis_id": "00-0034234",
+    "last_name": "Ford",
+    "player_id": "5226",
+    "position": "DT",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 8
+  },
+  "5330": {
+    "age": 29,
+    "birth_date": "1997-06-10",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Dorance",
+    "full_name": "Dorance Armstrong",
+    "gsis_id": "00-0034373",
+    "last_name": "Armstrong",
+    "player_id": "5330",
+    "position": "DE",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 8
+  },
+  "5332": {
+    "age": 31,
+    "birth_date": "1995-08-02",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Foyesade",
+    "full_name": "Foyesade Oluokun",
+    "gsis_id": "00-0034413",
+    "last_name": "Oluokun",
+    "player_id": "5332",
+    "position": "LB",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 8
+  },
+  "5346": {
+    "age": 30,
+    "birth_date": "1996-07-02",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Zaire",
+    "full_name": "Zaire Franklin",
+    "gsis_id": "00-0034431",
+    "last_name": "Franklin",
+    "player_id": "5346",
+    "position": "LB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 8
+  },
+  "5580": {
+    "age": 29,
+    "birth_date": "1996-09-19",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Frankie",
+    "full_name": "Frankie Luvu",
+    "gsis_id": "00-0034302",
+    "last_name": "Luvu",
+    "player_id": "5580",
+    "position": "LB",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 8
+  },
+  "5726": {
+    "age": 30,
+    "birth_date": "1995-12-14",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Robert",
+    "full_name": "Robert Spillane",
+    "gsis_id": "00-0034720",
+    "last_name": "Spillane",
+    "player_id": "5726",
+    "position": "LB",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 8
+  },
+  "5816": {
+    "age": 28,
+    "birth_date": "1997-10-23",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Nick",
+    "full_name": "Nick Bosa",
+    "gsis_id": " 00-0035717",
+    "last_name": "Bosa",
+    "player_id": "5816",
+    "position": "DE",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 7
+  },
+  "5840": {
+    "age": 29,
+    "birth_date": "1997-07-13",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Josh",
+    "full_name": "Josh Hines-Allen",
+    "gsis_id": " 00-0035642",
+    "last_name": "Hines-Allen",
+    "player_id": "5840",
+    "position": "DE",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 7
+  },
+  "5844": {
+    "age": 29,
+    "birth_date": "1997-07-03",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "T.J.",
+    "full_name": "T.J. Hockenson",
+    "gsis_id": " 00-0035229",
+    "last_name": "Hockenson",
+    "player_id": "5844",
+    "position": "TE",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 7
+  },
+  "5846": {
+    "age": 28,
+    "birth_date": "1997-12-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "DK",
+    "full_name": "DK Metcalf",
+    "gsis_id": " 00-0035640",
+    "last_name": "Metcalf",
+    "player_id": "5846",
+    "position": "WR",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 7
+  },
+  "5847": {
+    "age": 28,
+    "birth_date": "1997-11-12",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Dexter",
+    "full_name": "Dexter Lawrence",
+    "gsis_id": " 00-0035683",
+    "last_name": "Lawrence",
+    "player_id": "5847",
+    "position": "DT",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 7
+  },
+  "5849": {
+    "age": 29,
+    "birth_date": "1997-08-07",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Kyler",
+    "full_name": "Kyler Murray",
+    "gsis_id": " 00-0035228",
+    "last_name": "Murray",
+    "player_id": "5849",
+    "position": "QB",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 7
+  },
+  "5850": {
+    "age": 28,
+    "birth_date": "1998-02-11",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Josh",
+    "full_name": "Josh Jacobs",
+    "gsis_id": " 00-0035700",
+    "last_name": "Jacobs",
+    "player_id": "5850",
+    "position": "RB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 7
+  },
+  "5859": {
+    "age": 29,
+    "birth_date": "1997-06-30",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "A.J.",
+    "full_name": "A.J. Brown",
+    "gsis_id": " 00-0035676",
+    "last_name": "Brown",
+    "player_id": "5859",
+    "position": "WR",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 7
+  },
+  "5862": {
+    "age": 28,
+    "birth_date": "1998-04-23",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Brian",
+    "full_name": "Brian Burns",
+    "gsis_id": " 00-0035713",
+    "last_name": "Burns",
+    "player_id": "5862",
+    "position": "DE",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 7
+  },
+  "5870": {
+    "age": 29,
+    "birth_date": "1997-05-27",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Daniel",
+    "full_name": "Daniel Jones",
+    "gsis_id": " 00-0035710",
+    "last_name": "Jones",
+    "player_id": "5870",
+    "position": "QB",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 7
+  },
+  "5871": {
+    "age": 29,
+    "birth_date": "1997-08-20",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Zach",
+    "full_name": "Zach Allen",
+    "gsis_id": " 00-0035248",
+    "last_name": "Allen",
+    "player_id": "5871",
+    "position": "DE",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 7
+  },
+  "5872": {
+    "age": 30,
+    "birth_date": "1996-01-15",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Deebo",
+    "full_name": "Deebo Samuel",
+    "gsis_id": " 00-0035719",
+    "last_name": "Samuel",
+    "player_id": "5872",
+    "position": "WR",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 7
+  },
+  "5876": {
+    "age": 28,
+    "birth_date": "1998-03-19",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Julian",
+    "full_name": "Julian Love",
+    "gsis_id": " 00-0034974",
+    "last_name": "Love",
+    "player_id": "5876",
+    "position": "DB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 7
+  },
+  "5892": {
+    "age": 29,
+    "birth_date": "1997-06-07",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "David",
+    "full_name": "David Montgomery",
+    "gsis_id": " 00-0035685",
+    "last_name": "Montgomery",
+    "player_id": "5892",
+    "position": "RB",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 7
+  },
+  "5927": {
+    "age": 30,
+    "birth_date": "1995-09-15",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Terry",
+    "full_name": "Terry McLaurin",
+    "gsis_id": " 00-0035659",
+    "last_name": "McLaurin",
+    "player_id": "5927",
+    "position": "WR",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 7
+  },
+  "5947": {
+    "age": 29,
+    "birth_date": "1996-11-09",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jakobi",
+    "full_name": "Jakobi Meyers",
+    "gsis_id": " 00-0034960",
+    "last_name": "Meyers",
+    "player_id": "5947",
+    "position": "WR",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 7
+  },
+  "5967": {
+    "age": 29,
+    "birth_date": "1997-04-30",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Tony",
+    "full_name": "Tony Pollard",
+    "gsis_id": " 00-0035261",
+    "last_name": "Pollard",
+    "player_id": "5967",
+    "position": "RB",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 7
+  },
+  "5991": {
+    "age": 29,
+    "birth_date": "1997-08-22",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Maxx",
+    "full_name": "Maxx Crosby",
+    "gsis_id": " 00-0034973",
+    "last_name": "Crosby",
+    "player_id": "5991",
+    "position": "DE",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 7
+  },
+  "6118": {
+    "age": 28,
+    "birth_date": "1997-12-05",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Quinnen",
+    "full_name": "Quinnen Williams",
+    "gsis_id": " 00-0035718",
+    "last_name": "Williams",
+    "player_id": "6118",
+    "position": "DT",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 7
+  },
+  "6119": {
+    "age": 28,
+    "birth_date": "1998-02-17",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Devin",
+    "full_name": "Devin White",
+    "gsis_id": " 00-0035707",
+    "last_name": "White",
+    "player_id": "6119",
+    "position": "LB",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 7
+  },
+  "6125": {
+    "age": 29,
+    "birth_date": "1997-07-28",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Jeffery",
+    "full_name": "Jeffery Simmons",
+    "gsis_id": " 00-0035643",
+    "last_name": "Simmons",
+    "player_id": "6125",
+    "position": "DT",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 7
+  },
+  "6183": {
+    "age": 31,
+    "birth_date": "1995-07-01",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Andrew",
+    "full_name": "Andrew Van Ginkel",
+    "gsis_id": " 00-0035272",
+    "last_name": "Van Ginkel",
+    "player_id": "6183",
+    "position": "LB",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 7
+  },
+  "6217": {
+    "age": 30,
+    "birth_date": "1996-05-10",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Blake",
+    "full_name": "Blake Cashman",
+    "gsis_id": " 00-0035276",
+    "last_name": "Cashman",
+    "player_id": "6217",
+    "position": "LB",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 7
+  },
+  "6302": {
+    "age": 31,
+    "birth_date": "1995-07-10",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Kaden",
+    "full_name": "Kaden Elliss",
+    "gsis_id": " 00-0035316",
+    "last_name": "Elliss",
+    "player_id": "6302",
+    "position": "LB",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 7
+  },
+  "6485": {
+    "age": 29,
+    "birth_date": "1997-08-04",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Azeez",
+    "full_name": "Azeez Al-Shaair",
+    "gsis_id": " 00-0035166",
+    "last_name": "Al-Shaair",
+    "player_id": "6485",
+    "position": "LB",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 7
+  },
+  "6770": {
+    "age": 29,
+    "birth_date": "1996-12-10",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Joe",
+    "full_name": "Joe Burrow",
+    "gsis_id": null,
+    "last_name": "Burrow",
+    "player_id": "6770",
+    "position": "QB",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 6
+  },
+  "6786": {
+    "age": 27,
+    "birth_date": "1999-04-08",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "CeeDee",
+    "full_name": "CeeDee Lamb",
+    "gsis_id": null,
+    "last_name": "Lamb",
+    "player_id": "6786",
+    "position": "WR",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 6
+  },
+  "6790": {
+    "age": 27,
+    "birth_date": "1999-01-14",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "D'Andre",
+    "full_name": "D'Andre Swift",
+    "gsis_id": null,
+    "last_name": "Swift",
+    "player_id": "6790",
+    "position": "RB",
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 6
+  },
+  "6794": {
+    "age": 27,
+    "birth_date": "1999-06-16",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Justin",
+    "full_name": "Justin Jefferson",
+    "gsis_id": null,
+    "last_name": "Jefferson",
+    "player_id": "6794",
+    "position": "WR",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 6
+  },
+  "6797": {
+    "age": 28,
+    "birth_date": "1998-03-10",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Justin",
+    "full_name": "Justin Herbert",
+    "gsis_id": null,
+    "last_name": "Herbert",
+    "player_id": "6797",
+    "position": "QB",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 6
+  },
+  "6799": {
+    "age": 27,
+    "birth_date": "1998-09-20",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Grant",
+    "full_name": "Grant Delpit",
+    "gsis_id": null,
+    "last_name": "Delpit",
+    "player_id": "6799",
+    "position": "DB",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 6
+  },
+  "6801": {
+    "age": 27,
+    "birth_date": "1999-01-18",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Tee",
+    "full_name": "Tee Higgins",
+    "gsis_id": null,
+    "last_name": "Higgins",
+    "player_id": "6801",
+    "position": "WR",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 6
+  },
+  "6804": {
+    "age": 27,
+    "birth_date": "1998-11-02",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Jordan",
+    "full_name": "Jordan Love",
+    "gsis_id": null,
+    "last_name": "Love",
+    "player_id": "6804",
+    "position": "QB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 6
+  },
+  "6806": {
+    "age": 27,
+    "birth_date": "1998-12-17",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "J.K.",
+    "full_name": "J.K. Dobbins",
+    "gsis_id": null,
+    "last_name": "Dobbins",
+    "player_id": "6806",
+    "position": "RB",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 6
+  },
+  "6807": {
+    "age": 27,
+    "birth_date": "1999-08-13",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Patrick",
+    "full_name": "Patrick Queen",
+    "gsis_id": null,
+    "last_name": "Queen",
+    "player_id": "6807",
+    "position": "LB",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 6
+  },
+  "6813": {
+    "age": 27,
+    "birth_date": "1999-01-19",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jonathan",
+    "full_name": "Jonathan Taylor",
+    "gsis_id": null,
+    "last_name": "Taylor",
+    "player_id": "6813",
+    "position": "RB",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 6
+  },
+  "6815": {
+    "age": 29,
+    "birth_date": "1996-12-30",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Zack",
+    "full_name": "Zack Baun",
+    "gsis_id": null,
+    "last_name": "Baun",
+    "player_id": "6815",
+    "position": "LB",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 6
+  },
+  "6819": {
+    "age": 28,
+    "birth_date": "1997-10-05",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Michael",
+    "full_name": "Michael Pittman",
+    "gsis_id": null,
+    "last_name": "Pittman",
+    "player_id": "6819",
+    "position": "WR",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 6
+  },
+  "6888": {
+    "age": 28,
+    "birth_date": "1998-08-16",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Antoine",
+    "full_name": "Antoine Winfield",
+    "gsis_id": null,
+    "last_name": "Winfield",
+    "player_id": "6888",
+    "position": "DB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 6
+  },
+  "6900": {
+    "age": 29,
+    "birth_date": "1997-05-25",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Jonathan",
+    "full_name": "Jonathan Greenard",
+    "gsis_id": null,
+    "last_name": "Greenard",
+    "player_id": "6900",
+    "position": "DE",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 6
+  },
+  "6904": {
+    "age": 28,
+    "birth_date": "1998-08-07",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Jalen",
+    "full_name": "Jalen Hurts",
+    "gsis_id": null,
+    "last_name": "Hurts",
+    "player_id": "6904",
+    "position": "QB",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 6
+  },
+  "6949": {
+    "age": 28,
+    "birth_date": "1997-10-21",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Jordyn",
+    "full_name": "Jordyn Brooks",
+    "gsis_id": null,
+    "last_name": "Brooks",
+    "player_id": "6949",
+    "position": "LB",
+    "status": "Active",
+    "team": "MIA",
+    "years_exp": 6
+  },
+  "7021": {
+    "age": 28,
+    "birth_date": "1998-06-14",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Rico",
+    "full_name": "Rico Dowdle",
+    "gsis_id": null,
+    "last_name": "Dowdle",
+    "player_id": "7021",
+    "position": "RB",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 6
+  },
+  "7049": {
+    "age": 29,
+    "birth_date": "1997-07-10",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jauan",
+    "full_name": "Jauan Jennings",
+    "gsis_id": null,
+    "last_name": "Jennings",
+    "player_id": "7049",
+    "position": "WR",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 6
+  },
+  "7136": {
+    "age": 27,
+    "birth_date": "1999-03-31",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Kam",
+    "full_name": "Kam Curl",
+    "gsis_id": null,
+    "last_name": "Curl",
+    "player_id": "7136",
+    "position": "DB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 6
+  },
+  "7523": {
+    "age": 26,
+    "birth_date": "1999-10-06",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Trevor",
+    "full_name": "Trevor Lawrence",
+    "gsis_id": null,
+    "last_name": "Lawrence",
+    "player_id": "7523",
+    "position": "QB",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 5
+  },
+  "7525": {
+    "age": 27,
+    "birth_date": "1998-11-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "DeVonta",
+    "full_name": "DeVonta Smith",
+    "gsis_id": null,
+    "last_name": "Smith",
+    "player_id": "7525",
+    "position": "WR",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 5
+  },
+  "7526": {
+    "age": 27,
+    "birth_date": "1998-11-25",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jaylen",
+    "full_name": "Jaylen Waddle",
+    "gsis_id": null,
+    "last_name": "Waddle",
+    "player_id": "7526",
+    "position": "WR",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 5
+  },
+  "7543": {
+    "age": 27,
+    "birth_date": "1999-01-26",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Travis",
+    "full_name": "Travis Etienne",
+    "gsis_id": null,
+    "last_name": "Etienne",
+    "player_id": "7543",
+    "position": "RB",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 5
+  },
+  "7547": {
+    "age": 26,
+    "birth_date": "1999-10-24",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Amon-Ra",
+    "full_name": "Amon-Ra St. Brown",
+    "gsis_id": null,
+    "last_name": "St. Brown",
+    "player_id": "7547",
+    "position": "WR",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 5
+  },
+  "7553": {
+    "age": 25,
+    "birth_date": "2000-10-06",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Kyle",
+    "full_name": "Kyle Pitts",
+    "gsis_id": null,
+    "last_name": "Pitts",
+    "player_id": "7553",
+    "position": "TE",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 5
+  },
+  "7564": {
+    "age": 26,
+    "birth_date": "2000-03-01",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Ja'Marr",
+    "full_name": "Ja'Marr Chase",
+    "gsis_id": null,
+    "last_name": "Chase",
+    "player_id": "7564",
+    "position": "WR",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 5
+  },
+  "7567": {
+    "age": 27,
+    "birth_date": "1999-03-14",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Kenny",
+    "full_name": "Kenny Gainwell",
+    "gsis_id": null,
+    "last_name": "Gainwell",
+    "player_id": "7567",
+    "position": "RB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 5
+  },
+  "7569": {
+    "age": 27,
+    "birth_date": "1999-03-19",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Nico",
+    "full_name": "Nico Collins",
+    "gsis_id": null,
+    "last_name": "Collins",
+    "player_id": "7569",
+    "position": "WR",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 5
+  },
+  "7588": {
+    "age": 26,
+    "birth_date": "2000-04-25",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Javonte",
+    "full_name": "Javonte Williams",
+    "gsis_id": null,
+    "last_name": "Williams",
+    "player_id": "7588",
+    "position": "RB",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 5
+  },
+  "7594": {
+    "age": 27,
+    "birth_date": "1999-06-11",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Chuba",
+    "full_name": "Chuba Hubbard",
+    "gsis_id": null,
+    "last_name": "Hubbard",
+    "player_id": "7594",
+    "position": "RB",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 5
+  },
+  "7611": {
+    "age": 28,
+    "birth_date": "1998-02-23",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Rhamondre",
+    "full_name": "Rhamondre Stevenson",
+    "gsis_id": null,
+    "last_name": "Stevenson",
+    "player_id": "7611",
+    "position": "RB",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 5
+  },
+  "7627": {
+    "age": 26,
+    "birth_date": "2000-04-05",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Greg",
+    "full_name": "Greg Rousseau",
+    "gsis_id": null,
+    "last_name": "Rousseau",
+    "player_id": "7627",
+    "position": "DE",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 5
+  },
+  "7640": {
+    "age": 27,
+    "birth_date": "1999-05-26",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Micah",
+    "full_name": "Micah Parsons",
+    "gsis_id": null,
+    "last_name": "Parsons",
+    "player_id": "7640",
+    "position": "LB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 5
+  },
+  "7648": {
+    "age": 26,
+    "birth_date": "2000-03-10",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Nick",
+    "full_name": "Nick Bolton",
+    "gsis_id": null,
+    "last_name": "Bolton",
+    "player_id": "7648",
+    "position": "LB",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 5
+  },
+  "7659": {
+    "age": 27,
+    "birth_date": "1999-06-16",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Tre'von",
+    "full_name": "Tre'von Moehrig",
+    "gsis_id": null,
+    "last_name": "Moehrig",
+    "player_id": "7659",
+    "position": "DB",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 5
+  },
+  "7672": {
+    "age": 26,
+    "birth_date": "1999-11-22",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Ernest",
+    "full_name": "Ernest Jones",
+    "gsis_id": null,
+    "last_name": "Jones",
+    "player_id": "7672",
+    "position": "LB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 5
+  },
+  "7811": {
+    "age": 26,
+    "birth_date": "2000-02-01",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Talanoa",
+    "full_name": "Talanoa Hufanga",
+    "gsis_id": null,
+    "last_name": "Hufanga",
+    "player_id": "7811",
+    "position": "DB",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 5
+  },
+  "7841": {
+    "age": 26,
+    "birth_date": "2000-01-12",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Jamien",
+    "full_name": "Jamien Sherwood",
+    "gsis_id": null,
+    "last_name": "Sherwood",
+    "player_id": "7841",
+    "position": "LB",
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 5
+  },
+  "8110": {
+    "age": 27,
+    "birth_date": "1999-01-18",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Jake",
+    "full_name": "Jake Ferguson",
+    "gsis_id": null,
+    "last_name": "Ferguson",
+    "player_id": "8110",
+    "position": "TE",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 4
+  },
+  "8112": {
+    "age": 25,
+    "birth_date": "2001-07-24",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Drake",
+    "full_name": "Drake London",
+    "gsis_id": null,
+    "last_name": "London",
+    "player_id": "8112",
+    "position": "WR",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 4
+  },
+  "8126": {
+    "age": 25,
+    "birth_date": "2001-01-05",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Wan'Dale",
+    "full_name": "Wan'Dale Robinson",
+    "gsis_id": null,
+    "last_name": "Robinson",
+    "player_id": "8126",
+    "position": "WR",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 4
+  },
+  "8130": {
+    "age": 26,
+    "birth_date": "1999-11-22",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Trey",
+    "full_name": "Trey McBride",
+    "gsis_id": null,
+    "last_name": "McBride",
+    "player_id": "8130",
+    "position": "TE",
+    "status": "Active",
+    "team": "ARI",
+    "years_exp": 4
+  },
+  "8131": {
+    "age": 26,
+    "birth_date": "2000-04-18",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Isaiah",
+    "full_name": "Isaiah Likely",
+    "gsis_id": null,
+    "last_name": "Likely",
+    "player_id": "8131",
+    "position": "TE",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 4
+  },
+  "8132": {
+    "age": 26,
+    "birth_date": "2000-04-15",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Tyler",
+    "full_name": "Tyler Allgeier",
+    "gsis_id": null,
+    "last_name": "Allgeier",
+    "player_id": "8132",
+    "position": "RB",
+    "status": "Active",
+    "team": "ARI",
+    "years_exp": 4
+  },
+  "8134": {
+    "age": 26,
+    "birth_date": "2000-02-03",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Khalil",
+    "full_name": "Khalil Shakir",
+    "gsis_id": null,
+    "last_name": "Shakir",
+    "player_id": "8134",
+    "position": "WR",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 4
+  },
+  "8137": {
+    "age": 25,
+    "birth_date": "2001-03-04",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "George",
+    "full_name": "George Pickens",
+    "gsis_id": null,
+    "last_name": "Pickens",
+    "player_id": "8137",
+    "position": "WR",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 4
+  },
+  "8138": {
+    "age": 26,
+    "birth_date": "1999-09-25",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "James",
+    "full_name": "James Cook",
+    "gsis_id": null,
+    "last_name": "Cook",
+    "player_id": "8138",
+    "position": "RB",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 4
+  },
+  "8142": {
+    "age": 26,
+    "birth_date": "2000-05-02",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Alec",
+    "full_name": "Alec Pierce",
+    "gsis_id": null,
+    "last_name": "Pierce",
+    "player_id": "8142",
+    "position": "WR",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 4
+  },
+  "8144": {
+    "age": 26,
+    "birth_date": "2000-06-27",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Chris",
+    "full_name": "Chris Olave",
+    "gsis_id": null,
+    "last_name": "Olave",
+    "player_id": "8144",
+    "position": "WR",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 4
+  },
+  "8146": {
+    "age": 26,
+    "birth_date": "2000-07-22",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Garrett",
+    "full_name": "Garrett Wilson",
+    "gsis_id": null,
+    "last_name": "Wilson",
+    "player_id": "8146",
+    "position": "WR",
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 4
+  },
+  "8148": {
+    "age": 25,
+    "birth_date": "2001-03-26",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jameson",
+    "full_name": "Jameson Williams",
+    "gsis_id": null,
+    "last_name": "Williams",
+    "player_id": "8148",
+    "position": "WR",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 4
+  },
+  "8150": {
+    "age": 26,
+    "birth_date": "2000-08-26",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Kyren",
+    "full_name": "Kyren Williams",
+    "gsis_id": null,
+    "last_name": "Williams",
+    "player_id": "8150",
+    "position": "RB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 4
+  },
+  "8151": {
+    "age": 25,
+    "birth_date": "2000-10-20",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Kenneth",
+    "full_name": "Kenneth Walker",
+    "gsis_id": null,
+    "last_name": "Walker",
+    "player_id": "8151",
+    "position": "RB",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 4
+  },
+  "8155": {
+    "age": 25,
+    "birth_date": "2001-05-31",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Breece",
+    "full_name": "Breece Hall",
+    "gsis_id": null,
+    "last_name": "Hall",
+    "player_id": "8155",
+    "position": "RB",
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 4
+  },
+  "8167": {
+    "age": 27,
+    "birth_date": "1999-05-12",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Christian",
+    "full_name": "Christian Watson",
+    "gsis_id": null,
+    "last_name": "Watson",
+    "player_id": "8167",
+    "position": "WR",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 4
+  },
+  "8183": {
+    "age": 26,
+    "birth_date": "1999-12-27",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Brock",
+    "full_name": "Brock Purdy",
+    "gsis_id": null,
+    "last_name": "Purdy",
+    "player_id": "8183",
+    "position": "QB",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 4
+  },
+  "8228": {
+    "age": 27,
+    "birth_date": "1998-11-01",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jaylen",
+    "full_name": "Jaylen Warren",
+    "gsis_id": null,
+    "last_name": "Warren",
+    "player_id": "8228",
+    "position": "RB",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 4
+  },
+  "8266": {
+    "age": 26,
+    "birth_date": "2000-05-08",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Quay",
+    "full_name": "Quay Walker",
+    "gsis_id": null,
+    "last_name": "Walker",
+    "player_id": "8266",
+    "position": "LB",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 4
+  },
+  "8267": {
+    "age": 25,
+    "birth_date": "2000-12-13",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Nakobe",
+    "full_name": "Nakobe Dean",
+    "gsis_id": null,
+    "last_name": "Dean",
+    "player_id": "8267",
+    "position": "LB",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 4
+  },
+  "8280": {
+    "age": 26,
+    "birth_date": "1999-09-26",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Nik",
+    "full_name": "Nik Bonitto",
+    "gsis_id": null,
+    "last_name": "Bonitto",
+    "player_id": "8280",
+    "position": "LB",
+    "status": "Active",
+    "team": "DEN",
+    "years_exp": 4
+  },
+  "8289": {
+    "age": 26,
+    "birth_date": "2000-08-09",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Aidan",
+    "full_name": "Aidan Hutchinson",
+    "gsis_id": null,
+    "last_name": "Hutchinson",
+    "player_id": "8289",
+    "position": "DL",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 4
+  },
+  "8314": {
+    "age": 27,
+    "birth_date": "1999-06-03",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Jalen",
+    "full_name": "Jalen Pitre",
+    "gsis_id": null,
+    "last_name": "Pitre",
+    "player_id": "8314",
+    "position": "DB",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 4
+  },
+  "8329": {
+    "age": 27,
+    "birth_date": "1998-09-30",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Devin",
+    "full_name": "Devin Lloyd",
+    "gsis_id": null,
+    "last_name": "Lloyd",
+    "player_id": "8329",
+    "position": "LB",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 4
+  },
+  "8330": {
+    "age": 27,
+    "birth_date": "1999-01-29",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Quentin",
+    "full_name": "Quentin Lake",
+    "gsis_id": null,
+    "last_name": "Lake",
+    "player_id": "8330",
+    "position": "DB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 4
+  },
+  "8339": {
+    "age": 25,
+    "birth_date": "2001-03-16",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Kyle",
+    "full_name": "Kyle Hamilton",
+    "gsis_id": null,
+    "last_name": "Hamilton",
+    "player_id": "8339",
+    "position": "DB",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 4
+  },
+  "8355": {
+    "age": 25,
+    "birth_date": "2000-12-15",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Kayvon",
+    "full_name": "Kayvon Thibodeaux",
+    "gsis_id": null,
+    "last_name": "Thibodeaux",
+    "player_id": "8355",
+    "position": "DL",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 4
+  },
+  "8392": {
+    "age": 24,
+    "birth_date": "2001-09-10",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Nick",
+    "full_name": "Nick Cross",
+    "gsis_id": null,
+    "last_name": "Cross",
+    "player_id": "8392",
+    "position": "DB",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 4
+  },
+  "8408": {
+    "age": 27,
+    "birth_date": "1999-05-24",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jordan",
+    "full_name": "Jordan Mason",
+    "gsis_id": null,
+    "last_name": "Mason",
+    "player_id": "8408",
+    "position": "RB",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 4
+  },
+  "8659": {
+    "age": 27,
+    "birth_date": "1998-11-19",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Nate",
+    "full_name": "Nate Landman",
+    "gsis_id": null,
+    "last_name": "Landman",
+    "player_id": "8659",
+    "position": "LB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 4
+  },
+  "8676": {
+    "age": 28,
+    "birth_date": "1998-08-31",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Rashid",
+    "full_name": "Rashid Shaheed",
+    "gsis_id": null,
+    "last_name": "Shaheed",
+    "player_id": "8676",
+    "position": "WR",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 4
+  },
+  "9221": {
+    "age": 24,
+    "birth_date": "2002-03-20",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jahmyr",
+    "full_name": "Jahmyr Gibbs",
+    "gsis_id": null,
+    "last_name": "Gibbs",
+    "player_id": "9221",
+    "position": "RB",
+    "status": "Active",
+    "team": "DET",
+    "years_exp": 3
+  },
+  "9224": {
+    "age": 26,
+    "birth_date": "2000-03-21",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Chase",
+    "full_name": "Chase Brown",
+    "gsis_id": null,
+    "last_name": "Brown",
+    "player_id": "9224",
+    "position": "RB",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 3
+  },
+  "9225": {
+    "age": 24,
+    "birth_date": "2002-08-30",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Tank",
+    "full_name": "Tank Bigsby",
+    "gsis_id": null,
+    "last_name": "Bigsby",
+    "player_id": "9225",
+    "position": "RB",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 3
+  },
+  "9226": {
+    "age": 24,
+    "birth_date": "2001-10-13",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "De'Von",
+    "full_name": "De'Von Achane",
+    "gsis_id": null,
+    "last_name": "Achane",
+    "player_id": "9226",
+    "position": "RB",
+    "status": "Active",
+    "team": "MIA",
+    "years_exp": 3
+  },
+  "9228": {
+    "age": 25,
+    "birth_date": "2001-07-25",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Bryce",
+    "full_name": "Bryce Young",
+    "gsis_id": null,
+    "last_name": "Young",
+    "player_id": "9228",
+    "position": "QB",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 3
+  },
+  "9229": {
+    "age": 24,
+    "birth_date": "2002-05-22",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Anthony",
+    "full_name": "Anthony Richardson",
+    "gsis_id": null,
+    "last_name": "Richardson",
+    "player_id": "9229",
+    "position": "QB",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 3
+  },
+  "9480": {
+    "age": 25,
+    "birth_date": "2000-12-27",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Brenton",
+    "full_name": "Brenton Strange",
+    "gsis_id": null,
+    "last_name": "Strange",
+    "player_id": "9480",
+    "position": "TE",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 3
+  },
+  "9484": {
+    "age": 25,
+    "birth_date": "2000-11-03",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Tucker",
+    "full_name": "Tucker Kraft",
+    "gsis_id": null,
+    "last_name": "Kraft",
+    "player_id": "9484",
+    "position": "TE",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 3
+  },
+  "9487": {
+    "age": 24,
+    "birth_date": "2002-03-21",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Parker",
+    "full_name": "Parker Washington",
+    "gsis_id": null,
+    "last_name": "Washington",
+    "player_id": "9487",
+    "position": "WR",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 3
+  },
+  "9488": {
+    "age": 24,
+    "birth_date": "2002-02-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jaxon",
+    "full_name": "Jaxon Smith-Njigba",
+    "gsis_id": null,
+    "last_name": "Smith-Njigba",
+    "player_id": "9488",
+    "position": "WR",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 3
+  },
+  "9493": {
+    "age": 25,
+    "birth_date": "2001-05-29",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Puka",
+    "full_name": "Puka Nacua",
+    "gsis_id": null,
+    "last_name": "Nacua",
+    "player_id": "9493",
+    "position": "WR",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 3
+  },
+  "9500": {
+    "age": 25,
+    "birth_date": "2001-08-12",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Josh",
+    "full_name": "Josh Downs",
+    "gsis_id": null,
+    "last_name": "Downs",
+    "player_id": "9500",
+    "position": "WR",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 3
+  },
+  "9509": {
+    "age": 24,
+    "birth_date": "2002-01-30",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Bijan",
+    "full_name": "Bijan Robinson",
+    "gsis_id": null,
+    "last_name": "Robinson",
+    "player_id": "9509",
+    "position": "RB",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 3
+  },
+  "9753": {
+    "age": 25,
+    "birth_date": "2001-01-08",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Zach",
+    "full_name": "Zach Charbonnet",
+    "gsis_id": null,
+    "last_name": "Charbonnet",
+    "player_id": "9753",
+    "position": "RB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 3
+  },
+  "9754": {
+    "age": 24,
+    "birth_date": "2001-09-06",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Quentin",
+    "full_name": "Quentin Johnston",
+    "gsis_id": null,
+    "last_name": "Johnston",
+    "player_id": "9754",
+    "position": "WR",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 3
+  },
+  "9756": {
+    "age": 24,
+    "birth_date": "2002-01-27",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jordan",
+    "full_name": "Jordan Addison",
+    "gsis_id": null,
+    "last_name": "Addison",
+    "player_id": "9756",
+    "position": "WR",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 3
+  },
+  "9758": {
+    "age": 24,
+    "birth_date": "2001-10-03",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "C.J.",
+    "full_name": "C.J. Stroud",
+    "gsis_id": null,
+    "last_name": "Stroud",
+    "player_id": "9758",
+    "position": "QB",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 3
+  },
+  "9997": {
+    "age": 25,
+    "birth_date": "2000-09-11",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Zay",
+    "full_name": "Zay Flowers",
+    "gsis_id": null,
+    "last_name": "Flowers",
+    "player_id": "9997",
+    "position": "WR",
+    "status": "Active",
+    "team": "BAL",
+    "years_exp": 3
+  }
+}
