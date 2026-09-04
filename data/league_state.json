@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-08-30",
+  "as_of": "2026-09-02",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -23,7 +23,6 @@
     "11563",
     "11564",
     "11566",
-    "11576",
     "11581",
     "11583",
     "11584",
@@ -82,6 +81,7 @@
     "12568",
     "12574",
     "12578",
+    "12591",
     "12597",
     "12617",
     "13269",
@@ -142,6 +142,7 @@
     "1466",
     "2133",
     "2216",
+    "2227",
     "2393",
     "2617",
     "3163",
@@ -262,7 +263,6 @@
     "8150",
     "8151",
     "8155",
-    "8161",
     "8167",
     "8183",
     "8228",
@@ -418,12 +418,6 @@
       "gsis_id": null,
       "name": "Jayden Daniels",
       "position": "QB"
-    },
-    {
-      "id": "11576",
-      "gsis_id": null,
-      "name": "Braelon Allen",
-      "position": "RB"
     },
     {
       "id": "11581",
@@ -772,6 +766,12 @@
       "gsis_id": null,
       "name": "Carson Schwesinger",
       "position": "LB"
+    },
+    {
+      "id": "12591",
+      "gsis_id": null,
+      "name": "Xavier Watts",
+      "position": "DB"
     },
     {
       "id": "12597",
@@ -1132,6 +1132,12 @@
       "gsis_id": "00-0031408",
       "name": "Mike Evans",
       "position": "WR"
+    },
+    {
+      "id": "2227",
+      "gsis_id": "00-0031388",
+      "name": "Aaron Donald",
+      "position": "DT"
     },
     {
       "id": "2393",
@@ -1854,12 +1860,6 @@
       "position": "RB"
     },
     {
-      "id": "8161",
-      "gsis_id": null,
-      "name": "Malik Willis",
-      "position": "QB"
-    },
-    {
       "id": "8167",
       "gsis_id": null,
       "name": "Christian Watson",
@@ -2064,5 +2064,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 68
+  "_gsis_resolved": 69
 }
