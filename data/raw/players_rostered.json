@@ -227,6 +227,23 @@
     "team": "TB",
     "years_exp": 3
   },
+  "10940": {
+    "age": 24,
+    "birth_date": "2001-11-21",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Nick",
+    "full_name": "Nick Herbig",
+    "gsis_id": null,
+    "last_name": "Herbig",
+    "player_id": "10940",
+    "position": "LB",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 3
+  },
   "10949": {
     "age": 26,
     "birth_date": "2000-07-11",
@@ -385,22 +402,6 @@
     "position": "RB",
     "status": "Active",
     "team": "LAR",
-    "years_exp": 2
-  },
-  "11597": {
-    "age": 25,
-    "birth_date": "2001-02-26",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Theo",
-    "full_name": "Theo Johnson",
-    "gsis_id": null,
-    "last_name": "Johnson",
-    "player_id": "11597",
-    "position": "TE",
-    "status": "Active",
-    "team": "NYG",
     "years_exp": 2
   },
   "11603": {
@@ -676,6 +677,22 @@
     "team": "PHI",
     "years_exp": 2
   },
+  "11682": {
+    "age": 23,
+    "birth_date": "2002-10-24",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Cole",
+    "full_name": "Cole Bishop",
+    "gsis_id": null,
+    "last_name": "Bishop",
+    "player_id": "11682",
+    "position": "DB",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 2
+  },
   "11685": {
     "age": 23,
     "birth_date": "2003-01-23",
@@ -738,6 +755,22 @@
     "position": "LB",
     "status": "Active",
     "team": "TEN",
+    "years_exp": 2
+  },
+  "11760": {
+    "age": 23,
+    "birth_date": "2002-12-14",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Austin",
+    "full_name": "Austin Booker",
+    "gsis_id": null,
+    "last_name": "Booker",
+    "player_id": "11760",
+    "position": "DL",
+    "status": "Active",
+    "team": "CHI",
     "years_exp": 2
   },
   "11783": {
@@ -1088,7 +1121,7 @@
     "gsis_id": null,
     "last_name": "Hunter",
     "player_id": "12530",
-    "position": "WR",
+    "position": "DB",
     "status": "Active",
     "team": "JAX",
     "years_exp": 1
@@ -1675,7 +1708,8 @@
     "age": 21,
     "birth_date": "2004-09-08",
     "fantasy_positions": [
-      "DL"
+      "DL",
+      "LB"
     ],
     "first_name": "Rueben",
     "full_name": "Rueben Bain",
@@ -1917,6 +1951,7 @@
     "age": 21,
     "birth_date": "2005-08-30",
     "fantasy_positions": [
+      "DL",
       "LB"
     ],
     "first_name": "Arvell",
@@ -2138,7 +2173,7 @@
     "years_exp": 0
   },
   "13453": {
-    "age": 23,
+    "age": 24,
     "birth_date": "2002-09-06",
     "fantasy_positions": [
       "LB"
@@ -2326,22 +2361,6 @@
     "last_name": "Henry",
     "player_id": "3214",
     "position": "TE",
-    "status": "Active",
-    "team": "NE",
-    "years_exp": 10
-  },
-  "3233": {
-    "age": 33,
-    "birth_date": "1993-08-17",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Kevin",
-    "full_name": "Kevin Byard",
-    "gsis_id": "00-0033132",
-    "last_name": "Byard",
-    "player_id": "3233",
-    "position": "DB",
     "status": "Active",
     "team": "NE",
     "years_exp": 10
@@ -2619,22 +2638,6 @@
     "team": "BAL",
     "years_exp": 8
   },
-  "4968": {
-    "age": 28,
-    "birth_date": "1998-05-02",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Tremaine",
-    "full_name": "Tremaine Edmunds",
-    "gsis_id": "00-0034673",
-    "last_name": "Edmunds",
-    "player_id": "4968",
-    "position": "LB",
-    "status": "Active",
-    "team": "NYG",
-    "years_exp": 8
-  },
   "4971": {
     "age": 30,
     "birth_date": "1996-08-03",
@@ -2683,24 +2686,8 @@
     "team": "BUF",
     "years_exp": 8
   },
-  "4999": {
-    "age": 29,
-    "birth_date": "1997-03-29",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Josh",
-    "full_name": "Josh Sweat",
-    "gsis_id": "00-0034381",
-    "last_name": "Sweat",
-    "player_id": "4999",
-    "position": "DE",
-    "status": "Active",
-    "team": "ARI",
-    "years_exp": 8
-  },
   "5012": {
-    "age": 30,
+    "age": 31,
     "birth_date": "1995-09-06",
     "fantasy_positions": [
       "TE"
@@ -2796,38 +2783,6 @@
     "team": "DEN",
     "years_exp": 8
   },
-  "5226": {
-    "age": 30,
-    "birth_date": "1995-11-19",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Poona",
-    "full_name": "Poona Ford",
-    "gsis_id": "00-0034234",
-    "last_name": "Ford",
-    "player_id": "5226",
-    "position": "DT",
-    "status": "Active",
-    "team": "LAR",
-    "years_exp": 8
-  },
-  "5330": {
-    "age": 29,
-    "birth_date": "1997-06-10",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Dorance",
-    "full_name": "Dorance Armstrong",
-    "gsis_id": "00-0034373",
-    "last_name": "Armstrong",
-    "player_id": "5330",
-    "position": "DE",
-    "status": "Active",
-    "team": "WAS",
-    "years_exp": 8
-  },
   "5332": {
     "age": 31,
     "birth_date": "1995-08-02",
@@ -2858,22 +2813,6 @@
     "position": "LB",
     "status": "Active",
     "team": "GB",
-    "years_exp": 8
-  },
-  "5580": {
-    "age": 29,
-    "birth_date": "1996-09-19",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Frankie",
-    "full_name": "Frankie Luvu",
-    "gsis_id": "00-0034302",
-    "last_name": "Luvu",
-    "player_id": "5580",
-    "position": "LB",
-    "status": "Active",
-    "team": "WAS",
     "years_exp": 8
   },
   "5726": {
@@ -2923,6 +2862,22 @@
     "position": "DE",
     "status": "Active",
     "team": "JAX",
+    "years_exp": 7
+  },
+  "5843": {
+    "age": 28,
+    "birth_date": "1998-07-18",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Devin",
+    "full_name": "Devin Bush",
+    "gsis_id": " 00-0035525",
+    "last_name": "Bush",
+    "player_id": "5843",
+    "position": "LB",
+    "status": "Active",
+    "team": "CHI",
     "years_exp": 7
   },
   "5844": {
@@ -3277,22 +3232,6 @@
     "position": "LB",
     "status": "Active",
     "team": "NO",
-    "years_exp": 7
-  },
-  "6485": {
-    "age": 29,
-    "birth_date": "1997-08-04",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Azeez",
-    "full_name": "Azeez Al-Shaair",
-    "gsis_id": " 00-0035166",
-    "last_name": "Al-Shaair",
-    "player_id": "6485",
-    "position": "LB",
-    "status": "Active",
-    "team": "HOU",
     "years_exp": 7
   },
   "6770": {
@@ -4371,6 +4310,22 @@
     "team": "NYG",
     "years_exp": 4
   },
+  "8359": {
+    "age": 27,
+    "birth_date": "1998-10-22",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Marcus",
+    "full_name": "Marcus Jones",
+    "gsis_id": null,
+    "last_name": "Jones",
+    "player_id": "8359",
+    "position": "DB",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 4
+  },
   "8392": {
     "age": 24,
     "birth_date": "2001-09-10",
@@ -4660,7 +4615,7 @@
     "years_exp": 3
   },
   "9754": {
-    "age": 24,
+    "age": 25,
     "birth_date": "2001-09-06",
     "fantasy_positions": [
       "WR"

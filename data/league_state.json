@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-04",
+  "as_of": "2026-09-06",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -17,6 +17,7 @@
     "10914",
     "10917",
     "10921",
+    "10940",
     "10949",
     "11559",
     "11560",
@@ -27,7 +28,6 @@
     "11583",
     "11584",
     "11586",
-    "11597",
     "11603",
     "11604",
     "11618",
@@ -45,10 +45,12 @@
     "11669",
     "11674",
     "11678",
+    "11682",
     "11685",
     "11687",
     "11705",
     "11742",
+    "11760",
     "11783",
     "12474",
     "12481",
@@ -148,7 +150,6 @@
     "3163",
     "3198",
     "3214",
-    "3233",
     "3294",
     "3973",
     "4034",
@@ -166,25 +167,21 @@
     "4892",
     "4943",
     "4960",
-    "4968",
     "4971",
     "4983",
     "4984",
-    "4999",
     "5012",
     "5017",
     "5022",
     "5030",
     "5041",
     "5045",
-    "5226",
-    "5330",
     "5332",
     "5346",
-    "5580",
     "5726",
     "5816",
     "5840",
+    "5843",
     "5844",
     "5846",
     "5847",
@@ -207,7 +204,6 @@
     "6183",
     "6217",
     "6302",
-    "6485",
     "6770",
     "6786",
     "6790",
@@ -275,6 +271,7 @@
     "8330",
     "8339",
     "8355",
+    "8359",
     "8392",
     "8408",
     "8659",
@@ -384,6 +381,12 @@
       "position": "DL"
     },
     {
+      "id": "10940",
+      "gsis_id": null,
+      "name": "Nick Herbig",
+      "position": "LB"
+    },
+    {
       "id": "10949",
       "gsis_id": null,
       "name": "Chamarri Conner",
@@ -442,12 +445,6 @@
       "gsis_id": null,
       "name": "Blake Corum",
       "position": "RB"
-    },
-    {
-      "id": "11597",
-      "gsis_id": null,
-      "name": "Theo Johnson",
-      "position": "TE"
     },
     {
       "id": "11603",
@@ -552,6 +549,12 @@
       "position": "DB"
     },
     {
+      "id": "11682",
+      "gsis_id": null,
+      "name": "Cole Bishop",
+      "position": "DB"
+    },
+    {
       "id": "11685",
       "gsis_id": null,
       "name": "Kamari Lassiter",
@@ -574,6 +577,12 @@
       "gsis_id": null,
       "name": "Cedric Gray",
       "position": "LB"
+    },
+    {
+      "id": "11760",
+      "gsis_id": null,
+      "name": "Austin Booker",
+      "position": "DL"
     },
     {
       "id": "11783",
@@ -705,7 +714,7 @@
       "id": "12530",
       "gsis_id": null,
       "name": "Travis Hunter",
-      "position": "WR"
+      "position": "DB"
     },
     {
       "id": "12533",
@@ -1170,12 +1179,6 @@
       "position": "TE"
     },
     {
-      "id": "3233",
-      "gsis_id": "00-0033132",
-      "name": "Kevin Byard",
-      "position": "DB"
-    },
-    {
       "id": "3294",
       "gsis_id": "00-0033077",
       "name": "Dak Prescott",
@@ -1278,12 +1281,6 @@
       "position": "LB"
     },
     {
-      "id": "4968",
-      "gsis_id": "00-0034673",
-      "name": "Tremaine Edmunds",
-      "position": "LB"
-    },
-    {
       "id": "4971",
       "gsis_id": "00-0034790",
       "name": "Derwin James",
@@ -1300,12 +1297,6 @@
       "gsis_id": "00-0034857",
       "name": "Josh Allen",
       "position": "QB"
-    },
-    {
-      "id": "4999",
-      "gsis_id": "00-0034381",
-      "name": "Josh Sweat",
-      "position": "DE"
     },
     {
       "id": "5012",
@@ -1344,18 +1335,6 @@
       "position": "WR"
     },
     {
-      "id": "5226",
-      "gsis_id": "00-0034234",
-      "name": "Poona Ford",
-      "position": "DT"
-    },
-    {
-      "id": "5330",
-      "gsis_id": "00-0034373",
-      "name": "Dorance Armstrong",
-      "position": "DE"
-    },
-    {
       "id": "5332",
       "gsis_id": "00-0034413",
       "name": "Foyesade Oluokun",
@@ -1365,12 +1344,6 @@
       "id": "5346",
       "gsis_id": "00-0034431",
       "name": "Zaire Franklin",
-      "position": "LB"
-    },
-    {
-      "id": "5580",
-      "gsis_id": "00-0034302",
-      "name": "Frankie Luvu",
       "position": "LB"
     },
     {
@@ -1390,6 +1363,12 @@
       "gsis_id": " 00-0035642",
       "name": "Josh Hines-Allen",
       "position": "DE"
+    },
+    {
+      "id": "5843",
+      "gsis_id": " 00-0035525",
+      "name": "Devin Bush",
+      "position": "LB"
     },
     {
       "id": "5844",
@@ -1521,12 +1500,6 @@
       "id": "6302",
       "gsis_id": " 00-0035316",
       "name": "Kaden Elliss",
-      "position": "LB"
-    },
-    {
-      "id": "6485",
-      "gsis_id": " 00-0035166",
-      "name": "Azeez Al-Shaair",
       "position": "LB"
     },
     {
@@ -1932,6 +1905,12 @@
       "position": "DL"
     },
     {
+      "id": "8359",
+      "gsis_id": null,
+      "name": "Marcus Jones",
+      "position": "DB"
+    },
+    {
       "id": "8392",
       "gsis_id": null,
       "name": "Nick Cross",
@@ -2064,5 +2043,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 69
+  "_gsis_resolved": 63
 }
