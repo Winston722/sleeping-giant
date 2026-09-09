@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-06",
+  "as_of": "2026-09-09",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -19,6 +19,7 @@
     "10921",
     "10940",
     "10949",
+    "11370",
     "11559",
     "11560",
     "11563",
@@ -55,9 +56,9 @@
     "12474",
     "12481",
     "12484",
+    "12487",
     "12489",
     "12490",
-    "12493",
     "12501",
     "12504",
     "12506",
@@ -98,10 +99,13 @@
     "13286",
     "13287",
     "13288",
+    "13289",
     "13293",
     "13294",
+    "13296",
     "13298",
     "13301",
+    "13303",
     "13305",
     "13311",
     "13317",
@@ -125,7 +129,6 @@
     "13375",
     "13376",
     "13377",
-    "13379",
     "13381",
     "13384",
     "13385",
@@ -133,13 +136,19 @@
     "13389",
     "13390",
     "13395",
+    "13402",
+    "13411",
     "13413",
     "13414",
     "13415",
     "13417",
+    "13421",
+    "13424",
     "13434",
     "13453",
+    "13454",
     "13458",
+    "13477",
     "13533",
     "1466",
     "2133",
@@ -202,10 +211,10 @@
     "6119",
     "6125",
     "6183",
-    "6217",
     "6302",
     "6770",
     "6786",
+    "6788",
     "6790",
     "6794",
     "6797",
@@ -268,7 +277,6 @@
     "8289",
     "8314",
     "8329",
-    "8330",
     "8339",
     "8355",
     "8359",
@@ -391,6 +399,12 @@
       "gsis_id": null,
       "name": "Chamarri Conner",
       "position": "DB"
+    },
+    {
+      "id": "11370",
+      "gsis_id": null,
+      "name": "Chris Brooks",
+      "position": "RB"
     },
     {
       "id": "11559",
@@ -609,6 +623,12 @@
       "position": "WR"
     },
     {
+      "id": "12487",
+      "gsis_id": null,
+      "name": "Terrance Ferguson",
+      "position": "TE"
+    },
+    {
       "id": "12489",
       "gsis_id": null,
       "name": "RJ Harvey",
@@ -619,12 +639,6 @@
       "gsis_id": null,
       "name": "Bhayshul Tuten",
       "position": "RB"
-    },
-    {
-      "id": "12493",
-      "gsis_id": null,
-      "name": "Oronde Gadsden",
-      "position": "TE"
     },
     {
       "id": "12501",
@@ -867,6 +881,12 @@
       "position": "RB"
     },
     {
+      "id": "13289",
+      "gsis_id": null,
+      "name": "Drew Allar",
+      "position": "QB"
+    },
+    {
       "id": "13293",
       "gsis_id": null,
       "name": "Ja'Kobi Lane",
@@ -876,6 +896,12 @@
       "id": "13294",
       "gsis_id": null,
       "name": "Makai Lemon",
+      "position": "WR"
+    },
+    {
+      "id": "13296",
+      "gsis_id": null,
+      "name": "Caleb Douglas",
       "position": "WR"
     },
     {
@@ -889,6 +915,12 @@
       "gsis_id": null,
       "name": "Antonio Williams",
       "position": "WR"
+    },
+    {
+      "id": "13303",
+      "gsis_id": null,
+      "name": "Cade Klubnik",
+      "position": "QB"
     },
     {
       "id": "13305",
@@ -1029,12 +1061,6 @@
       "position": "LB"
     },
     {
-      "id": "13379",
-      "gsis_id": null,
-      "name": "Josiah Trotter",
-      "position": "LB"
-    },
-    {
       "id": "13381",
       "gsis_id": null,
       "name": "Jaishawn Barham",
@@ -1077,6 +1103,18 @@
       "position": "DL"
     },
     {
+      "id": "13402",
+      "gsis_id": null,
+      "name": "Skyler Bell",
+      "position": "WR"
+    },
+    {
+      "id": "13411",
+      "gsis_id": null,
+      "name": "Zavion Thomas",
+      "position": "WR"
+    },
+    {
       "id": "13413",
       "gsis_id": null,
       "name": "Cyrus Allen",
@@ -1101,6 +1139,18 @@
       "position": "WR"
     },
     {
+      "id": "13421",
+      "gsis_id": null,
+      "name": "Eli Raridon",
+      "position": "TE"
+    },
+    {
+      "id": "13424",
+      "gsis_id": null,
+      "name": "Seth McGowan",
+      "position": "RB"
+    },
+    {
       "id": "13434",
       "gsis_id": null,
       "name": "Will Kacmarek",
@@ -1113,10 +1163,22 @@
       "position": "LB"
     },
     {
+      "id": "13454",
+      "gsis_id": null,
+      "name": "Davison Igbinosun",
+      "position": "CB"
+    },
+    {
       "id": "13458",
       "gsis_id": null,
       "name": "Derrick Moore",
       "position": "DE"
+    },
+    {
+      "id": "13477",
+      "gsis_id": null,
+      "name": "Colbie Young",
+      "position": "WR"
     },
     {
       "id": "13533",
@@ -1491,12 +1553,6 @@
       "position": "LB"
     },
     {
-      "id": "6217",
-      "gsis_id": " 00-0035276",
-      "name": "Blake Cashman",
-      "position": "LB"
-    },
-    {
       "id": "6302",
       "gsis_id": " 00-0035316",
       "name": "Kaden Elliss",
@@ -1513,6 +1569,12 @@
       "gsis_id": null,
       "name": "CeeDee Lamb",
       "position": "WR"
+    },
+    {
+      "id": "6788",
+      "gsis_id": null,
+      "name": "Xavier McKinney",
+      "position": "DB"
     },
     {
       "id": "6790",
@@ -1887,12 +1949,6 @@
       "position": "LB"
     },
     {
-      "id": "8330",
-      "gsis_id": null,
-      "name": "Quentin Lake",
-      "position": "DB"
-    },
-    {
       "id": "8339",
       "gsis_id": null,
       "name": "Kyle Hamilton",
@@ -2043,5 +2099,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 63
+  "_gsis_resolved": 62
 }

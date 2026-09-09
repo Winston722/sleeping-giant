@@ -260,6 +260,22 @@
     "team": "KC",
     "years_exp": 3
   },
+  "11370": {
+    "age": 26,
+    "birth_date": "2000-01-11",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Chris",
+    "full_name": "Chris Brooks",
+    "gsis_id": null,
+    "last_name": "Brooks",
+    "player_id": "11370",
+    "position": "RB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 3
+  },
   "11559": {
     "age": 26,
     "birth_date": "2000-05-08",
@@ -549,7 +565,7 @@
     "years_exp": 2
   },
   "11638": {
-    "age": 25,
+    "age": 26,
     "birth_date": "2000-09-09",
     "fantasy_positions": [
       "WR"
@@ -837,6 +853,22 @@
     "team": "HOU",
     "years_exp": 1
   },
+  "12487": {
+    "age": 23,
+    "birth_date": "2003-03-07",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Terrance",
+    "full_name": "Terrance Ferguson",
+    "gsis_id": null,
+    "last_name": "Ferguson",
+    "player_id": "12487",
+    "position": "TE",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 1
+  },
   "12489": {
     "age": 25,
     "birth_date": "2001-02-04",
@@ -867,22 +899,6 @@
     "position": "RB",
     "status": "Active",
     "team": "JAX",
-    "years_exp": 1
-  },
-  "12493": {
-    "age": 23,
-    "birth_date": "2003-06-25",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Oronde",
-    "full_name": "Oronde Gadsden",
-    "gsis_id": null,
-    "last_name": "Gadsden",
-    "player_id": "12493",
-    "position": "TE",
-    "status": "Active",
-    "team": "LAC",
     "years_exp": 1
   },
   "12501": {
@@ -1528,6 +1544,22 @@
     "team": "TEN",
     "years_exp": 0
   },
+  "13289": {
+    "age": 22,
+    "birth_date": "2004-03-08",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Drew",
+    "full_name": "Drew Allar",
+    "gsis_id": null,
+    "last_name": "Allar",
+    "player_id": "13289",
+    "position": "QB",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 0
+  },
   "13293": {
     "age": 22,
     "birth_date": "2004-05-05",
@@ -1560,6 +1592,22 @@
     "team": "PHI",
     "years_exp": 0
   },
+  "13296": {
+    "age": 23,
+    "birth_date": "2003-09-09",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Caleb",
+    "full_name": "Caleb Douglas",
+    "gsis_id": null,
+    "last_name": "Douglas",
+    "player_id": "13296",
+    "position": "WR",
+    "status": "Active",
+    "team": "MIA",
+    "years_exp": 0
+  },
   "13298": {
     "age": 21,
     "birth_date": "2004-09-23",
@@ -1590,6 +1638,22 @@
     "position": "WR",
     "status": "Active",
     "team": "WAS",
+    "years_exp": 0
+  },
+  "13303": {
+    "age": 22,
+    "birth_date": "2003-10-10",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Cade",
+    "full_name": "Cade Klubnik",
+    "gsis_id": null,
+    "last_name": "Klubnik",
+    "player_id": "13303",
+    "position": "QB",
+    "status": "Active",
+    "team": "NYJ",
     "years_exp": 0
   },
   "13305": {
@@ -1705,7 +1769,7 @@
     "years_exp": 0
   },
   "13340": {
-    "age": 21,
+    "age": 22,
     "birth_date": "2004-09-08",
     "fantasy_positions": [
       "DL",
@@ -1964,22 +2028,6 @@
     "team": "NYG",
     "years_exp": 0
   },
-  "13379": {
-    "age": 21,
-    "birth_date": "2005-04-15",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Josiah",
-    "full_name": "Josiah Trotter",
-    "gsis_id": null,
-    "last_name": "Trotter",
-    "player_id": "13379",
-    "position": "LB",
-    "status": "Active",
-    "team": "TB",
-    "years_exp": 0
-  },
   "13381": {
     "age": 22,
     "birth_date": "2004-02-02",
@@ -2077,7 +2125,7 @@
     "years_exp": 0
   },
   "13395": {
-    "age": 21,
+    "age": 22,
     "birth_date": "2004-09-07",
     "fantasy_positions": [
       "DL"
@@ -2090,6 +2138,38 @@
     "position": "DL",
     "status": "Active",
     "team": "TEN",
+    "years_exp": 0
+  },
+  "13402": {
+    "age": 24,
+    "birth_date": "2002-07-05",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Skyler",
+    "full_name": "Skyler Bell",
+    "gsis_id": null,
+    "last_name": "Bell",
+    "player_id": "13402",
+    "position": "WR",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 0
+  },
+  "13411": {
+    "age": 22,
+    "birth_date": "2004-02-14",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Zavion",
+    "full_name": "Zavion Thomas",
+    "gsis_id": null,
+    "last_name": "Thomas",
+    "player_id": "13411",
+    "position": "WR",
+    "status": "Active",
+    "team": "CHI",
     "years_exp": 0
   },
   "13413": {
@@ -2156,6 +2236,38 @@
     "team": "SF",
     "years_exp": 0
   },
+  "13421": {
+    "age": 22,
+    "birth_date": "2004-02-12",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Eli",
+    "full_name": "Eli Raridon",
+    "gsis_id": null,
+    "last_name": "Raridon",
+    "player_id": "13421",
+    "position": "TE",
+    "status": "Active",
+    "team": "NE",
+    "years_exp": 0
+  },
+  "13424": {
+    "age": 24,
+    "birth_date": "2001-10-23",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Seth",
+    "full_name": "Seth McGowan",
+    "gsis_id": null,
+    "last_name": "McGowan",
+    "player_id": "13424",
+    "position": "RB",
+    "status": "Active",
+    "team": "IND",
+    "years_exp": 0
+  },
   "13434": {
     "age": 23,
     "birth_date": "2003-02-12",
@@ -2188,6 +2300,22 @@
     "team": "MIA",
     "years_exp": 0
   },
+  "13454": {
+    "age": 22,
+    "birth_date": "2004-04-11",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Davison",
+    "full_name": "Davison Igbinosun",
+    "gsis_id": null,
+    "last_name": "Igbinosun",
+    "player_id": "13454",
+    "position": "CB",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 0
+  },
   "13458": {
     "age": 23,
     "birth_date": "2002-12-06",
@@ -2202,6 +2330,22 @@
     "position": "DE",
     "status": "Active",
     "team": "DET",
+    "years_exp": 0
+  },
+  "13477": {
+    "age": 24,
+    "birth_date": "2002-07-24",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Colbie",
+    "full_name": "Colbie Young",
+    "gsis_id": null,
+    "last_name": "Young",
+    "player_id": "13477",
+    "position": "WR",
+    "status": "Active",
+    "team": "CIN",
     "years_exp": 0
   },
   "13533": {
@@ -3202,22 +3346,6 @@
     "team": "MIN",
     "years_exp": 7
   },
-  "6217": {
-    "age": 30,
-    "birth_date": "1996-05-10",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Blake",
-    "full_name": "Blake Cashman",
-    "gsis_id": " 00-0035276",
-    "last_name": "Cashman",
-    "player_id": "6217",
-    "position": "LB",
-    "status": "Active",
-    "team": "MIN",
-    "years_exp": 7
-  },
   "6302": {
     "age": 31,
     "birth_date": "1995-07-10",
@@ -3264,6 +3392,22 @@
     "position": "WR",
     "status": "Active",
     "team": "DAL",
+    "years_exp": 6
+  },
+  "6788": {
+    "age": 28,
+    "birth_date": "1998-08-08",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Xavier",
+    "full_name": "Xavier McKinney",
+    "gsis_id": null,
+    "last_name": "McKinney",
+    "player_id": "6788",
+    "position": "DB",
+    "status": "Active",
+    "team": "GB",
     "years_exp": 6
   },
   "6790": {
@@ -4259,22 +4403,6 @@
     "position": "LB",
     "status": "Active",
     "team": "CAR",
-    "years_exp": 4
-  },
-  "8330": {
-    "age": 27,
-    "birth_date": "1999-01-29",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Quentin",
-    "full_name": "Quentin Lake",
-    "gsis_id": null,
-    "last_name": "Lake",
-    "player_id": "8330",
-    "position": "DB",
-    "status": "Active",
-    "team": "LAR",
     "years_exp": 4
   },
   "8339": {
