@@ -805,22 +805,6 @@
     "team": "DAL",
     "years_exp": 2
   },
-  "12474": {
-    "age": 25,
-    "birth_date": "2000-12-29",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Woody",
-    "full_name": "Woody Marks",
-    "gsis_id": null,
-    "last_name": "Marks",
-    "player_id": "12474",
-    "position": "RB",
-    "status": "Active",
-    "team": "HOU",
-    "years_exp": 1
-  },
   "12481": {
     "age": 24,
     "birth_date": "2002-02-05",
@@ -1640,6 +1624,22 @@
     "team": "WAS",
     "years_exp": 0
   },
+  "13302": {
+    "age": 22,
+    "birth_date": "2004-07-14",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Adam",
+    "full_name": "Adam Randall",
+    "gsis_id": null,
+    "last_name": "Randall",
+    "player_id": "13302",
+    "position": "RB",
+    "status": "Inactive",
+    "team": "BAL",
+    "years_exp": 0
+  },
   "13303": {
     "age": 22,
     "birth_date": "2003-10-10",
@@ -2445,6 +2445,22 @@
     "team": "HOU",
     "years_exp": 11
   },
+  "2449": {
+    "age": 32,
+    "birth_date": "1993-11-29",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Stefon",
+    "full_name": "Stefon Diggs",
+    "gsis_id": "00-0031588",
+    "last_name": "Diggs",
+    "player_id": "2449",
+    "position": "WR",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 11
+  },
   "2617": {
     "age": 32,
     "birth_date": "1993-12-07",
@@ -2571,6 +2587,22 @@
     "position": "RB",
     "status": "Active",
     "team": "NO",
+    "years_exp": 9
+  },
+  "4037": {
+    "age": 30,
+    "birth_date": "1996-02-27",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Chris",
+    "full_name": "Chris Godwin",
+    "gsis_id": "00-0033921",
+    "last_name": "Godwin",
+    "player_id": "4037",
+    "position": "WR",
+    "status": "Active",
+    "team": "TB",
     "years_exp": 9
   },
   "4046": {
@@ -3116,7 +3148,7 @@
     "last_name": "Brown",
     "player_id": "5859",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "NE",
     "years_exp": 7
   },
@@ -3600,23 +3632,6 @@
     "position": "DB",
     "status": "Active",
     "team": "TB",
-    "years_exp": 6
-  },
-  "6900": {
-    "age": 29,
-    "birth_date": "1997-05-25",
-    "fantasy_positions": [
-      "DL",
-      "LB"
-    ],
-    "first_name": "Jonathan",
-    "full_name": "Jonathan Greenard",
-    "gsis_id": null,
-    "last_name": "Greenard",
-    "player_id": "6900",
-    "position": "DE",
-    "status": "Active",
-    "team": "PHI",
     "years_exp": 6
   },
   "6904": {
@@ -4455,7 +4470,7 @@
     "years_exp": 4
   },
   "8392": {
-    "age": 24,
+    "age": 25,
     "birth_date": "2001-09-10",
     "fantasy_positions": [
       "DB"
@@ -4791,7 +4806,7 @@
     "years_exp": 3
   },
   "9997": {
-    "age": 25,
+    "age": 26,
     "birth_date": "2000-09-11",
     "fantasy_positions": [
       "WR"

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-09",
+  "as_of": "2026-09-11",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -53,7 +53,6 @@
     "11742",
     "11760",
     "11783",
-    "12474",
     "12481",
     "12484",
     "12487",
@@ -105,6 +104,7 @@
     "13296",
     "13298",
     "13301",
+    "13302",
     "13303",
     "13305",
     "13311",
@@ -155,6 +155,7 @@
     "2216",
     "2227",
     "2393",
+    "2449",
     "2617",
     "3163",
     "3198",
@@ -163,6 +164,7 @@
     "3973",
     "4034",
     "4035",
+    "4037",
     "4046",
     "4070",
     "4081",
@@ -227,7 +229,6 @@
     "6815",
     "6819",
     "6888",
-    "6900",
     "6904",
     "6949",
     "7021",
@@ -605,12 +606,6 @@
       "position": "WR"
     },
     {
-      "id": "12474",
-      "gsis_id": null,
-      "name": "Woody Marks",
-      "position": "RB"
-    },
-    {
       "id": "12481",
       "gsis_id": null,
       "name": "Cam Skattebo",
@@ -917,6 +912,12 @@
       "position": "WR"
     },
     {
+      "id": "13302",
+      "gsis_id": null,
+      "name": "Adam Randall",
+      "position": "RB"
+    },
+    {
       "id": "13303",
       "gsis_id": null,
       "name": "Cade Klubnik",
@@ -1217,6 +1218,12 @@
       "position": "DE"
     },
     {
+      "id": "2449",
+      "gsis_id": "00-0031588",
+      "name": "Stefon Diggs",
+      "position": "WR"
+    },
+    {
       "id": "2617",
       "gsis_id": " 00-0031898",
       "name": "Alex Singleton",
@@ -1263,6 +1270,12 @@
       "gsis_id": "00-0033906",
       "name": "Alvin Kamara",
       "position": "RB"
+    },
+    {
+      "id": "4037",
+      "gsis_id": "00-0033921",
+      "name": "Chris Godwin",
+      "position": "WR"
     },
     {
       "id": "4046",
@@ -1647,12 +1660,6 @@
       "gsis_id": null,
       "name": "Antoine Winfield",
       "position": "DB"
-    },
-    {
-      "id": "6900",
-      "gsis_id": null,
-      "name": "Jonathan Greenard",
-      "position": "DE"
     },
     {
       "id": "6904",
@@ -2099,5 +2106,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 62
+  "_gsis_resolved": 64
 }
