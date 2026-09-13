@@ -260,22 +260,6 @@
     "team": "KC",
     "years_exp": 3
   },
-  "11370": {
-    "age": 26,
-    "birth_date": "2000-01-11",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Chris",
-    "full_name": "Chris Brooks",
-    "gsis_id": null,
-    "last_name": "Brooks",
-    "player_id": "11370",
-    "position": "RB",
-    "status": "Active",
-    "team": "GB",
-    "years_exp": 3
-  },
   "11559": {
     "age": 26,
     "birth_date": "2000-05-08",
@@ -450,22 +434,6 @@
     "position": "TE",
     "status": "Active",
     "team": "LV",
-    "years_exp": 2
-  },
-  "11618": {
-    "age": 24,
-    "birth_date": "2001-12-07",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Jalen",
-    "full_name": "Jalen McMillan",
-    "gsis_id": null,
-    "last_name": "McMillan",
-    "player_id": "11618",
-    "position": "WR",
-    "status": "Active",
-    "team": "TB",
     "years_exp": 2
   },
   "11620": {
@@ -741,6 +709,23 @@
     "team": "GB",
     "years_exp": 2
   },
+  "11703": {
+    "age": 25,
+    "birth_date": "2001-03-13",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Jalyx",
+    "full_name": "Jalyx Hunt",
+    "gsis_id": null,
+    "last_name": "Hunt",
+    "player_id": "11703",
+    "position": "DL",
+    "status": "Active",
+    "team": "PHI",
+    "years_exp": 2
+  },
   "11705": {
     "age": 25,
     "birth_date": "2001-02-18",
@@ -804,6 +789,22 @@
     "status": "Active",
     "team": "DAL",
     "years_exp": 2
+  },
+  "12474": {
+    "age": 25,
+    "birth_date": "2000-12-29",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Woody",
+    "full_name": "Woody Marks",
+    "gsis_id": null,
+    "last_name": "Marks",
+    "player_id": "12474",
+    "position": "RB",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 1
   },
   "12481": {
     "age": 24,
@@ -1846,7 +1847,7 @@
     "last_name": "Stowers",
     "player_id": "13349",
     "position": "TE",
-    "status": "Active",
+    "status": "Inactive",
     "team": "PHI",
     "years_exp": 0
   },
@@ -1975,7 +1976,7 @@
     "last_name": "McDonald",
     "player_id": "13374",
     "position": "DL",
-    "status": "Active",
+    "status": "Inactive",
     "team": "HOU",
     "years_exp": 0
   },
@@ -2412,22 +2413,6 @@
     "team": "SF",
     "years_exp": 12
   },
-  "2227": {
-    "age": 35,
-    "birth_date": "1991-05-23",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Aaron",
-    "full_name": "Aaron Donald",
-    "gsis_id": "00-0031388",
-    "last_name": "Donald",
-    "player_id": "2227",
-    "position": "DT",
-    "status": "Active",
-    "team": "LAR",
-    "years_exp": 12
-  },
   "2393": {
     "age": 31,
     "birth_date": "1994-10-29",
@@ -2553,7 +2538,7 @@
     "last_name": "Garrett",
     "player_id": "3973",
     "position": "DE",
-    "status": "Active",
+    "status": "Inactive",
     "team": "LAR",
     "years_exp": 9
   },
@@ -3359,6 +3344,22 @@
     "position": "DT",
     "status": "Active",
     "team": "TEN",
+    "years_exp": 7
+  },
+  "6141": {
+    "age": 31,
+    "birth_date": "1995-08-15",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Drue",
+    "full_name": "Drue Tranquill",
+    "gsis_id": " 00-0035262",
+    "last_name": "Tranquill",
+    "player_id": "6141",
+    "position": "LB",
+    "status": "Active",
+    "team": "KC",
     "years_exp": 7
   },
   "6183": {
@@ -4723,6 +4724,22 @@
     "position": "WR",
     "status": "Active",
     "team": "IND",
+    "years_exp": 3
+  },
+  "9508": {
+    "age": 25,
+    "birth_date": "2001-06-15",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Tyjae",
+    "full_name": "Tyjae Spears",
+    "gsis_id": null,
+    "last_name": "Spears",
+    "player_id": "9508",
+    "position": "RB",
+    "status": "Active",
+    "team": "TEN",
     "years_exp": 3
   },
   "9509": {

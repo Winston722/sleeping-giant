@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-11",
+  "as_of": "2026-09-13",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -19,7 +19,6 @@
     "10921",
     "10940",
     "10949",
-    "11370",
     "11559",
     "11560",
     "11563",
@@ -31,7 +30,6 @@
     "11586",
     "11603",
     "11604",
-    "11618",
     "11620",
     "11624",
     "11628",
@@ -49,10 +47,12 @@
     "11682",
     "11685",
     "11687",
+    "11703",
     "11705",
     "11742",
     "11760",
     "11783",
+    "12474",
     "12481",
     "12484",
     "12487",
@@ -153,7 +153,6 @@
     "1466",
     "2133",
     "2216",
-    "2227",
     "2393",
     "2449",
     "2617",
@@ -212,6 +211,7 @@
     "6118",
     "6119",
     "6125",
+    "6141",
     "6183",
     "6302",
     "6770",
@@ -297,6 +297,7 @@
     "9488",
     "9493",
     "9500",
+    "9508",
     "9509",
     "9753",
     "9754",
@@ -402,12 +403,6 @@
       "position": "DB"
     },
     {
-      "id": "11370",
-      "gsis_id": null,
-      "name": "Chris Brooks",
-      "position": "RB"
-    },
-    {
       "id": "11559",
       "gsis_id": null,
       "name": "Michael Penix",
@@ -472,12 +467,6 @@
       "gsis_id": null,
       "name": "Brock Bowers",
       "position": "TE"
-    },
-    {
-      "id": "11618",
-      "gsis_id": null,
-      "name": "Jalen McMillan",
-      "position": "WR"
     },
     {
       "id": "11620",
@@ -582,6 +571,12 @@
       "position": "LB"
     },
     {
+      "id": "11703",
+      "gsis_id": null,
+      "name": "Jalyx Hunt",
+      "position": "DL"
+    },
+    {
       "id": "11705",
       "gsis_id": null,
       "name": "Tykee Smith",
@@ -604,6 +599,12 @@
       "gsis_id": null,
       "name": "Ryan Flournoy",
       "position": "WR"
+    },
+    {
+      "id": "12474",
+      "gsis_id": null,
+      "name": "Woody Marks",
+      "position": "RB"
     },
     {
       "id": "12481",
@@ -1206,12 +1207,6 @@
       "position": "WR"
     },
     {
-      "id": "2227",
-      "gsis_id": "00-0031388",
-      "name": "Aaron Donald",
-      "position": "DT"
-    },
-    {
       "id": "2393",
       "gsis_id": "00-0031565",
       "name": "Danielle Hunter",
@@ -1558,6 +1553,12 @@
       "gsis_id": " 00-0035643",
       "name": "Jeffery Simmons",
       "position": "DT"
+    },
+    {
+      "id": "6141",
+      "gsis_id": " 00-0035262",
+      "name": "Drue Tranquill",
+      "position": "LB"
     },
     {
       "id": "6183",
@@ -2068,6 +2069,12 @@
       "gsis_id": null,
       "name": "Josh Downs",
       "position": "WR"
+    },
+    {
+      "id": "9508",
+      "gsis_id": null,
+      "name": "Tyjae Spears",
+      "position": "RB"
     },
     {
       "id": "9509",
