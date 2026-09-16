@@ -260,22 +260,6 @@
     "team": "KC",
     "years_exp": 3
   },
-  "11559": {
-    "age": 26,
-    "birth_date": "2000-05-08",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Michael",
-    "full_name": "Michael Penix",
-    "gsis_id": null,
-    "last_name": "Penix",
-    "player_id": "11559",
-    "position": "QB",
-    "status": "Active",
-    "team": "ATL",
-    "years_exp": 2
-  },
   "11560": {
     "age": 24,
     "birth_date": "2001-11-18",
@@ -790,6 +774,22 @@
     "team": "DAL",
     "years_exp": 2
   },
+  "11834": {
+    "age": 28,
+    "birth_date": "1997-12-12",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Devaughn",
+    "full_name": "Devaughn Vele",
+    "gsis_id": null,
+    "last_name": "Vele",
+    "player_id": "11834",
+    "position": "WR",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 2
+  },
   "12474": {
     "age": 25,
     "birth_date": "2000-12-29",
@@ -836,22 +836,6 @@
     "position": "WR",
     "status": "Inactive",
     "team": "HOU",
-    "years_exp": 1
-  },
-  "12487": {
-    "age": 23,
-    "birth_date": "2003-03-07",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Terrance",
-    "full_name": "Terrance Ferguson",
-    "gsis_id": null,
-    "last_name": "Ferguson",
-    "player_id": "12487",
-    "position": "TE",
-    "status": "Active",
-    "team": "LAR",
     "years_exp": 1
   },
   "12489": {
@@ -1110,23 +1094,6 @@
     "team": "NE",
     "years_exp": 1
   },
-  "12530": {
-    "age": 23,
-    "birth_date": "2003-05-18",
-    "fantasy_positions": [
-      "DB",
-      "WR"
-    ],
-    "first_name": "Travis",
-    "full_name": "Travis Hunter",
-    "gsis_id": null,
-    "last_name": "Hunter",
-    "player_id": "12530",
-    "position": "DB",
-    "status": "Active",
-    "team": "JAX",
-    "years_exp": 1
-  },
   "12533": {
     "age": 25,
     "birth_date": "2001-04-12",
@@ -1332,6 +1299,22 @@
     "gsis_id": null,
     "last_name": "Knight",
     "player_id": "12617",
+    "position": "LB",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 1
+  },
+  "12646": {
+    "age": 23,
+    "birth_date": "2002-10-23",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Barrett",
+    "full_name": "Barrett Carter",
+    "gsis_id": null,
+    "last_name": "Carter",
+    "player_id": "12646",
     "position": "LB",
     "status": "Active",
     "team": "CIN",
@@ -2027,6 +2010,22 @@
     "position": "LB",
     "status": "Active",
     "team": "NYG",
+    "years_exp": 0
+  },
+  "13379": {
+    "age": 21,
+    "birth_date": "2005-04-15",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Josiah",
+    "full_name": "Josiah Trotter",
+    "gsis_id": null,
+    "last_name": "Trotter",
+    "player_id": "13379",
+    "position": "LB",
+    "status": "Active",
+    "team": "TB",
     "years_exp": 0
   },
   "13381": {
@@ -2847,6 +2846,22 @@
     "team": "BUF",
     "years_exp": 8
   },
+  "5001": {
+    "age": 30,
+    "birth_date": "1996-07-11",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Dalton",
+    "full_name": "Dalton Schultz",
+    "gsis_id": "00-0034383",
+    "last_name": "Schultz",
+    "player_id": "5001",
+    "position": "TE",
+    "status": "Active",
+    "team": "HOU",
+    "years_exp": 8
+  },
   "5012": {
     "age": 31,
     "birth_date": "1995-09-06",
@@ -2893,23 +2908,6 @@
     "position": "TE",
     "status": "Active",
     "team": "PHI",
-    "years_exp": 8
-  },
-  "5030": {
-    "age": 30,
-    "birth_date": "1996-06-05",
-    "fantasy_positions": [
-      "DL",
-      "LB"
-    ],
-    "first_name": "Harold",
-    "full_name": "Harold Landry",
-    "gsis_id": "00-0034828",
-    "last_name": "Landry",
-    "player_id": "5030",
-    "position": "LB",
-    "status": "Active",
-    "team": "NE",
     "years_exp": 8
   },
   "5041": {
@@ -3154,22 +3152,6 @@
     "team": "NYG",
     "years_exp": 7
   },
-  "5870": {
-    "age": 29,
-    "birth_date": "1997-05-27",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Daniel",
-    "full_name": "Daniel Jones",
-    "gsis_id": " 00-0035710",
-    "last_name": "Jones",
-    "player_id": "5870",
-    "position": "QB",
-    "status": "Active",
-    "team": "IND",
-    "years_exp": 7
-  },
   "5871": {
     "age": 29,
     "birth_date": "1997-08-20",
@@ -3235,7 +3217,7 @@
     "years_exp": 7
   },
   "5927": {
-    "age": 30,
+    "age": 31,
     "birth_date": "1995-09-15",
     "fantasy_positions": [
       "WR"
@@ -3395,6 +3377,22 @@
     "team": "NO",
     "years_exp": 7
   },
+  "6333": {
+    "age": 29,
+    "birth_date": "1997-06-22",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Keisean",
+    "full_name": "Keisean Nixon",
+    "gsis_id": " 00-0035133",
+    "last_name": "Nixon",
+    "player_id": "6333",
+    "position": "CB",
+    "status": "Active",
+    "team": "GB",
+    "years_exp": 7
+  },
   "6770": {
     "age": 29,
     "birth_date": "1996-12-10",
@@ -3425,22 +3423,6 @@
     "position": "WR",
     "status": "Active",
     "team": "DAL",
-    "years_exp": 6
-  },
-  "6788": {
-    "age": 28,
-    "birth_date": "1998-08-08",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Xavier",
-    "full_name": "Xavier McKinney",
-    "gsis_id": null,
-    "last_name": "McKinney",
-    "player_id": "6788",
-    "position": "DB",
-    "status": "Active",
-    "team": "GB",
     "years_exp": 6
   },
   "6790": {
@@ -3763,6 +3745,22 @@
     "team": "DEN",
     "years_exp": 5
   },
+  "7527": {
+    "age": 28,
+    "birth_date": "1998-09-05",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Mac",
+    "full_name": "Mac Jones",
+    "gsis_id": null,
+    "last_name": "Jones",
+    "player_id": "7527",
+    "position": "QB",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 5
+  },
   "7543": {
     "age": 27,
     "birth_date": "1999-01-26",
@@ -3986,6 +3984,23 @@
     "position": "LB",
     "status": "Active",
     "team": "SEA",
+    "years_exp": 5
+  },
+  "7726": {
+    "age": 27,
+    "birth_date": "1999-05-29",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Derrick",
+    "full_name": "Derrick Barnes",
+    "gsis_id": null,
+    "last_name": "Barnes",
+    "player_id": "7726",
+    "position": "LB",
+    "status": "Active",
+    "team": "DET",
     "years_exp": 5
   },
   "7811": {
@@ -4421,6 +4436,22 @@
     "team": "CAR",
     "years_exp": 4
   },
+  "8330": {
+    "age": 27,
+    "birth_date": "1999-01-29",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Quentin",
+    "full_name": "Quentin Lake",
+    "gsis_id": null,
+    "last_name": "Lake",
+    "player_id": "8330",
+    "position": "DB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 4
+  },
   "8339": {
     "age": 25,
     "birth_date": "2001-03-16",
@@ -4772,22 +4803,6 @@
     "position": "RB",
     "status": "Active",
     "team": "SEA",
-    "years_exp": 3
-  },
-  "9754": {
-    "age": 25,
-    "birth_date": "2001-09-06",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Quentin",
-    "full_name": "Quentin Johnston",
-    "gsis_id": null,
-    "last_name": "Johnston",
-    "player_id": "9754",
-    "position": "WR",
-    "status": "Active",
-    "team": "LAC",
     "years_exp": 3
   },
   "9756": {
