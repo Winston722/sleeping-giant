@@ -260,6 +260,22 @@
     "team": "KC",
     "years_exp": 3
   },
+  "11470": {
+    "age": 26,
+    "birth_date": "2000-02-25",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Drake",
+    "full_name": "Drake Thomas",
+    "gsis_id": null,
+    "last_name": "Thomas",
+    "player_id": "11470",
+    "position": "LB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 3
+  },
   "11560": {
     "age": 24,
     "birth_date": "2001-11-18",
@@ -1126,22 +1142,6 @@
     "team": "CHI",
     "years_exp": 1
   },
-  "12540": {
-    "age": 24,
-    "birth_date": "2001-12-14",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Chimere",
-    "full_name": "Chimere Dike",
-    "gsis_id": null,
-    "last_name": "Dike",
-    "player_id": "12540",
-    "position": "WR",
-    "status": "Active",
-    "team": "TEN",
-    "years_exp": 1
-  },
   "12545": {
     "age": 26,
     "birth_date": "1999-09-28",
@@ -1156,6 +1156,23 @@
     "position": "QB",
     "status": "Active",
     "team": "NO",
+    "years_exp": 1
+  },
+  "12556": {
+    "age": 22,
+    "birth_date": "2003-09-25",
+    "fantasy_positions": [
+      "DL",
+      "LB"
+    ],
+    "first_name": "Donovan",
+    "full_name": "Donovan Ezeiruaku",
+    "gsis_id": null,
+    "last_name": "Ezeiruaku",
+    "player_id": "12556",
+    "position": "DL",
+    "status": "Active",
+    "team": "DAL",
     "years_exp": 1
   },
   "12562": {
@@ -1512,22 +1529,6 @@
     "team": "TEN",
     "years_exp": 0
   },
-  "13289": {
-    "age": 22,
-    "birth_date": "2004-03-08",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Drew",
-    "full_name": "Drew Allar",
-    "gsis_id": null,
-    "last_name": "Allar",
-    "player_id": "13289",
-    "position": "QB",
-    "status": "Active",
-    "team": "PIT",
-    "years_exp": 0
-  },
   "13293": {
     "age": 22,
     "birth_date": "2004-05-05",
@@ -1540,7 +1541,7 @@
     "last_name": "Lane",
     "player_id": "13293",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "BAL",
     "years_exp": 0
   },
@@ -2232,7 +2233,7 @@
     "last_name": "Stribling",
     "player_id": "13417",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "SF",
     "years_exp": 0
   },
@@ -2590,7 +2591,7 @@
     "years_exp": 9
   },
   "4046": {
-    "age": 30,
+    "age": 31,
     "birth_date": "1995-09-17",
     "fantasy_positions": [
       "QB"
@@ -3310,22 +3311,6 @@
     "position": "LB",
     "status": "Active",
     "team": "DET",
-    "years_exp": 7
-  },
-  "6125": {
-    "age": 29,
-    "birth_date": "1997-07-28",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Jeffery",
-    "full_name": "Jeffery Simmons",
-    "gsis_id": " 00-0035643",
-    "last_name": "Simmons",
-    "player_id": "6125",
-    "position": "DT",
-    "status": "Active",
-    "team": "TEN",
     "years_exp": 7
   },
   "6141": {
@@ -4291,6 +4276,22 @@
     "team": "NYJ",
     "years_exp": 4
   },
+  "8161": {
+    "age": 27,
+    "birth_date": "1999-05-25",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Malik",
+    "full_name": "Malik Willis",
+    "gsis_id": null,
+    "last_name": "Willis",
+    "player_id": "8161",
+    "position": "QB",
+    "status": "Active",
+    "team": "MIA",
+    "years_exp": 4
+  },
   "8167": {
     "age": 27,
     "birth_date": "1999-05-12",
@@ -4529,7 +4530,7 @@
     "last_name": "Mason",
     "player_id": "8408",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "MIN",
     "years_exp": 4
   },

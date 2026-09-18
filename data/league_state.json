@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16",
+  "as_of": "2026-09-18",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -19,6 +19,7 @@
     "10921",
     "10940",
     "10949",
+    "11470",
     "11560",
     "11563",
     "11564",
@@ -73,8 +74,8 @@
     "12529",
     "12533",
     "12534",
-    "12540",
     "12545",
+    "12556",
     "12562",
     "12566",
     "12567",
@@ -97,7 +98,6 @@
     "13286",
     "13287",
     "13288",
-    "13289",
     "13293",
     "13294",
     "13296",
@@ -209,7 +209,6 @@
     "5991",
     "6118",
     "6119",
-    "6125",
     "6141",
     "6183",
     "6302",
@@ -270,6 +269,7 @@
     "8150",
     "8151",
     "8155",
+    "8161",
     "8167",
     "8183",
     "8228",
@@ -402,6 +402,12 @@
       "gsis_id": null,
       "name": "Chamarri Conner",
       "position": "DB"
+    },
+    {
+      "id": "11470",
+      "gsis_id": null,
+      "name": "Drake Thomas",
+      "position": "LB"
     },
     {
       "id": "11560",
@@ -728,16 +734,16 @@
       "position": "RB"
     },
     {
-      "id": "12540",
-      "gsis_id": null,
-      "name": "Chimere Dike",
-      "position": "WR"
-    },
-    {
       "id": "12545",
       "gsis_id": null,
       "name": "Tyler Shough",
       "position": "QB"
+    },
+    {
+      "id": "12556",
+      "gsis_id": null,
+      "name": "Donovan Ezeiruaku",
+      "position": "DL"
     },
     {
       "id": "12562",
@@ -870,12 +876,6 @@
       "gsis_id": null,
       "name": "Nicholas Singleton",
       "position": "RB"
-    },
-    {
-      "id": "13289",
-      "gsis_id": null,
-      "name": "Drew Allar",
-      "position": "QB"
     },
     {
       "id": "13293",
@@ -1544,12 +1544,6 @@
       "position": "LB"
     },
     {
-      "id": "6125",
-      "gsis_id": " 00-0035643",
-      "name": "Jeffery Simmons",
-      "position": "DT"
-    },
-    {
       "id": "6141",
       "gsis_id": " 00-0035262",
       "name": "Drue Tranquill",
@@ -1910,6 +1904,12 @@
       "position": "RB"
     },
     {
+      "id": "8161",
+      "gsis_id": null,
+      "name": "Malik Willis",
+      "position": "QB"
+    },
+    {
       "id": "8167",
       "gsis_id": null,
       "name": "Christian Watson",
@@ -2120,5 +2120,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 64
+  "_gsis_resolved": 63
 }
