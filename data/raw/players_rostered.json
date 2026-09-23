@@ -1,20 +1,4 @@
 {
-  "10219": {
-    "age": 26,
-    "birth_date": "1999-09-26",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Chris",
-    "full_name": "Chris Rodriguez",
-    "gsis_id": null,
-    "last_name": "Rodriguez",
-    "player_id": "10219",
-    "position": "RB",
-    "status": "Active",
-    "team": "JAX",
-    "years_exp": 3
-  },
   "10222": {
     "age": 26,
     "birth_date": "2000-04-28",
@@ -109,6 +93,22 @@
     "position": "LB",
     "status": "Active",
     "team": "DET",
+    "years_exp": 3
+  },
+  "10885": {
+    "age": 25,
+    "birth_date": "2001-07-06",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Lukas",
+    "full_name": "Lukas Van Ness",
+    "gsis_id": null,
+    "last_name": "Van Ness",
+    "player_id": "10885",
+    "position": "DL",
+    "status": "Active",
+    "team": "GB",
     "years_exp": 3
   },
   "10888": {
@@ -210,21 +210,20 @@
     "team": "LAR",
     "years_exp": 3
   },
-  "10921": {
-    "age": 27,
-    "birth_date": "1999-05-30",
+  "10927": {
+    "age": 25,
+    "birth_date": "2000-12-14",
     "fantasy_positions": [
-      "DL",
-      "LB"
+      "DB"
     ],
-    "first_name": "Yaya",
-    "full_name": "Yaya Diaby",
+    "first_name": "Jordan",
+    "full_name": "Jordan Battle",
     "gsis_id": null,
-    "last_name": "Diaby",
-    "player_id": "10921",
-    "position": "DL",
+    "last_name": "Battle",
+    "player_id": "10927",
+    "position": "DB",
     "status": "Active",
-    "team": "TB",
+    "team": "CIN",
     "years_exp": 3
   },
   "10940": {
@@ -242,22 +241,6 @@
     "position": "LB",
     "status": "Active",
     "team": "PIT",
-    "years_exp": 3
-  },
-  "10949": {
-    "age": 26,
-    "birth_date": "2000-07-11",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Chamarri",
-    "full_name": "Chamarri Conner",
-    "gsis_id": null,
-    "last_name": "Conner",
-    "player_id": "10949",
-    "position": "DB",
-    "status": "Active",
-    "team": "KC",
     "years_exp": 3
   },
   "11470": {
@@ -368,7 +351,7 @@
     "last_name": "Brooks",
     "player_id": "11583",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "CAR",
     "years_exp": 2
   },
@@ -436,6 +419,22 @@
     "team": "LV",
     "years_exp": 2
   },
+  "11610": {
+    "age": 25,
+    "birth_date": "2001-01-04",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Malik",
+    "full_name": "Malik Washington",
+    "gsis_id": null,
+    "last_name": "Washington",
+    "player_id": "11610",
+    "position": "WR",
+    "status": "Active",
+    "team": "MIA",
+    "years_exp": 2
+  },
   "11620": {
     "age": 24,
     "birth_date": "2002-06-03",
@@ -466,6 +465,22 @@
     "position": "WR",
     "status": "Active",
     "team": "KC",
+    "years_exp": 2
+  },
+  "11625": {
+    "age": 23,
+    "birth_date": "2002-10-08",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Adonai",
+    "full_name": "Adonai Mitchell",
+    "gsis_id": null,
+    "last_name": "Mitchell",
+    "player_id": "11625",
+    "position": "WR",
+    "status": "Active",
+    "team": "NYJ",
     "years_exp": 2
   },
   "11628": {
@@ -742,22 +757,6 @@
     "team": "TB",
     "years_exp": 2
   },
-  "11742": {
-    "age": 23,
-    "birth_date": "2002-10-30",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Cedric",
-    "full_name": "Cedric Gray",
-    "gsis_id": null,
-    "last_name": "Gray",
-    "player_id": "11742",
-    "position": "LB",
-    "status": "Active",
-    "team": "TEN",
-    "years_exp": 2
-  },
   "11760": {
     "age": 23,
     "birth_date": "2002-12-14",
@@ -852,6 +851,22 @@
     "position": "WR",
     "status": "Inactive",
     "team": "HOU",
+    "years_exp": 1
+  },
+  "12487": {
+    "age": 23,
+    "birth_date": "2003-03-07",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Terrance",
+    "full_name": "Terrance Ferguson",
+    "gsis_id": null,
+    "last_name": "Ferguson",
+    "player_id": "12487",
+    "position": "TE",
+    "status": "Active",
+    "team": "LAR",
     "years_exp": 1
   },
   "12489": {
@@ -1321,20 +1336,20 @@
     "team": "CIN",
     "years_exp": 1
   },
-  "12646": {
-    "age": 23,
-    "birth_date": "2002-10-23",
+  "12668": {
+    "age": 24,
+    "birth_date": "2002-07-18",
     "fantasy_positions": [
-      "LB"
+      "DB"
     ],
-    "first_name": "Barrett",
-    "full_name": "Barrett Carter",
+    "first_name": "Marques",
+    "full_name": "Marques Sigle",
     "gsis_id": null,
-    "last_name": "Carter",
-    "player_id": "12646",
-    "position": "LB",
+    "last_name": "Sigle",
+    "player_id": "12668",
+    "position": "DB",
     "status": "Active",
-    "team": "CIN",
+    "team": "SF",
     "years_exp": 1
   },
   "13269": {
@@ -1578,7 +1593,7 @@
     "years_exp": 0
   },
   "13298": {
-    "age": 21,
+    "age": 22,
     "birth_date": "2004-09-23",
     "fantasy_positions": [
       "WR"
@@ -2575,22 +2590,6 @@
     "team": "NO",
     "years_exp": 9
   },
-  "4037": {
-    "age": 30,
-    "birth_date": "1996-02-27",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Chris",
-    "full_name": "Chris Godwin",
-    "gsis_id": "00-0033921",
-    "last_name": "Godwin",
-    "player_id": "4037",
-    "position": "WR",
-    "status": "Active",
-    "team": "TB",
-    "years_exp": 9
-  },
   "4046": {
     "age": 31,
     "birth_date": "1995-09-17",
@@ -2784,6 +2783,22 @@
     "team": "SEA",
     "years_exp": 8
   },
+  "4950": {
+    "age": 29,
+    "birth_date": "1996-11-18",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Christian",
+    "full_name": "Christian Kirk",
+    "gsis_id": "00-0034775",
+    "last_name": "Kirk",
+    "player_id": "4950",
+    "position": "WR",
+    "status": "Inactive",
+    "team": "SF",
+    "years_exp": 8
+  },
   "4960": {
     "age": 29,
     "birth_date": "1997-04-08",
@@ -2926,22 +2941,6 @@
     "position": "LB",
     "status": "Active",
     "team": "SF",
-    "years_exp": 8
-  },
-  "5045": {
-    "age": 30,
-    "birth_date": "1995-10-10",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Courtland",
-    "full_name": "Courtland Sutton",
-    "gsis_id": "00-0034348",
-    "last_name": "Sutton",
-    "player_id": "5045",
-    "position": "WR",
-    "status": "Active",
-    "team": "DEN",
     "years_exp": 8
   },
   "5332": {
@@ -3119,6 +3118,22 @@
     "position": "RB",
     "status": "Active",
     "team": "GB",
+    "years_exp": 7
+  },
+  "5854": {
+    "age": 29,
+    "birth_date": "1996-11-10",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Drew",
+    "full_name": "Drew Lock",
+    "gsis_id": " 00-0035704",
+    "last_name": "Lock",
+    "player_id": "5854",
+    "position": "QB",
+    "status": "Active",
+    "team": "SEA",
     "years_exp": 7
   },
   "5859": {
@@ -3314,6 +3329,22 @@
     "team": "DET",
     "years_exp": 7
   },
+  "6125": {
+    "age": 29,
+    "birth_date": "1997-07-28",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Jeffery",
+    "full_name": "Jeffery Simmons",
+    "gsis_id": " 00-0035643",
+    "last_name": "Simmons",
+    "player_id": "6125",
+    "position": "DT",
+    "status": "Active",
+    "team": "TEN",
+    "years_exp": 7
+  },
   "6141": {
     "age": 31,
     "birth_date": "1995-08-15",
@@ -3342,6 +3373,22 @@
     "gsis_id": " 00-0035272",
     "last_name": "Van Ginkel",
     "player_id": "6183",
+    "position": "LB",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 7
+  },
+  "6217": {
+    "age": 30,
+    "birth_date": "1996-05-10",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Blake",
+    "full_name": "Blake Cashman",
+    "gsis_id": " 00-0035276",
+    "last_name": "Cashman",
+    "player_id": "6217",
     "position": "LB",
     "status": "Active",
     "team": "MIN",
@@ -3571,22 +3618,6 @@
     "team": "PHI",
     "years_exp": 6
   },
-  "6819": {
-    "age": 28,
-    "birth_date": "1997-10-05",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Michael",
-    "full_name": "Michael Pittman",
-    "gsis_id": null,
-    "last_name": "Pittman",
-    "player_id": "6819",
-    "position": "WR",
-    "status": "Active",
-    "team": "PIT",
-    "years_exp": 6
-  },
   "6888": {
     "age": 28,
     "birth_date": "1998-08-16",
@@ -3649,22 +3680,6 @@
     "position": "RB",
     "status": "Active",
     "team": "PIT",
-    "years_exp": 6
-  },
-  "7049": {
-    "age": 29,
-    "birth_date": "1997-07-10",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Jauan",
-    "full_name": "Jauan Jennings",
-    "gsis_id": null,
-    "last_name": "Jennings",
-    "player_id": "7049",
-    "position": "WR",
-    "status": "Active",
-    "team": "MIN",
     "years_exp": 6
   },
   "7136": {
@@ -3895,7 +3910,8 @@
     "age": 26,
     "birth_date": "2000-04-05",
     "fantasy_positions": [
-      "DL"
+      "DL",
+      "LB"
     ],
     "first_name": "Greg",
     "full_name": "Greg Rousseau",
@@ -4213,22 +4229,6 @@
     "team": "NYJ",
     "years_exp": 4
   },
-  "8148": {
-    "age": 25,
-    "birth_date": "2001-03-26",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Jameson",
-    "full_name": "Jameson Williams",
-    "gsis_id": null,
-    "last_name": "Williams",
-    "player_id": "8148",
-    "position": "WR",
-    "status": "Active",
-    "team": "DET",
-    "years_exp": 4
-  },
   "8150": {
     "age": 26,
     "birth_date": "2000-08-26",
@@ -4487,22 +4487,6 @@
     "team": "NYG",
     "years_exp": 4
   },
-  "8359": {
-    "age": 27,
-    "birth_date": "1998-10-22",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Marcus",
-    "full_name": "Marcus Jones",
-    "gsis_id": null,
-    "last_name": "Jones",
-    "player_id": "8359",
-    "position": "DB",
-    "status": "Active",
-    "team": "NE",
-    "years_exp": 4
-  },
   "8392": {
     "age": 25,
     "birth_date": "2001-09-10",
@@ -4693,6 +4677,22 @@
     "position": "TE",
     "status": "Active",
     "team": "GB",
+    "years_exp": 3
+  },
+  "9486": {
+    "age": 25,
+    "birth_date": "2001-06-16",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Dontayvion",
+    "full_name": "Dontayvion Wicks",
+    "gsis_id": null,
+    "last_name": "Wicks",
+    "player_id": "9486",
+    "position": "WR",
+    "status": "Active",
+    "team": "PHI",
     "years_exp": 3
   },
   "9487": {
