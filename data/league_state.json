@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-23",
+  "as_of": "2026-09-25",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -18,6 +18,7 @@
     "10917",
     "10927",
     "10940",
+    "11435",
     "11470",
     "11560",
     "11563",
@@ -40,13 +41,13 @@
     "11638",
     "11646",
     "11655",
+    "1166",
     "11665",
     "11667",
     "11669",
     "11674",
     "11678",
     "11682",
-    "11685",
     "11687",
     "11703",
     "11705",
@@ -83,10 +84,8 @@
     "12568",
     "12574",
     "12578",
-    "12591",
     "12597",
     "12617",
-    "12668",
     "13269",
     "13272",
     "13274",
@@ -137,7 +136,6 @@
     "13389",
     "13390",
     "13395",
-    "13402",
     "13411",
     "13413",
     "13414",
@@ -154,6 +152,7 @@
     "1466",
     "2133",
     "2216",
+    "2306",
     "2393",
     "2449",
     "2617",
@@ -176,7 +175,6 @@
     "4881",
     "4892",
     "4943",
-    "4950",
     "4960",
     "4971",
     "4983",
@@ -204,12 +202,12 @@
     "5872",
     "5876",
     "5892",
+    "5908",
     "5927",
     "5947",
     "5967",
     "5991",
     "6118",
-    "6119",
     "6125",
     "6141",
     "6183",
@@ -231,7 +229,9 @@
     "6888",
     "6904",
     "6949",
+    "7002",
     "7021",
+    "7113",
     "7136",
     "7523",
     "7525",
@@ -250,6 +250,7 @@
     "7640",
     "7648",
     "7659",
+    "7666",
     "7672",
     "7726",
     "7811",
@@ -260,12 +261,12 @@
     "8130",
     "8131",
     "8132",
-    "8134",
     "8137",
     "8138",
     "8142",
     "8144",
     "8146",
+    "8148",
     "8150",
     "8151",
     "8155",
@@ -276,12 +277,13 @@
     "8266",
     "8267",
     "8280",
+    "8286",
     "8289",
-    "8314",
     "8329",
     "8330",
     "8339",
     "8355",
+    "8364",
     "8392",
     "8408",
     "8659",
@@ -396,6 +398,12 @@
       "gsis_id": null,
       "name": "Nick Herbig",
       "position": "LB"
+    },
+    {
+      "id": "11435",
+      "gsis_id": null,
+      "name": "Emanuel Wilson",
+      "position": "RB"
     },
     {
       "id": "11470",
@@ -530,6 +538,12 @@
       "position": "RB"
     },
     {
+      "id": "1166",
+      "gsis_id": "00-0029604",
+      "name": "Kirk Cousins",
+      "position": "QB"
+    },
+    {
       "id": "11665",
       "gsis_id": null,
       "name": "Jared Verse",
@@ -563,12 +577,6 @@
       "id": "11682",
       "gsis_id": null,
       "name": "Cole Bishop",
-      "position": "DB"
-    },
-    {
-      "id": "11685",
-      "gsis_id": null,
-      "name": "Kamari Lassiter",
       "position": "DB"
     },
     {
@@ -788,12 +796,6 @@
       "position": "LB"
     },
     {
-      "id": "12591",
-      "gsis_id": null,
-      "name": "Xavier Watts",
-      "position": "DB"
-    },
-    {
       "id": "12597",
       "gsis_id": null,
       "name": "Nick Emmanwori",
@@ -804,12 +806,6 @@
       "gsis_id": null,
       "name": "Demetrius Knight",
       "position": "LB"
-    },
-    {
-      "id": "12668",
-      "gsis_id": null,
-      "name": "Marques Sigle",
-      "position": "DB"
     },
     {
       "id": "13269",
@@ -1112,12 +1108,6 @@
       "position": "DL"
     },
     {
-      "id": "13402",
-      "gsis_id": null,
-      "name": "Skyler Bell",
-      "position": "WR"
-    },
-    {
       "id": "13411",
       "gsis_id": null,
       "name": "Zavion Thomas",
@@ -1212,6 +1202,12 @@
       "gsis_id": "00-0031408",
       "name": "Mike Evans",
       "position": "WR"
+    },
+    {
+      "id": "2306",
+      "gsis_id": "00-0031503",
+      "name": "Jameis Winston",
+      "position": "QB"
     },
     {
       "id": "2393",
@@ -1344,12 +1340,6 @@
       "gsis_id": "00-0034869",
       "name": "Sam Darnold",
       "position": "QB"
-    },
-    {
-      "id": "4950",
-      "gsis_id": "00-0034775",
-      "name": "Christian Kirk",
-      "position": "WR"
     },
     {
       "id": "4960",
@@ -1514,6 +1504,12 @@
       "position": "RB"
     },
     {
+      "id": "5908",
+      "gsis_id": " 00-0035632",
+      "name": "Amani Hooker",
+      "position": "DB"
+    },
+    {
       "id": "5927",
       "gsis_id": " 00-0035659",
       "name": "Terry McLaurin",
@@ -1542,12 +1538,6 @@
       "gsis_id": " 00-0035718",
       "name": "Quinnen Williams",
       "position": "DT"
-    },
-    {
-      "id": "6119",
-      "gsis_id": " 00-0035707",
-      "name": "Devin White",
-      "position": "LB"
     },
     {
       "id": "6125",
@@ -1676,10 +1666,22 @@
       "position": "LB"
     },
     {
+      "id": "7002",
+      "gsis_id": null,
+      "name": "Juwan Johnson",
+      "position": "TE"
+    },
+    {
       "id": "7021",
       "gsis_id": null,
       "name": "Rico Dowdle",
       "position": "RB"
+    },
+    {
+      "id": "7113",
+      "gsis_id": null,
+      "name": "Alex Highsmith",
+      "position": "LB"
     },
     {
       "id": "7136",
@@ -1790,6 +1792,12 @@
       "position": "DB"
     },
     {
+      "id": "7666",
+      "gsis_id": null,
+      "name": "Jevon Holland",
+      "position": "DB"
+    },
+    {
       "id": "7672",
       "gsis_id": null,
       "name": "Ernest Jones",
@@ -1850,12 +1858,6 @@
       "position": "RB"
     },
     {
-      "id": "8134",
-      "gsis_id": null,
-      "name": "Khalil Shakir",
-      "position": "WR"
-    },
-    {
       "id": "8137",
       "gsis_id": null,
       "name": "George Pickens",
@@ -1883,6 +1885,12 @@
       "id": "8146",
       "gsis_id": null,
       "name": "Garrett Wilson",
+      "position": "WR"
+    },
+    {
+      "id": "8148",
+      "gsis_id": null,
+      "name": "Jameson Williams",
       "position": "WR"
     },
     {
@@ -1946,16 +1954,16 @@
       "position": "LB"
     },
     {
+      "id": "8286",
+      "gsis_id": null,
+      "name": "Dax Hill",
+      "position": "DB"
+    },
+    {
       "id": "8289",
       "gsis_id": null,
       "name": "Aidan Hutchinson",
       "position": "DL"
-    },
-    {
-      "id": "8314",
-      "gsis_id": null,
-      "name": "Jalen Pitre",
-      "position": "DB"
     },
     {
       "id": "8329",
@@ -1980,6 +1988,12 @@
       "gsis_id": null,
       "name": "Kayvon Thibodeaux",
       "position": "DL"
+    },
+    {
+      "id": "8364",
+      "gsis_id": null,
+      "name": "Trent McDuffie",
+      "position": "DB"
     },
     {
       "id": "8392",
@@ -2120,5 +2134,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 65
+  "_gsis_resolved": 66
 }
