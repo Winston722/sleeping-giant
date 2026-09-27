@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-25",
+  "as_of": "2026-09-27",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -86,6 +86,7 @@
     "12578",
     "12597",
     "12617",
+    "12652",
     "13269",
     "13272",
     "13274",
@@ -155,6 +156,7 @@
     "2306",
     "2393",
     "2449",
+    "2505",
     "2617",
     "3163",
     "3198",
@@ -195,7 +197,6 @@
     "5847",
     "5849",
     "5850",
-    "5854",
     "5859",
     "5862",
     "5871",
@@ -808,6 +809,12 @@
       "position": "LB"
     },
     {
+      "id": "12652",
+      "gsis_id": null,
+      "name": "Deone Walker",
+      "position": "DT"
+    },
+    {
       "id": "13269",
       "gsis_id": null,
       "name": "Fernando Mendoza",
@@ -1222,6 +1229,12 @@
       "position": "WR"
     },
     {
+      "id": "2505",
+      "gsis_id": "00-0031610",
+      "name": "Darren Waller",
+      "position": "TE"
+    },
+    {
       "id": "2617",
       "gsis_id": " 00-0031898",
       "name": "Alex Singleton",
@@ -1460,12 +1473,6 @@
       "gsis_id": " 00-0035700",
       "name": "Josh Jacobs",
       "position": "RB"
-    },
-    {
-      "id": "5854",
-      "gsis_id": " 00-0035704",
-      "name": "Drew Lock",
-      "position": "QB"
     },
     {
       "id": "5859",

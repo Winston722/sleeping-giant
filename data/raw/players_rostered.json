@@ -1336,6 +1336,22 @@
     "team": "CIN",
     "years_exp": 1
   },
+  "12652": {
+    "age": 22,
+    "birth_date": "2004-03-11",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Deone",
+    "full_name": "Deone Walker",
+    "gsis_id": null,
+    "last_name": "Walker",
+    "player_id": "12652",
+    "position": "DT",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 1
+  },
   "13269": {
     "age": 22,
     "birth_date": "2003-10-01",
@@ -1798,7 +1814,7 @@
     "last_name": "Coleman",
     "player_id": "13345",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DEN",
     "years_exp": 0
   },
@@ -2446,6 +2462,22 @@
     "team": "WAS",
     "years_exp": 11
   },
+  "2505": {
+    "age": 34,
+    "birth_date": "1992-09-13",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Darren",
+    "full_name": "Darren Waller",
+    "gsis_id": "00-0031610",
+    "last_name": "Waller",
+    "player_id": "2505",
+    "position": "TE",
+    "status": "Active",
+    "team": "CAR",
+    "years_exp": 11
+  },
   "2617": {
     "age": 32,
     "birth_date": "1993-12-07",
@@ -3088,22 +3120,6 @@
     "team": "GB",
     "years_exp": 7
   },
-  "5854": {
-    "age": 29,
-    "birth_date": "1996-11-10",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Drew",
-    "full_name": "Drew Lock",
-    "gsis_id": " 00-0035704",
-    "last_name": "Lock",
-    "player_id": "5854",
-    "position": "QB",
-    "status": "Active",
-    "team": "SEA",
-    "years_exp": 7
-  },
   "5859": {
     "age": 29,
     "birth_date": "1997-06-30",
@@ -3662,7 +3678,7 @@
     "last_name": "Dowdle",
     "player_id": "7021",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "PIT",
     "years_exp": 6
   },
@@ -4391,7 +4407,7 @@
     "years_exp": 4
   },
   "8280": {
-    "age": 26,
+    "age": 27,
     "birth_date": "1999-09-26",
     "fantasy_positions": [
       "DL",
