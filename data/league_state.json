@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-27",
+  "as_of": "2026-09-29",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -44,7 +44,6 @@
     "1166",
     "11665",
     "11667",
-    "11669",
     "11674",
     "11678",
     "11682",
@@ -555,12 +554,6 @@
       "gsis_id": null,
       "name": "Dallas Turner",
       "position": "LB"
-    },
-    {
-      "id": "11669",
-      "gsis_id": null,
-      "name": "Laiatu Latu",
-      "position": "DL"
     },
     {
       "id": "11674",
