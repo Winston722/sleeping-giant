@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-29",
+  "as_of": "2026-09-30",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -16,14 +16,14 @@
     "10905",
     "10914",
     "10917",
-    "10927",
     "10940",
-    "11435",
     "11470",
+    "11559",
     "11560",
     "11563",
     "11564",
     "11566",
+    "11576",
     "11581",
     "11583",
     "11584",
@@ -34,21 +34,21 @@
     "11620",
     "11624",
     "11625",
-    "11628",
     "11631",
     "11632",
     "11635",
     "11638",
+    "11643",
     "11646",
     "11655",
     "1166",
     "11665",
     "11667",
     "11674",
+    "11675",
     "11678",
     "11682",
     "11687",
-    "11703",
     "11705",
     "11760",
     "11783",
@@ -59,6 +59,7 @@
     "12487",
     "12489",
     "12490",
+    "12495",
     "12501",
     "12504",
     "12506",
@@ -81,6 +82,7 @@
     "12566",
     "12567",
     "12568",
+    "12573",
     "12574",
     "12578",
     "12597",
@@ -161,6 +163,7 @@
     "3198",
     "3214",
     "3294",
+    "3634",
     "3973",
     "4034",
     "4035",
@@ -180,7 +183,6 @@
     "4971",
     "4983",
     "4984",
-    "5001",
     "5012",
     "5017",
     "5022",
@@ -197,7 +199,6 @@
     "5849",
     "5850",
     "5859",
-    "5862",
     "5871",
     "5872",
     "5876",
@@ -227,6 +228,7 @@
     "6813",
     "6815",
     "6888",
+    "6896",
     "6904",
     "6949",
     "7002",
@@ -250,7 +252,6 @@
     "7640",
     "7648",
     "7659",
-    "7666",
     "7672",
     "7726",
     "7811",
@@ -269,6 +270,7 @@
     "8148",
     "8150",
     "8151",
+    "8154",
     "8155",
     "8161",
     "8167",
@@ -277,7 +279,6 @@
     "8266",
     "8267",
     "8280",
-    "8286",
     "8289",
     "8329",
     "8330",
@@ -285,9 +286,9 @@
     "8355",
     "8364",
     "8392",
+    "8395",
     "8408",
     "8659",
-    "8676",
     "9221",
     "9224",
     "9225",
@@ -303,8 +304,10 @@
     "9500",
     "9508",
     "9509",
+    "9511",
     "9753",
     "9756",
+    "9757",
     "9758",
     "9997"
   ],
@@ -388,28 +391,22 @@
       "position": "LB"
     },
     {
-      "id": "10927",
-      "gsis_id": null,
-      "name": "Jordan Battle",
-      "position": "DB"
-    },
-    {
       "id": "10940",
       "gsis_id": null,
       "name": "Nick Herbig",
       "position": "LB"
     },
     {
-      "id": "11435",
-      "gsis_id": null,
-      "name": "Emanuel Wilson",
-      "position": "RB"
-    },
-    {
       "id": "11470",
       "gsis_id": null,
       "name": "Drake Thomas",
       "position": "LB"
+    },
+    {
+      "id": "11559",
+      "gsis_id": null,
+      "name": "Michael Penix",
+      "position": "QB"
     },
     {
       "id": "11560",
@@ -434,6 +431,12 @@
       "gsis_id": null,
       "name": "Jayden Daniels",
       "position": "QB"
+    },
+    {
+      "id": "11576",
+      "gsis_id": null,
+      "name": "Braelon Allen",
+      "position": "RB"
     },
     {
       "id": "11581",
@@ -496,12 +499,6 @@
       "position": "WR"
     },
     {
-      "id": "11628",
-      "gsis_id": null,
-      "name": "Marvin Harrison",
-      "position": "WR"
-    },
-    {
       "id": "11631",
       "gsis_id": null,
       "name": "Brian Thomas",
@@ -524,6 +521,12 @@
       "gsis_id": null,
       "name": "Ricky Pearsall",
       "position": "WR"
+    },
+    {
+      "id": "11643",
+      "gsis_id": null,
+      "name": "Jaylen Wright",
+      "position": "RB"
     },
     {
       "id": "11646",
@@ -562,6 +565,12 @@
       "position": "DB"
     },
     {
+      "id": "11675",
+      "gsis_id": null,
+      "name": "Kool-Aid McKinstry",
+      "position": "DB"
+    },
+    {
       "id": "11678",
       "gsis_id": null,
       "name": "Cooper DeJean",
@@ -578,12 +587,6 @@
       "gsis_id": null,
       "name": "Edgerrin Cooper",
       "position": "LB"
-    },
-    {
-      "id": "11703",
-      "gsis_id": null,
-      "name": "Jalyx Hunt",
-      "position": "DL"
     },
     {
       "id": "11705",
@@ -643,6 +646,12 @@
       "id": "12490",
       "gsis_id": null,
       "name": "Bhayshul Tuten",
+      "position": "RB"
+    },
+    {
+      "id": "12495",
+      "gsis_id": null,
+      "name": "Ollie Gordon",
       "position": "RB"
     },
     {
@@ -775,6 +784,12 @@
       "id": "12568",
       "gsis_id": null,
       "name": "Jalon Walker",
+      "position": "DL"
+    },
+    {
+      "id": "12573",
+      "gsis_id": null,
+      "name": "Mason Graham",
       "position": "DL"
     },
     {
@@ -1258,6 +1273,12 @@
       "position": "QB"
     },
     {
+      "id": "3634",
+      "gsis_id": "00-0032464",
+      "name": "Kalif Raymond",
+      "position": "WR"
+    },
+    {
       "id": "3973",
       "gsis_id": "00-0033868",
       "name": "Myles Garrett",
@@ -1372,12 +1393,6 @@
       "position": "QB"
     },
     {
-      "id": "5001",
-      "gsis_id": "00-0034383",
-      "name": "Dalton Schultz",
-      "position": "TE"
-    },
-    {
       "id": "5012",
       "gsis_id": "00-0034753",
       "name": "Mark Andrews",
@@ -1472,12 +1487,6 @@
       "gsis_id": " 00-0035676",
       "name": "A.J. Brown",
       "position": "WR"
-    },
-    {
-      "id": "5862",
-      "gsis_id": " 00-0035713",
-      "name": "Brian Burns",
-      "position": "DE"
     },
     {
       "id": "5871",
@@ -1654,6 +1663,12 @@
       "position": "DB"
     },
     {
+      "id": "6896",
+      "gsis_id": null,
+      "name": "Amik Robertson",
+      "position": "CB"
+    },
+    {
       "id": "6904",
       "gsis_id": null,
       "name": "Jalen Hurts",
@@ -1792,12 +1807,6 @@
       "position": "DB"
     },
     {
-      "id": "7666",
-      "gsis_id": null,
-      "name": "Jevon Holland",
-      "position": "DB"
-    },
-    {
       "id": "7672",
       "gsis_id": null,
       "name": "Ernest Jones",
@@ -1906,6 +1915,12 @@
       "position": "RB"
     },
     {
+      "id": "8154",
+      "gsis_id": null,
+      "name": "Brian Robinson",
+      "position": "RB"
+    },
+    {
       "id": "8155",
       "gsis_id": null,
       "name": "Breece Hall",
@@ -1954,12 +1969,6 @@
       "position": "LB"
     },
     {
-      "id": "8286",
-      "gsis_id": null,
-      "name": "Dax Hill",
-      "position": "DB"
-    },
-    {
       "id": "8289",
       "gsis_id": null,
       "name": "Aidan Hutchinson",
@@ -2002,6 +2011,12 @@
       "position": "DB"
     },
     {
+      "id": "8395",
+      "gsis_id": null,
+      "name": "Dane Belton",
+      "position": "DB"
+    },
+    {
       "id": "8408",
       "gsis_id": null,
       "name": "Jordan Mason",
@@ -2012,12 +2027,6 @@
       "gsis_id": null,
       "name": "Nate Landman",
       "position": "LB"
-    },
-    {
-      "id": "8676",
-      "gsis_id": null,
-      "name": "Rashid Shaheed",
-      "position": "WR"
     },
     {
       "id": "9221",
@@ -2110,6 +2119,12 @@
       "position": "RB"
     },
     {
+      "id": "9511",
+      "gsis_id": null,
+      "name": "Keaton Mitchell",
+      "position": "RB"
+    },
+    {
       "id": "9753",
       "gsis_id": null,
       "name": "Zach Charbonnet",
@@ -2120,6 +2135,12 @@
       "gsis_id": null,
       "name": "Jordan Addison",
       "position": "WR"
+    },
+    {
+      "id": "9757",
+      "gsis_id": null,
+      "name": "Kendre Miller",
+      "position": "RB"
     },
     {
       "id": "9758",
@@ -2134,5 +2155,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 66
+  "_gsis_resolved": 65
 }

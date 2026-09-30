@@ -11,7 +11,7 @@
     "last_name": "Reed",
     "player_id": "10222",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "GB",
     "years_exp": 3
   },
@@ -210,22 +210,6 @@
     "team": "LAR",
     "years_exp": 3
   },
-  "10927": {
-    "age": 25,
-    "birth_date": "2000-12-14",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Jordan",
-    "full_name": "Jordan Battle",
-    "gsis_id": null,
-    "last_name": "Battle",
-    "player_id": "10927",
-    "position": "DB",
-    "status": "Active",
-    "team": "CIN",
-    "years_exp": 3
-  },
   "10940": {
     "age": 24,
     "birth_date": "2001-11-21",
@@ -243,22 +227,6 @@
     "team": "PIT",
     "years_exp": 3
   },
-  "11435": {
-    "age": 27,
-    "birth_date": "1999-05-08",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Emanuel",
-    "full_name": "Emanuel Wilson",
-    "gsis_id": null,
-    "last_name": "Wilson",
-    "player_id": "11435",
-    "position": "RB",
-    "status": "Active",
-    "team": "SEA",
-    "years_exp": 3
-  },
   "11470": {
     "age": 26,
     "birth_date": "2000-02-25",
@@ -274,6 +242,22 @@
     "status": "Active",
     "team": "SEA",
     "years_exp": 3
+  },
+  "11559": {
+    "age": 26,
+    "birth_date": "2000-05-08",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Michael",
+    "full_name": "Michael Penix",
+    "gsis_id": null,
+    "last_name": "Penix",
+    "player_id": "11559",
+    "position": "QB",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 2
   },
   "11560": {
     "age": 24,
@@ -337,6 +321,22 @@
     "position": "QB",
     "status": "Active",
     "team": "WAS",
+    "years_exp": 2
+  },
+  "11576": {
+    "age": 22,
+    "birth_date": "2004-01-20",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Braelon",
+    "full_name": "Braelon Allen",
+    "gsis_id": null,
+    "last_name": "Allen",
+    "player_id": "11576",
+    "position": "RB",
+    "status": "Active",
+    "team": "NYJ",
     "years_exp": 2
   },
   "11581": {
@@ -499,22 +499,6 @@
     "team": "NYJ",
     "years_exp": 2
   },
-  "11628": {
-    "age": 24,
-    "birth_date": "2002-08-11",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Marvin",
-    "full_name": "Marvin Harrison",
-    "gsis_id": null,
-    "last_name": "Harrison",
-    "player_id": "11628",
-    "position": "WR",
-    "status": "Active",
-    "team": "ARI",
-    "years_exp": 2
-  },
   "11631": {
     "age": 23,
     "birth_date": "2002-10-08",
@@ -577,6 +561,22 @@
     "position": "WR",
     "status": "Inactive",
     "team": "SF",
+    "years_exp": 2
+  },
+  "11643": {
+    "age": 23,
+    "birth_date": "2003-04-01",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jaylen",
+    "full_name": "Jaylen Wright",
+    "gsis_id": null,
+    "last_name": "Wright",
+    "player_id": "11643",
+    "position": "RB",
+    "status": "Active",
+    "team": "MIA",
     "years_exp": 2
   },
   "11646": {
@@ -676,6 +676,22 @@
     "team": "NYG",
     "years_exp": 2
   },
+  "11675": {
+    "age": 24,
+    "birth_date": "2002-09-30",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Kool-Aid",
+    "full_name": "Kool-Aid McKinstry",
+    "gsis_id": null,
+    "last_name": "McKinstry",
+    "player_id": "11675",
+    "position": "DB",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 2
+  },
   "11678": {
     "age": 23,
     "birth_date": "2003-02-09",
@@ -722,23 +738,6 @@
     "position": "LB",
     "status": "Active",
     "team": "GB",
-    "years_exp": 2
-  },
-  "11703": {
-    "age": 25,
-    "birth_date": "2001-03-13",
-    "fantasy_positions": [
-      "DL",
-      "LB"
-    ],
-    "first_name": "Jalyx",
-    "full_name": "Jalyx Hunt",
-    "gsis_id": null,
-    "last_name": "Hunt",
-    "player_id": "11703",
-    "position": "DL",
-    "status": "Active",
-    "team": "PHI",
     "years_exp": 2
   },
   "11705": {
@@ -899,6 +898,22 @@
     "position": "RB",
     "status": "Active",
     "team": "JAX",
+    "years_exp": 1
+  },
+  "12495": {
+    "age": 22,
+    "birth_date": "2004-01-15",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Ollie",
+    "full_name": "Ollie Gordon",
+    "gsis_id": null,
+    "last_name": "Gordon",
+    "player_id": "12495",
+    "position": "RB",
+    "status": "Active",
+    "team": "MIA",
     "years_exp": 1
   },
   "12501": {
@@ -1253,6 +1268,22 @@
     "position": "DL",
     "status": "Inactive",
     "team": "ATL",
+    "years_exp": 1
+  },
+  "12573": {
+    "age": 23,
+    "birth_date": "2003-09-02",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Mason",
+    "full_name": "Mason Graham",
+    "gsis_id": null,
+    "last_name": "Graham",
+    "player_id": "12573",
+    "position": "DL",
+    "status": "Active",
+    "team": "CLE",
     "years_exp": 1
   },
   "12574": {
@@ -2542,6 +2573,22 @@
     "team": "DAL",
     "years_exp": 10
   },
+  "3634": {
+    "age": 32,
+    "birth_date": "1994-08-08",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Kalif",
+    "full_name": "Kalif Raymond",
+    "gsis_id": "00-0032464",
+    "last_name": "Raymond",
+    "player_id": "3634",
+    "position": "WR",
+    "status": "Active",
+    "team": "CHI",
+    "years_exp": 10
+  },
   "3973": {
     "age": 30,
     "birth_date": "1995-12-29",
@@ -2847,22 +2894,6 @@
     "team": "BUF",
     "years_exp": 8
   },
-  "5001": {
-    "age": 30,
-    "birth_date": "1996-07-11",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Dalton",
-    "full_name": "Dalton Schultz",
-    "gsis_id": "00-0034383",
-    "last_name": "Schultz",
-    "player_id": "5001",
-    "position": "TE",
-    "status": "Active",
-    "team": "HOU",
-    "years_exp": 8
-  },
   "5012": {
     "age": 31,
     "birth_date": "1995-09-06",
@@ -3118,23 +3149,6 @@
     "position": "WR",
     "status": "Inactive",
     "team": "NE",
-    "years_exp": 7
-  },
-  "5862": {
-    "age": 28,
-    "birth_date": "1998-04-23",
-    "fantasy_positions": [
-      "DL",
-      "LB"
-    ],
-    "first_name": "Brian",
-    "full_name": "Brian Burns",
-    "gsis_id": " 00-0035713",
-    "last_name": "Burns",
-    "player_id": "5862",
-    "position": "DE",
-    "status": "Active",
-    "team": "NYG",
     "years_exp": 7
   },
   "5871": {
@@ -3602,6 +3616,22 @@
     "team": "TB",
     "years_exp": 6
   },
+  "6896": {
+    "age": 28,
+    "birth_date": "1998-07-06",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Amik",
+    "full_name": "Amik Robertson",
+    "gsis_id": null,
+    "last_name": "Robertson",
+    "player_id": "6896",
+    "position": "CB",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 6
+  },
   "6904": {
     "age": 28,
     "birth_date": "1998-08-07",
@@ -3662,7 +3692,7 @@
     "last_name": "Dowdle",
     "player_id": "7021",
     "position": "RB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "PIT",
     "years_exp": 6
   },
@@ -3973,22 +4003,6 @@
     "team": "CAR",
     "years_exp": 5
   },
-  "7666": {
-    "age": 26,
-    "birth_date": "2000-03-03",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Jevon",
-    "full_name": "Jevon Holland",
-    "gsis_id": null,
-    "last_name": "Holland",
-    "player_id": "7666",
-    "position": "DB",
-    "status": "Active",
-    "team": "NYG",
-    "years_exp": 5
-  },
   "7672": {
     "age": 26,
     "birth_date": "1999-11-22",
@@ -4278,6 +4292,22 @@
     "team": "KC",
     "years_exp": 4
   },
+  "8154": {
+    "age": 27,
+    "birth_date": "1999-03-22",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Brian",
+    "full_name": "Brian Robinson",
+    "gsis_id": null,
+    "last_name": "Robinson",
+    "player_id": "8154",
+    "position": "RB",
+    "status": "Active",
+    "team": "ATL",
+    "years_exp": 4
+  },
   "8155": {
     "age": 25,
     "birth_date": "2001-05-31",
@@ -4407,22 +4437,6 @@
     "team": "DEN",
     "years_exp": 4
   },
-  "8286": {
-    "age": 26,
-    "birth_date": "2000-09-29",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Dax",
-    "full_name": "Dax Hill",
-    "gsis_id": null,
-    "last_name": "Hill",
-    "player_id": "8286",
-    "position": "DB",
-    "status": "Active",
-    "team": "CIN",
-    "years_exp": 4
-  },
   "8289": {
     "age": 26,
     "birth_date": "2000-08-09",
@@ -4440,7 +4454,7 @@
     "years_exp": 4
   },
   "8329": {
-    "age": 27,
+    "age": 28,
     "birth_date": "1998-09-30",
     "fantasy_positions": [
       "LB"
@@ -4536,6 +4550,22 @@
     "team": "WAS",
     "years_exp": 4
   },
+  "8395": {
+    "age": 25,
+    "birth_date": "2000-12-07",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Dane",
+    "full_name": "Dane Belton",
+    "gsis_id": null,
+    "last_name": "Belton",
+    "player_id": "8395",
+    "position": "DB",
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 4
+  },
   "8408": {
     "age": 27,
     "birth_date": "1999-05-24",
@@ -4566,22 +4596,6 @@
     "position": "LB",
     "status": "Active",
     "team": "LAR",
-    "years_exp": 4
-  },
-  "8676": {
-    "age": 28,
-    "birth_date": "1998-08-31",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Rashid",
-    "full_name": "Rashid Shaheed",
-    "gsis_id": null,
-    "last_name": "Shaheed",
-    "player_id": "8676",
-    "position": "WR",
-    "status": "Active",
-    "team": "SEA",
     "years_exp": 4
   },
   "9221": {
@@ -4824,6 +4838,22 @@
     "team": "ATL",
     "years_exp": 3
   },
+  "9511": {
+    "age": 24,
+    "birth_date": "2002-01-17",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Keaton",
+    "full_name": "Keaton Mitchell",
+    "gsis_id": null,
+    "last_name": "Mitchell",
+    "player_id": "9511",
+    "position": "RB",
+    "status": "Active",
+    "team": "LAC",
+    "years_exp": 3
+  },
   "9753": {
     "age": 25,
     "birth_date": "2001-01-08",
@@ -4854,6 +4884,22 @@
     "position": "WR",
     "status": "Active",
     "team": "MIN",
+    "years_exp": 3
+  },
+  "9757": {
+    "age": 24,
+    "birth_date": "2002-06-11",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Kendre",
+    "full_name": "Kendre Miller",
+    "gsis_id": null,
+    "last_name": "Miller",
+    "player_id": "9757",
+    "position": "RB",
+    "status": "Active",
+    "team": "NO",
     "years_exp": 3
   },
   "9758": {
