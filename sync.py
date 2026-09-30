@@ -32,6 +32,17 @@ things were added when the consolidation landed, and neither is optional:
   data/raw/matchups.json           per-week results, keyed by week. Empty until
                                    the season starts.
 
+One more, for DAVE's injury estimates (dave-ledger backlog, 2026-09-30):
+
+  data/raw/injuries/<date>.json    every NFL player Sleeper lists with an
+                                   injury status, with the body part, notes
+                                   ("Surgery", "Fracture", "Knee - ACL"),
+                                   start date and practice participation.
+                                   Sleeper serves only the present, so these
+                                   dated snapshots are the only history there
+                                   will be of how its injury descriptions
+                                   played out. A missed run is gone for good.
+
 This runs where the network is open — a GitHub Actions runner — because the
 question-answering environment cannot reach the Sleeper API. It writes raw
 responses before deriving anything, so a parsing change never costs a refetch.
@@ -136,6 +147,21 @@ def rostered_player_records(rosters: List[Dict[str, Any]],
     return out
 
 
+INJURY_FIELDS = ("player_id", "gsis_id", "full_name", "team", "position", "fantasy_positions",
+                 "injury_status", "injury_body_part", "injury_notes", "injury_start_date",
+                 "practice_participation", "practice_description", "status")
+
+
+def injury_records(players: Dict[str, Any], state: Dict[str, Any], as_of: str) -> Dict[str, Any]:
+    """Every player in Sleeper's dictionary with an injury status, as of `as_of`
+    (UTC date), with the NFL state it was taken in. Sorted by player id, so an
+    unchanged list is an unchanged file."""
+    rows = [{k: rec.get(k) for k in INJURY_FIELDS}
+            for pid, rec in sorted(players.items()) if rec and rec.get("injury_status")]
+    return {"as_of": as_of, "season": (state or {}).get("season"), "week": (state or {}).get("week"),
+            "season_type": (state or {}).get("season_type"), "players": rows}
+
+
 def build_league_state(
     league: Dict[str, Any],
     rosters: List[Dict[str, Any]],
@@ -229,6 +255,13 @@ def main() -> None:
         ("matchups", matchups), ("players_rostered", rostered),
     ]:
         (RAW / f"{name}.json").write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
+
+    # Sleeper's injury descriptions, dated: the history DAVE's injury estimates will need
+    as_of = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d")
+    injuries = injury_records(players, state, as_of)
+    (RAW / "injuries").mkdir(parents=True, exist_ok=True)
+    (RAW / "injuries" / f"{as_of}.json").write_text(json.dumps(injuries, indent=1, sort_keys=True) + "\n")
+    print(f"  {len(injuries['players'])} players with an injury status -> data/raw/injuries/{as_of}.json")
 
     league_state = build_league_state(league, rosters, players)
     (ROOT / "data" / "league_state.json").write_text(
