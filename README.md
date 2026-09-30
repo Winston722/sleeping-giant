@@ -40,7 +40,31 @@ DAVE translates the Sleeper IDs itself and derives the free-agent pool by
 subtraction, turning replacement level from an assumption into the real question:
 *if I drop someone, who can I actually add?*
 
+## League analysis
+
+`analyze.py` reads DAVE's published board (v5 since 2026-09-29) and adds the one
+thing DAVE's output does not carry for the current moment: who owns whom, from
+this repo's capture. It imports nothing from DAVE and needs only the standard
+library; players join on the board's `sleeper_id`.
+
+```bash
+python analyze.py                          # board at ../dave-ledger/output/
+python analyze.py --board path/to/draft_board.csv
+```
+
+Per team: summed value (season points over replacement; a two-group player
+counts once, at the better row), the best starting lineup on expected season
+points for the next three seasons (IR and taxi players sit out this season),
+value-weighted age and rookie share, and the top five players. The board is
+refused unless it matches its sidecar's `board_sha256`, and a pre-v5 board is
+refused by its columns.
+
 ## The insights layer
+
+**Not served by DAVE v5.** v5 publishes no `player_briefs.jsonl` or
+`player_explanations.jsonl` (DAVE-ID's knowledge layer is not rebuilt yet), so
+`explain.py` has nothing to render against a v5 board; the description below is
+the v2-era design, kept for when that layer returns.
 
 `explain.py` **serves the words DAVE already wrote.** DAVE-ID publishes
 `player_briefs.jsonl` — a structured brief plus deterministic prose per board
