@@ -5,6 +5,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
+import sync  # noqa: E402
 from sync import build_league_state  # noqa: E402
 
 
@@ -65,3 +66,16 @@ def test_player_ids_are_strings():
     state = build_league_state(league, rosters)
     assert state["rostered_player_ids"] == ["4034", "6794"]
     assert all(isinstance(p, str) for p in state["rostered_player_ids"])
+
+
+def test_injury_records_keep_every_listed_player_and_only_them():
+    players = {
+        "2": {"player_id": "2", "full_name": "B", "injury_status": "IR", "injury_body_part": "Knee - ACL",
+              "injury_notes": "Surgery", "gsis_id": "00-2", "team": "NE", "extra": "dropped"},
+        "1": {"player_id": "1", "full_name": "A", "injury_status": None},
+        "3": {"player_id": "3", "full_name": "C", "injury_status": "Questionable", "injury_body_part": "Ankle"},
+    }
+    out = sync.injury_records(players, {"season": "2026", "week": 4, "season_type": "regular"}, "2026-09-30")
+    assert out["as_of"] == "2026-09-30" and out["week"] == 4
+    assert [r["player_id"] for r in out["players"]] == ["2", "3"]
+    assert out["players"][0]["injury_body_part"] == "Knee - ACL" and "extra" not in out["players"][0]
