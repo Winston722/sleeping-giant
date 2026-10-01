@@ -1188,23 +1188,6 @@
     "team": "NO",
     "years_exp": 1
   },
-  "12556": {
-    "age": 23,
-    "birth_date": "2003-09-25",
-    "fantasy_positions": [
-      "DL",
-      "LB"
-    ],
-    "first_name": "Donovan",
-    "full_name": "Donovan Ezeiruaku",
-    "gsis_id": null,
-    "last_name": "Ezeiruaku",
-    "player_id": "12556",
-    "position": "DL",
-    "status": "Active",
-    "team": "DAL",
-    "years_exp": 1
-  },
   "12562": {
     "age": 22,
     "birth_date": "2004-08-25",
@@ -1368,7 +1351,7 @@
     "years_exp": 1
   },
   "13269": {
-    "age": 22,
+    "age": 23,
     "birth_date": "2003-10-01",
     "fantasy_positions": [
       "QB"
@@ -4596,6 +4579,22 @@
     "position": "LB",
     "status": "Active",
     "team": "LAR",
+    "years_exp": 4
+  },
+  "8680": {
+    "age": 27,
+    "birth_date": "1998-11-24",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Jack",
+    "full_name": "Jack Gibbens",
+    "gsis_id": null,
+    "last_name": "Gibbens",
+    "player_id": "8680",
+    "position": "LB",
+    "status": "Active",
+    "team": "ARI",
     "years_exp": 4
   },
   "9221": {

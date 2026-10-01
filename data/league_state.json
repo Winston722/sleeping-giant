@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-30",
+  "as_of": "2026-10-01",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -77,7 +77,6 @@
     "12533",
     "12534",
     "12545",
-    "12556",
     "12562",
     "12566",
     "12567",
@@ -289,6 +288,7 @@
     "8395",
     "8408",
     "8659",
+    "8680",
     "9221",
     "9224",
     "9225",
@@ -755,12 +755,6 @@
       "gsis_id": null,
       "name": "Tyler Shough",
       "position": "QB"
-    },
-    {
-      "id": "12556",
-      "gsis_id": null,
-      "name": "Donovan Ezeiruaku",
-      "position": "DL"
     },
     {
       "id": "12562",
@@ -2026,6 +2020,12 @@
       "id": "8659",
       "gsis_id": null,
       "name": "Nate Landman",
+      "position": "LB"
+    },
+    {
+      "id": "8680",
+      "gsis_id": null,
+      "name": "Jack Gibbens",
       "position": "LB"
     },
     {
