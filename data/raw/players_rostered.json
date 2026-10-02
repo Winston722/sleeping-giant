@@ -339,22 +339,6 @@
     "team": "NYJ",
     "years_exp": 2
   },
-  "11581": {
-    "age": 25,
-    "birth_date": "2001-01-05",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "MarShawn",
-    "full_name": "MarShawn Lloyd",
-    "gsis_id": null,
-    "last_name": "Lloyd",
-    "player_id": "11581",
-    "position": "RB",
-    "status": "Active",
-    "team": "GB",
-    "years_exp": 2
-  },
   "11583": {
     "age": 23,
     "birth_date": "2003-07-21",
@@ -497,6 +481,22 @@
     "position": "WR",
     "status": "Active",
     "team": "NYJ",
+    "years_exp": 2
+  },
+  "11628": {
+    "age": 24,
+    "birth_date": "2002-08-11",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Marvin",
+    "full_name": "Marvin Harrison",
+    "gsis_id": null,
+    "last_name": "Harrison",
+    "player_id": "11628",
+    "position": "WR",
+    "status": "Active",
+    "team": "ARI",
     "years_exp": 2
   },
   "11631": {
@@ -2524,22 +2524,6 @@
     "team": "BAL",
     "years_exp": 10
   },
-  "3214": {
-    "age": 31,
-    "birth_date": "1994-12-07",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Hunter",
-    "full_name": "Hunter Henry",
-    "gsis_id": "00-0033090",
-    "last_name": "Henry",
-    "player_id": "3214",
-    "position": "TE",
-    "status": "Active",
-    "team": "NE",
-    "years_exp": 10
-  },
   "3294": {
     "age": 33,
     "birth_date": "1993-07-29",
@@ -2875,6 +2859,22 @@
     "position": "QB",
     "status": "Active",
     "team": "BUF",
+    "years_exp": 8
+  },
+  "5001": {
+    "age": 30,
+    "birth_date": "1996-07-11",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Dalton",
+    "full_name": "Dalton Schultz",
+    "gsis_id": "00-0034383",
+    "last_name": "Schultz",
+    "player_id": "5001",
+    "position": "TE",
+    "status": "Active",
+    "team": "HOU",
     "years_exp": 8
   },
   "5012": {
@@ -3788,7 +3788,7 @@
     "last_name": "Etienne",
     "player_id": "7543",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "NO",
     "years_exp": 5
   },
@@ -4865,7 +4865,7 @@
     "last_name": "Charbonnet",
     "player_id": "9753",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "SEA",
     "years_exp": 3
   },

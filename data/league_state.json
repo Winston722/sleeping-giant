@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-01",
+  "as_of": "2026-10-02",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -24,7 +24,6 @@
     "11564",
     "11566",
     "11576",
-    "11581",
     "11583",
     "11584",
     "11586",
@@ -34,6 +33,7 @@
     "11620",
     "11624",
     "11625",
+    "11628",
     "11631",
     "11632",
     "11635",
@@ -160,7 +160,6 @@
     "2617",
     "3163",
     "3198",
-    "3214",
     "3294",
     "3634",
     "3973",
@@ -182,6 +181,7 @@
     "4971",
     "4983",
     "4984",
+    "5001",
     "5012",
     "5017",
     "5022",
@@ -439,12 +439,6 @@
       "position": "RB"
     },
     {
-      "id": "11581",
-      "gsis_id": null,
-      "name": "MarShawn Lloyd",
-      "position": "RB"
-    },
-    {
       "id": "11583",
       "gsis_id": null,
       "name": "Jonathon Brooks",
@@ -496,6 +490,12 @@
       "id": "11625",
       "gsis_id": null,
       "name": "Adonai Mitchell",
+      "position": "WR"
+    },
+    {
+      "id": "11628",
+      "gsis_id": null,
+      "name": "Marvin Harrison",
       "position": "WR"
     },
     {
@@ -1255,12 +1255,6 @@
       "position": "RB"
     },
     {
-      "id": "3214",
-      "gsis_id": "00-0033090",
-      "name": "Hunter Henry",
-      "position": "TE"
-    },
-    {
       "id": "3294",
       "gsis_id": "00-0033077",
       "name": "Dak Prescott",
@@ -1385,6 +1379,12 @@
       "gsis_id": "00-0034857",
       "name": "Josh Allen",
       "position": "QB"
+    },
+    {
+      "id": "5001",
+      "gsis_id": "00-0034383",
+      "name": "Dalton Schultz",
+      "position": "TE"
     },
     {
       "id": "5012",
