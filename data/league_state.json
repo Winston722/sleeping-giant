@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-02",
+  "as_of": "2026-10-04",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -80,10 +80,10 @@
     "12562",
     "12566",
     "12567",
-    "12568",
     "12573",
     "12574",
     "12578",
+    "12591",
     "12597",
     "12617",
     "12652",
@@ -775,12 +775,6 @@
       "position": "DB"
     },
     {
-      "id": "12568",
-      "gsis_id": null,
-      "name": "Jalon Walker",
-      "position": "DL"
-    },
-    {
       "id": "12573",
       "gsis_id": null,
       "name": "Mason Graham",
@@ -797,6 +791,12 @@
       "gsis_id": null,
       "name": "Carson Schwesinger",
       "position": "LB"
+    },
+    {
+      "id": "12591",
+      "gsis_id": null,
+      "name": "Xavier Watts",
+      "position": "DB"
     },
     {
       "id": "12597",

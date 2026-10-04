@@ -864,7 +864,7 @@
     "last_name": "Ferguson",
     "player_id": "12487",
     "position": "TE",
-    "status": "Active",
+    "status": "Inactive",
     "team": "LAR",
     "years_exp": 1
   },
@@ -1236,23 +1236,6 @@
     "team": "BAL",
     "years_exp": 1
   },
-  "12568": {
-    "age": 22,
-    "birth_date": "2004-02-24",
-    "fantasy_positions": [
-      "DL",
-      "LB"
-    ],
-    "first_name": "Jalon",
-    "full_name": "Jalon Walker",
-    "gsis_id": null,
-    "last_name": "Walker",
-    "player_id": "12568",
-    "position": "DL",
-    "status": "Inactive",
-    "team": "ATL",
-    "years_exp": 1
-  },
   "12573": {
     "age": 23,
     "birth_date": "2003-09-02",
@@ -1300,6 +1283,22 @@
     "position": "LB",
     "status": "Active",
     "team": "CLE",
+    "years_exp": 1
+  },
+  "12591": {
+    "age": 24,
+    "birth_date": "2001-11-22",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Xavier",
+    "full_name": "Xavier Watts",
+    "gsis_id": null,
+    "last_name": "Watts",
+    "player_id": "12591",
+    "position": "DB",
+    "status": "Active",
+    "team": "ATL",
     "years_exp": 1
   },
   "12597": {
@@ -1506,7 +1505,7 @@
     "last_name": "Price",
     "player_id": "13286",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "SEA",
     "years_exp": 0
   },
@@ -4902,7 +4901,7 @@
     "years_exp": 3
   },
   "9758": {
-    "age": 24,
+    "age": 25,
     "birth_date": "2001-10-03",
     "fantasy_positions": [
       "QB"
