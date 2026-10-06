@@ -2363,7 +2363,7 @@
     "years_exp": 0
   },
   "1466": {
-    "age": 36,
+    "age": 37,
     "birth_date": "1989-10-05",
     "fantasy_positions": [
       "TE"
@@ -3712,7 +3712,7 @@
     "years_exp": 6
   },
   "7523": {
-    "age": 26,
+    "age": 27,
     "birth_date": "1999-10-06",
     "fantasy_positions": [
       "QB"
@@ -3808,7 +3808,7 @@
     "years_exp": 5
   },
   "7553": {
-    "age": 25,
+    "age": 26,
     "birth_date": "2000-10-06",
     "fantasy_positions": [
       "TE"
@@ -4640,7 +4640,7 @@
     "last_name": "Bigsby",
     "player_id": "9225",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "PHI",
     "years_exp": 3
   },
