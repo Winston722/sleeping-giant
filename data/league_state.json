@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-06",
+  "as_of": "2026-10-07",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -17,6 +17,7 @@
     "10914",
     "10917",
     "10940",
+    "11435",
     "11470",
     "11559",
     "11560",
@@ -37,6 +38,7 @@
     "11631",
     "11632",
     "11635",
+    "11637",
     "11638",
     "11643",
     "11646",
@@ -45,11 +47,11 @@
     "11665",
     "11667",
     "11674",
-    "11675",
     "11678",
     "11682",
     "11687",
     "11705",
+    "11739",
     "11760",
     "11783",
     "11834",
@@ -87,6 +89,7 @@
     "12597",
     "12617",
     "12652",
+    "13264",
     "13269",
     "13272",
     "13274",
@@ -232,7 +235,6 @@
     "6949",
     "7002",
     "7021",
-    "7113",
     "7136",
     "7523",
     "7525",
@@ -283,7 +285,6 @@
     "8330",
     "8339",
     "8355",
-    "8364",
     "8392",
     "8395",
     "8408",
@@ -307,7 +308,6 @@
     "9511",
     "9753",
     "9756",
-    "9757",
     "9758",
     "9997"
   ],
@@ -395,6 +395,12 @@
       "gsis_id": null,
       "name": "Nick Herbig",
       "position": "LB"
+    },
+    {
+      "id": "11435",
+      "gsis_id": null,
+      "name": "Emanuel Wilson",
+      "position": "RB"
     },
     {
       "id": "11470",
@@ -517,6 +523,12 @@
       "position": "WR"
     },
     {
+      "id": "11637",
+      "gsis_id": null,
+      "name": "Keon Coleman",
+      "position": "WR"
+    },
+    {
       "id": "11638",
       "gsis_id": null,
       "name": "Ricky Pearsall",
@@ -565,12 +577,6 @@
       "position": "DB"
     },
     {
-      "id": "11675",
-      "gsis_id": null,
-      "name": "Kool-Aid McKinstry",
-      "position": "DB"
-    },
-    {
       "id": "11678",
       "gsis_id": null,
       "name": "Cooper DeJean",
@@ -592,6 +598,12 @@
       "id": "11705",
       "gsis_id": null,
       "name": "Tykee Smith",
+      "position": "DB"
+    },
+    {
+      "id": "11739",
+      "gsis_id": null,
+      "name": "Evan Williams",
       "position": "DB"
     },
     {
@@ -815,6 +827,12 @@
       "gsis_id": null,
       "name": "Deone Walker",
       "position": "DT"
+    },
+    {
+      "id": "13264",
+      "gsis_id": null,
+      "name": "Dohnte Meyers",
+      "position": "WR"
     },
     {
       "id": "13269",
@@ -1687,12 +1705,6 @@
       "position": "RB"
     },
     {
-      "id": "7113",
-      "gsis_id": null,
-      "name": "Alex Highsmith",
-      "position": "LB"
-    },
-    {
       "id": "7136",
       "gsis_id": null,
       "name": "Kam Curl",
@@ -1993,12 +2005,6 @@
       "position": "DL"
     },
     {
-      "id": "8364",
-      "gsis_id": null,
-      "name": "Trent McDuffie",
-      "position": "DB"
-    },
-    {
       "id": "8392",
       "gsis_id": null,
       "name": "Nick Cross",
@@ -2135,12 +2141,6 @@
       "gsis_id": null,
       "name": "Jordan Addison",
       "position": "WR"
-    },
-    {
-      "id": "9757",
-      "gsis_id": null,
-      "name": "Kendre Miller",
-      "position": "RB"
     },
     {
       "id": "9758",

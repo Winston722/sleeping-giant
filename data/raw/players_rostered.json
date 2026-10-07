@@ -227,6 +227,22 @@
     "team": "PIT",
     "years_exp": 3
   },
+  "11435": {
+    "age": 27,
+    "birth_date": "1999-05-08",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Emanuel",
+    "full_name": "Emanuel Wilson",
+    "gsis_id": null,
+    "last_name": "Wilson",
+    "player_id": "11435",
+    "position": "RB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 3
+  },
   "11470": {
     "age": 26,
     "birth_date": "2000-02-25",
@@ -547,6 +563,22 @@
     "team": "LAC",
     "years_exp": 2
   },
+  "11637": {
+    "age": 23,
+    "birth_date": "2003-05-17",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Keon",
+    "full_name": "Keon Coleman",
+    "gsis_id": null,
+    "last_name": "Coleman",
+    "player_id": "11637",
+    "position": "WR",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 2
+  },
   "11638": {
     "age": 26,
     "birth_date": "2000-09-09",
@@ -676,22 +708,6 @@
     "team": "NYG",
     "years_exp": 2
   },
-  "11675": {
-    "age": 24,
-    "birth_date": "2002-09-30",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Kool-Aid",
-    "full_name": "Kool-Aid McKinstry",
-    "gsis_id": null,
-    "last_name": "McKinstry",
-    "player_id": "11675",
-    "position": "DB",
-    "status": "Active",
-    "team": "NO",
-    "years_exp": 2
-  },
   "11678": {
     "age": 23,
     "birth_date": "2003-02-09",
@@ -736,7 +752,7 @@
     "last_name": "Cooper",
     "player_id": "11687",
     "position": "LB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "GB",
     "years_exp": 2
   },
@@ -754,6 +770,22 @@
     "position": "DB",
     "status": "Active",
     "team": "TB",
+    "years_exp": 2
+  },
+  "11739": {
+    "age": 25,
+    "birth_date": "2001-07-28",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Evan",
+    "full_name": "Evan Williams",
+    "gsis_id": null,
+    "last_name": "Williams",
+    "player_id": "11739",
+    "position": "DB",
+    "status": "Active",
+    "team": "GB",
     "years_exp": 2
   },
   "11760": {
@@ -1348,6 +1380,22 @@
     "status": "Active",
     "team": "BUF",
     "years_exp": 1
+  },
+  "13264": {
+    "age": 26,
+    "birth_date": "2000-07-06",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Dohnte",
+    "full_name": "Dohnte Meyers",
+    "gsis_id": null,
+    "last_name": "Meyers",
+    "player_id": "13264",
+    "position": "WR",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 0
   },
   "13269": {
     "age": 23,
@@ -3678,23 +3726,6 @@
     "team": "PIT",
     "years_exp": 6
   },
-  "7113": {
-    "age": 29,
-    "birth_date": "1997-08-07",
-    "fantasy_positions": [
-      "DL",
-      "LB"
-    ],
-    "first_name": "Alex",
-    "full_name": "Alex Highsmith",
-    "gsis_id": null,
-    "last_name": "Highsmith",
-    "player_id": "7113",
-    "position": "LB",
-    "status": "Active",
-    "team": "PIT",
-    "years_exp": 6
-  },
   "7136": {
     "age": 27,
     "birth_date": "1999-03-31",
@@ -4500,22 +4531,6 @@
     "team": "NYG",
     "years_exp": 4
   },
-  "8364": {
-    "age": 26,
-    "birth_date": "2000-09-13",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Trent",
-    "full_name": "Trent McDuffie",
-    "gsis_id": null,
-    "last_name": "McDuffie",
-    "player_id": "8364",
-    "position": "DB",
-    "status": "Active",
-    "team": "LAR",
-    "years_exp": 4
-  },
   "8392": {
     "age": 25,
     "birth_date": "2001-09-10",
@@ -4882,22 +4897,6 @@
     "position": "WR",
     "status": "Active",
     "team": "MIN",
-    "years_exp": 3
-  },
-  "9757": {
-    "age": 24,
-    "birth_date": "2002-06-11",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Kendre",
-    "full_name": "Kendre Miller",
-    "gsis_id": null,
-    "last_name": "Miller",
-    "player_id": "9757",
-    "position": "RB",
-    "status": "Active",
-    "team": "NO",
     "years_exp": 3
   },
   "9758": {
