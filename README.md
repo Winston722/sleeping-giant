@@ -60,11 +60,11 @@ seasons (`previous_league_id`) and keeping chains with at least four complete se
   cannot be looked up from the files. Raw user ids exist only in memory during the crawl.
 - **Not committed:** data/public/ is gitignored. Other people's leagues stay on the machine that pulled them;
   dave-ledger reads a derived panel.
-- **Pace:** a pause before every call (0.2 s by default, at most 300 calls a minute; Sleeper asks for under 1,000).
+- **Pace:** one rate limiter shared by every request (8 a second by default, 480 a minute; Sleeper asks for under 1,000), a season's weekly transactions four at a time under it. Files are written whole (renamed into place).
   Resumable from data/public/crawl.json (league ids and pseudonyms only).
 
 ```bash
-python sync.py public --max-chains 300 --min-seasons 4 --season 2025
+python sync.py public --max-chains 300 --min-seasons 4 --season 2025 --rate 8
 ```
 
 ## League analysis

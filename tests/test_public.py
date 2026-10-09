@@ -81,3 +81,23 @@ def test_the_crawl_keeps_long_dynasty_chains_only_writes_no_raw_ids_and_resumes(
     public.Crawler(get, out=tmp_path, min_seasons=4, max_chains=10, max_weeks=3, key=KEY,
                    log=lambda *_: None).run("START")
     assert len(calls) == n                                            # nothing fetched twice
+
+
+def test_the_limiter_spaces_calls_across_threads_and_a_parallel_crawl_writes_the_same_files(tmp_path):
+    import threading
+    import time
+    from concurrent.futures import ThreadPoolExecutor
+    stamps, lock = [], threading.Lock()
+
+    def get(path):
+        with lock:
+            stamps.append(time.monotonic())
+        return None
+    lim = public.Paced(get, rate=50.0)
+    with ThreadPoolExecutor(4) as ex:
+        list(ex.map(lim, [str(i) for i in range(12)]))
+    st = sorted(stamps)
+    gaps = [b - a for a, b in zip(st, st[1:])]
+    assert len(stamps) == 12 and min(gaps) > 0.012                    # at most 50 a second, whatever the threads
+    public.write_whole(tmp_path / "x.json", "{}")
+    assert (tmp_path / "x.json").read_text() == "{}" and not list(tmp_path.glob("*.tmp"))
