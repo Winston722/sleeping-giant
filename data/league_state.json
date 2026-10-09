@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-07",
+  "as_of": "2026-10-09",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -9,7 +9,6 @@
     "10236",
     "10859",
     "10880",
-    "10885",
     "10888",
     "10892",
     "10898",
@@ -162,6 +161,7 @@
     "2505",
     "2617",
     "3163",
+    "3172",
     "3198",
     "3294",
     "3634",
@@ -178,7 +178,6 @@
     "4217",
     "4866",
     "4881",
-    "4892",
     "4943",
     "4960",
     "4971",
@@ -306,6 +305,7 @@
     "9508",
     "9509",
     "9511",
+    "96",
     "9753",
     "9756",
     "9758",
@@ -347,12 +347,6 @@
       "gsis_id": null,
       "name": "Jack Campbell",
       "position": "LB"
-    },
-    {
-      "id": "10885",
-      "gsis_id": null,
-      "name": "Lukas Van Ness",
-      "position": "DL"
     },
     {
       "id": "10888",
@@ -1267,6 +1261,12 @@
       "position": "QB"
     },
     {
+      "id": "3172",
+      "gsis_id": "00-0032378",
+      "name": "DeForest Buckner",
+      "position": "DT"
+    },
+    {
       "id": "3198",
       "gsis_id": "00-0032764",
       "name": "Derrick Henry",
@@ -1360,12 +1360,6 @@
       "id": "4881",
       "gsis_id": "00-0034796",
       "name": "Lamar Jackson",
-      "position": "QB"
-    },
-    {
-      "id": "4892",
-      "gsis_id": "00-0034855",
-      "name": "Baker Mayfield",
       "position": "QB"
     },
     {
@@ -2131,6 +2125,12 @@
       "position": "RB"
     },
     {
+      "id": "96",
+      "gsis_id": "00-0023459",
+      "name": "Aaron Rodgers",
+      "position": "QB"
+    },
+    {
       "id": "9753",
       "gsis_id": null,
       "name": "Zach Charbonnet",
@@ -2155,5 +2155,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 65
+  "_gsis_resolved": 66
 }
