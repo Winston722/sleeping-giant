@@ -10,7 +10,7 @@ repository's canonical Sleeper acquisition and runs as `python sync.py public`.
 
 **Discovery.** Sleeper has no league search. Starting from this repository's league, the crawl walks breadth first:
 a league's managers (from its rosters) -> each manager's leagues in --season -> the dynasty ones (settings.type 2)
--> their managers. Each dynasty league is followed back through its seasons by `previous_league_id`; a chain is kept
+-> their managers, until --frontier leagues are queued. Each dynasty league is followed back through its seasons by `previous_league_id`; a chain is kept
 when it has at least --min-seasons complete seasons.
 
 **Kept per complete league season** (one file, data/public/leagues/<league_id>.json): the settings, roster
@@ -126,11 +126,11 @@ class Crawler:
 
     def __init__(self, get: Callable[[str], Any], out: Path = PUBLIC, season: str = "2025", min_seasons: int = 4,
                  max_chains: int = 300, max_weeks: int = 18, key: Optional[bytes] = None, log: Callable = print,
-                 workers: int = 1):
+                 workers: int = 1, frontier: int = 3000):
         self.get, self.out, self.season = get, out, str(season)
         self.min_seasons, self.max_chains, self.max_weeks = min_seasons, max_chains, max_weeks
         self.key = key if key is not None else salt(out / ".salt")
-        self.log, self.workers = log, workers
+        self.log, self.workers, self.frontier = log, workers, frontier
         (out / "leagues").mkdir(parents=True, exist_ok=True)
         st = out / "crawl.json"
         state = json.loads(st.read_text()) if st.exists() else {}
@@ -204,7 +204,8 @@ class Crawler:
                 self.log(f"  chain {len(self.chains)}/{self.max_chains}: {len(seasons)} seasons "
                          f"({min(s['season'] for s in seasons)}-{max(s['season'] for s in seasons)}); "
                          f"queue {len(self.queue)}")
-            self.discover(self.get(f"league/{lid}/rosters") or [])
+            if len(self.queue) < self.frontier:                # enough leagues queued: stop looking for more
+                self.discover(self.get(f"league/{lid}/rosters") or [])
             self.save_state()
         self.save_state()
         return {"chains": len(self.chains), "seasons": sum(len(v) for v in self.chains.values()),
@@ -247,10 +248,11 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap.add_argument("--season", default="2025", help="the season whose dynasty leagues seed each chain")
     ap.add_argument("--rate", type=float, default=8.0, help="calls a second at most (Sleeper: under ~16)")
     ap.add_argument("--workers", type=int, default=4, help="a season's calls in flight at once, under --rate")
+    ap.add_argument("--frontier", type=int, default=3000, help="stop discovering once this many leagues are queued")
     a = ap.parse_args(argv)
     cfg = json.loads((ROOT / "config.json").read_text())
     cr = Crawler(Paced(sync._get, a.rate), season=a.season, min_seasons=a.min_seasons, max_chains=a.max_chains,
-                 workers=a.workers)
+                 workers=a.workers, frontier=a.frontier)
     print(f"crawling public dynasty leagues from {cfg['league_id']} (season {a.season}, chains of "
           f"{a.min_seasons}+ complete seasons, up to {a.max_chains})", flush=True)
     print(json.dumps(cr.run(str(cfg["league_id"]))))

@@ -81,6 +81,12 @@ def test_the_crawl_keeps_long_dynasty_chains_only_writes_no_raw_ids_and_resumes(
     public.Crawler(get, out=tmp_path, min_seasons=4, max_chains=10, max_weeks=3, key=KEY,
                    log=lambda *_: None).run("START")
     assert len(calls) == n                                            # nothing fetched twice
+    # a full frontier stops discovery: no manager's leagues are looked up
+    calls.clear()
+    public.Crawler(get, out=tmp_path / "f", min_seasons=4, max_chains=10, max_weeks=3, key=KEY,
+                   log=lambda *_: None, frontier=0).run("START")
+    assert not any(c.startswith("user/") and c != "user/111/leagues/nfl/2025" and c != "user/222/leagues/nfl/2025"
+                   for c in calls)
 
 
 def test_the_limiter_spaces_calls_across_threads_and_a_parallel_crawl_writes_the_same_files(tmp_path):
