@@ -140,3 +140,34 @@ def test_a_dropped_connection_is_retried_and_a_league_that_keeps_failing_writes_
     res = cr.run("START")
     assert res["chains"] == 0 and cr.retries["D4"] == 3              # put back twice, then dropped
     assert not (tmp_path / "leagues" / "D2.json").exists()          # nothing partial
+
+
+def test_a_targeted_crawl_keeps_and_spreads_through_idp_superflex_leagues_only(tmp_path):
+    def lg(lid, season, prev=None, rp=("QB", "SUPER_FLEX", "DL"), n=8):
+        x = _league(lid, season, prev)
+        x["roster_positions"], x["settings"]["num_teams"] = list(rp), n
+        return x
+    assert public.idp_superflex(lg("A", "2025")) and public.idp_superflex(lg("A", "2025", rp=("QB", "QB", "IDP_FLEX")))
+    assert not public.idp_superflex(lg("A", "2025", rp=("QB", "FLEX", "DL")))          # one QB
+    assert not public.idp_superflex(lg("A", "2025", rp=("QB", "SUPER_FLEX", "FLEX")))  # no defender
+    assert not public.idp_superflex(lg("A", "2025", n=6))                               # too small
+    api = {"league/START/rosters": _rosters("111", "222"),
+           "user/111/leagues/nfl/2025": [lg("I2", "2025", prev="I1"), lg("O2", "2025", rp=("QB", "FLEX"))],
+           "user/222/leagues/nfl/2025": [],
+           "league/I2": lg("I2", "2025", prev="I1"), "league/I1": lg("I1", "2024"),
+           "league/I2/rosters": _rosters("111", "555"), "league/I1/rosters": _rosters("111", "555"),
+           "user/555/leagues/nfl/2025": [], "stats/nfl/regular/2024": {"6462": {"pass_td": 30, "gp": 17.0, "x": "y"}}}
+    for lid in ("I2", "I1"):
+        api[f"league/{lid}/winners_bracket"] = []
+    calls = []
+
+    def get(path):
+        calls.append(path)
+        return api.get(path)
+    cr = public.Crawler(get, out=tmp_path, min_seasons=2, max_chains=10, max_weeks=1, key=KEY, log=lambda *_: None,
+                        target=public.idp_superflex)
+    res = cr.run("START")
+    assert res["chains"] == 1 and "league/O2" not in calls                 # the offense-only league never opened
+    assert "user/555/leagues/nfl/2025" in calls                            # spread through the IDP league's managers
+    assert public.season_stats(get, tmp_path, [2024]) == [2024] and public.season_stats(get, tmp_path, [2024]) == []
+    assert json.loads((tmp_path / "stats" / "2024.json").read_text()) == {"6462": {"pass_td": 30, "gp": 17.0}}
