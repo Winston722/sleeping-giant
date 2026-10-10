@@ -67,6 +67,17 @@ seasons (`previous_league_id`) and keeping chains with at least four complete se
 python sync.py public --max-chains 300 --min-seasons 4 --season 2025 --rate 8
 ```
 
+- **Leagues like this one** (owner, 2026-10-10): `--target idp-sf --min-teams 8 --max-teams 16` keeps only dynasty
+  leagues that start a defender and play superflex, judged before any season is fetched, and discovers further
+  leagues only through those leagues' managers.
+- **Player stats:** `--stats 2017-2025` first writes each season's player totals in Sleeper's stat keys
+  (data/public/stats/<season>.json, public player data), so DAVE can score every player under each league's own
+  rules and find each league's bar (dave-ledger `scripts/study/league_bars.py`).
+
+```bash
+python sync.py public --target idp-sf --min-teams 8 --max-teams 16 --min-seasons 2 --stats 2017-2025 --rate 10
+```
+
 ## League analysis
 
 `analyze.py` reads DAVE's published board (v5 since 2026-09-29) and adds the one

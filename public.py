@@ -23,6 +23,16 @@ Sleeper user id is replaced by a keyed hash (`pseudonym`: HMAC-SHA256 under a lo
 committed), so a manager is the same pseudonym across leagues and seasons but cannot be looked up from the files.
 Raw user ids exist only in memory while the crawl runs.
 
+**Leagues like this one** (owner, 2026-10-10: "If we can find enough leagues that are at minimum 8 person
+IDP/superflex dynasty, maybe we don't need to look at offense only leagues at all"). `--target idp-sf` keeps only
+dynasty leagues of --min-teams to --max-teams teams that start a defensive player and play superflex
+(`idp_superflex`), judged from the league object before any of its seasons is fetched, and discovers further leagues
+only through the managers of those (IDP players tend to play in other IDP leagues).
+
+**Player stats** (`--stats 2017-2025`): each season's totals for every player, in Sleeper's own stat keys
+(data/public/stats/<season>.json), so DAVE can score every player under each league's own scoring and find each
+league's replacement level, its bar. Public stats; nothing about any person beyond the player.
+
 **Where.** data/public/ is gitignored: other people's leagues stay on the machine that pulled them, and dave-ledger
 reads a derived panel. Resumable: a league season already on disk is not fetched again, and the crawl's queue is
 kept in data/public/crawl.json (league ids only).
@@ -33,6 +43,7 @@ fetched four at a time under it. Files are written whole (a temporary file renam
 no partial season.
 
     python sync.py public [--max-chains 300] [--min-seasons 4] [--season 2025] [--rate 8]
+        [--target idp-sf --min-teams 8 --max-teams 14] [--stats 2017-2025]
 """
 
 from __future__ import annotations
@@ -53,6 +64,7 @@ from typing import Any, Callable, Dict, List, Optional
 ROOT = Path(__file__).resolve().parent
 PUBLIC = ROOT / "data" / "public"
 DYNASTY = 2
+IDP_SLOTS = {"DL", "LB", "DB", "IDP_FLEX", "DE", "DT", "CB", "S"}      # Sleeper's defensive roster tokens
 
 LEAGUE_KEYS = ("league_id", "season", "season_type", "status", "sport", "total_rosters", "previous_league_id",
                "roster_positions", "scoring_settings")
@@ -112,6 +124,33 @@ def clean_transactions(txs: List[Dict[str, Any]], key: bytes) -> List[Dict[str, 
     return out
 
 
+def idp_superflex(league: Dict[str, Any], min_teams: int = 8, max_teams: int = 14) -> bool:
+    """A dynasty league of min_teams..max_teams teams that starts at least one defensive player and plays superflex
+    (a SUPER_FLEX slot, or two QB slots)."""
+    st = league.get("settings") or {}
+    rp = league.get("roster_positions") or []
+    n = int(st.get("num_teams") or league.get("total_rosters") or 0)
+    return (st.get("type") == DYNASTY and min_teams <= n <= max_teams and any(p in IDP_SLOTS for p in rp)
+            and ("SUPER_FLEX" in rp or rp.count("QB") >= 2))
+
+
+def season_stats(get: Callable[[str], Any], out: Path, seasons: List[int]) -> List[int]:
+    """Each season's player totals (`stats/nfl/regular/<season>`: player id -> Sleeper stat keys), written whole to
+    out/stats/<season>.json unless already there. Returns the seasons written."""
+    (out / "stats").mkdir(parents=True, exist_ok=True)
+    done = []
+    for season in seasons:
+        path = out / "stats" / f"{season}.json"
+        if path.exists():
+            continue
+        d = get(f"stats/nfl/regular/{season}") or {}
+        keep = {str(pid): {k: v for k, v in (st or {}).items() if isinstance(v, (int, float))}
+                for pid, st in d.items() if isinstance(st, dict)}
+        write_whole(path, json.dumps(keep))
+        done.append(season)
+    return done
+
+
 def owners(rosters: List[Dict[str, Any]]) -> List[str]:
     """The raw user ids managing a league's rosters (for discovery only; never written)."""
     ids = []
@@ -127,11 +166,11 @@ class Crawler:
 
     def __init__(self, get: Callable[[str], Any], out: Path = PUBLIC, season: str = "2025", min_seasons: int = 4,
                  max_chains: int = 300, max_weeks: int = 18, key: Optional[bytes] = None, log: Callable = print,
-                 workers: int = 1, frontier: int = 3000):
+                 workers: int = 1, frontier: int = 3000, target: Optional[Callable[[Dict[str, Any]], bool]] = None):
         self.get, self.out, self.season = get, out, str(season)
         self.min_seasons, self.max_chains, self.max_weeks = min_seasons, max_chains, max_weeks
         self.key = key if key is not None else salt(out / ".salt")
-        self.log, self.workers, self.frontier = log, workers, frontier
+        self.log, self.workers, self.frontier, self.target = log, workers, frontier, target
         (out / "leagues").mkdir(parents=True, exist_ok=True)
         st = out / "crawl.json"
         state = json.loads(st.read_text()) if st.exists() else {}
@@ -184,7 +223,8 @@ class Crawler:
             self.seen_users.add(p)
             for lg in self.get(f"user/{uid}/leagues/nfl/{self.season}") or []:
                 lid = str(lg.get("league_id"))
-                if (lg.get("settings") or {}).get("type") == DYNASTY and lid not in self.seen_leagues:
+                if ((lg.get("settings") or {}).get("type") == DYNASTY and (self.target is None or self.target(lg))
+                        and lid not in self.seen_leagues):
                     self.seen_leagues.add(lid)
                     self.queue.append(lid)
 
@@ -192,6 +232,8 @@ class Crawler:
         """One queued league: keep its chain if long enough (every season written, or none), then discover."""
         league = self.get(f"league/{lid}")
         if not league or (league.get("settings") or {}).get("type") != DYNASTY:
+            return
+        if self.target is not None and not self.target(league):     # not a league like this one: no chain, no spread
             return
         seasons = [s for s in self.chain(league) if s.get("status") == "complete"]
         if len(seasons) >= self.min_seasons:
@@ -276,10 +318,21 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap.add_argument("--rate", type=float, default=8.0, help="calls a second at most (Sleeper: under ~16)")
     ap.add_argument("--workers", type=int, default=4, help="a season's calls in flight at once, under --rate")
     ap.add_argument("--frontier", type=int, default=3000, help="stop discovering once this many leagues are queued")
+    ap.add_argument("--target", choices=("idp-sf",), default=None,
+                    help="idp-sf: only dynasty leagues that start a defender and play superflex (`idp_superflex`)")
+    ap.add_argument("--min-teams", type=int, default=8)
+    ap.add_argument("--max-teams", type=int, default=14)
+    ap.add_argument("--stats", default=None, help="player season totals for these seasons first, e.g. 2017-2025")
     a = ap.parse_args(argv)
     cfg = json.loads((ROOT / "config.json").read_text())
-    cr = Crawler(Paced(sync._get, a.rate), season=a.season, min_seasons=a.min_seasons, max_chains=a.max_chains,
-                 workers=a.workers, frontier=a.frontier)
+    get = Paced(sync._get, a.rate)
+    if a.stats:
+        lo, _, hi = a.stats.partition("-")
+        print(f"player stats written for {season_stats(get, PUBLIC, list(range(int(lo), int(hi or lo) + 1)))}",
+              flush=True)
+    target = (lambda lg: idp_superflex(lg, a.min_teams, a.max_teams)) if a.target == "idp-sf" else None
+    cr = Crawler(get, season=a.season, min_seasons=a.min_seasons, max_chains=a.max_chains,
+                 workers=a.workers, frontier=a.frontier, target=target)
     print(f"crawling public dynasty leagues from {cfg['league_id']} (season {a.season}, chains of "
           f"{a.min_seasons}+ complete seasons, up to {a.max_chains})", flush=True)
     print(json.dumps(cr.run(str(cfg["league_id"]))))
