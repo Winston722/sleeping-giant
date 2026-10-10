@@ -107,3 +107,36 @@ def test_the_limiter_spaces_calls_across_threads_and_a_parallel_crawl_writes_the
     assert len(stamps) == 12 and min(gaps) > 0.012                    # at most 50 a second, whatever the threads
     public.write_whole(tmp_path / "x.json", "{}")
     assert (tmp_path / "x.json").read_text() == "{}" and not list(tmp_path.glob("*.tmp"))
+
+
+def test_a_dropped_connection_is_retried_and_a_league_that_keeps_failing_writes_nothing(tmp_path):
+    import http.client
+    n = {"x": 0}
+
+    def flaky(path):
+        n["x"] += 1
+        if n["x"] < 3:
+            raise http.client.RemoteDisconnected("closed")
+        return {"ok": path}
+    assert public.Paced(flaky, rate=1000, backoff=0.0)("p") == {"ok": "p"} and n["x"] == 3
+
+    def dead(path):
+        raise ConnectionResetError("reset")
+    try:
+        public.Paced(dead, rate=1000, tries=2, backoff=0.0)("p")
+        raise AssertionError("expected FetchError")
+    except public.FetchError:
+        pass
+    api = {"league/START/rosters": _rosters("111", "222"),
+           "user/111/leagues/nfl/2025": [_league("D4", "2025")], "user/222/leagues/nfl/2025": [],
+           "league/D4": _league("D4", "2025", prev="D3"), "league/D3": _league("D3", "2024", prev="D2"),
+           "league/D2": _league("D2", "2023", prev="D1"), "league/D1": _league("D1", "2022")}
+
+    def get(path):
+        if path.endswith("/winners_bracket") and "D2" in path:
+            raise public.FetchError(path)                     # one season's call keeps failing
+        return api.get(path)
+    cr = public.Crawler(get, out=tmp_path, min_seasons=4, max_chains=5, max_weeks=1, key=KEY, log=lambda *_: None)
+    res = cr.run("START")
+    assert res["chains"] == 0 and cr.retries["D4"] == 3              # put back twice, then dropped
+    assert not (tmp_path / "leagues" / "D2.json").exists()          # nothing partial

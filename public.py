@@ -40,6 +40,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import hmac
+import http.client
 import json
 import secrets
 import threading
@@ -138,6 +139,7 @@ class Crawler:
         self.seen_leagues = set(state.get("seen_leagues", []))
         self.seen_users = set(state.get("seen_users", []))          # pseudonyms
         self.chains = state.get("chains", {})                         # head league id -> its kept season ids
+        self.retries: Dict[str, int] = {}
 
     def save_state(self):
         write_whole(self.out / "crawl.json", json.dumps({
@@ -186,6 +188,22 @@ class Crawler:
                     self.seen_leagues.add(lid)
                     self.queue.append(lid)
 
+    def _one(self, lid: str) -> None:
+        """One queued league: keep its chain if long enough (every season written, or none), then discover."""
+        league = self.get(f"league/{lid}")
+        if not league or (league.get("settings") or {}).get("type") != DYNASTY:
+            return
+        seasons = [s for s in self.chain(league) if s.get("status") == "complete"]
+        if len(seasons) >= self.min_seasons:
+            for s in seasons:
+                self.keep_season(s)
+            self.chains[lid] = [str(s["league_id"]) for s in seasons]
+            self.log(f"  chain {len(self.chains)}/{self.max_chains}: {len(seasons)} seasons "
+                     f"({min(s['season'] for s in seasons)}-{max(s['season'] for s in seasons)}); "
+                     f"queue {len(self.queue)}")
+        if len(self.queue) < self.frontier:                    # enough leagues queued: stop looking for more
+            self.discover(self.get(f"league/{lid}/rosters") or [])
+
     def run(self, start: str) -> Dict[str, Any]:
         """Crawl from league `start` until --max-chains chains are kept or the frontier is empty."""
         if not self.queue and start not in self.seen_leagues:
@@ -193,19 +211,13 @@ class Crawler:
             self.discover(self.get(f"league/{start}/rosters") or [])
         while self.queue and len(self.chains) < self.max_chains:
             lid = self.queue.popleft()
-            league = self.get(f"league/{lid}")
-            if not league or (league.get("settings") or {}).get("type") != DYNASTY:
-                continue
-            seasons = [s for s in self.chain(league) if s.get("status") == "complete"]
-            if len(seasons) >= self.min_seasons:
-                for s in seasons:
-                    self.keep_season(s)
-                self.chains[lid] = [str(s["league_id"]) for s in seasons]
-                self.log(f"  chain {len(self.chains)}/{self.max_chains}: {len(seasons)} seasons "
-                         f"({min(s['season'] for s in seasons)}-{max(s['season'] for s in seasons)}); "
-                         f"queue {len(self.queue)}")
-            if len(self.queue) < self.frontier:                # enough leagues queued: stop looking for more
-                self.discover(self.get(f"league/{lid}/rosters") or [])
+            try:
+                self._one(lid)
+            except FetchError as e:                            # the network failed it: try again later, nothing kept
+                self.retries[lid] = self.retries.get(lid, 0) + 1
+                if self.retries[lid] < 3:
+                    self.queue.append(lid)
+                self.log(f"  league put back ({self.retries[lid]}): {e}")
             self.save_state()
         self.save_state()
         return {"chains": len(self.chains), "seasons": sum(len(v) for v in self.chains.values()),
@@ -219,25 +231,40 @@ def write_whole(path: Path, text: str) -> None:
     tmp.replace(path)
 
 
+class FetchError(Exception):
+    """A call that kept failing at the network level: the league is put back on the queue, nothing written."""
+
+
 class Paced:
     """`get` behind one limiter shared by every thread: calls start at least 1 / rate seconds apart (Sleeper: stay
-    under 1,000 calls a minute). A league gone private or deleted reads as None."""
+    under 1,000 calls a minute). A league gone private or deleted (`get` gives up: RuntimeError) reads as None. A
+    dropped connection is retried with backoff (`backoff` seconds, doubling) and, after `tries`, raises FetchError."""
 
-    def __init__(self, get: Callable[[str], Any], rate: float):
-        self.get, self.gap = get, 1.0 / rate
+    def __init__(self, get: Callable[[str], Any], rate: float, tries: int = 4, backoff: float = 2.0):
+        self.get, self.gap, self.tries, self.backoff = get, 1.0 / rate, tries, backoff
         self.lock, self.next = threading.Lock(), time.monotonic()
 
-    def __call__(self, path: str) -> Any:
+    def _slot(self):
         with self.lock:
             now = time.monotonic()
             wait = self.next - now
             self.next = max(now, self.next) + self.gap
         if wait > 0:
             time.sleep(wait)
-        try:
-            return self.get(path)
-        except RuntimeError:
-            return None
+
+    def __call__(self, path: str) -> Any:
+        delay = self.backoff
+        for attempt in range(self.tries):
+            self._slot()
+            try:
+                return self.get(path)
+            except RuntimeError:
+                return None
+            except (OSError, http.client.HTTPException) as e:      # reset, refused, closed without a response
+                if attempt == self.tries - 1:
+                    raise FetchError(f"{path}: {e}") from e
+                time.sleep(delay)
+                delay *= 2
 
 
 def main(argv: Optional[List[str]] = None) -> int:
