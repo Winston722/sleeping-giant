@@ -43,6 +43,30 @@ DAVE translates the Sleeper IDs itself and derives the free-agent pool by
 subtraction, turning replacement level from an assumption into the real question:
 *if I drop someone, who can I actually add?*
 
+## Public dynasty leagues (`python sync.py public`)
+
+Owner approval, 2026-10-09: "I approve pulling public sleeper league data." DAVE's league lab finds that the
+conventional contend-or-rebuild cycle is not a best response; this gathers real dynasty leagues to check that
+against what real managers did and won. `public.py` walks breadth first from this league: its managers, their
+other dynasty leagues in a season, those leagues' managers, and so on, following each league back through its
+seasons (`previous_league_id`) and keeping chains with at least four complete seasons.
+
+- **Kept** (data/public/leagues/<league_id>.json, one complete league season each): the league's rules (settings,
+  roster positions, scoring), each roster's season totals (wins, points for, maximum possible points), players, taxi
+  and reserve, the winners bracket, and the season's transactions (trades with their draft picks, waivers, free-agent
+  moves).
+- **Never kept:** display names, usernames, avatars, team names, league names, chat, notes. Each Sleeper user id is
+  a keyed hash (HMAC-SHA256 under data/public/.salt, generated locally), so a manager is a stable pseudonym that
+  cannot be looked up from the files. Raw user ids exist only in memory during the crawl.
+- **Not committed:** data/public/ is gitignored. Other people's leagues stay on the machine that pulled them;
+  dave-ledger reads a derived panel.
+- **Pace:** one rate limiter shared by every request (8 a second by default, 480 a minute; Sleeper asks for under 1,000), a season's weekly transactions four at a time under it. Files are written whole (renamed into place).
+  Resumable from data/public/crawl.json (league ids and pseudonyms only).
+
+```bash
+python sync.py public --max-chains 300 --min-seasons 4 --season 2025 --rate 8
+```
+
 ## League analysis
 
 `analyze.py` reads DAVE's published board (v5 since 2026-09-29) and adds the one
