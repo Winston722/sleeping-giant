@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-09",
+  "as_of": "2026-10-11",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -34,6 +34,7 @@
     "11624",
     "11625",
     "11628",
+    "11630",
     "11631",
     "11632",
     "11635",
@@ -43,11 +44,11 @@
     "11646",
     "11655",
     "1166",
-    "11665",
     "11667",
     "11674",
     "11678",
     "11682",
+    "11685",
     "11687",
     "11705",
     "11739",
@@ -66,6 +67,7 @@
     "12506",
     "12507",
     "12508",
+    "12509",
     "12512",
     "12514",
     "12517",
@@ -86,6 +88,7 @@
     "12578",
     "12591",
     "12597",
+    "12602",
     "12617",
     "12652",
     "13264",
@@ -183,7 +186,7 @@
     "4971",
     "4983",
     "4984",
-    "5001",
+    "4993",
     "5012",
     "5017",
     "5022",
@@ -228,7 +231,6 @@
     "6807",
     "6813",
     "6815",
-    "6888",
     "6896",
     "6904",
     "6949",
@@ -238,7 +240,6 @@
     "7523",
     "7525",
     "7526",
-    "7527",
     "7543",
     "7547",
     "7553",
@@ -272,7 +273,6 @@
     "8151",
     "8154",
     "8155",
-    "8161",
     "8167",
     "8183",
     "8228",
@@ -499,6 +499,12 @@
       "position": "WR"
     },
     {
+      "id": "11630",
+      "gsis_id": null,
+      "name": "Roman Wilson",
+      "position": "WR"
+    },
+    {
       "id": "11631",
       "gsis_id": null,
       "name": "Brian Thomas",
@@ -553,12 +559,6 @@
       "position": "QB"
     },
     {
-      "id": "11665",
-      "gsis_id": null,
-      "name": "Jared Verse",
-      "position": "DL"
-    },
-    {
       "id": "11667",
       "gsis_id": null,
       "name": "Dallas Turner",
@@ -580,6 +580,12 @@
       "id": "11682",
       "gsis_id": null,
       "name": "Cole Bishop",
+      "position": "DB"
+    },
+    {
+      "id": "11685",
+      "gsis_id": null,
+      "name": "Kamari Lassiter",
       "position": "DB"
     },
     {
@@ -689,6 +695,12 @@
       "gsis_id": null,
       "name": "Jaxson Dart",
       "position": "QB"
+    },
+    {
+      "id": "12509",
+      "gsis_id": null,
+      "name": "Tre' Harris",
+      "position": "WR"
     },
     {
       "id": "12512",
@@ -809,6 +821,12 @@
       "gsis_id": null,
       "name": "Nick Emmanwori",
       "position": "DB"
+    },
+    {
+      "id": "12602",
+      "gsis_id": null,
+      "name": "Mykel Williams",
+      "position": "DL"
     },
     {
       "id": "12617",
@@ -1393,9 +1411,9 @@
       "position": "QB"
     },
     {
-      "id": "5001",
-      "gsis_id": "00-0034383",
-      "name": "Dalton Schultz",
+      "id": "4993",
+      "gsis_id": "00-0034829",
+      "name": "Mike Gesicki",
       "position": "TE"
     },
     {
@@ -1663,12 +1681,6 @@
       "position": "LB"
     },
     {
-      "id": "6888",
-      "gsis_id": null,
-      "name": "Antoine Winfield",
-      "position": "DB"
-    },
-    {
       "id": "6896",
       "gsis_id": null,
       "name": "Amik Robertson",
@@ -1721,12 +1733,6 @@
       "gsis_id": null,
       "name": "Jaylen Waddle",
       "position": "WR"
-    },
-    {
-      "id": "7527",
-      "gsis_id": null,
-      "name": "Mac Jones",
-      "position": "QB"
     },
     {
       "id": "7543",
@@ -1925,12 +1931,6 @@
       "gsis_id": null,
       "name": "Breece Hall",
       "position": "RB"
-    },
-    {
-      "id": "8161",
-      "gsis_id": null,
-      "name": "Malik Willis",
-      "position": "QB"
     },
     {
       "id": "8167",

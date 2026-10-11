@@ -499,6 +499,22 @@
     "team": "ARI",
     "years_exp": 2
   },
+  "11630": {
+    "age": 25,
+    "birth_date": "2001-06-19",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Roman",
+    "full_name": "Roman Wilson",
+    "gsis_id": null,
+    "last_name": "Wilson",
+    "player_id": "11630",
+    "position": "WR",
+    "status": "Active",
+    "team": "PIT",
+    "years_exp": 2
+  },
   "11631": {
     "age": 24,
     "birth_date": "2002-10-08",
@@ -643,22 +659,6 @@
     "team": "LV",
     "years_exp": 14
   },
-  "11665": {
-    "age": 25,
-    "birth_date": "2000-11-04",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Jared",
-    "full_name": "Jared Verse",
-    "gsis_id": null,
-    "last_name": "Verse",
-    "player_id": "11665",
-    "position": "DL",
-    "status": "Active",
-    "team": "CLE",
-    "years_exp": 2
-  },
   "11667": {
     "age": 23,
     "birth_date": "2003-02-02",
@@ -722,6 +722,22 @@
     "position": "DB",
     "status": "Active",
     "team": "BUF",
+    "years_exp": 2
+  },
+  "11685": {
+    "age": 23,
+    "birth_date": "2003-01-23",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Kamari",
+    "full_name": "Kamari Lassiter",
+    "gsis_id": null,
+    "last_name": "Lassiter",
+    "player_id": "11685",
+    "position": "DB",
+    "status": "Active",
+    "team": "HOU",
     "years_exp": 2
   },
   "11687": {
@@ -1010,6 +1026,22 @@
     "position": "QB",
     "status": "Inactive",
     "team": "NYG",
+    "years_exp": 1
+  },
+  "12509": {
+    "age": 24,
+    "birth_date": "2002-02-28",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Tre'",
+    "full_name": "Tre' Harris",
+    "gsis_id": null,
+    "last_name": "Harris",
+    "player_id": "12509",
+    "position": "WR",
+    "status": "Active",
+    "team": "LAC",
     "years_exp": 1
   },
   "12512": {
@@ -1331,6 +1363,22 @@
     "position": "DB",
     "status": "Active",
     "team": "SEA",
+    "years_exp": 1
+  },
+  "12602": {
+    "age": 22,
+    "birth_date": "2004-06-29",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Mykel",
+    "full_name": "Mykel Williams",
+    "gsis_id": null,
+    "last_name": "Williams",
+    "player_id": "12602",
+    "position": "DL",
+    "status": "Active",
+    "team": "SF",
     "years_exp": 1
   },
   "12617": {
@@ -1670,7 +1718,7 @@
     "years_exp": 0
   },
   "13303": {
-    "age": 22,
+    "age": 23,
     "birth_date": "2003-10-10",
     "fantasy_positions": [
       "QB"
@@ -1782,7 +1830,7 @@
     "years_exp": 0
   },
   "13337": {
-    "age": 22,
+    "age": 23,
     "birth_date": "2003-10-10",
     "fantasy_positions": [
       "RB"
@@ -2004,7 +2052,7 @@
     "last_name": "McDonald",
     "player_id": "13374",
     "position": "DL",
-    "status": "Inactive",
+    "status": "Active",
     "team": "HOU",
     "years_exp": 0
   },
@@ -2668,7 +2716,7 @@
     "years_exp": 9
   },
   "4070": {
-    "age": 31,
+    "age": 32,
     "birth_date": "1994-10-11",
     "fantasy_positions": [
       "DL",
@@ -2892,20 +2940,20 @@
     "team": "BUF",
     "years_exp": 8
   },
-  "5001": {
-    "age": 30,
-    "birth_date": "1996-07-11",
+  "4993": {
+    "age": 31,
+    "birth_date": "1995-10-03",
     "fantasy_positions": [
       "TE"
     ],
-    "first_name": "Dalton",
-    "full_name": "Dalton Schultz",
-    "gsis_id": "00-0034383",
-    "last_name": "Schultz",
-    "player_id": "5001",
+    "first_name": "Mike",
+    "full_name": "Mike Gesicki",
+    "gsis_id": "00-0034829",
+    "last_name": "Gesicki",
+    "player_id": "4993",
     "position": "TE",
     "status": "Active",
-    "team": "HOU",
+    "team": "CIN",
     "years_exp": 8
   },
   "5012": {
@@ -3614,22 +3662,6 @@
     "team": "PHI",
     "years_exp": 6
   },
-  "6888": {
-    "age": 28,
-    "birth_date": "1998-08-16",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Antoine",
-    "full_name": "Antoine Winfield",
-    "gsis_id": null,
-    "last_name": "Winfield",
-    "player_id": "6888",
-    "position": "DB",
-    "status": "Active",
-    "team": "TB",
-    "years_exp": 6
-  },
   "6896": {
     "age": 28,
     "birth_date": "1998-07-06",
@@ -3772,22 +3804,6 @@
     "position": "WR",
     "status": "Active",
     "team": "DEN",
-    "years_exp": 5
-  },
-  "7527": {
-    "age": 28,
-    "birth_date": "1998-09-05",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Mac",
-    "full_name": "Mac Jones",
-    "gsis_id": null,
-    "last_name": "Jones",
-    "player_id": "7527",
-    "position": "QB",
-    "status": "Active",
-    "team": "SF",
     "years_exp": 5
   },
   "7543": {
@@ -4319,22 +4335,6 @@
     "position": "RB",
     "status": "Active",
     "team": "NYJ",
-    "years_exp": 4
-  },
-  "8161": {
-    "age": 27,
-    "birth_date": "1999-05-25",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Malik",
-    "full_name": "Malik Willis",
-    "gsis_id": null,
-    "last_name": "Willis",
-    "player_id": "8161",
-    "position": "QB",
-    "status": "Active",
-    "team": "MIA",
     "years_exp": 4
   },
   "8167": {
