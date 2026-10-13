@@ -496,7 +496,7 @@
     "player_id": "11628",
     "position": "WR",
     "status": "Active",
-    "team": "ARI",
+    "team": "HOU",
     "years_exp": 2
   },
   "11630": {
@@ -802,22 +802,6 @@
     "position": "DL",
     "status": "Active",
     "team": "CHI",
-    "years_exp": 2
-  },
-  "11783": {
-    "age": 26,
-    "birth_date": "1999-10-27",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Ryan",
-    "full_name": "Ryan Flournoy",
-    "gsis_id": null,
-    "last_name": "Flournoy",
-    "player_id": "11783",
-    "position": "WR",
-    "status": "Active",
-    "team": "DAL",
     "years_exp": 2
   },
   "11834": {
@@ -4515,6 +4499,22 @@
     "team": "NYG",
     "years_exp": 4
   },
+  "8364": {
+    "age": 26,
+    "birth_date": "2000-09-13",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Trent",
+    "full_name": "Trent McDuffie",
+    "gsis_id": null,
+    "last_name": "McDuffie",
+    "player_id": "8364",
+    "position": "DB",
+    "status": "Active",
+    "team": "LAR",
+    "years_exp": 4
+  },
   "8392": {
     "age": 25,
     "birth_date": "2001-09-10",
@@ -4579,22 +4579,6 @@
     "team": "LAR",
     "years_exp": 4
   },
-  "8680": {
-    "age": 27,
-    "birth_date": "1998-11-24",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Jack",
-    "full_name": "Jack Gibbens",
-    "gsis_id": null,
-    "last_name": "Gibbens",
-    "player_id": "8680",
-    "position": "LB",
-    "status": "Active",
-    "team": "ARI",
-    "years_exp": 4
-  },
   "9221": {
     "age": 24,
     "birth_date": "2002-03-20",
@@ -4644,7 +4628,7 @@
     "years_exp": 3
   },
   "9226": {
-    "age": 24,
+    "age": 25,
     "birth_date": "2001-10-13",
     "fantasy_positions": [
       "RB"

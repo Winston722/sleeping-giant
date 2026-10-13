@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-11",
+  "as_of": "2026-10-13",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -53,7 +53,6 @@
     "11705",
     "11739",
     "11760",
-    "11783",
     "11834",
     "12474",
     "12481",
@@ -284,11 +283,11 @@
     "8330",
     "8339",
     "8355",
+    "8364",
     "8392",
     "8395",
     "8408",
     "8659",
-    "8680",
     "9221",
     "9224",
     "9225",
@@ -611,12 +610,6 @@
       "gsis_id": null,
       "name": "Austin Booker",
       "position": "DL"
-    },
-    {
-      "id": "11783",
-      "gsis_id": null,
-      "name": "Ryan Flournoy",
-      "position": "WR"
     },
     {
       "id": "11834",
@@ -1999,6 +1992,12 @@
       "position": "DL"
     },
     {
+      "id": "8364",
+      "gsis_id": null,
+      "name": "Trent McDuffie",
+      "position": "DB"
+    },
+    {
       "id": "8392",
       "gsis_id": null,
       "name": "Nick Cross",
@@ -2020,12 +2019,6 @@
       "id": "8659",
       "gsis_id": null,
       "name": "Nate Landman",
-      "position": "LB"
-    },
-    {
-      "id": "8680",
-      "gsis_id": null,
-      "name": "Jack Gibbens",
       "position": "LB"
     },
     {
