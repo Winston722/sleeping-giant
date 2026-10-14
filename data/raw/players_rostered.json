@@ -194,6 +194,22 @@
     "team": "LAR",
     "years_exp": 3
   },
+  "10927": {
+    "age": 25,
+    "birth_date": "2000-12-14",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Jordan",
+    "full_name": "Jordan Battle",
+    "gsis_id": null,
+    "last_name": "Battle",
+    "player_id": "10927",
+    "position": "DB",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 3
+  },
   "10940": {
     "age": 24,
     "birth_date": "2001-11-21",
@@ -275,22 +291,6 @@
     "team": "CHI",
     "years_exp": 2
   },
-  "11563": {
-    "age": 26,
-    "birth_date": "2000-02-25",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Bo",
-    "full_name": "Bo Nix",
-    "gsis_id": null,
-    "last_name": "Nix",
-    "player_id": "11563",
-    "position": "QB",
-    "status": "Active",
-    "team": "DEN",
-    "years_exp": 2
-  },
   "11564": {
     "age": 24,
     "birth_date": "2002-08-30",
@@ -337,6 +337,22 @@
     "position": "RB",
     "status": "Active",
     "team": "NYJ",
+    "years_exp": 2
+  },
+  "11581": {
+    "age": 25,
+    "birth_date": "2001-01-05",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "MarShawn",
+    "full_name": "MarShawn Lloyd",
+    "gsis_id": null,
+    "last_name": "Lloyd",
+    "player_id": "11581",
+    "position": "RB",
+    "status": "Active",
+    "team": "GB",
     "years_exp": 2
   },
   "11583": {
@@ -497,22 +513,6 @@
     "position": "WR",
     "status": "Active",
     "team": "HOU",
-    "years_exp": 2
-  },
-  "11630": {
-    "age": 25,
-    "birth_date": "2001-06-19",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Roman",
-    "full_name": "Roman Wilson",
-    "gsis_id": null,
-    "last_name": "Wilson",
-    "player_id": "11630",
-    "position": "WR",
-    "status": "Active",
-    "team": "PIT",
     "years_exp": 2
   },
   "11631": {
@@ -724,22 +724,6 @@
     "team": "BUF",
     "years_exp": 2
   },
-  "11685": {
-    "age": 23,
-    "birth_date": "2003-01-23",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Kamari",
-    "full_name": "Kamari Lassiter",
-    "gsis_id": null,
-    "last_name": "Lassiter",
-    "player_id": "11685",
-    "position": "DB",
-    "status": "Active",
-    "team": "HOU",
-    "years_exp": 2
-  },
   "11687": {
     "age": 24,
     "birth_date": "2001-11-17",
@@ -770,6 +754,22 @@
     "position": "DB",
     "status": "Active",
     "team": "TB",
+    "years_exp": 2
+  },
+  "11727": {
+    "age": 26,
+    "birth_date": "2000-04-21",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Payton",
+    "full_name": "Payton Wilson",
+    "gsis_id": null,
+    "last_name": "Wilson",
+    "player_id": "11727",
+    "position": "LB",
+    "status": "Active",
+    "team": "PIT",
     "years_exp": 2
   },
   "11739": {
@@ -1045,7 +1045,7 @@
     "years_exp": 1
   },
   "12514": {
-    "age": 23,
+    "age": 24,
     "birth_date": "2002-10-14",
     "fantasy_positions": [
       "WR"
@@ -2556,7 +2556,7 @@
     "years_exp": 11
   },
   "3163": {
-    "age": 31,
+    "age": 32,
     "birth_date": "1994-10-14",
     "fantasy_positions": [
       "QB"
@@ -2601,6 +2601,22 @@
     "position": "RB",
     "status": "Active",
     "team": "BAL",
+    "years_exp": 10
+  },
+  "3257": {
+    "age": 33,
+    "birth_date": "1992-12-11",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Jacoby",
+    "full_name": "Jacoby Brissett",
+    "gsis_id": "00-0033119",
+    "last_name": "Brissett",
+    "player_id": "3257",
+    "position": "QB",
+    "status": "Active",
+    "team": "ARI",
     "years_exp": 10
   },
   "3294": {
@@ -3422,22 +3438,6 @@
     "team": "MIN",
     "years_exp": 7
   },
-  "6302": {
-    "age": 31,
-    "birth_date": "1995-07-10",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Kaden",
-    "full_name": "Kaden Elliss",
-    "gsis_id": " 00-0035316",
-    "last_name": "Elliss",
-    "player_id": "6302",
-    "position": "LB",
-    "status": "Active",
-    "team": "NO",
-    "years_exp": 7
-  },
   "6333": {
     "age": 29,
     "birth_date": "1997-06-22",
@@ -3468,6 +3468,22 @@
     "position": "QB",
     "status": "Active",
     "team": "CIN",
+    "years_exp": 6
+  },
+  "6782": {
+    "age": 27,
+    "birth_date": "1999-04-14",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Chase",
+    "full_name": "Chase Young",
+    "gsis_id": null,
+    "last_name": "Young",
+    "player_id": "6782",
+    "position": "DE",
+    "status": "Active",
+    "team": "NO",
     "years_exp": 6
   },
   "6786": {
@@ -3676,6 +3692,22 @@
     "position": "QB",
     "status": "Active",
     "team": "PHI",
+    "years_exp": 6
+  },
+  "6911": {
+    "age": 28,
+    "birth_date": "1998-04-02",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Brandon",
+    "full_name": "Brandon Jones",
+    "gsis_id": null,
+    "last_name": "Jones",
+    "player_id": "6911",
+    "position": "DB",
+    "status": "Active",
+    "team": "DEN",
     "years_exp": 6
   },
   "6949": {
@@ -4033,22 +4065,6 @@
     "team": "DET",
     "years_exp": 5
   },
-  "7811": {
-    "age": 26,
-    "birth_date": "2000-02-01",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Talanoa",
-    "full_name": "Talanoa Hufanga",
-    "gsis_id": null,
-    "last_name": "Hufanga",
-    "player_id": "7811",
-    "position": "DB",
-    "status": "Active",
-    "team": "DEN",
-    "years_exp": 5
-  },
   "7841": {
     "age": 26,
     "birth_date": "2000-01-12",
@@ -4111,6 +4127,22 @@
     "position": "WR",
     "status": "Active",
     "team": "TEN",
+    "years_exp": 4
+  },
+  "8129": {
+    "age": 26,
+    "birth_date": "2000-02-19",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Dameon",
+    "full_name": "Dameon Pierce",
+    "gsis_id": null,
+    "last_name": "Pierce",
+    "player_id": "8129",
+    "position": "RB",
+    "status": "Active",
+    "team": "PHI",
     "years_exp": 4
   },
   "8130": {
@@ -4611,22 +4643,6 @@
     "team": "CIN",
     "years_exp": 3
   },
-  "9225": {
-    "age": 24,
-    "birth_date": "2002-08-30",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Tank",
-    "full_name": "Tank Bigsby",
-    "gsis_id": null,
-    "last_name": "Bigsby",
-    "player_id": "9225",
-    "position": "RB",
-    "status": "Inactive",
-    "team": "PHI",
-    "years_exp": 3
-  },
   "9226": {
     "age": 25,
     "birth_date": "2001-10-13",
@@ -4705,22 +4721,6 @@
     "position": "TE",
     "status": "Active",
     "team": "GB",
-    "years_exp": 3
-  },
-  "9486": {
-    "age": 25,
-    "birth_date": "2001-06-16",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Dontayvion",
-    "full_name": "Dontayvion Wicks",
-    "gsis_id": null,
-    "last_name": "Wicks",
-    "player_id": "9486",
-    "position": "WR",
-    "status": "Active",
-    "team": "PHI",
     "years_exp": 3
   },
   "9487": {
