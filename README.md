@@ -22,6 +22,8 @@ data/raw/            verbatim Sleeper responses, committed so history is diffabl
   users.json           owner display names
   state.json           current NFL week/season
   traded_picks.json    dynasty pick ownership
+  transactions.json    every waiver claim (won or failed, with its FAAB bid, waiver priority and
+                       Sleeper's reason for a failure), free-agent move and trade, by round
   injuries/<date>.json every NFL player Sleeper lists with an injury status (body part,
                        notes such as "Surgery" or "Knee - ACL", practice participation),
                        one dated snapshot per sync: Sleeper keeps no history of these

@@ -171,3 +171,21 @@ def test_a_targeted_crawl_keeps_and_spreads_through_idp_superflex_leagues_only(t
     assert "user/555/leagues/nfl/2025" in calls                            # spread through the IDP league's managers
     assert public.season_stats(get, tmp_path, [2024]) == [2024] and public.season_stats(get, tmp_path, [2024]) == []
     assert json.loads((tmp_path / "stats" / "2024.json").read_text()) == {"6462": {"pass_td": 30, "gp": 17.0}}
+
+
+def test_a_waiver_claim_keeps_its_bid_and_a_coded_reason_never_the_message():
+    """dave-ledger's FAAB study (2026-10-15): winning and losing bids, and why a claim failed, as a code."""
+    claims = [{"type": "waiver", "status": "complete", "creator": "111", "adds": {"9": 1},
+               "settings": {"waiver_bid": 12, "priority": 3, "seq": 1, "note": "x"},
+               "metadata": {"notes": "Your waiver claim was processed successfully!"}},
+              {"type": "waiver", "status": "failed", "creator": "222", "adds": {"9": 2},
+               "settings": {"waiver_bid": 9, "priority": 1, "seq": 2},
+               "metadata": {"notes": "This player was claimed by another owner."}},
+              {"type": "waiver", "status": "failed", "adds": {"8": 2}, "settings": {"waiver_bid": 0},
+               "metadata": {"notes": "Unfortunately, your roster will have too many players after this transaction."}},
+              {"type": "waiver", "status": "failed", "adds": {"7": 2}, "metadata": {"notes": "Something new"}}]
+    tx = public.clean_transactions(claims, KEY)
+    assert tx[0]["settings"] == {"waiver_bid": 12, "priority": 3, "seq": 1} and tx[0]["failed_reason"] is None
+    assert tx[1]["settings"]["waiver_bid"] == 9 and tx[1]["failed_reason"] == "claimed"
+    assert [t["failed_reason"] for t in tx[2:]] == ["roster", "other"] and tx[3]["settings"] == {}
+    assert "claimed by another" not in json.dumps(tx) and all("metadata" not in t for t in tx)
