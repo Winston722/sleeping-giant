@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-13",
+  "as_of": "2026-10-15",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -15,15 +15,16 @@
     "10905",
     "10914",
     "10917",
+    "10927",
     "10940",
     "11435",
     "11470",
     "11559",
     "11560",
-    "11563",
     "11564",
     "11566",
     "11576",
+    "11581",
     "11583",
     "11584",
     "11586",
@@ -34,7 +35,6 @@
     "11624",
     "11625",
     "11628",
-    "11630",
     "11631",
     "11632",
     "11635",
@@ -48,9 +48,9 @@
     "11674",
     "11678",
     "11682",
-    "11685",
     "11687",
     "11705",
+    "11727",
     "11739",
     "11760",
     "11834",
@@ -165,6 +165,7 @@
     "3163",
     "3172",
     "3198",
+    "3257",
     "3294",
     "3634",
     "3973",
@@ -216,9 +217,9 @@
     "6141",
     "6183",
     "6217",
-    "6302",
     "6333",
     "6770",
+    "6782",
     "6786",
     "6790",
     "6794",
@@ -232,6 +233,7 @@
     "6815",
     "6896",
     "6904",
+    "6911",
     "6949",
     "7002",
     "7021",
@@ -254,11 +256,11 @@
     "7659",
     "7672",
     "7726",
-    "7811",
     "7841",
     "8110",
     "8112",
     "8126",
+    "8129",
     "8130",
     "8131",
     "8132",
@@ -290,13 +292,11 @@
     "8659",
     "9221",
     "9224",
-    "9225",
     "9226",
     "9228",
     "9229",
     "9480",
     "9484",
-    "9486",
     "9487",
     "9488",
     "9493",
@@ -384,6 +384,12 @@
       "position": "LB"
     },
     {
+      "id": "10927",
+      "gsis_id": null,
+      "name": "Jordan Battle",
+      "position": "DB"
+    },
+    {
       "id": "10940",
       "gsis_id": null,
       "name": "Nick Herbig",
@@ -414,12 +420,6 @@
       "position": "QB"
     },
     {
-      "id": "11563",
-      "gsis_id": null,
-      "name": "Bo Nix",
-      "position": "QB"
-    },
-    {
       "id": "11564",
       "gsis_id": null,
       "name": "Drake Maye",
@@ -435,6 +435,12 @@
       "id": "11576",
       "gsis_id": null,
       "name": "Braelon Allen",
+      "position": "RB"
+    },
+    {
+      "id": "11581",
+      "gsis_id": null,
+      "name": "MarShawn Lloyd",
       "position": "RB"
     },
     {
@@ -495,12 +501,6 @@
       "id": "11628",
       "gsis_id": null,
       "name": "Marvin Harrison",
-      "position": "WR"
-    },
-    {
-      "id": "11630",
-      "gsis_id": null,
-      "name": "Roman Wilson",
       "position": "WR"
     },
     {
@@ -582,12 +582,6 @@
       "position": "DB"
     },
     {
-      "id": "11685",
-      "gsis_id": null,
-      "name": "Kamari Lassiter",
-      "position": "DB"
-    },
-    {
       "id": "11687",
       "gsis_id": null,
       "name": "Edgerrin Cooper",
@@ -598,6 +592,12 @@
       "gsis_id": null,
       "name": "Tykee Smith",
       "position": "DB"
+    },
+    {
+      "id": "11727",
+      "gsis_id": null,
+      "name": "Payton Wilson",
+      "position": "LB"
     },
     {
       "id": "11739",
@@ -1284,6 +1284,12 @@
       "position": "RB"
     },
     {
+      "id": "3257",
+      "gsis_id": "00-0033119",
+      "name": "Jacoby Brissett",
+      "position": "QB"
+    },
+    {
       "id": "3294",
       "gsis_id": "00-0033077",
       "name": "Dak Prescott",
@@ -1590,12 +1596,6 @@
       "position": "LB"
     },
     {
-      "id": "6302",
-      "gsis_id": " 00-0035316",
-      "name": "Kaden Elliss",
-      "position": "LB"
-    },
-    {
       "id": "6333",
       "gsis_id": " 00-0035133",
       "name": "Keisean Nixon",
@@ -1606,6 +1606,12 @@
       "gsis_id": null,
       "name": "Joe Burrow",
       "position": "QB"
+    },
+    {
+      "id": "6782",
+      "gsis_id": null,
+      "name": "Chase Young",
+      "position": "DE"
     },
     {
       "id": "6786",
@@ -1684,6 +1690,12 @@
       "gsis_id": null,
       "name": "Jalen Hurts",
       "position": "QB"
+    },
+    {
+      "id": "6911",
+      "gsis_id": null,
+      "name": "Brandon Jones",
+      "position": "DB"
     },
     {
       "id": "6949",
@@ -1818,12 +1830,6 @@
       "position": "LB"
     },
     {
-      "id": "7811",
-      "gsis_id": null,
-      "name": "Talanoa Hufanga",
-      "position": "DB"
-    },
-    {
       "id": "7841",
       "gsis_id": null,
       "name": "Jamien Sherwood",
@@ -1846,6 +1852,12 @@
       "gsis_id": null,
       "name": "Wan'Dale Robinson",
       "position": "WR"
+    },
+    {
+      "id": "8129",
+      "gsis_id": null,
+      "name": "Dameon Pierce",
+      "position": "RB"
     },
     {
       "id": "8130",
@@ -2034,12 +2046,6 @@
       "position": "RB"
     },
     {
-      "id": "9225",
-      "gsis_id": null,
-      "name": "Tank Bigsby",
-      "position": "RB"
-    },
-    {
       "id": "9226",
       "gsis_id": null,
       "name": "De'Von Achane",
@@ -2068,12 +2074,6 @@
       "gsis_id": null,
       "name": "Tucker Kraft",
       "position": "TE"
-    },
-    {
-      "id": "9486",
-      "gsis_id": null,
-      "name": "Dontayvion Wicks",
-      "position": "WR"
     },
     {
       "id": "9487",
