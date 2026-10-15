@@ -147,6 +147,9 @@ def rostered_player_records(rosters: List[Dict[str, Any]],
     return out
 
 
+# Every round Sleeper may file a move under (the offseason's included): swept whole each run, empty rounds dropped.
+TRANSACTION_ROUNDS = range(0, 19)
+
 INJURY_FIELDS = ("player_id", "gsis_id", "full_name", "team", "position", "fantasy_positions",
                  "injury_status", "injury_body_part", "injury_notes", "injury_start_date",
                  "practice_participation", "practice_description", "status")
@@ -242,6 +245,18 @@ def main() -> None:
     print(f"  {len(matchups)} weeks of matchups"
           f"{' (preseason: none yet)' if not matchups else ''}")
 
+    # TRANSACTIONS: every waiver claim, won or failed, with its FAAB bid and waiver priority (`settings`) and
+    # Sleeper's reason for a failure (`metadata.notes`), every free-agent move and trade, keyed by the round they
+    # are filed under. Sleeper keeps serving them, so the season is swept each run, as matchups are
+    # (dave-ledger's FAAB study, 2026-10-15: what this league's managers bid, and when).
+    transactions: Dict[str, Any] = {}
+    for rnd in TRANSACTION_ROUNDS:
+        rows = _get(f"league/{league_id}/transactions/{rnd}") or []
+        if rows:
+            transactions[str(rnd)] = rows
+    n_claims = sum(1 for rows in transactions.values() for t in rows if t.get("type") == "waiver")
+    print(f"  {sum(len(r) for r in transactions.values())} transactions ({n_claims} waiver claims)")
+
     # The trimmed dictionary dave-ledger derives from. See the module docstring:
     # without this its teams file loses every field but the bare Sleeper id.
     rostered = rostered_player_records(rosters, players)
@@ -252,7 +267,7 @@ def main() -> None:
     for name, payload in [
         ("league", league), ("rosters", rosters), ("users", users),
         ("state", state), ("traded_picks", traded_picks),
-        ("matchups", matchups), ("players_rostered", rostered),
+        ("matchups", matchups), ("players_rostered", rostered), ("transactions", transactions),
     ]:
         (RAW / f"{name}.json").write_text(json.dumps(payload, indent=2, sort_keys=True) + "\n")
 
