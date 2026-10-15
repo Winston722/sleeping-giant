@@ -16,7 +16,7 @@ when it has at least --min-seasons complete seasons.
 **Kept per complete league season** (one file, data/public/leagues/<league_id>.json): the settings, roster
 positions and scoring (`clean_league`); each roster's season totals (wins, points for, maximum possible points),
 players, taxi and reserve (`clean_rosters`); the winners bracket; and every week's transactions (trades with their
-draft picks, waivers, free-agent moves: `clean_transactions`).
+draft picks, waivers with their FAAB bids, free-agent moves: `clean_transactions`).
 
 **Never kept:** display names, usernames, avatars, team names, league names, chat messages, commissioner notes. Every
 Sleeper user id is replaced by a keyed hash (`pseudonym`: HMAC-SHA256 under a local salt, data/public/.salt, never
@@ -77,6 +77,12 @@ ROSTER_SETTINGS_KEYS = ("wins", "losses", "ties", "fpts", "fpts_decimal", "fpts_
                         "ppts", "ppts_decimal", "division", "waiver_budget_used")
 TX_KEYS = ("transaction_id", "type", "status", "leg", "created", "status_updated", "roster_ids", "adds", "drops",
            "draft_picks", "waiver_budget", "consenter_ids")
+# a waiver claim's numbers (dave-ledger's FAAB study, 2026-10-15): the FAAB bid, the waiver priority it was made at and
+# its order in the run. Numbers only: nothing else in `settings` is kept.
+TX_SETTINGS = ("waiver_bid", "priority", "seq")
+# why a claim failed, as a code from Sleeper's own system message. The message text is never kept: a code is all a
+# bid study needs (a claim lost to another team is a losing bid; one that would overfill a roster is not a bid at all).
+FAILED_REASONS = (("claimed", "claimed by another"), ("roster", "too many players"))
 
 
 def salt(path: Path = PUBLIC / ".salt") -> bytes:
@@ -114,12 +120,24 @@ def clean_rosters(rosters: List[Dict[str, Any]], key: bytes) -> List[Dict[str, A
     return out
 
 
+def failed_reason(t: Dict[str, Any]) -> Optional[str]:
+    """A failed claim's reason as a code (`FAILED_REASONS`, else "other"); None for anything that did not fail."""
+    if t.get("status") != "failed":
+        return None
+    note = str((t.get("metadata") or {}).get("notes") or "").lower()
+    return next((code for code, phrase in FAILED_REASONS if phrase in note), "other")
+
+
 def clean_transactions(txs: List[Dict[str, Any]], key: bytes) -> List[Dict[str, Any]]:
-    """Trades, waivers and free-agent moves (rosters by roster id, the creator as a pseudonym), without notes."""
+    """Trades, waivers and free-agent moves (rosters by roster id, the creator as a pseudonym), without notes: a
+    claim keeps its bid, priority and order (`TX_SETTINGS`) and, when it failed, the reason as a code."""
     out = []
     for t in txs or []:
         row = {k: t.get(k) for k in TX_KEYS}
         row["creator"] = pseudonym(t.get("creator"), key)
+        st = t.get("settings") or {}
+        row["settings"] = {k: st[k] for k in TX_SETTINGS if isinstance(st.get(k), (int, float))}
+        row["failed_reason"] = failed_reason(t)
         out.append(row)
     return out
 
