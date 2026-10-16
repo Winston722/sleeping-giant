@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-15",
+  "as_of": "2026-10-16",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -90,6 +90,7 @@
     "12602",
     "12617",
     "12652",
+    "12978",
     "13264",
     "13269",
     "13272",
@@ -219,7 +220,6 @@
     "6217",
     "6333",
     "6770",
-    "6782",
     "6786",
     "6790",
     "6794",
@@ -832,6 +832,12 @@
       "gsis_id": null,
       "name": "Deone Walker",
       "position": "DT"
+    },
+    {
+      "id": "12978",
+      "gsis_id": null,
+      "name": "Elijah Ponder",
+      "position": "DE"
     },
     {
       "id": "13264",
@@ -1606,12 +1612,6 @@
       "gsis_id": null,
       "name": "Joe Burrow",
       "position": "QB"
-    },
-    {
-      "id": "6782",
-      "gsis_id": null,
-      "name": "Chase Young",
-      "position": "DE"
     },
     {
       "id": "6786",

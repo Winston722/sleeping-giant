@@ -6069,5 +6069,32 @@
       "type": "free_agent",
       "waiver_budget": []
     }
+  ],
+  "6": [
+    {
+      "adds": {
+        "12978": 2
+      },
+      "consenter_ids": [
+        2
+      ],
+      "created": 1792100637765,
+      "creator": "1122248503473848320",
+      "draft_picks": [],
+      "drops": {
+        "6782": 2
+      },
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        2
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792100637765,
+      "transaction_id": "1416576383169089536",
+      "type": "free_agent",
+      "waiver_budget": []
+    }
   ]
 }
