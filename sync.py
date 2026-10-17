@@ -155,6 +155,16 @@ INJURY_FIELDS = ("player_id", "gsis_id", "full_name", "team", "position", "fanta
                  "practice_participation", "practice_description", "status")
 
 
+def stamp_players(raw: Path, now: Optional[dt.datetime] = None) -> Path:
+    """Record when the player dictionary was fetched (`players.fetched_at.json`, gitignored with it): DAVE's Sleeper
+    blend reads its injury designations beside the week's projections and refuses them unless the two were captured
+    at about the same time (Sol, 2026-10-17)."""
+    t = (now or dt.datetime.now(dt.timezone.utc)).isoformat(timespec="seconds")
+    out = raw / "players.fetched_at.json"
+    out.write_text(json.dumps({"fetched_at": t}) + "\n")
+    return out
+
+
 def injury_records(players: Dict[str, Any], state: Dict[str, Any], as_of: str) -> Dict[str, Any]:
     """Every player in Sleeper's dictionary with an injury status, as of `as_of`
     (UTC date), with the NFL state it was taken in. Sorted by player id, so an
@@ -230,6 +240,7 @@ def main() -> None:
     print("  fetching player dictionary (~5MB) for gsis resolution...")
     players = _get("players/nfl")
     (RAW / "players.json").write_text(json.dumps(players, sort_keys=True))
+    stamp_players(RAW)
 
     # MATCHUPS are per-week and exist only once a week has been played. The whole
     # regular season is swept each run so a late first capture still assembles a

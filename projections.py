@@ -8,6 +8,9 @@ Each regular-season week's projections (`/v1/projections/nfl/regular/{season}/{w
 for that week. Kept per player: Sleeper's player id and each projected stat (Sleeper's stat keys, the same as the
 league's scoring keys), for players with any projected stat. Nothing else (no names, no ranks).
 
+Each week's fetch time is recorded in `<season>/fetched_at.json` (week -> UTC time), so DAVE can check that the
+designations it reads beside them were captured at about the same time (Sol, 2026-10-17).
+
 **Retention:** the files stay in `data/projections/` (gitignored), on the machine that pulled them; dave-ledger
 commits only derived aggregates. Sleeper's terms: owner reviewed, current use fine (dave-ledger
 docs/sources-and-obligations.md C11). Paced well under Sleeper's stated limit (1,000 calls a minute).
@@ -15,6 +18,7 @@ docs/sources-and-obligations.md C11). Paced well under Sleeper's stated limit (1
 from __future__ import annotations
 
 import argparse
+import datetime as dt
 import json
 import time
 from pathlib import Path
@@ -55,11 +59,15 @@ def main(argv: list[str]) -> int:
     for season in _span(a.seasons):
         d = a.out / str(season)
         d.mkdir(parents=True, exist_ok=True)
+        stamps_f = d / "fetched_at.json"
+        stamps = json.loads(stamps_f.read_text()) if stamps_f.exists() else {}
         for wk in _span(a.weeks):
             proj = week(season, wk)
             n += 1
             if proj:
                 (d / f"{wk}.json").write_text(json.dumps(proj, sort_keys=True, separators=(",", ":")))
+                stamps[str(wk)] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+                stamps_f.write_text(json.dumps(stamps, indent=1, sort_keys=True) + "\n")
             print(f"  {season} week {wk}: {len(proj)} players", flush=True)
             time.sleep(PACE)
     print(f"{n} calls -> {a.out}")

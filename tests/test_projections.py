@@ -37,3 +37,22 @@ def test_main_writes_one_file_a_week_and_is_gitignored(monkeypatch, tmp_path):
     assert not (tmp_path / "2024" / "2.json").exists()                  # nothing projected: no file
     ignore = (Path(__file__).resolve().parents[1] / ".gitignore").read_text()
     assert "data/projections/" in ignore
+
+
+def test_each_week_written_records_when_it_was_fetched(monkeypatch, tmp_path):
+    monkeypatch.setattr(projections, "_get", lambda p: {"1": {"rec": 1.0}} if not p.endswith("/2") else {})
+    monkeypatch.setattr(projections, "PACE", 0.0)
+    assert projections.main(["--seasons", "2026", "--weeks", "1-3", "--out", str(tmp_path)]) == 0
+    stamps = json.loads((tmp_path / "2026" / "fetched_at.json").read_text())
+    assert set(stamps) == {"1", "3"}                                    # a week with nothing projected: no stamp
+    projections.main(["--seasons", "2026", "--weeks", "3", "--out", str(tmp_path)])
+    assert set(json.loads((tmp_path / "2026" / "fetched_at.json").read_text())) == {"1", "3"}   # merged, not replaced
+
+
+def test_the_player_dictionarys_fetch_time_is_recorded_and_gitignored(tmp_path):
+    import datetime as dt
+    import sync
+    out = sync.stamp_players(tmp_path, dt.datetime(2026, 10, 17, 23, 0, tzinfo=dt.timezone.utc))
+    assert json.loads(out.read_text()) == {"fetched_at": "2026-10-17T23:00:00+00:00"}
+    ignore = (Path(__file__).resolve().parents[1] / ".gitignore").read_text()
+    assert "data/raw/players.fetched_at.json" in ignore
