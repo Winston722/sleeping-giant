@@ -299,6 +299,9 @@ if __name__ == "__main__":
     if sys.argv[1:2] == ["public"]:            # public dynasty leagues for DAVE's real-league check (public.py)
         from public import main as public_main
         sys.exit(public_main(sys.argv[2:]))
+    if sys.argv[1:2] == ["projections"]:       # Sleeper's weekly projections for DAVE's lineup study (projections.py)
+        from projections import main as projections_main
+        sys.exit(projections_main(sys.argv[2:]))
     try:
         main()
     except Exception as e:  # noqa: BLE001 - surface a clean failure to the CI log

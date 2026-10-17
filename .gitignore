@@ -12,3 +12,6 @@ __pycache__/
 
 # Other people's public Sleeper leagues (public.py): pseudonymised, kept on the machine that pulled them, never committed.
 data/public/
+
+# Sleeper's weekly projections (projections.py): kept on the machine that pulled them, never committed.
+data/projections/
