@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-16",
+  "as_of": "2026-10-18",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -40,7 +40,6 @@
     "11635",
     "11637",
     "11638",
-    "11643",
     "11646",
     "11655",
     "1166",
@@ -532,12 +531,6 @@
       "gsis_id": null,
       "name": "Ricky Pearsall",
       "position": "WR"
-    },
-    {
-      "id": "11643",
-      "gsis_id": null,
-      "name": "Jaylen Wright",
-      "position": "RB"
     },
     {
       "id": "11646",
