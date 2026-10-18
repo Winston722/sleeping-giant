@@ -10,7 +10,11 @@ output:
                            rostered player IDs, plus team count)
 
 THIS REPOSITORY IS THE CANONICAL SLEEPER ACQUISITION (owner decision,
-2026-09-03). `dave-ledger` used to run its own `scripts/fetch_sleeper_league.py`
+2026-09-03) until the DAVE / sleeping-giant split switches it: dave-ledger now
+carries a connector that writes these same files (`dave_ledger.v5.acquire.
+sleeper_league`, `scripts/dave_league.py`; owner rulings 2026-10-17 §3), and
+this script stays the one capture of the league until a Tuesday run of that
+connector matches this one's, file for file (`dave_league.py compare`). `dave-ledger` used to run its own `scripts/fetch_sleeper_league.py`
 against the same league on an overlapping schedule, so the same fact had two
 scheduled writers and nothing kept them in agreement -- and DAVE derives
 replacement level from who is rostered, so a divergence would quietly misprice
@@ -74,7 +78,9 @@ RAW = ROOT / "data" / "raw"
 # the two repositories do not import from each other, and a shared package for
 # twelve strings would be worse than a comment saying where the other copy is.
 # A field added there and not here arrives as `None` rather than as an error,
-# so the dave-ledger side asserts the shape it received.
+# so the dave-ledger side asserts the shape it received. A third copy is in
+# dave-ledger's own Sleeper connector (`dave_ledger.v5.acquire.sleeper_league`,
+# the DAVE / sleeping-giant split, 2026-10-18); its tests check all three.
 PLAYER_FIELDS = ("player_id", "gsis_id", "full_name", "first_name",
                  "last_name", "position", "fantasy_positions", "team",
                  "age", "years_exp", "birth_date", "status")
