@@ -10,7 +10,11 @@ output:
                            rostered player IDs, plus team count)
 
 THIS REPOSITORY IS THE CANONICAL SLEEPER ACQUISITION (owner decision,
-2026-09-03). `dave-ledger` used to run its own `scripts/fetch_sleeper_league.py`
+2026-09-03) until the DAVE / sleeping-giant split switches it: dave-ledger now
+carries a connector that writes these same files (`dave_ledger.v5.acquire.
+sleeper_league`, `scripts/dave_league.py`; owner rulings 2026-10-17 §3), and
+this script stays the one capture of the league until a Tuesday run of that
+connector matches this one's, file for file (`dave_league.py compare`). `dave-ledger` used to run its own `scripts/fetch_sleeper_league.py`
 against the same league on an overlapping schedule, so the same fact had two
 scheduled writers and nothing kept them in agreement -- and DAVE derives
 replacement level from who is rostered, so a divergence would quietly misprice
@@ -74,7 +78,9 @@ RAW = ROOT / "data" / "raw"
 # the two repositories do not import from each other, and a shared package for
 # twelve strings would be worse than a comment saying where the other copy is.
 # A field added there and not here arrives as `None` rather than as an error,
-# so the dave-ledger side asserts the shape it received.
+# so the dave-ledger side asserts the shape it received. A third copy is in
+# dave-ledger's own Sleeper connector (`dave_ledger.v5.acquire.sleeper_league`,
+# the DAVE / sleeping-giant split, 2026-10-18); its tests check all three.
 PLAYER_FIELDS = ("player_id", "gsis_id", "full_name", "first_name",
                  "last_name", "position", "fantasy_positions", "team",
                  "age", "years_exp", "birth_date", "status")
@@ -155,6 +161,16 @@ INJURY_FIELDS = ("player_id", "gsis_id", "full_name", "team", "position", "fanta
                  "practice_participation", "practice_description", "status")
 
 
+def stamp_players(raw: Path, now: Optional[dt.datetime] = None) -> Path:
+    """Record when the player dictionary was fetched (`players.fetched_at.json`, gitignored with it): DAVE's Sleeper
+    blend reads its injury designations beside the week's projections and refuses them unless the two were captured
+    at about the same time (Sol, 2026-10-17)."""
+    t = (now or dt.datetime.now(dt.timezone.utc)).isoformat(timespec="seconds")
+    out = raw / "players.fetched_at.json"
+    out.write_text(json.dumps({"fetched_at": t}) + "\n")
+    return out
+
+
 def injury_records(players: Dict[str, Any], state: Dict[str, Any], as_of: str) -> Dict[str, Any]:
     """Every player in Sleeper's dictionary with an injury status, as of `as_of`
     (UTC date), with the NFL state it was taken in. Sorted by player id, so an
@@ -230,6 +246,7 @@ def main() -> None:
     print("  fetching player dictionary (~5MB) for gsis resolution...")
     players = _get("players/nfl")
     (RAW / "players.json").write_text(json.dumps(players, sort_keys=True))
+    stamp_players(RAW)
 
     # MATCHUPS are per-week and exist only once a week has been played. The whole
     # regular season is swept each run so a late first capture still assembles a
@@ -299,6 +316,9 @@ if __name__ == "__main__":
     if sys.argv[1:2] == ["public"]:            # public dynasty leagues for DAVE's real-league check (public.py)
         from public import main as public_main
         sys.exit(public_main(sys.argv[2:]))
+    if sys.argv[1:2] == ["projections"]:       # Sleeper's weekly projections for DAVE's lineup study (projections.py)
+        from projections import main as projections_main
+        sys.exit(projections_main(sys.argv[2:]))
     try:
         main()
     except Exception as e:  # noqa: BLE001 - surface a clean failure to the CI log

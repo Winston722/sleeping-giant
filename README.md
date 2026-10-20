@@ -45,6 +45,13 @@ DAVE translates the Sleeper IDs itself and derives the free-agent pool by
 subtraction, turning replacement level from an assumption into the real question:
 *if I drop someone, who can I actually add?*
 
+## Sleeper's weekly projections (`python sync.py projections`)
+
+Owner, 2026-10-17: most managers set lineups by Sleeper's projections, so DAVE's lineup study compares them
+(`projections.py`). `python sync.py projections --seasons 2020-2026 [--weeks 1-18]` keeps each regular-season week's
+projected stats per Sleeper player id (no names, no ranks) in `data/projections/<season>/<week>.json`, gitignored and
+never committed: dave-ledger commits only aggregates. One call a week, paced.
+
 ## Public dynasty leagues (`python sync.py public`)
 
 Owner approval, 2026-10-09: "I approve pulling public sleeper league data." DAVE's league lab finds that the
