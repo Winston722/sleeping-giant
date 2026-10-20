@@ -6072,6 +6072,35 @@
   ],
   "6": [
     {
+      "adds": {
+        "12517": 2,
+        "2449": 5
+      },
+      "consenter_ids": [
+        2,
+        5
+      ],
+      "created": 1792517429515,
+      "creator": "1122248503473848320",
+      "draft_picks": [],
+      "drops": {
+        "12517": 5,
+        "2449": 2
+      },
+      "leg": 6,
+      "metadata": null,
+      "roster_ids": [
+        2,
+        5
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1792520285476,
+      "transaction_id": "1418324534469140480",
+      "type": "trade",
+      "waiver_budget": []
+    },
+    {
       "adds": null,
       "consenter_ids": [
         1
