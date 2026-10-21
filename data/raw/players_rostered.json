@@ -339,22 +339,6 @@
     "team": "NYJ",
     "years_exp": 2
   },
-  "11581": {
-    "age": 25,
-    "birth_date": "2001-01-05",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "MarShawn",
-    "full_name": "MarShawn Lloyd",
-    "gsis_id": null,
-    "last_name": "Lloyd",
-    "player_id": "11581",
-    "position": "RB",
-    "status": "Active",
-    "team": "GB",
-    "years_exp": 2
-  },
   "11583": {
     "age": 23,
     "birth_date": "2003-07-21",
@@ -2454,7 +2438,7 @@
     "last_name": "Adams",
     "player_id": "2133",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "LAR",
     "years_exp": 12
   },
@@ -2938,22 +2922,6 @@
     "position": "QB",
     "status": "Active",
     "team": "BUF",
-    "years_exp": 8
-  },
-  "4993": {
-    "age": 31,
-    "birth_date": "1995-10-03",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Mike",
-    "full_name": "Mike Gesicki",
-    "gsis_id": "00-0034829",
-    "last_name": "Gesicki",
-    "player_id": "4993",
-    "position": "TE",
-    "status": "Active",
-    "team": "CIN",
     "years_exp": 8
   },
   "5012": {
