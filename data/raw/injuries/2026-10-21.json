@@ -1070,7 +1070,7 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Active",
-   "team": "PHI"
+   "team": null
   },
   {
    "fantasy_positions": [
@@ -1088,6 +1088,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "CAR"
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Jawhar Jordan",
+   "gsis_id": null,
+   "injury_body_part": "Undisclosed",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "11588",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "HOU"
   },
   {
    "fantasy_positions": [
@@ -1183,7 +1200,7 @@
    "injury_body_part": "Finger",
    "injury_notes": "Surgery",
    "injury_start_date": null,
-   "injury_status": "Doubtful",
+   "injury_status": "Questionable",
    "player_id": "11625",
    "position": "WR",
    "practice_description": null,
@@ -2909,6 +2926,23 @@
   },
   {
    "fantasy_positions": [
+    "LB"
+   ],
+   "full_name": "Carson Schwesinger",
+   "gsis_id": null,
+   "injury_body_part": "Ankle",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "12578",
+   "position": "LB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CLE"
+  },
+  {
+   "fantasy_positions": [
     "DL"
    ],
    "full_name": "James Pearce",
@@ -3290,7 +3324,7 @@
    "injury_body_part": "Thigh",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Doubtful",
    "player_id": "12666",
    "position": "LB",
    "practice_description": null,
@@ -4010,7 +4044,7 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Inactive",
-   "team": "NE"
+   "team": null
   },
   {
    "fantasy_positions": [
@@ -5858,7 +5892,7 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Inactive",
-   "team": "LV"
+   "team": null
   },
   {
    "fantasy_positions": [
@@ -10562,6 +10596,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Sam Franklin",
+   "gsis_id": null,
+   "injury_body_part": "Suspension",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Sus",
+   "player_id": "7224",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "BUF"
+  },
+  {
+   "fantasy_positions": [
     "WR"
    ],
    "full_name": "Andre Baccellia",
@@ -11137,7 +11188,7 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Doubtful",
    "player_id": "7678",
    "position": "DE",
    "practice_description": null,
@@ -13084,6 +13135,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "TB"
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Tyjae Spears",
+   "gsis_id": null,
+   "injury_body_part": "Undisclosed",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "9508",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "TEN"
   },
   {
    "fantasy_positions": [

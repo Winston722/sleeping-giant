@@ -88,6 +88,7 @@
     "12591",
     "12597",
     "12602",
+    "12605",
     "12617",
     "12652",
     "12978",
@@ -285,7 +286,6 @@
     "8355",
     "8364",
     "8385",
-    "8392",
     "8395",
     "8408",
     "8659",
@@ -819,6 +819,12 @@
       "gsis_id": null,
       "name": "Mykel Williams",
       "position": "DL"
+    },
+    {
+      "id": "12605",
+      "gsis_id": null,
+      "name": "Jacob Parrish",
+      "position": "DB"
     },
     {
       "id": "12617",
@@ -2001,12 +2007,6 @@
       "gsis_id": null,
       "name": "George Karlaftis",
       "position": "DL"
-    },
-    {
-      "id": "8392",
-      "gsis_id": null,
-      "name": "Nick Cross",
-      "position": "DB"
     },
     {
       "id": "8395",

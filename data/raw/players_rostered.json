@@ -1365,6 +1365,22 @@
     "team": "SF",
     "years_exp": 1
   },
+  "12605": {
+    "age": 22,
+    "birth_date": "2004-02-29",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Jacob",
+    "full_name": "Jacob Parrish",
+    "gsis_id": null,
+    "last_name": "Parrish",
+    "player_id": "12605",
+    "position": "DB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 1
+  },
   "12617": {
     "age": 26,
     "birth_date": "2000-07-21",
@@ -4529,22 +4545,6 @@
     "position": "DL",
     "status": "Active",
     "team": "KC",
-    "years_exp": 4
-  },
-  "8392": {
-    "age": 25,
-    "birth_date": "2001-09-10",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Nick",
-    "full_name": "Nick Cross",
-    "gsis_id": null,
-    "last_name": "Cross",
-    "player_id": "8392",
-    "position": "DB",
-    "status": "Active",
-    "team": "WAS",
     "years_exp": 4
   },
   "8395": {
