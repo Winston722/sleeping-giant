@@ -1,8 +1,9 @@
 {
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
+    "10213",
     "10222",
     "10229",
     "10232",
@@ -21,6 +22,7 @@
     "11470",
     "11559",
     "11560",
+    "11563",
     "11564",
     "11566",
     "11576",
@@ -86,6 +88,7 @@
     "12591",
     "12597",
     "12602",
+    "12605",
     "12617",
     "12652",
     "12978",
@@ -192,7 +195,6 @@
     "5332",
     "5346",
     "5726",
-    "5816",
     "5840",
     "5843",
     "5844",
@@ -283,7 +285,7 @@
     "8339",
     "8355",
     "8364",
-    "8392",
+    "8385",
     "8395",
     "8408",
     "8659",
@@ -308,6 +310,12 @@
     "9997"
   ],
   "rostered_players": [
+    {
+      "id": "10213",
+      "gsis_id": null,
+      "name": "Tre Tucker",
+      "position": "WR"
+    },
     {
       "id": "10222",
       "gsis_id": null,
@@ -414,6 +422,12 @@
       "id": "11560",
       "gsis_id": null,
       "name": "Caleb Williams",
+      "position": "QB"
+    },
+    {
+      "id": "11563",
+      "gsis_id": null,
+      "name": "Bo Nix",
       "position": "QB"
     },
     {
@@ -805,6 +819,12 @@
       "gsis_id": null,
       "name": "Mykel Williams",
       "position": "DL"
+    },
+    {
+      "id": "12605",
+      "gsis_id": null,
+      "name": "Jacob Parrish",
+      "position": "DB"
     },
     {
       "id": "12617",
@@ -1443,12 +1463,6 @@
       "position": "LB"
     },
     {
-      "id": "5816",
-      "gsis_id": " 00-0035717",
-      "name": "Nick Bosa",
-      "position": "DE"
-    },
-    {
       "id": "5840",
       "gsis_id": " 00-0035642",
       "name": "Josh Hines-Allen",
@@ -1989,10 +2003,10 @@
       "position": "DB"
     },
     {
-      "id": "8392",
+      "id": "8385",
       "gsis_id": null,
-      "name": "Nick Cross",
-      "position": "DB"
+      "name": "George Karlaftis",
+      "position": "DL"
     },
     {
       "id": "8395",
@@ -2127,5 +2141,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 65
+  "_gsis_resolved": 64
 }
