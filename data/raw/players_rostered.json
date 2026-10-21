@@ -1,4 +1,20 @@
 {
+  "10213": {
+    "age": 25,
+    "birth_date": "2001-03-08",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Tre",
+    "full_name": "Tre Tucker",
+    "gsis_id": null,
+    "last_name": "Tucker",
+    "player_id": "10213",
+    "position": "WR",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 3
+  },
   "10222": {
     "age": 26,
     "birth_date": "2000-04-28",
@@ -289,6 +305,22 @@
     "position": "QB",
     "status": "Active",
     "team": "CHI",
+    "years_exp": 2
+  },
+  "11563": {
+    "age": 26,
+    "birth_date": "2000-02-25",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Bo",
+    "full_name": "Bo Nix",
+    "gsis_id": null,
+    "last_name": "Nix",
+    "player_id": "11563",
+    "position": "QB",
+    "status": "Active",
+    "team": "DEN",
     "years_exp": 2
   },
   "11564": {
@@ -2840,7 +2872,7 @@
     "last_name": "Jackson",
     "player_id": "4881",
     "position": "QB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "BAL",
     "years_exp": 8
   },
@@ -3035,22 +3067,6 @@
     "status": "Active",
     "team": "NE",
     "years_exp": 8
-  },
-  "5816": {
-    "age": 28,
-    "birth_date": "1997-10-23",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Nick",
-    "full_name": "Nick Bosa",
-    "gsis_id": " 00-0035717",
-    "last_name": "Bosa",
-    "player_id": "5816",
-    "position": "DE",
-    "status": "Active",
-    "team": "SF",
-    "years_exp": 7
   },
   "5840": {
     "age": 29,
@@ -3663,7 +3679,7 @@
     "years_exp": 6
   },
   "6949": {
-    "age": 28,
+    "age": 29,
     "birth_date": "1997-10-21",
     "fantasy_positions": [
       "LB"
@@ -4497,6 +4513,22 @@
     "position": "DB",
     "status": "Active",
     "team": "LAR",
+    "years_exp": 4
+  },
+  "8385": {
+    "age": 25,
+    "birth_date": "2001-04-03",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "George",
+    "full_name": "George Karlaftis",
+    "gsis_id": null,
+    "last_name": "Karlaftis",
+    "player_id": "8385",
+    "position": "DL",
+    "status": "Active",
+    "team": "KC",
     "years_exp": 4
   },
   "8392": {
