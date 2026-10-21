@@ -24,7 +24,6 @@
     "11564",
     "11566",
     "11576",
-    "11581",
     "11583",
     "11584",
     "11586",
@@ -186,7 +185,6 @@
     "4971",
     "4983",
     "4984",
-    "4993",
     "5012",
     "5017",
     "5022",
@@ -434,12 +432,6 @@
       "id": "11576",
       "gsis_id": null,
       "name": "Braelon Allen",
-      "position": "RB"
-    },
-    {
-      "id": "11581",
-      "gsis_id": null,
-      "name": "MarShawn Lloyd",
       "position": "RB"
     },
     {
@@ -1409,12 +1401,6 @@
       "position": "QB"
     },
     {
-      "id": "4993",
-      "gsis_id": "00-0034829",
-      "name": "Mike Gesicki",
-      "position": "TE"
-    },
-    {
       "id": "5012",
       "gsis_id": "00-0034753",
       "name": "Mark Andrews",
@@ -2141,5 +2127,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 66
+  "_gsis_resolved": 65
 }

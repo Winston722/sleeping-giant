@@ -1302,7 +1302,7 @@
    "injury_body_part": "Shoulder",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "11582",
    "position": "RB",
    "practice_description": null,
@@ -1786,6 +1786,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "DET"
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
+   "full_name": "Bub Means",
+   "gsis_id": null,
+   "injury_body_part": "Knee",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "11748",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CLE"
   },
   {
    "fantasy_positions": [
@@ -3924,8 +3941,8 @@
    "position": "DL",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
-   "team": null
+   "status": "Active",
+   "team": "HOU"
   },
   {
    "fantasy_positions": [
@@ -7678,15 +7695,15 @@
    ],
    "full_name": "Davante Adams",
    "gsis_id": "00-0031381",
-   "injury_body_part": "Knee",
-   "injury_notes": "Ruptured",
+   "injury_body_part": "Hamstring",
+   "injury_notes": "Surgery",
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "2133",
    "position": "WR",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "LAR"
   },
   {
@@ -9206,12 +9223,12 @@
    "injury_body_part": "Triceps",
    "injury_notes": "Surgery",
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "5226",
    "position": "DT",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "LAR"
   },
   {
@@ -12489,8 +12506,8 @@
    "position": "RB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
-   "team": null
+   "status": "Active",
+   "team": "PHI"
   },
   {
    "fantasy_positions": [
@@ -15136,7 +15153,7 @@
    "position": "WR",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "HOU"
   },
   {
