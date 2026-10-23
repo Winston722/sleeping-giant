@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-21",
+  "as_of": "2026-10-23",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -361,7 +361,7 @@
     {
       "id": "10892",
       "gsis_id": null,
-      "name": "Will Anderson",
+      "name": "Will Anderson Jr.",
       "position": "DL"
     },
     {
@@ -415,7 +415,7 @@
     {
       "id": "11559",
       "gsis_id": null,
-      "name": "Michael Penix",
+      "name": "Michael Penix Jr.",
       "position": "QB"
     },
     {
@@ -505,13 +505,13 @@
     {
       "id": "11628",
       "gsis_id": null,
-      "name": "Marvin Harrison",
+      "name": "Marvin Harrison Jr.",
       "position": "WR"
     },
     {
       "id": "11631",
       "gsis_id": null,
-      "name": "Brian Thomas",
+      "name": "Brian Thomas Jr.",
       "position": "WR"
     },
     {
@@ -547,7 +547,7 @@
     {
       "id": "11655",
       "gsis_id": null,
-      "name": "Tyrone Tracy",
+      "name": "Tyrone Tracy Jr.",
       "position": "RB"
     },
     {
@@ -655,7 +655,7 @@
     {
       "id": "12495",
       "gsis_id": null,
-      "name": "Ollie Gordon",
+      "name": "Ollie Gordon II",
       "position": "RB"
     },
     {
@@ -673,7 +673,7 @@
     {
       "id": "12506",
       "gsis_id": null,
-      "name": "Harold Fannin",
+      "name": "Harold Fannin Jr.",
       "position": "TE"
     },
     {
@@ -721,7 +721,7 @@
     {
       "id": "12519",
       "gsis_id": null,
-      "name": "Luther Burden",
+      "name": "Luther Burden III",
       "position": "WR"
     },
     {
@@ -829,7 +829,7 @@
     {
       "id": "12617",
       "gsis_id": null,
-      "name": "Demetrius Knight",
+      "name": "Demetrius Knight Jr.",
       "position": "LB"
     },
     {
@@ -877,7 +877,7 @@
     {
       "id": "13276",
       "gsis_id": null,
-      "name": "Omar Cooper",
+      "name": "Omar Cooper Jr.",
       "position": "WR"
     },
     {
@@ -943,7 +943,7 @@
     {
       "id": "13298",
       "gsis_id": null,
-      "name": "KC Concepcion",
+      "name": "KC Concepcion Jr.",
       "position": "WR"
     },
     {
@@ -967,7 +967,7 @@
     {
       "id": "13305",
       "gsis_id": null,
-      "name": "Mike Washington",
+      "name": "Mike Washington Jr.",
       "position": "RB"
     },
     {
@@ -979,7 +979,7 @@
     {
       "id": "13317",
       "gsis_id": null,
-      "name": "Ted Hurst",
+      "name": "Ted Hurst III",
       "position": "WR"
     },
     {
@@ -1009,7 +1009,7 @@
     {
       "id": "13340",
       "gsis_id": null,
-      "name": "Rueben Bain",
+      "name": "Rueben Bain Jr.",
       "position": "DL"
     },
     {
@@ -1063,7 +1063,7 @@
     {
       "id": "13365",
       "gsis_id": null,
-      "name": "Anthony Hill",
+      "name": "Anthony Hill Jr.",
       "position": "LB"
     },
     {
@@ -1117,7 +1117,7 @@
     {
       "id": "13384",
       "gsis_id": null,
-      "name": "AJ Haulcy",
+      "name": "A.J. Haulcy",
       "position": "DB"
     },
     {
@@ -1363,7 +1363,7 @@
     {
       "id": "4199",
       "gsis_id": "00-0033293",
-      "name": "Aaron Jones",
+      "name": "Aaron Jones Sr.",
       "position": "RB"
     },
     {
@@ -1405,7 +1405,7 @@
     {
       "id": "4971",
       "gsis_id": "00-0034790",
-      "name": "Derwin James",
+      "name": "Derwin James Jr.",
       "position": "DB"
     },
     {
@@ -1429,7 +1429,7 @@
     {
       "id": "5017",
       "gsis_id": " 00-0034675",
-      "name": "Jessie Bates",
+      "name": "Jessie Bates III",
       "position": "DB"
     },
     {
@@ -1489,7 +1489,7 @@
     {
       "id": "5847",
       "gsis_id": " 00-0035683",
-      "name": "Dexter Lawrence",
+      "name": "Dexter Lawrence II",
       "position": "DT"
     },
     {
@@ -1519,7 +1519,7 @@
     {
       "id": "5872",
       "gsis_id": " 00-0035719",
-      "name": "Deebo Samuel",
+      "name": "Deebo Samuel Sr.",
       "position": "WR"
     },
     {
@@ -1735,7 +1735,7 @@
     {
       "id": "7543",
       "gsis_id": null,
-      "name": "Travis Etienne",
+      "name": "Travis Etienne Jr.",
       "position": "RB"
     },
     {
@@ -1747,7 +1747,7 @@
     {
       "id": "7553",
       "gsis_id": null,
-      "name": "Kyle Pitts",
+      "name": "Kyle Pitts Sr.",
       "position": "TE"
     },
     {
@@ -1813,7 +1813,7 @@
     {
       "id": "7672",
       "gsis_id": null,
-      "name": "Ernest Jones",
+      "name": "Ernest Jones IV",
       "position": "LB"
     },
     {
@@ -1879,7 +1879,7 @@
     {
       "id": "8138",
       "gsis_id": null,
-      "name": "James Cook",
+      "name": "James Cook III",
       "position": "RB"
     },
     {
@@ -1915,13 +1915,13 @@
     {
       "id": "8151",
       "gsis_id": null,
-      "name": "Kenneth Walker",
+      "name": "Kenneth Walker III",
       "position": "RB"
     },
     {
       "id": "8154",
       "gsis_id": null,
-      "name": "Brian Robinson",
+      "name": "Brian Robinson Jr.",
       "position": "RB"
     },
     {
@@ -2053,7 +2053,7 @@
     {
       "id": "9229",
       "gsis_id": null,
-      "name": "Anthony Richardson",
+      "name": "Anthony Richardson Sr.",
       "position": "QB"
     },
     {
