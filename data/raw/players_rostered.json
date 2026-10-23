@@ -135,9 +135,9 @@
       "LB"
     ],
     "first_name": "Will",
-    "full_name": "Will Anderson",
+    "full_name": "Will Anderson Jr.",
     "gsis_id": null,
-    "last_name": "Anderson",
+    "last_name": "Anderson Jr.",
     "player_id": "10892",
     "position": "DL",
     "status": "Active",
@@ -162,7 +162,7 @@
     "years_exp": 3
   },
   "10905": {
-    "age": 24,
+    "age": 25,
     "birth_date": "2001-10-22",
     "fantasy_positions": [
       "DB"
@@ -282,9 +282,9 @@
       "QB"
     ],
     "first_name": "Michael",
-    "full_name": "Michael Penix",
+    "full_name": "Michael Penix Jr.",
     "gsis_id": null,
-    "last_name": "Penix",
+    "last_name": "Penix Jr.",
     "player_id": "11559",
     "position": "QB",
     "status": "Active",
@@ -522,9 +522,9 @@
       "WR"
     ],
     "first_name": "Marvin",
-    "full_name": "Marvin Harrison",
+    "full_name": "Marvin Harrison Jr.",
     "gsis_id": null,
-    "last_name": "Harrison",
+    "last_name": "Harrison Jr.",
     "player_id": "11628",
     "position": "WR",
     "status": "Active",
@@ -538,9 +538,9 @@
       "WR"
     ],
     "first_name": "Brian",
-    "full_name": "Brian Thomas",
+    "full_name": "Brian Thomas Jr.",
     "gsis_id": null,
-    "last_name": "Thomas",
+    "last_name": "Thomas Jr.",
     "player_id": "11631",
     "position": "WR",
     "status": "Active",
@@ -634,9 +634,9 @@
       "RB"
     ],
     "first_name": "Tyrone",
-    "full_name": "Tyrone Tracy",
+    "full_name": "Tyrone Tracy Jr.",
     "gsis_id": null,
-    "last_name": "Tracy",
+    "last_name": "Tracy Jr.",
     "player_id": "11655",
     "position": "RB",
     "status": "Active",
@@ -923,9 +923,9 @@
       "RB"
     ],
     "first_name": "Ollie",
-    "full_name": "Ollie Gordon",
+    "full_name": "Ollie Gordon II",
     "gsis_id": null,
-    "last_name": "Gordon",
+    "last_name": "Gordon II",
     "player_id": "12495",
     "position": "RB",
     "status": "Active",
@@ -971,9 +971,9 @@
       "TE"
     ],
     "first_name": "Harold",
-    "full_name": "Harold Fannin",
+    "full_name": "Harold Fannin Jr.",
     "gsis_id": null,
-    "last_name": "Fannin",
+    "last_name": "Fannin Jr.",
     "player_id": "12506",
     "position": "TE",
     "status": "Active",
@@ -1099,9 +1099,9 @@
       "WR"
     ],
     "first_name": "Luther",
-    "full_name": "Luther Burden",
+    "full_name": "Luther Burden III",
     "gsis_id": null,
-    "last_name": "Burden",
+    "last_name": "Burden III",
     "player_id": "12519",
     "position": "WR",
     "status": "Active",
@@ -1157,7 +1157,7 @@
     "years_exp": 1
   },
   "12529": {
-    "age": 23,
+    "age": 24,
     "birth_date": "2002-10-22",
     "fantasy_positions": [
       "RB"
@@ -1388,9 +1388,9 @@
       "LB"
     ],
     "first_name": "Demetrius",
-    "full_name": "Demetrius Knight",
+    "full_name": "Demetrius Knight Jr.",
     "gsis_id": null,
-    "last_name": "Knight",
+    "last_name": "Knight Jr.",
     "player_id": "12617",
     "position": "LB",
     "status": "Active",
@@ -1516,9 +1516,9 @@
       "WR"
     ],
     "first_name": "Omar",
-    "full_name": "Omar Cooper",
+    "full_name": "Omar Cooper Jr.",
     "gsis_id": null,
-    "last_name": "Cooper",
+    "last_name": "Cooper Jr.",
     "player_id": "13276",
     "position": "WR",
     "status": "Active",
@@ -1692,9 +1692,9 @@
       "WR"
     ],
     "first_name": "KC",
-    "full_name": "KC Concepcion",
+    "full_name": "KC Concepcion Jr.",
     "gsis_id": null,
-    "last_name": "Concepcion",
+    "last_name": "Concepcion Jr.",
     "player_id": "13298",
     "position": "WR",
     "status": "Active",
@@ -1756,9 +1756,9 @@
       "RB"
     ],
     "first_name": "Mike",
-    "full_name": "Mike Washington",
+    "full_name": "Mike Washington Jr.",
     "gsis_id": null,
-    "last_name": "Washington",
+    "last_name": "Washington Jr.",
     "player_id": "13305",
     "position": "RB",
     "status": "Active",
@@ -1788,9 +1788,9 @@
       "WR"
     ],
     "first_name": "Ted",
-    "full_name": "Ted Hurst",
+    "full_name": "Ted Hurst III",
     "gsis_id": null,
-    "last_name": "Hurst",
+    "last_name": "Hurst III",
     "player_id": "13317",
     "position": "WR",
     "status": "Active",
@@ -1869,9 +1869,9 @@
       "LB"
     ],
     "first_name": "Rueben",
-    "full_name": "Rueben Bain",
+    "full_name": "Rueben Bain Jr.",
     "gsis_id": null,
-    "last_name": "Bain",
+    "last_name": "Bain Jr.",
     "player_id": "13340",
     "position": "DL",
     "status": "Active",
@@ -2015,9 +2015,9 @@
       "LB"
     ],
     "first_name": "Anthony",
-    "full_name": "Anthony Hill",
+    "full_name": "Anthony Hill Jr.",
     "gsis_id": null,
-    "last_name": "Hill",
+    "last_name": "Hill Jr.",
     "player_id": "13365",
     "position": "LB",
     "status": "Active",
@@ -2160,8 +2160,8 @@
     "fantasy_positions": [
       "DB"
     ],
-    "first_name": "AJ",
-    "full_name": "AJ Haulcy",
+    "first_name": "A.J.",
+    "full_name": "A.J. Haulcy",
     "gsis_id": null,
     "last_name": "Haulcy",
     "player_id": "13384",
@@ -2347,7 +2347,7 @@
     "years_exp": 0
   },
   "13424": {
-    "age": 24,
+    "age": 25,
     "birth_date": "2001-10-23",
     "fantasy_positions": [
       "RB"
@@ -2819,9 +2819,9 @@
       "RB"
     ],
     "first_name": "Aaron",
-    "full_name": "Aaron Jones",
+    "full_name": "Aaron Jones Sr.",
     "gsis_id": "00-0033293",
-    "last_name": "Jones",
+    "last_name": "Jones Sr.",
     "player_id": "4199",
     "position": "RB",
     "status": "Active",
@@ -2931,9 +2931,9 @@
       "DB"
     ],
     "first_name": "Derwin",
-    "full_name": "Derwin James",
+    "full_name": "Derwin James Jr.",
     "gsis_id": "00-0034790",
-    "last_name": "James",
+    "last_name": "James Jr.",
     "player_id": "4971",
     "position": "DB",
     "status": "Active",
@@ -2995,9 +2995,9 @@
       "DB"
     ],
     "first_name": "Jessie",
-    "full_name": "Jessie Bates",
+    "full_name": "Jessie Bates III",
     "gsis_id": " 00-0034675",
-    "last_name": "Bates",
+    "last_name": "Bates III",
     "player_id": "5017",
     "position": "DB",
     "status": "Active",
@@ -3156,9 +3156,9 @@
       "DL"
     ],
     "first_name": "Dexter",
-    "full_name": "Dexter Lawrence",
+    "full_name": "Dexter Lawrence II",
     "gsis_id": " 00-0035683",
-    "last_name": "Lawrence",
+    "last_name": "Lawrence II",
     "player_id": "5847",
     "position": "DT",
     "status": "Active",
@@ -3236,9 +3236,9 @@
       "WR"
     ],
     "first_name": "Deebo",
-    "full_name": "Deebo Samuel",
+    "full_name": "Deebo Samuel Sr.",
     "gsis_id": " 00-0035719",
-    "last_name": "Samuel",
+    "last_name": "Samuel Sr.",
     "player_id": "5872",
     "position": "WR",
     "status": "Active",
@@ -3813,9 +3813,9 @@
       "RB"
     ],
     "first_name": "Travis",
-    "full_name": "Travis Etienne",
+    "full_name": "Travis Etienne Jr.",
     "gsis_id": null,
-    "last_name": "Etienne",
+    "last_name": "Etienne Jr.",
     "player_id": "7543",
     "position": "RB",
     "status": "Inactive",
@@ -3845,9 +3845,9 @@
       "TE"
     ],
     "first_name": "Kyle",
-    "full_name": "Kyle Pitts",
+    "full_name": "Kyle Pitts Sr.",
     "gsis_id": null,
-    "last_name": "Pitts",
+    "last_name": "Pitts Sr.",
     "player_id": "7553",
     "position": "TE",
     "status": "Active",
@@ -4023,9 +4023,9 @@
       "LB"
     ],
     "first_name": "Ernest",
-    "full_name": "Ernest Jones",
+    "full_name": "Ernest Jones IV",
     "gsis_id": null,
-    "last_name": "Jones",
+    "last_name": "Jones IV",
     "player_id": "7672",
     "position": "LB",
     "status": "Active",
@@ -4200,9 +4200,9 @@
       "RB"
     ],
     "first_name": "James",
-    "full_name": "James Cook",
+    "full_name": "James Cook III",
     "gsis_id": null,
-    "last_name": "Cook",
+    "last_name": "Cook III",
     "player_id": "8138",
     "position": "RB",
     "status": "Active",
@@ -4296,9 +4296,9 @@
       "RB"
     ],
     "first_name": "Kenneth",
-    "full_name": "Kenneth Walker",
+    "full_name": "Kenneth Walker III",
     "gsis_id": null,
-    "last_name": "Walker",
+    "last_name": "Walker III",
     "player_id": "8151",
     "position": "RB",
     "status": "Active",
@@ -4312,9 +4312,9 @@
       "RB"
     ],
     "first_name": "Brian",
-    "full_name": "Brian Robinson",
+    "full_name": "Brian Robinson Jr.",
     "gsis_id": null,
-    "last_name": "Robinson",
+    "last_name": "Robinson Jr.",
     "player_id": "8154",
     "position": "RB",
     "status": "Active",
@@ -4666,9 +4666,9 @@
       "QB"
     ],
     "first_name": "Anthony",
-    "full_name": "Anthony Richardson",
+    "full_name": "Anthony Richardson Sr.",
     "gsis_id": null,
-    "last_name": "Richardson",
+    "last_name": "Richardson Sr.",
     "player_id": "9229",
     "position": "QB",
     "status": "Active",
@@ -4847,7 +4847,7 @@
     "last_name": "Charbonnet",
     "player_id": "9753",
     "position": "RB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "SEA",
     "years_exp": 3
   },
