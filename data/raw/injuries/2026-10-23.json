@@ -61,7 +61,7 @@
    "injury_body_part": "Hamstring",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "10229",
    "position": "WR",
    "practice_description": null,
@@ -1866,7 +1866,7 @@
    "injury_body_part": "Concussion",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "11762",
    "position": "WR",
    "practice_description": null,
@@ -2661,7 +2661,7 @@
    "injury_body_part": "Hamstring",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "12455",
    "position": "RB",
    "practice_description": null,
@@ -5361,6 +5361,23 @@
    "fantasy_positions": [
     "LB"
    ],
+   "full_name": "Bryce Boettcher",
+   "gsis_id": null,
+   "injury_body_part": "Groin",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13481",
+   "position": "LB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "IND"
+  },
+  {
+   "fantasy_positions": [
+    "LB"
+   ],
    "full_name": "Kendal Daniels",
    "gsis_id": null,
    "injury_body_part": "Neck",
@@ -6540,23 +6557,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
-  },
-  {
-   "fantasy_positions": [
-    "TE"
-   ],
-   "full_name": "Travis Kelce",
-   "gsis_id": "00-0030506",
-   "injury_body_part": "Ankle",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "1466",
-   "position": "TE",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "KC"
   },
   {
    "fantasy_positions": [
@@ -9809,23 +9809,6 @@
   },
   {
    "fantasy_positions": [
-    "WR"
-   ],
-   "full_name": "Ashton Dulin",
-   "gsis_id": " 00-0035021",
-   "injury_body_part": "Hamstring",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "6427",
-   "position": "WR",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "IND"
-  },
-  {
-   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Duplicate Player",
@@ -10398,12 +10381,12 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "6826",
    "position": "TE",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "CHI"
   },
   {
@@ -12212,10 +12195,10 @@
    ],
    "full_name": "Jaylon Moore",
    "gsis_id": null,
-   "injury_body_part": "Head",
+   "injury_body_part": "Concussion",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7834",
    "position": "OL",
    "practice_description": null,
@@ -12880,7 +12863,7 @@
    "injury_body_part": "Calf",
    "injury_notes": "Strain",
    "injury_start_date": null,
-   "injury_status": "Doubtful",
+   "injury_status": "Out",
    "player_id": "8290",
    "position": "DB",
    "practice_description": null,
@@ -13643,7 +13626,7 @@
    "injury_body_part": "Concussion",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "8659",
    "position": "LB",
    "practice_description": null,
