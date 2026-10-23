@@ -91,6 +91,7 @@
     "12605",
     "12617",
     "12652",
+    "12718",
     "12978",
     "13264",
     "13269",
@@ -107,7 +108,6 @@
     "13288",
     "13293",
     "13294",
-    "13296",
     "13298",
     "13301",
     "13302",
@@ -839,6 +839,12 @@
       "position": "DT"
     },
     {
+      "id": "12718",
+      "gsis_id": null,
+      "name": "Konata Mumpfield",
+      "position": "WR"
+    },
+    {
       "id": "12978",
       "gsis_id": null,
       "name": "Elijah Ponder",
@@ -932,12 +938,6 @@
       "id": "13294",
       "gsis_id": null,
       "name": "Makai Lemon",
-      "position": "WR"
-    },
-    {
-      "id": "13296",
-      "gsis_id": null,
-      "name": "Caleb Douglas",
       "position": "WR"
     },
     {
