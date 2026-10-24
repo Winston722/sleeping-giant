@@ -173,7 +173,7 @@
     "last_name": "Branch",
     "player_id": "10905",
     "position": "DB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "DET",
     "years_exp": 3
   },
@@ -1907,7 +1907,7 @@
     "last_name": "Coleman",
     "player_id": "13345",
     "position": "RB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "DEN",
     "years_exp": 0
   },
@@ -4575,7 +4575,7 @@
     "last_name": "Mason",
     "player_id": "8408",
     "position": "RB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "MIN",
     "years_exp": 4
   },
