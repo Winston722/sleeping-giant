@@ -1201,7 +1201,7 @@
    "injury_body_part": "Neck",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Doubtful",
+   "injury_status": "Out",
    "player_id": "11597",
    "position": "TE",
    "practice_description": null,
@@ -2524,30 +2524,13 @@
    "injury_body_part": "Hamstring",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "12455",
    "position": "RB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
-   "team": "KC"
-  },
-  {
-   "fantasy_positions": [
-    "RB"
-   ],
-   "full_name": "Dylan Sampson",
-   "gsis_id": null,
-   "injury_body_part": "Knee",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "IR",
-   "player_id": "12469",
-   "position": "RB",
-   "practice_description": null,
-   "practice_participation": null,
    "status": "Inactive",
-   "team": "CLE"
+   "team": "KC"
   },
   {
    "fantasy_positions": [
@@ -3392,7 +3375,7 @@
    "injury_body_part": "Quadriceps",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "12666",
    "position": "LB",
    "practice_description": null,
@@ -4218,23 +4201,6 @@
   },
   {
    "fantasy_positions": [
-    "LB"
-   ],
-   "full_name": "Cooper McDonald",
-   "gsis_id": null,
-   "injury_body_part": "Knee",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "IR",
-   "player_id": "13174",
-   "position": "LB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Inactive",
-   "team": "KC"
-  },
-  {
-   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Max Hurleman",
@@ -4684,7 +4650,7 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "13388",
    "position": "LB",
    "practice_description": null,
@@ -5059,12 +5025,12 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "IR",
+   "injury_status": "Questionable",
    "player_id": "13479",
    "position": "LB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "MIA"
   },
   {
@@ -7094,23 +7060,6 @@
   },
   {
    "fantasy_positions": [
-    "P"
-   ],
-   "full_name": "Rigoberto Sanchez",
-   "gsis_id": "00-0033269",
-   "injury_body_part": "Foot",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "4331",
-   "position": "P",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "IND"
-  },
-  {
-   "fantasy_positions": [
     "LB"
    ],
    "full_name": "Ahmad Brooks",
@@ -7777,23 +7726,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "IND"
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "DeShon Elliott",
-   "gsis_id": "00-0034277",
-   "injury_body_part": "Undisclosed",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "IR",
-   "player_id": "5071",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Inactive",
-   "team": "PIT"
   },
   {
    "fantasy_positions": [
@@ -9486,23 +9418,6 @@
   },
   {
    "fantasy_positions": [
-    "LB"
-   ],
-   "full_name": "Azeez Al-Shaair",
-   "gsis_id": " 00-0035166",
-   "injury_body_part": "Knee",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "6485",
-   "position": "LB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "HOU"
-  },
-  {
-   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Kenny Bigelow",
@@ -9894,23 +9809,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": "WAS"
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Grant Delpit",
-   "gsis_id": null,
-   "injury_body_part": "Concussion",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "6799",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "CLE"
   },
   {
    "fantasy_positions": [
@@ -11343,12 +11241,12 @@
    "injury_body_part": "Back",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "7663",
    "position": "OL",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "CLE"
   },
   {
@@ -11377,7 +11275,7 @@
    "injury_body_part": "Concussion",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7666",
    "position": "DB",
    "practice_description": null,
@@ -12664,6 +12562,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "CLE"
+  },
+  {
+   "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Cobie Durant",
+   "gsis_id": null,
+   "injury_body_part": "Hamstring",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8381",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "DAL"
   },
   {
    "fantasy_positions": [
