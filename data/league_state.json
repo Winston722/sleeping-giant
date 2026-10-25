@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-24",
+  "as_of": "2026-10-25",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -76,11 +76,11 @@
     "12526",
     "12527",
     "12529",
+    "12530",
     "12533",
     "12534",
     "12545",
     "12562",
-    "12566",
     "12567",
     "12573",
     "12574",
@@ -749,6 +749,12 @@
       "position": "RB"
     },
     {
+      "id": "12530",
+      "gsis_id": null,
+      "name": "Travis Hunter",
+      "position": "DB"
+    },
+    {
       "id": "12533",
       "gsis_id": null,
       "name": "Jacory Croskey-Merritt",
@@ -771,12 +777,6 @@
       "gsis_id": null,
       "name": "Nic Scourton",
       "position": "DL"
-    },
-    {
-      "id": "12566",
-      "gsis_id": null,
-      "name": "Jihaad Campbell",
-      "position": "LB"
     },
     {
       "id": "12567",
