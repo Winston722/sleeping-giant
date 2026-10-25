@@ -1172,6 +1172,23 @@
     "team": "NE",
     "years_exp": 1
   },
+  "12530": {
+    "age": 23,
+    "birth_date": "2003-05-18",
+    "fantasy_positions": [
+      "DB",
+      "WR"
+    ],
+    "first_name": "Travis",
+    "full_name": "Travis Hunter",
+    "gsis_id": null,
+    "last_name": "Hunter",
+    "player_id": "12530",
+    "position": "DB",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 1
+  },
   "12533": {
     "age": 25,
     "birth_date": "2001-04-12",
@@ -1234,22 +1251,6 @@
     "position": "DL",
     "status": "Inactive",
     "team": "CAR",
-    "years_exp": 1
-  },
-  "12566": {
-    "age": 22,
-    "birth_date": "2004-02-24",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Jihaad",
-    "full_name": "Jihaad Campbell",
-    "gsis_id": null,
-    "last_name": "Campbell",
-    "player_id": "12566",
-    "position": "LB",
-    "status": "Active",
-    "team": "PHI",
     "years_exp": 1
   },
   "12567": {
