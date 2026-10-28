@@ -192,6 +192,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "JuJu Brents",
+   "gsis_id": null,
+   "injury_body_part": "Concussion",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "10906",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "MIA"
+  },
+  {
+   "fantasy_positions": [
     "OL"
    ],
    "full_name": "Ricky Stromberg",
@@ -976,6 +993,23 @@
    "fantasy_positions": [
     "RB"
    ],
+   "full_name": "Braelon Allen",
+   "gsis_id": null,
+   "injury_body_part": "Ankle",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11576",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "NYJ"
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
    "full_name": "Will Shipley",
    "gsis_id": null,
    "injury_body_part": "Foot",
@@ -1297,6 +1331,23 @@
   },
   {
    "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Jared Verse",
+   "gsis_id": null,
+   "injury_body_part": "Knee",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11665",
+   "position": "DL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CLE"
+  },
+  {
+   "fantasy_positions": [
     "OL"
    ],
    "full_name": "Joe Alt",
@@ -1372,7 +1423,7 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Doubtful",
    "player_id": "11691",
    "position": "DL",
    "practice_description": null,
@@ -1894,10 +1945,10 @@
    ],
    "full_name": "Beanie Bishop",
    "gsis_id": null,
-   "injury_body_part": "Suspension",
+   "injury_body_part": "Undisclosed",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Sus",
+   "injury_status": "Questionable",
    "player_id": "11860",
    "position": "CB",
    "practice_description": null,
@@ -3776,23 +3827,6 @@
   },
   {
    "fantasy_positions": [
-    "TE"
-   ],
-   "full_name": "Bryson Nesbit",
-   "gsis_id": null,
-   "injury_body_part": "Undisclosed",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "12941",
-   "position": "TE",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Inactive",
-   "team": null
-  },
-  {
-   "fantasy_positions": [
     "LB"
    ],
    "full_name": "Dorian Mausi",
@@ -3936,7 +3970,7 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "13030",
    "position": "OL",
    "practice_description": null,
@@ -4011,23 +4045,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "HOU"
-  },
-  {
-   "fantasy_positions": [
-    "K"
-   ],
-   "full_name": "Ben Sauls",
-   "gsis_id": null,
-   "injury_body_part": "Undisclosed",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "13066",
-   "position": "K",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": null
   },
   {
    "fantasy_positions": [
@@ -4266,6 +4283,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "NO"
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
+   "full_name": "Carnell Tate",
+   "gsis_id": null,
+   "injury_body_part": "Shoulder",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13279",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "TEN"
   },
   {
    "fantasy_positions": [
@@ -4537,7 +4571,25 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Inactive",
-   "team": "DAL"
+   "team": null
+  },
+  {
+   "fantasy_positions": [
+    "DL",
+    "LB"
+   ],
+   "full_name": "David Bailey",
+   "gsis_id": null,
+   "injury_body_part": "Groin",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13363",
+   "position": "LB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "NYJ"
   },
   {
    "fantasy_positions": [
@@ -5707,7 +5759,7 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Inactive",
-   "team": "ARI"
+   "team": null
   },
   {
    "fantasy_positions": [
@@ -5725,6 +5777,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
+   "full_name": "Michael Briscoe",
+   "gsis_id": null,
+   "injury_body_part": "Undisclosed",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "13890",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "MIN"
   },
   {
    "fantasy_positions": null,
@@ -8448,14 +8517,14 @@
    "full_name": "Terry McLaurin",
    "gsis_id": " 00-0035659",
    "injury_body_part": "Knee",
-   "injury_notes": null,
+   "injury_notes": "Surgery",
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "5927",
    "position": "WR",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "WAS"
   },
   {
@@ -8781,23 +8850,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": "HOU"
-  },
-  {
-   "fantasy_positions": [
-    "WR"
-   ],
-   "full_name": "Deonte Harty",
-   "gsis_id": " 00-0035215",
-   "injury_body_part": "Knee",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "6234",
-   "position": "WR",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": null
   },
   {
    "fantasy_positions": [
@@ -9357,7 +9409,7 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Doubtful",
    "player_id": "6792",
    "position": "DT",
    "practice_description": null,
@@ -9803,7 +9855,7 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7003",
    "position": "G",
    "practice_description": null,
@@ -10587,7 +10639,7 @@
    "injury_body_part": "Hamstring",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7635",
    "position": "LB",
    "practice_description": null,
@@ -10847,7 +10899,7 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Doubtful",
    "player_id": "7678",
    "position": "DE",
    "practice_description": null,
@@ -10940,6 +10992,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "NYJ"
+  },
+  {
+   "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Bobby Brown III",
+   "gsis_id": null,
+   "injury_body_part": "Hand",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "7722",
+   "position": "DT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CAR"
   },
   {
    "fantasy_positions": [
@@ -11730,23 +11799,6 @@
    "fantasy_positions": [
     "DB"
    ],
-   "full_name": "Jalyn Armour-Davis",
-   "gsis_id": null,
-   "injury_body_part": "Achilles",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "8276",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": null
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
    "full_name": "Sauce Gardner",
    "gsis_id": null,
    "injury_body_part": "Calf",
@@ -11978,7 +12030,7 @@
    "position": "DB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "DET"
   },
   {
@@ -12143,7 +12195,7 @@
    "injury_body_part": "Triceps",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "8389",
    "position": "DB",
    "practice_description": null,
