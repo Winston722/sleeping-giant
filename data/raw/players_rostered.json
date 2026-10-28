@@ -639,7 +639,7 @@
     "last_name": "Tracy Jr.",
     "player_id": "11655",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "NYG",
     "years_exp": 2
   },
@@ -2617,7 +2617,7 @@
     "player_id": "3172",
     "position": "DT",
     "status": "Active",
-    "team": "IND",
+    "team": "SF",
     "years_exp": 10
   },
   "3198": {
