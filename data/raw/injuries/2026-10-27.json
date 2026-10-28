@@ -13215,6 +13215,23 @@
   },
   {
    "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Dameon Pierce",
+   "gsis_id": null,
+   "injury_body_part": "Undisclosed",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8129",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "PHI"
+  },
+  {
+   "fantasy_positions": [
     "WR"
    ],
    "full_name": "Alec Pierce",
@@ -14204,9 +14221,9 @@
    "full_name": "Sean Rhyan",
    "gsis_id": null,
    "injury_body_part": "Ankle",
-   "injury_notes": null,
+   "injury_notes": "Sprain",
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "8460",
    "position": "OL",
    "practice_description": null,

@@ -499,22 +499,6 @@
     "team": "KC",
     "years_exp": 2
   },
-  "11625": {
-    "age": 24,
-    "birth_date": "2002-10-08",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Adonai",
-    "full_name": "Adonai Mitchell",
-    "gsis_id": null,
-    "last_name": "Mitchell",
-    "player_id": "11625",
-    "position": "WR",
-    "status": "Active",
-    "team": "NYJ",
-    "years_exp": 2
-  },
   "11628": {
     "age": 24,
     "birth_date": "2002-08-11",
@@ -639,7 +623,7 @@
     "last_name": "Tracy Jr.",
     "player_id": "11655",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "NYG",
     "years_exp": 2
   },
@@ -1350,22 +1334,6 @@
     "team": "SEA",
     "years_exp": 1
   },
-  "12602": {
-    "age": 22,
-    "birth_date": "2004-06-29",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Mykel",
-    "full_name": "Mykel Williams",
-    "gsis_id": null,
-    "last_name": "Williams",
-    "player_id": "12602",
-    "position": "DL",
-    "status": "Active",
-    "team": "SF",
-    "years_exp": 1
-  },
   "12605": {
     "age": 22,
     "birth_date": "2004-02-29",
@@ -1684,6 +1652,22 @@
     "position": "WR",
     "status": "Active",
     "team": "PHI",
+    "years_exp": 0
+  },
+  "13296": {
+    "age": 23,
+    "birth_date": "2003-09-09",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Caleb",
+    "full_name": "Caleb Douglas",
+    "gsis_id": null,
+    "last_name": "Douglas",
+    "player_id": "13296",
+    "position": "WR",
+    "status": "Active",
+    "team": "MIA",
     "years_exp": 0
   },
   "13298": {
@@ -2459,6 +2443,22 @@
     "team": "NO",
     "years_exp": 0
   },
+  "1373": {
+    "age": 36,
+    "birth_date": "1990-10-10",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Geno",
+    "full_name": "Geno Smith",
+    "gsis_id": "00-0030565",
+    "last_name": "Smith",
+    "player_id": "1373",
+    "position": "QB",
+    "status": "Active",
+    "team": "NYJ",
+    "years_exp": 13
+  },
   "1466": {
     "age": 37,
     "birth_date": "1989-10-05",
@@ -2617,7 +2617,7 @@
     "player_id": "3172",
     "position": "DT",
     "status": "Active",
-    "team": "IND",
+    "team": "SF",
     "years_exp": 10
   },
   "3198": {
@@ -3471,6 +3471,22 @@
     "team": "CIN",
     "years_exp": 6
   },
+  "6782": {
+    "age": 27,
+    "birth_date": "1999-04-14",
+    "fantasy_positions": [
+      "DL"
+    ],
+    "first_name": "Chase",
+    "full_name": "Chase Young",
+    "gsis_id": null,
+    "last_name": "Young",
+    "player_id": "6782",
+    "position": "DE",
+    "status": "Active",
+    "team": "NO",
+    "years_exp": 6
+  },
   "6786": {
     "age": 27,
     "birth_date": "1999-04-08",
@@ -3517,22 +3533,6 @@
     "position": "WR",
     "status": "Active",
     "team": "MIN",
-    "years_exp": 6
-  },
-  "6797": {
-    "age": 28,
-    "birth_date": "1998-03-10",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Justin",
-    "full_name": "Justin Herbert",
-    "gsis_id": null,
-    "last_name": "Herbert",
-    "player_id": "6797",
-    "position": "QB",
-    "status": "Active",
-    "team": "LAC",
     "years_exp": 6
   },
   "6799": {
