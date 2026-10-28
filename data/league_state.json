@@ -34,7 +34,6 @@
     "11610",
     "11620",
     "11624",
-    "11625",
     "11628",
     "11631",
     "11632",
@@ -87,7 +86,6 @@
     "12578",
     "12591",
     "12597",
-    "12602",
     "12605",
     "12617",
     "12652",
@@ -108,6 +106,7 @@
     "13288",
     "13293",
     "13294",
+    "13296",
     "13298",
     "13301",
     "13302",
@@ -156,6 +155,7 @@
     "13458",
     "13477",
     "13533",
+    "1373",
     "1466",
     "2133",
     "2216",
@@ -219,10 +219,10 @@
     "6217",
     "6333",
     "6770",
+    "6782",
     "6786",
     "6790",
     "6794",
-    "6797",
     "6799",
     "6801",
     "6804",
@@ -494,12 +494,6 @@
       "id": "11624",
       "gsis_id": null,
       "name": "Xavier Worthy",
-      "position": "WR"
-    },
-    {
-      "id": "11625",
-      "gsis_id": null,
-      "name": "Adonai Mitchell",
       "position": "WR"
     },
     {
@@ -815,12 +809,6 @@
       "position": "DB"
     },
     {
-      "id": "12602",
-      "gsis_id": null,
-      "name": "Mykel Williams",
-      "position": "DL"
-    },
-    {
       "id": "12605",
       "gsis_id": null,
       "name": "Jacob Parrish",
@@ -938,6 +926,12 @@
       "id": "13294",
       "gsis_id": null,
       "name": "Makai Lemon",
+      "position": "WR"
+    },
+    {
+      "id": "13296",
+      "gsis_id": null,
+      "name": "Caleb Douglas",
       "position": "WR"
     },
     {
@@ -1227,6 +1221,12 @@
       "gsis_id": null,
       "name": "Barion Brown",
       "position": "WR"
+    },
+    {
+      "id": "1373",
+      "gsis_id": "00-0030565",
+      "name": "Geno Smith",
+      "position": "QB"
     },
     {
       "id": "1466",
@@ -1607,6 +1607,12 @@
       "position": "QB"
     },
     {
+      "id": "6782",
+      "gsis_id": null,
+      "name": "Chase Young",
+      "position": "DE"
+    },
+    {
       "id": "6786",
       "gsis_id": null,
       "name": "CeeDee Lamb",
@@ -1623,12 +1629,6 @@
       "gsis_id": null,
       "name": "Justin Jefferson",
       "position": "WR"
-    },
-    {
-      "id": "6797",
-      "gsis_id": null,
-      "name": "Justin Herbert",
-      "position": "QB"
     },
     {
       "id": "6799",
@@ -2141,5 +2141,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 64
+  "_gsis_resolved": 65
 }
