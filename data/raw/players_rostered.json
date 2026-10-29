@@ -1013,7 +1013,7 @@
     "years_exp": 1
   },
   "12512": {
-    "age": 22,
+    "age": 23,
     "birth_date": "2003-10-29",
     "fantasy_positions": [
       "RB"
@@ -1380,22 +1380,6 @@
     "position": "DT",
     "status": "Active",
     "team": "BUF",
-    "years_exp": 1
-  },
-  "12718": {
-    "age": 24,
-    "birth_date": "2002-10-24",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Konata",
-    "full_name": "Konata Mumpfield",
-    "gsis_id": null,
-    "last_name": "Mumpfield",
-    "player_id": "12718",
-    "position": "WR",
-    "status": "Active",
-    "team": "LAR",
     "years_exp": 1
   },
   "12978": {
@@ -2524,7 +2508,7 @@
     "years_exp": 11
   },
   "2393": {
-    "age": 31,
+    "age": 32,
     "birth_date": "1994-10-29",
     "fantasy_positions": [
       "DL",
@@ -3278,20 +3262,21 @@
     "team": "HOU",
     "years_exp": 7
   },
-  "5908": {
-    "age": 28,
-    "birth_date": "1998-06-14",
+  "5912": {
+    "age": 29,
+    "birth_date": "1996-12-18",
     "fantasy_positions": [
-      "DB"
+      "DL",
+      "LB"
     ],
-    "first_name": "Amani",
-    "full_name": "Amani Hooker",
-    "gsis_id": " 00-0035632",
-    "last_name": "Hooker",
-    "player_id": "5908",
-    "position": "DB",
+    "first_name": "Carl",
+    "full_name": "Carl Granderson",
+    "gsis_id": " 00-0035402",
+    "last_name": "Granderson",
+    "player_id": "5912",
+    "position": "DE",
     "status": "Active",
-    "team": "TEN",
+    "team": "NO",
     "years_exp": 7
   },
   "5927": {
@@ -3306,7 +3291,7 @@
     "last_name": "McLaurin",
     "player_id": "5927",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "WAS",
     "years_exp": 7
   },
@@ -4126,7 +4111,7 @@
     "last_name": "Pierce",
     "player_id": "8129",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "PHI",
     "years_exp": 4
   },

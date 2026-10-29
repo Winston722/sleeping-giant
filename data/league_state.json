@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -89,7 +89,6 @@
     "12605",
     "12617",
     "12652",
-    "12718",
     "12978",
     "13264",
     "13269",
@@ -207,7 +206,7 @@
     "5872",
     "5876",
     "5892",
-    "5908",
+    "5912",
     "5927",
     "5947",
     "5967",
@@ -825,12 +824,6 @@
       "gsis_id": null,
       "name": "Deone Walker",
       "position": "DT"
-    },
-    {
-      "id": "12718",
-      "gsis_id": null,
-      "name": "Konata Mumpfield",
-      "position": "WR"
     },
     {
       "id": "12978",
@@ -1535,10 +1528,10 @@
       "position": "RB"
     },
     {
-      "id": "5908",
-      "gsis_id": " 00-0035632",
-      "name": "Amani Hooker",
-      "position": "DB"
+      "id": "5912",
+      "gsis_id": " 00-0035402",
+      "name": "Carl Granderson",
+      "position": "DE"
     },
     {
       "id": "5927",
