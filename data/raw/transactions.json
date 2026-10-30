@@ -6532,6 +6532,98 @@
   "8": [
     {
       "adds": {
+        "13298": 2,
+        "4984": 1,
+        "9226": 2,
+        "9228": 2
+      },
+      "consenter_ids": [
+        1,
+        2
+      ],
+      "created": 1793318990375,
+      "creator": "1122248503473848320",
+      "draft_picks": [
+        {
+          "league_id": null,
+          "owner_id": 2,
+          "previous_owner_id": 1,
+          "roster_id": 1,
+          "round": 1,
+          "season": "2028"
+        }
+      ],
+      "drops": {
+        "13298": 1,
+        "4984": 2,
+        "9226": 1,
+        "9228": 1
+      },
+      "leg": 8,
+      "metadata": null,
+      "roster_ids": [
+        1,
+        2
+      ],
+      "settings": {
+        "is_counter": 1
+      },
+      "status": "complete",
+      "status_updated": 1793319010521,
+      "transaction_id": "1421686524394639360",
+      "type": "trade",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "8343": 5
+      },
+      "consenter_ids": [
+        5
+      ],
+      "created": 1793303003183,
+      "creator": "1312895293108269056",
+      "draft_picks": [],
+      "drops": {
+        "3634": 5
+      },
+      "leg": 8,
+      "metadata": null,
+      "roster_ids": [
+        5
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1793303003183,
+      "transaction_id": "1421619469247074304",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
+        "12556": 4
+      },
+      "consenter_ids": [
+        4
+      ],
+      "created": 1793289410921,
+      "creator": "1047312065453080576",
+      "draft_picks": [],
+      "drops": null,
+      "leg": 8,
+      "metadata": null,
+      "roster_ids": [
+        4
+      ],
+      "settings": null,
+      "status": "complete",
+      "status_updated": 1793289410921,
+      "transaction_id": "1421562459172409344",
+      "type": "free_agent",
+      "waiver_budget": []
+    },
+    {
+      "adds": {
         "5912": 5
       },
       "consenter_ids": [

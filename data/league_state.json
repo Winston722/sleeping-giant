@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-29",
+  "as_of": "2026-10-30",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -79,6 +79,7 @@
     "12533",
     "12534",
     "12545",
+    "12556",
     "12562",
     "12567",
     "12573",
@@ -168,7 +169,6 @@
     "3198",
     "3257",
     "3294",
-    "3634",
     "3973",
     "4034",
     "4035",
@@ -282,6 +282,7 @@
     "8329",
     "8330",
     "8339",
+    "8343",
     "8355",
     "8364",
     "8385",
@@ -764,6 +765,12 @@
       "gsis_id": null,
       "name": "Tyler Shough",
       "position": "QB"
+    },
+    {
+      "id": "12556",
+      "gsis_id": null,
+      "name": "Donovan Ezeiruaku",
+      "position": "DL"
     },
     {
       "id": "12562",
@@ -1298,12 +1305,6 @@
       "gsis_id": "00-0033077",
       "name": "Dak Prescott",
       "position": "QB"
-    },
-    {
-      "id": "3634",
-      "gsis_id": "00-0032464",
-      "name": "Kalif Raymond",
-      "position": "WR"
     },
     {
       "id": "3973",
@@ -1984,6 +1985,12 @@
       "position": "DB"
     },
     {
+      "id": "8343",
+      "gsis_id": null,
+      "name": "Boye Mafe",
+      "position": "DL"
+    },
+    {
       "id": "8355",
       "gsis_id": null,
       "name": "Kayvon Thibodeaux",
@@ -2134,5 +2141,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 65
+  "_gsis_resolved": 64
 }
