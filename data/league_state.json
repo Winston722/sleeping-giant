@@ -55,7 +55,6 @@
     "11834",
     "12474",
     "12481",
-    "12484",
     "12487",
     "12489",
     "12490",
@@ -122,7 +121,6 @@
     "13341",
     "13345",
     "13346",
-    "13349",
     "13359",
     "13360",
     "13363",
@@ -291,6 +289,7 @@
     "8659",
     "9221",
     "9224",
+    "9225",
     "9226",
     "9228",
     "9229",
@@ -621,12 +620,6 @@
       "gsis_id": null,
       "name": "Cam Skattebo",
       "position": "RB"
-    },
-    {
-      "id": "12484",
-      "gsis_id": null,
-      "name": "Jayden Higgins",
-      "position": "WR"
     },
     {
       "id": "12487",
@@ -1023,12 +1016,6 @@
       "gsis_id": null,
       "name": "Denzel Boston",
       "position": "WR"
-    },
-    {
-      "id": "13349",
-      "gsis_id": null,
-      "name": "Eli Stowers",
-      "position": "TE"
     },
     {
       "id": "13359",
@@ -2036,6 +2023,12 @@
       "id": "9224",
       "gsis_id": null,
       "name": "Chase Brown",
+      "position": "RB"
+    },
+    {
+      "id": "9225",
+      "gsis_id": null,
+      "name": "Tank Bigsby",
       "position": "RB"
     },
     {
