@@ -2248,6 +2248,23 @@
   },
   {
    "fantasy_positions": [
+    "OL"
+   ],
+   "full_name": "Corey Bullock",
+   "gsis_id": null,
+   "injury_body_part": "Quadriceps",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11954",
+   "position": "OL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CAR"
+  },
+  {
+   "fantasy_positions": [
     "RB"
    ],
    "full_name": "Chris Collier",
@@ -5425,6 +5442,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "MIA"
+  },
+  {
+   "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Will Lee III",
+   "gsis_id": null,
+   "injury_body_part": "Hamstring",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13485",
+   "position": "CB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CAR"
   },
   {
    "fantasy_positions": [
@@ -12574,6 +12608,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "NYJ"
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
+   "full_name": "Christian Watson",
+   "gsis_id": null,
+   "injury_body_part": "Undisclosed",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8167",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "GB"
   },
   {
    "fantasy_positions": [

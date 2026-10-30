@@ -1399,22 +1399,6 @@
     "team": "NE",
     "years_exp": 1
   },
-  "13264": {
-    "age": 26,
-    "birth_date": "2000-07-06",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Dohnte",
-    "full_name": "Dohnte Meyers",
-    "gsis_id": null,
-    "last_name": "Meyers",
-    "player_id": "13264",
-    "position": "WR",
-    "status": "Active",
-    "team": "CIN",
-    "years_exp": 0
-  },
   "13269": {
     "age": 23,
     "birth_date": "2003-10-01",
@@ -3487,6 +3471,22 @@
     "position": "WR",
     "status": "Active",
     "team": "MIN",
+    "years_exp": 6
+  },
+  "6797": {
+    "age": 28,
+    "birth_date": "1998-03-10",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Justin",
+    "full_name": "Justin Herbert",
+    "gsis_id": null,
+    "last_name": "Herbert",
+    "player_id": "6797",
+    "position": "QB",
+    "status": "Active",
+    "team": "LAC",
     "years_exp": 6
   },
   "6799": {

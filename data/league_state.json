@@ -90,7 +90,6 @@
     "12617",
     "12652",
     "12978",
-    "13264",
     "13269",
     "13272",
     "13274",
@@ -220,6 +219,7 @@
     "6786",
     "6790",
     "6794",
+    "6797",
     "6799",
     "6801",
     "6804",
@@ -830,12 +830,6 @@
       "gsis_id": null,
       "name": "Elijah Ponder",
       "position": "DE"
-    },
-    {
-      "id": "13264",
-      "gsis_id": null,
-      "name": "Dohnte Meyers",
-      "position": "WR"
     },
     {
       "id": "13269",
@@ -1610,6 +1604,12 @@
       "gsis_id": null,
       "name": "Justin Jefferson",
       "position": "WR"
+    },
+    {
+      "id": "6797",
+      "gsis_id": null,
+      "name": "Justin Herbert",
+      "position": "QB"
     },
     {
       "id": "6799",
