@@ -289,6 +289,7 @@
     "8659",
     "9221",
     "9224",
+    "9225",
     "9226",
     "9228",
     "9229",
@@ -2022,6 +2023,12 @@
       "id": "9224",
       "gsis_id": null,
       "name": "Chase Brown",
+      "position": "RB"
+    },
+    {
+      "id": "9225",
+      "gsis_id": null,
+      "name": "Tank Bigsby",
       "position": "RB"
     },
     {
