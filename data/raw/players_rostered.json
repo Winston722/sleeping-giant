@@ -864,7 +864,7 @@
     "last_name": "Harvey",
     "player_id": "12489",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DEN",
     "years_exp": 1
   },
@@ -2874,7 +2874,7 @@
     "last_name": "James Jr.",
     "player_id": "4971",
     "position": "DB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "LAC",
     "years_exp": 8
   },
