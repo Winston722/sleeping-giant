@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-31",
+  "as_of": "2026-11-01",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -169,6 +169,7 @@
     "3973",
     "4034",
     "4035",
+    "4037",
     "4046",
     "4070",
     "4081",
@@ -268,7 +269,6 @@
     "8148",
     "8150",
     "8151",
-    "8154",
     "8155",
     "8167",
     "8183",
@@ -1306,6 +1306,12 @@
       "position": "RB"
     },
     {
+      "id": "4037",
+      "gsis_id": "00-0033921",
+      "name": "Chris Godwin Jr.",
+      "position": "WR"
+    },
+    {
       "id": "4046",
       "gsis_id": "00-0033873",
       "name": "Patrick Mahomes",
@@ -1900,12 +1906,6 @@
       "position": "RB"
     },
     {
-      "id": "8154",
-      "gsis_id": null,
-      "name": "Brian Robinson Jr.",
-      "position": "RB"
-    },
-    {
       "id": "8155",
       "gsis_id": null,
       "name": "Breece Hall",
@@ -2134,5 +2134,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 64
+  "_gsis_resolved": 65
 }

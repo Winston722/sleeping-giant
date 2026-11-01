@@ -12,5 +12,12 @@
     "roster_id": 1,
     "round": 1,
     "season": "2028"
+  },
+  {
+    "owner_id": 2,
+    "previous_owner_id": 6,
+    "roster_id": 6,
+    "round": 3,
+    "season": "2028"
   }
 ]
