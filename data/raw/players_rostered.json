@@ -864,7 +864,7 @@
     "last_name": "Harvey",
     "player_id": "12489",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DEN",
     "years_exp": 1
   },
@@ -2669,6 +2669,22 @@
     "team": "NO",
     "years_exp": 9
   },
+  "4037": {
+    "age": 30,
+    "birth_date": "1996-02-27",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Chris",
+    "full_name": "Chris Godwin Jr.",
+    "gsis_id": "00-0033921",
+    "last_name": "Godwin Jr.",
+    "player_id": "4037",
+    "position": "WR",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 9
+  },
   "4046": {
     "age": 31,
     "birth_date": "1995-09-17",
@@ -2874,7 +2890,7 @@
     "last_name": "James Jr.",
     "player_id": "4971",
     "position": "DB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "LAC",
     "years_exp": 8
   },
@@ -4260,22 +4276,6 @@
     "team": "KC",
     "years_exp": 4
   },
-  "8154": {
-    "age": 27,
-    "birth_date": "1999-03-22",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Brian",
-    "full_name": "Brian Robinson Jr.",
-    "gsis_id": null,
-    "last_name": "Robinson Jr.",
-    "player_id": "8154",
-    "position": "RB",
-    "status": "Active",
-    "team": "ATL",
-    "years_exp": 4
-  },
   "8155": {
     "age": 25,
     "birth_date": "2001-05-31",
@@ -4325,7 +4325,7 @@
     "years_exp": 4
   },
   "8228": {
-    "age": 27,
+    "age": 28,
     "birth_date": "1998-11-01",
     "fantasy_positions": [
       "RB"
