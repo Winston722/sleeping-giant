@@ -16,7 +16,9 @@ when it has at least --min-seasons complete seasons.
 **Kept per complete league season** (one file, data/public/leagues/<league_id>.json): the settings, roster
 positions and scoring (`clean_league`); each roster's season totals (wins, points for, maximum possible points),
 players, taxi and reserve (`clean_rosters`); the winners bracket; and every week's transactions (trades with their
-draft picks, waivers with their FAAB bids, free-agent moves: `clean_transactions`).
+draft picks, waivers with their FAAB bids, free-agent moves: `clean_transactions`). Its drafts go beside it
+(data/public/drafts/<league_id>.json, `clean_draft`: each pick's slot, roster and player; `--drafts` fetches them for
+league seasons kept before 2026-11-02).
 
 **Never kept:** display names, usernames, avatars, team names, league names, chat messages, commissioner notes. Every
 Sleeper user id is replaced by a keyed hash (`pseudonym`: HMAC-SHA256 under a local salt, data/public/.salt, never
@@ -83,6 +85,13 @@ TX_SETTINGS = ("waiver_bid", "priority", "seq")
 # why a claim failed, as a code from Sleeper's own system message. The message text is never kept: a code is all a
 # bid study needs (a claim lost to another team is a losing bid; one that would overfill a roster is not a bid at all).
 FAILED_REASONS = (("claimed", "claimed by another"), ("roster", "too many players"))
+# a league season's drafts (dave-ledger's rookie-slot check, 2026-11-02: what a real rookie pick at each slot became):
+# the draft's rules and each pick's slot, roster and player, with his position and years in the league when picked.
+# Who made a pick (`picked_by`, a user id) and the player's name are never kept.
+DRAFT_KEYS = ("draft_id", "type", "status", "season", "season_type", "start_time")
+DRAFT_SETTINGS = ("rounds", "teams", "player_type", "reversal_round")
+PICK_KEYS = ("round", "pick_no", "draft_slot", "roster_id", "player_id", "is_keeper")
+PICK_META = ("position", "years_exp")
 
 
 def salt(path: Path = PUBLIC / ".salt") -> bytes:
@@ -142,6 +151,16 @@ def clean_transactions(txs: List[Dict[str, Any]], key: bytes) -> List[Dict[str, 
     return out
 
 
+def clean_draft(draft: Dict[str, Any], picks: List[Dict[str, Any]]) -> Dict[str, Any]:
+    """A draft's rules and its picks (`DRAFT_KEYS`, `PICK_KEYS`, `PICK_META`): no user ids, no names."""
+    out = {k: draft.get(k) for k in DRAFT_KEYS}
+    out["settings"] = {k: (draft.get("settings") or {}).get(k) for k in DRAFT_SETTINGS}
+    out["slot_to_roster_id"] = draft.get("slot_to_roster_id")
+    out["picks"] = [{**{k: p.get(k) for k in PICK_KEYS}, **{k: (p.get("metadata") or {}).get(k) for k in PICK_META}}
+                    for p in picks or []]
+    return out
+
+
 def idp_superflex(league: Dict[str, Any], min_teams: int = 8, max_teams: int = 14) -> bool:
     """A dynasty league of min_teams..max_teams teams that starts at least one defensive player and plays superflex
     (a SUPER_FLEX slot, or two QB slots)."""
@@ -190,6 +209,7 @@ class Crawler:
         self.key = key if key is not None else salt(out / ".salt")
         self.log, self.workers, self.frontier, self.target = log, workers, frontier, target
         (out / "leagues").mkdir(parents=True, exist_ok=True)
+        (out / "drafts").mkdir(parents=True, exist_ok=True)
         st = out / "crawl.json"
         state = json.loads(st.read_text()) if st.exists() else {}
         self.queue = deque(state.get("queue", []))
@@ -231,6 +251,33 @@ class Crawler:
         txs = [t for week in got[2:] for t in clean_transactions(week or [], self.key)]
         write_whole(path, json.dumps({"league": clean_league(league), "rosters": clean_rosters(rosters, self.key),
                                       "winners_bracket": bracket, "transactions": txs}))
+        self.keep_drafts(lid)
+
+    def keep_drafts(self, lid: str) -> bool:
+        """Fetch and write one league season's complete drafts with their picks (data/public/drafts/<lid>.json),
+        unless already on disk; False when Sleeper no longer serves the league (nothing written, so a later run
+        tries again)."""
+        path = self.out / "drafts" / f"{lid}.json"
+        if path.exists():
+            return True
+        drafts = self.get(f"league/{lid}/drafts")
+        if drafts is None:
+            return False
+        done = [d for d in drafts if d.get("status") == "complete" and d.get("draft_id")]
+        picks = [self.get(f"draft/{d['draft_id']}/picks") for d in done]
+        write_whole(path, json.dumps({"league_id": lid, "drafts": [clean_draft(d, p) for d, p in zip(done, picks)]}))
+        return True
+
+    def backfill_drafts(self) -> Dict[str, int]:
+        """`keep_drafts` for every league season already on disk (a crawl from before drafts were kept)."""
+        lids = sorted(p.stem for p in (self.out / "leagues").glob("*.json"))
+        todo = [lid for lid in lids if not (self.out / "drafts" / f"{lid}.json").exists()]
+        if self.workers > 1:
+            with ThreadPoolExecutor(self.workers) as ex:
+                got = list(ex.map(self.keep_drafts, todo))
+        else:
+            got = [self.keep_drafts(lid) for lid in todo]
+        return {"league_seasons": len(lids), "fetched": sum(got), "unavailable": len(got) - sum(got)}
 
     def discover(self, rosters: List[Dict[str, Any]]) -> None:
         """Queue every dynasty league in --season of each new manager of `rosters`."""
@@ -341,6 +388,8 @@ def main(argv: Optional[List[str]] = None) -> int:
     ap.add_argument("--min-teams", type=int, default=8)
     ap.add_argument("--max-teams", type=int, default=14)
     ap.add_argument("--stats", default=None, help="player season totals for these seasons first, e.g. 2017-2025")
+    ap.add_argument("--drafts", action="store_true",
+                    help="only fetch the drafts of every league season already on disk (data/public/drafts), then stop")
     a = ap.parse_args(argv)
     cfg = json.loads((ROOT / "config.json").read_text())
     get = Paced(sync._get, a.rate)
@@ -351,6 +400,9 @@ def main(argv: Optional[List[str]] = None) -> int:
     target = (lambda lg: idp_superflex(lg, a.min_teams, a.max_teams)) if a.target == "idp-sf" else None
     cr = Crawler(get, season=a.season, min_seasons=a.min_seasons, max_chains=a.max_chains,
                  workers=a.workers, frontier=a.frontier, target=target)
+    if a.drafts:
+        print(json.dumps(cr.backfill_drafts()), flush=True)
+        return 0
     print(f"crawling public dynasty leagues from {cfg['league_id']} (season {a.season}, chains of "
           f"{a.min_seasons}+ complete seasons, up to {a.max_chains})", flush=True)
     print(json.dumps(cr.run(str(cfg["league_id"]))))
