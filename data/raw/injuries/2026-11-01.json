@@ -788,6 +788,23 @@
    "team": "SEA"
   },
   {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Jacob Saylors",
+   "gsis_id": null,
+   "injury_body_part": "Neck",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11237",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "DET"
+  },
+  {
    "fantasy_positions": null,
    "full_name": "Jaxson Kirkland",
    "gsis_id": null,
@@ -4657,6 +4674,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "SEA"
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Jeremiyah Love",
+   "gsis_id": null,
+   "injury_body_part": "Undisclosed",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13287",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "ARI"
   },
   {
    "fantasy_positions": [
@@ -10469,6 +10503,23 @@
    "fantasy_positions": [
     "OL"
    ],
+   "full_name": "Ezra Cleveland",
+   "gsis_id": null,
+   "injury_body_part": "Ankle",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "6922",
+   "position": "G",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "JAX"
+  },
+  {
+   "fantasy_positions": [
+    "OL"
+   ],
    "full_name": "Trystan Colon",
    "gsis_id": null,
    "injury_body_part": "Undisclosed",
@@ -10636,6 +10687,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "DaVon Hamilton",
+   "gsis_id": null,
+   "injury_body_part": "Knee",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "6972",
+   "position": "DT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "JAX"
   },
   {
    "fantasy_positions": [
@@ -10926,6 +10994,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "QB"
+   ],
+   "full_name": "Tyler Huntley",
+   "gsis_id": null,
+   "injury_body_part": "Toe",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "7083",
+   "position": "QB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "BAL"
   },
   {
    "fantasy_positions": [
@@ -11681,6 +11766,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "NYG"
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
+   "full_name": "Joshua Palmer",
+   "gsis_id": null,
+   "injury_body_part": "Hamstring",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Doubtful",
+   "player_id": "7670",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "BUF"
   },
   {
    "fantasy_positions": [
@@ -13384,6 +13486,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "SF"
+  },
+  {
+   "fantasy_positions": [
+    "OL"
+   ],
+   "full_name": "Cade Mays",
+   "gsis_id": null,
+   "injury_body_part": "Ankle",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8502",
+   "position": "OL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "DET"
   },
   {
    "fantasy_positions": [
