@@ -189,3 +189,39 @@ def test_a_waiver_claim_keeps_its_bid_and_a_coded_reason_never_the_message():
     assert tx[1]["settings"]["waiver_bid"] == 9 and tx[1]["failed_reason"] == "claimed"
     assert [t["failed_reason"] for t in tx[2:]] == ["roster", "other"] and tx[3]["settings"] == {}
     assert "claimed by another" not in json.dumps(tx) and all("metadata" not in t for t in tx)
+
+
+def test_drafts_keep_each_picks_slot_and_player_never_who_picked_or_names_and_backfill_once(tmp_path):
+    (tmp_path / "leagues").mkdir(parents=True)
+    for lid in ("A", "B"):
+        (tmp_path / "leagues" / f"{lid}.json").write_text("{}")
+    pick = {"round": 1, "pick_no": 1, "draft_slot": 3, "roster_id": 5, "player_id": "9509", "is_keeper": None,
+            "picked_by": "111", "draft_id": "DA",
+            "metadata": {"first_name": "Bijan", "last_name": "Robinson", "position": "RB", "years_exp": "0",
+                         "team": "ATL"}}
+    api = {"league/A/drafts": [{"draft_id": "DA", "type": "linear", "status": "complete", "season": "2023",
+                                "creators": ["111"], "metadata": {"name": "The Secret League"},
+                                "settings": {"rounds": 4, "teams": 10, "player_type": 1, "pick_timer": 30},
+                                "slot_to_roster_id": {"3": 5}},
+                               {"draft_id": "DX", "type": "snake", "status": "pre_draft", "season": "2024"}],
+           "draft/DA/picks": [pick]}
+    calls = []
+
+    def get(path):
+        calls.append(path)
+        return api.get(path)
+    cr = public.Crawler(get, out=tmp_path, key=KEY, log=lambda *_: None)
+    assert cr.backfill_drafts() == {"league_seasons": 2, "fetched": 1, "unavailable": 1}   # B: Sleeper serves none
+    d = json.loads((tmp_path / "drafts" / "A.json").read_text())
+    assert [x["draft_id"] for x in d["drafts"]] == ["DA"]                                    # complete drafts only
+    p = d["drafts"][0]["picks"][0]
+    assert (p["pick_no"], p["draft_slot"], p["roster_id"], p["player_id"], p["position"], p["years_exp"]) == \
+        (1, 3, 5, "9509", "RB", "0")
+    assert d["drafts"][0]["settings"] == {"rounds": 4, "teams": 10, "player_type": 1, "reversal_round": None}
+    blob = (tmp_path / "drafts" / "A.json").read_text()
+    for raw in ("111", "Bijan", "Robinson", "Secret", "ATL"):
+        assert raw not in blob, raw
+    assert not (tmp_path / "drafts" / "B.json").exists()                                     # tried again next run
+    calls.clear()
+    cr.backfill_drafts()
+    assert calls == ["league/B/drafts"]                                                      # A is not fetched twice
