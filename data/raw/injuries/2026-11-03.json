@@ -7965,6 +7965,23 @@
   },
   {
    "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Grady Jarrett",
+   "gsis_id": "00-0031583",
+   "injury_body_part": "Groin",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "2592",
+   "position": "DT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CHI"
+  },
+  {
+   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Jonathon Mincy",
@@ -15175,5 +15192,5 @@
  ],
  "season": "2026",
  "season_type": "regular",
- "week": 8
+ "week": 9
 }
