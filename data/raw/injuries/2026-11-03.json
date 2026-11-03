@@ -1231,23 +1231,6 @@
    "fantasy_positions": [
     "RB"
    ],
-   "full_name": "Audric Estime",
-   "gsis_id": null,
-   "injury_body_part": "Coach's Decision",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Out",
-   "player_id": "11579",
-   "position": "RB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "CLE"
-  },
-  {
-   "fantasy_positions": [
-    "RB"
-   ],
    "full_name": "Carson Steele",
    "gsis_id": null,
    "injury_body_part": "Shoulder",
@@ -4695,23 +4678,6 @@
   },
   {
    "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Elliott Davison",
-   "gsis_id": null,
-   "injury_body_part": "Coach's Decision",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Out",
-   "player_id": "13028",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "NE"
-  },
-  {
-   "fantasy_positions": [
     "OL"
    ],
    "full_name": "Torricelli Simpkins III",
@@ -5517,14 +5483,14 @@
    "full_name": "Cashius Howell",
    "gsis_id": null,
    "injury_body_part": "Wrist",
-   "injury_notes": null,
+   "injury_notes": "Surgery",
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "IR",
    "player_id": "13364",
    "position": "DL",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "CIN"
   },
   {
@@ -14221,23 +14187,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "DET"
-  },
-  {
-   "fantasy_positions": [
-    "DL"
-   ],
-   "full_name": "Drake Jackson",
-   "gsis_id": null,
-   "injury_body_part": "Coach's Decision",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Out",
-   "player_id": "8351",
-   "position": "DL",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "ATL"
   },
   {
    "fantasy_positions": [
