@@ -339,6 +339,22 @@
     "team": "NE",
     "years_exp": 2
   },
+  "11565": {
+    "age": 23,
+    "birth_date": "2003-01-20",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "J.J.",
+    "full_name": "J.J. McCarthy",
+    "gsis_id": null,
+    "last_name": "McCarthy",
+    "player_id": "11565",
+    "position": "QB",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 2
+  },
   "11566": {
     "age": 25,
     "birth_date": "2000-12-18",
@@ -497,6 +513,22 @@
     "position": "WR",
     "status": "Active",
     "team": "KC",
+    "years_exp": 2
+  },
+  "11625": {
+    "age": 24,
+    "birth_date": "2002-10-08",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Adonai",
+    "full_name": "Adonai Mitchell",
+    "gsis_id": null,
+    "last_name": "Mitchell",
+    "player_id": "11625",
+    "position": "WR",
+    "status": "Active",
+    "team": "NYJ",
     "years_exp": 2
   },
   "11628": {
@@ -978,22 +1010,6 @@
     "position": "QB",
     "status": "Inactive",
     "team": "NYG",
-    "years_exp": 1
-  },
-  "12509": {
-    "age": 24,
-    "birth_date": "2002-02-28",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Tre'",
-    "full_name": "Tre' Harris",
-    "gsis_id": null,
-    "last_name": "Harris",
-    "player_id": "12509",
-    "position": "WR",
-    "status": "Active",
-    "team": "LAC",
     "years_exp": 1
   },
   "12512": {
@@ -1571,7 +1587,7 @@
     "last_name": "Love",
     "player_id": "13287",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "ARI",
     "years_exp": 0
   },
@@ -2509,22 +2525,6 @@
     "team": "WAS",
     "years_exp": 11
   },
-  "2505": {
-    "age": 34,
-    "birth_date": "1992-09-13",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Darren",
-    "full_name": "Darren Waller",
-    "gsis_id": "00-0031610",
-    "last_name": "Waller",
-    "player_id": "2505",
-    "position": "TE",
-    "status": "Active",
-    "team": "CAR",
-    "years_exp": 11
-  },
   "2617": {
     "age": 32,
     "birth_date": "1993-12-07",
@@ -2587,22 +2587,6 @@
     "position": "RB",
     "status": "Active",
     "team": "BAL",
-    "years_exp": 10
-  },
-  "3257": {
-    "age": 33,
-    "birth_date": "1992-12-11",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Jacoby",
-    "full_name": "Jacoby Brissett",
-    "gsis_id": "00-0033119",
-    "last_name": "Brissett",
-    "player_id": "3257",
-    "position": "QB",
-    "status": "Active",
-    "team": "ARI",
     "years_exp": 10
   },
   "3294": {
@@ -3229,6 +3213,22 @@
     "position": "RB",
     "status": "Active",
     "team": "HOU",
+    "years_exp": 7
+  },
+  "5908": {
+    "age": 28,
+    "birth_date": "1998-06-14",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Amani",
+    "full_name": "Amani Hooker",
+    "gsis_id": " 00-0035632",
+    "last_name": "Hooker",
+    "player_id": "5908",
+    "position": "DB",
+    "status": "Active",
+    "team": "TEN",
     "years_exp": 7
   },
   "5912": {

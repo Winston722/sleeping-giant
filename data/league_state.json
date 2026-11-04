@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03",
+  "as_of": "2026-11-04",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -24,6 +24,7 @@
     "11560",
     "11563",
     "11564",
+    "11565",
     "11566",
     "11576",
     "11583",
@@ -34,6 +35,7 @@
     "11610",
     "11620",
     "11624",
+    "11625",
     "11628",
     "11631",
     "11632",
@@ -64,7 +66,6 @@
     "12506",
     "12507",
     "12508",
-    "12509",
     "12512",
     "12514",
     "12517",
@@ -159,12 +160,10 @@
     "2306",
     "2393",
     "2449",
-    "2505",
     "2617",
     "3163",
     "3172",
     "3198",
-    "3257",
     "3294",
     "3973",
     "4034",
@@ -204,6 +203,7 @@
     "5872",
     "5876",
     "5892",
+    "5908",
     "5912",
     "5927",
     "5947",
@@ -436,6 +436,12 @@
       "position": "QB"
     },
     {
+      "id": "11565",
+      "gsis_id": null,
+      "name": "J.J. McCarthy",
+      "position": "QB"
+    },
+    {
       "id": "11566",
       "gsis_id": null,
       "name": "Jayden Daniels",
@@ -493,6 +499,12 @@
       "id": "11624",
       "gsis_id": null,
       "name": "Xavier Worthy",
+      "position": "WR"
+    },
+    {
+      "id": "11625",
+      "gsis_id": null,
+      "name": "Adonai Mitchell",
       "position": "WR"
     },
     {
@@ -674,12 +686,6 @@
       "gsis_id": null,
       "name": "Jaxson Dart",
       "position": "QB"
-    },
-    {
-      "id": "12509",
-      "gsis_id": null,
-      "name": "Tre' Harris",
-      "position": "WR"
     },
     {
       "id": "12512",
@@ -1246,12 +1252,6 @@
       "position": "WR"
     },
     {
-      "id": "2505",
-      "gsis_id": "00-0031610",
-      "name": "Darren Waller",
-      "position": "TE"
-    },
-    {
       "id": "2617",
       "gsis_id": " 00-0031898",
       "name": "Alex Singleton",
@@ -1274,12 +1274,6 @@
       "gsis_id": "00-0032764",
       "name": "Derrick Henry",
       "position": "RB"
-    },
-    {
-      "id": "3257",
-      "gsis_id": "00-0033119",
-      "name": "Jacoby Brissett",
-      "position": "QB"
     },
     {
       "id": "3294",
@@ -1514,6 +1508,12 @@
       "gsis_id": " 00-0035685",
       "name": "David Montgomery",
       "position": "RB"
+    },
+    {
+      "id": "5908",
+      "gsis_id": " 00-0035632",
+      "name": "Amani Hooker",
+      "position": "DB"
     },
     {
       "id": "5912",
@@ -2134,5 +2134,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 65
+  "_gsis_resolved": 64
 }
