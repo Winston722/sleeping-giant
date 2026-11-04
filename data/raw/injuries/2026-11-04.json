@@ -293,6 +293,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Jordan Battle",
+   "gsis_id": null,
+   "injury_body_part": "Hamstring",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "10927",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CIN"
+  },
+  {
+   "fantasy_positions": [
     "DL",
     "LB"
    ],
@@ -3093,23 +3110,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "WAS"
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Billy Bowman Jr.",
-   "gsis_id": null,
-   "injury_body_part": "Hamstring",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "12647",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "ATL"
   },
   {
    "fantasy_positions": [
@@ -6577,6 +6577,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "LAR"
+  },
+  {
+   "fantasy_positions": [
+    "QB"
+   ],
+   "full_name": "Deshaun Watson",
+   "gsis_id": "00-0033537",
+   "injury_body_part": "Concussion",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "4017",
+   "position": "QB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CLE"
   },
   {
    "fantasy_positions": [
