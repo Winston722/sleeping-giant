@@ -7,8 +7,9 @@ throughout the week. Can you pull depth chart snapshots via Sleeper too?").
 One run, at its own UTC time:
 - **Projections** for the current NFL week and the two after (`/v1/projections/nfl/regular/{season}/{week}`, as
   `projections.py` keeps them: each player's projected statistics, no ranks or draft fields), written to
-  `data/projections/daily/<season>/<YYYY-MM-DDTHHMMZ>/<week>.json`. They stay under `data/projections/`: gitignored,
-  on the machine that pulled them (owner ruling 2026-10-17 §1, docs/sources-and-obligations.md C11).
+  `data/projections/daily/<season>/<YYYY-MM-DDTHHMMZ>/<week>.json`. Never committed here (a public repository): they
+  stay under the gitignored `data/projections/`, and dave-ledger archives them in its private repository (owner
+  ruling 2026-11-04 §1, amending 2026-10-17 §1; dave-ledger `scripts/study/projection_daily.py`).
 - **Depth charts and designations** from Sleeper's player dictionary (`/v1/players/nfl`, what the app's Team tab
   shows): for every player on an NFL team, his team, position, fantasy positions, `depth_chart_position`,
   `depth_chart_order`, `injury_status`, `injury_body_part`, `injury_start_date`, `practice_participation` and roster
