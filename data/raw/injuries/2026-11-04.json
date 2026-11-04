@@ -1230,6 +1230,23 @@
    "fantasy_positions": [
     "DB"
    ],
+   "full_name": "Nate Wiggins",
+   "gsis_id": null,
+   "injury_body_part": "Neck",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11656",
+   "position": "CB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "BAL"
+  },
+  {
+   "fantasy_positions": [
+    "DB"
+   ],
    "full_name": "Terrion Arnold",
    "gsis_id": null,
    "injury_body_part": "Undisclosed",
@@ -1310,23 +1327,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "NYJ"
-  },
-  {
-   "fantasy_positions": [
-    "OL"
-   ],
-   "full_name": "Roger Rosengarten",
-   "gsis_id": null,
-   "injury_body_part": "Ankle",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "11696",
-   "position": "OL",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BAL"
   },
   {
    "fantasy_positions": [
@@ -4430,7 +4430,7 @@
    "injury_body_part": "Quadriceps",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Doubtful",
    "player_id": "13380",
    "position": "WR",
    "practice_description": null,
@@ -4813,23 +4813,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "PIT"
-  },
-  {
-   "fantasy_positions": [
-    "LB"
-   ],
-   "full_name": "Bryce Boettcher",
-   "gsis_id": null,
-   "injury_body_part": "Groin",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "13481",
-   "position": "LB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "IND"
   },
   {
    "fantasy_positions": [
@@ -5929,23 +5912,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
-  },
-  {
-   "fantasy_positions": [
-    "DL"
-   ],
-   "full_name": "John Jenkins",
-   "gsis_id": "00-0030070",
-   "injury_body_part": "Knee",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "1553",
-   "position": "DT",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BAL"
   },
   {
    "fantasy_positions": [
@@ -8383,7 +8349,7 @@
    "injury_body_part": "Groin",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "5892",
    "position": "RB",
    "practice_description": null,
@@ -9453,6 +9419,23 @@
   },
   {
    "fantasy_positions": [
+    "LB"
+   ],
+   "full_name": "Akeem Davis-Gaither",
+   "gsis_id": null,
+   "injury_body_part": "Knee",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "6860",
+   "position": "LB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "IND"
+  },
+  {
+   "fantasy_positions": [
     "TE"
    ],
    "full_name": "Colby Parkinson",
@@ -9502,23 +9485,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": "CIN"
-  },
-  {
-   "fantasy_positions": [
-    "OL"
-   ],
-   "full_name": "John Simpson",
-   "gsis_id": null,
-   "injury_body_part": "Back",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "6875",
-   "position": "G",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BAL"
   },
   {
    "fantasy_positions": [
@@ -9958,7 +9924,7 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7058",
    "position": "SS",
    "practice_description": null,
@@ -12406,6 +12372,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "CIN"
+  },
+  {
+   "fantasy_positions": [
+    "TE"
+   ],
+   "full_name": "Drew Ogletree",
+   "gsis_id": null,
+   "injury_body_part": "Knee",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8489",
+   "position": "TE",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "IND"
   },
   {
    "fantasy_positions": [
