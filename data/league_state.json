@@ -261,6 +261,7 @@
     "8130",
     "8131",
     "8132",
+    "8134",
     "8137",
     "8138",
     "8142",
@@ -1856,6 +1857,12 @@
       "gsis_id": null,
       "name": "Tyler Allgeier",
       "position": "RB"
+    },
+    {
+      "id": "8134",
+      "gsis_id": null,
+      "name": "Khalil Shakir",
+      "position": "WR"
     },
     {
       "id": "8137",

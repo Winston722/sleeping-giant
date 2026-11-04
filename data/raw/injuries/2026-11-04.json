@@ -3,23 +3,6 @@
  "players": [
   {
    "fantasy_positions": [
-    "RB"
-   ],
-   "full_name": "Chris Rodriguez Jr.",
-   "gsis_id": null,
-   "injury_body_part": "Hand",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "10219",
-   "position": "RB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "JAX"
-  },
-  {
-   "fantasy_positions": [
     "WR"
    ],
    "full_name": "Jayden Reed",
@@ -411,23 +394,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Antonio Johnson",
-   "gsis_id": null,
-   "injury_body_part": "Ankle",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "10974",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "JAX"
   },
   {
    "fantasy_positions": [
@@ -1449,23 +1415,6 @@
   },
   {
    "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Jarrian Jones",
-   "gsis_id": null,
-   "injury_body_part": "Ankle",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "11725",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "JAX"
-  },
-  {
-   "fantasy_positions": [
     "OL"
    ],
    "full_name": "Giovanni Manu",
@@ -1496,7 +1445,7 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Active",
-   "team": "CLE"
+   "team": null
   },
   {
    "fantasy_positions": [
@@ -3653,23 +3602,6 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Inactive",
-   "team": "JAX"
-  },
-  {
-   "fantasy_positions": [
-    "LB"
-   ],
-   "full_name": "Branson Combs",
-   "gsis_id": null,
-   "injury_body_part": "Shoulder",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "12917",
-   "position": "LB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
    "team": "JAX"
   },
   {
@@ -7182,6 +7114,23 @@
   },
   {
    "fantasy_positions": [
+    "QB"
+   ],
+   "full_name": "Sam Darnold",
+   "gsis_id": "00-0034869",
+   "injury_body_part": "Quadriceps",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "4943",
+   "position": "QB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "SEA"
+  },
+  {
+   "fantasy_positions": [
     "LB"
    ],
    "full_name": "Tremaine Edmunds",
@@ -8529,23 +8478,6 @@
   },
   {
    "fantasy_positions": [
-    "WR"
-   ],
-   "full_name": "Jakobi Meyers",
-   "gsis_id": " 00-0034960",
-   "injury_body_part": "Hamstring",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "5947",
-   "position": "WR",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "JAX"
-  },
-  {
-   "fantasy_positions": [
     "OL",
     "OT"
    ],
@@ -8833,6 +8765,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "LAC"
+  },
+  {
+   "fantasy_positions": [
+    "LB"
+   ],
+   "full_name": "Quincy Williams",
+   "gsis_id": " 00-0035680",
+   "injury_body_part": "Hamstring",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "6214",
+   "position": "LB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CLE"
   },
   {
    "fantasy_positions": [
@@ -9656,23 +9605,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": null
-  },
-  {
-   "fantasy_positions": [
-    "OL"
-   ],
-   "full_name": "Ezra Cleveland",
-   "gsis_id": null,
-   "injury_body_part": "Ankle",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "6922",
-   "position": "G",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "JAX"
   },
   {
    "fantasy_positions": [
@@ -10960,7 +10892,7 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Inactive",
-   "team": "NYJ"
+   "team": null
   },
   {
    "fantasy_positions": [
@@ -11524,6 +11456,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "IND"
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
+   "full_name": "Garrett Wilson",
+   "gsis_id": null,
+   "injury_body_part": "Concussion",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8146",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "NYJ"
   },
   {
    "fantasy_positions": [

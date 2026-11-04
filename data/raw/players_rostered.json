@@ -4148,6 +4148,22 @@
     "team": "ARI",
     "years_exp": 4
   },
+  "8134": {
+    "age": 26,
+    "birth_date": "2000-02-03",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Khalil",
+    "full_name": "Khalil Shakir",
+    "gsis_id": null,
+    "last_name": "Shakir",
+    "player_id": "8134",
+    "position": "WR",
+    "status": "Active",
+    "team": "BUF",
+    "years_exp": 4
+  },
   "8137": {
     "age": 25,
     "birth_date": "2001-03-04",
