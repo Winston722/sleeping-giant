@@ -316,6 +316,9 @@ if __name__ == "__main__":
     if sys.argv[1:2] == ["public"]:            # public dynasty leagues for DAVE's real-league check (public.py)
         from public import main as public_main
         sys.exit(public_main(sys.argv[2:]))
+    if sys.argv[1:2] == ["daily"]:             # a daily snapshot: projections for this week and the next two, depth charts
+        from daily import main as daily_main
+        sys.exit(daily_main(sys.argv[2:]))
     if sys.argv[1:2] == ["projections"]:       # Sleeper's weekly projections for DAVE's lineup study (projections.py)
         from projections import main as projections_main
         sys.exit(projections_main(sys.argv[2:]))
