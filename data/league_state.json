@@ -199,6 +199,7 @@
     "5849",
     "5850",
     "5859",
+    "5862",
     "5871",
     "5872",
     "5876",
@@ -1487,6 +1488,12 @@
       "position": "WR"
     },
     {
+      "id": "5862",
+      "gsis_id": " 00-0035713",
+      "name": "Brian Burns",
+      "position": "DE"
+    },
+    {
       "id": "5871",
       "gsis_id": " 00-0035248",
       "name": "Zach Allen",
@@ -2141,5 +2148,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 64
+  "_gsis_resolved": 65
 }
