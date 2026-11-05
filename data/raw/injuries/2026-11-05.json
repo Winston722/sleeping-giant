@@ -450,6 +450,23 @@
    "fantasy_positions": [
     "OL"
    ],
+   "full_name": "Anthony Bradford",
+   "gsis_id": null,
+   "injury_body_part": "Knee",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "10959",
+   "position": "OL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "SEA"
+  },
+  {
+   "fantasy_positions": [
+    "OL"
+   ],
    "full_name": "Nick Saldiveri",
    "gsis_id": null,
    "injury_body_part": "Knee",
@@ -885,6 +902,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Zavier Scott",
+   "gsis_id": null,
+   "injury_body_part": "Wrist",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11299",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CHI"
   },
   {
    "fantasy_positions": [
@@ -1533,6 +1567,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "PHI"
+  },
+  {
+   "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Tykee Smith",
+   "gsis_id": null,
+   "injury_body_part": "Ankle",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11705",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "TB"
   },
   {
    "fantasy_positions": [
@@ -2399,6 +2450,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "HOU"
+  },
+  {
+   "fantasy_positions": [
+    "OT"
+   ],
+   "full_name": "Theo Benedet",
+   "gsis_id": null,
+   "injury_body_part": "Shoulder",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "12208",
+   "position": "OT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CHI"
   },
   {
    "fantasy_positions": [
@@ -4065,6 +4133,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Connor O'Toole",
+   "gsis_id": null,
+   "injury_body_part": "Foot",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13037",
+   "position": "DE",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "SEA"
   },
   {
    "fantasy_positions": [
@@ -7609,6 +7694,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "NYG"
+  },
+  {
+   "fantasy_positions": [
+    "OL"
+   ],
+   "full_name": "Quenton Nelson",
+   "gsis_id": "00-0034342",
+   "injury_body_part": "Knee",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "4970",
+   "position": "OL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "SEA"
   },
   {
    "fantasy_positions": [
@@ -11181,6 +11283,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "DET"
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Kenny Gainwell",
+   "gsis_id": null,
+   "injury_body_part": "Hip",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "7567",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "TB"
   },
   {
    "fantasy_positions": [
