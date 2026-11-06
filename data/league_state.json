@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-05",
+  "as_of": "2026-11-06",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -161,9 +161,11 @@
     "2393",
     "2449",
     "2617",
+    "3161",
     "3163",
     "3172",
     "3198",
+    "3257",
     "3294",
     "3973",
     "4034",
@@ -233,7 +235,6 @@
     "6904",
     "6911",
     "6949",
-    "7002",
     "7021",
     "7136",
     "7523",
@@ -258,7 +259,6 @@
     "8110",
     "8112",
     "8126",
-    "8129",
     "8130",
     "8131",
     "8132",
@@ -294,7 +294,6 @@
     "9225",
     "9226",
     "9228",
-    "9229",
     "9480",
     "9484",
     "9487",
@@ -1260,6 +1259,12 @@
       "position": "LB"
     },
     {
+      "id": "3161",
+      "gsis_id": "00-0032950",
+      "name": "Carson Wentz",
+      "position": "QB"
+    },
+    {
       "id": "3163",
       "gsis_id": "00-0033106",
       "name": "Jared Goff",
@@ -1276,6 +1281,12 @@
       "gsis_id": "00-0032764",
       "name": "Derrick Henry",
       "position": "RB"
+    },
+    {
+      "id": "3257",
+      "gsis_id": "00-0033119",
+      "name": "Jacoby Brissett",
+      "position": "QB"
     },
     {
       "id": "3294",
@@ -1692,12 +1703,6 @@
       "position": "LB"
     },
     {
-      "id": "7002",
-      "gsis_id": null,
-      "name": "Juwan Johnson",
-      "position": "TE"
-    },
-    {
       "id": "7021",
       "gsis_id": null,
       "name": "Rico Dowdle",
@@ -1840,12 +1845,6 @@
       "gsis_id": null,
       "name": "Wan'Dale Robinson",
       "position": "WR"
-    },
-    {
-      "id": "8129",
-      "gsis_id": null,
-      "name": "Dameon Pierce",
-      "position": "RB"
     },
     {
       "id": "8130",
@@ -2058,12 +2057,6 @@
       "position": "QB"
     },
     {
-      "id": "9229",
-      "gsis_id": null,
-      "name": "Anthony Richardson Sr.",
-      "position": "QB"
-    },
-    {
       "id": "9480",
       "gsis_id": null,
       "name": "Brenton Strange",
@@ -2148,5 +2141,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 65
+  "_gsis_resolved": 67
 }
