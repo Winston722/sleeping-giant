@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-07",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -54,7 +54,6 @@
     "11727",
     "11739",
     "11760",
-    "11834",
     "12474",
     "12481",
     "12487",
@@ -615,12 +614,6 @@
       "gsis_id": null,
       "name": "Austin Booker",
       "position": "DL"
-    },
-    {
-      "id": "11834",
-      "gsis_id": null,
-      "name": "Devaughn Vele",
-      "position": "WR"
     },
     {
       "id": "12474",
