@@ -1281,23 +1281,6 @@
    "fantasy_positions": [
     "WR"
    ],
-   "full_name": "Keon Coleman",
-   "gsis_id": null,
-   "injury_body_part": "Shoulder",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "11637",
-   "position": "WR",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BUF"
-  },
-  {
-   "fantasy_positions": [
-    "WR"
-   ],
    "full_name": "Ricky Pearsall",
    "gsis_id": null,
    "injury_body_part": "Knee - PCL",
@@ -1490,12 +1473,12 @@
    "injury_body_part": "Pectoral",
    "injury_notes": "Surgery",
    "injury_start_date": null,
-   "injury_status": "IR",
+   "injury_status": "Questionable",
    "player_id": "11699",
    "position": "DL",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "WAS"
   },
   {
@@ -1558,7 +1541,7 @@
    "injury_body_part": "Forearm",
    "injury_notes": "Fracture",
    "injury_start_date": null,
-   "injury_status": "IR",
+   "injury_status": "Questionable",
    "player_id": "11720",
    "position": "LB",
    "practice_description": null,
@@ -4548,7 +4531,7 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "13347",
    "position": "RB",
    "practice_description": null,
@@ -4633,7 +4616,7 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "13359",
    "position": "DL",
    "practice_description": null,
@@ -4684,7 +4667,7 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "13384",
    "position": "DB",
    "practice_description": null,
@@ -6732,23 +6715,6 @@
   },
   {
    "fantasy_positions": [
-    "DL"
-   ],
-   "full_name": "Myles Garrett",
-   "gsis_id": "00-0033868",
-   "injury_body_part": "Knee",
-   "injury_notes": "Surgery",
-   "injury_start_date": null,
-   "injury_status": "IR",
-   "player_id": "3973",
-   "position": "DE",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Inactive",
-   "team": "LAR"
-  },
-  {
-   "fantasy_positions": [
     "QB"
    ],
    "full_name": "Deshaun Watson",
@@ -7417,23 +7383,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "WAS"
-  },
-  {
-   "fantasy_positions": [
-    "WR"
-   ],
-   "full_name": "DJ Moore",
-   "gsis_id": "00-0034827",
-   "injury_body_part": "Undisclosed",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "4983",
-   "position": "WR",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BUF"
   },
   {
    "fantasy_positions": [
@@ -8430,9 +8379,9 @@
    "full_name": "Kyler Murray",
    "gsis_id": " 00-0035228",
    "injury_body_part": "Hamstring",
-   "injury_notes": null,
+   "injury_notes": "Soreness",
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "5849",
    "position": "QB",
    "practice_description": null,
@@ -10112,7 +10061,7 @@
    "injury_body_part": "Calf",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7049",
    "position": "WR",
    "practice_description": null,
@@ -10459,23 +10408,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "NE"
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Sam Franklin Jr.",
-   "gsis_id": null,
-   "injury_body_part": "Illness",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "7224",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BUF"
   },
   {
    "fantasy_positions": [
@@ -10985,7 +10917,7 @@
    "injury_body_part": "Hamstring",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7670",
    "position": "WR",
    "practice_description": null,
@@ -11020,7 +10952,7 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7678",
    "position": "DE",
    "practice_description": null,
@@ -11037,31 +10969,13 @@
    "injury_body_part": "Back",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7687",
    "position": "CB",
    "practice_description": null,
    "practice_participation": null,
    "status": "Active",
    "team": "NYJ"
-  },
-  {
-   "fantasy_positions": [
-    "OL",
-    "OT"
-   ],
-   "full_name": "Spencer Brown",
-   "gsis_id": null,
-   "injury_body_part": "Back",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "7691",
-   "position": "OT",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BUF"
   },
   {
    "fantasy_positions": [
@@ -11608,7 +11522,7 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Inactive",
-   "team": "PHI"
+   "team": null
   },
   {
    "fantasy_positions": [
@@ -11762,23 +11676,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "KC"
-  },
-  {
-   "fantasy_positions": [
-    "RB"
-   ],
-   "full_name": "Ronnie Rivers",
-   "gsis_id": null,
-   "injury_body_part": "Calf",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "IR",
-   "player_id": "8195",
-   "position": "RB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Inactive",
-   "team": "LAR"
   },
   {
    "fantasy_positions": [
@@ -12231,12 +12128,12 @@
    "injury_body_part": "Shoulder",
    "injury_notes": "Surgery",
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "8373",
    "position": "DB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "LAR"
   },
   {
