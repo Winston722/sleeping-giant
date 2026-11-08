@@ -107,7 +107,7 @@
     "last_name": "Campbell",
     "player_id": "10880",
     "position": "LB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DET",
     "years_exp": 3
   },
@@ -1523,7 +1523,7 @@
     "last_name": "Tyson",
     "player_id": "13281",
     "position": "WR",
-    "status": "Inactive",
+    "status": "Active",
     "team": "NO",
     "years_exp": 0
   },
@@ -1893,7 +1893,7 @@
     "last_name": "Lawrence",
     "player_id": "13359",
     "position": "DL",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DAL",
     "years_exp": 0
   },
