@@ -465,23 +465,6 @@
   },
   {
    "fantasy_positions": [
-    "LB"
-   ],
-   "full_name": "Yasir Abdullah",
-   "gsis_id": null,
-   "injury_body_part": "Hamstring",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "10992",
-   "position": "LB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "ATL"
-  },
-  {
-   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Josh Hayes",
@@ -1738,23 +1721,6 @@
   },
   {
    "fantasy_positions": [
-    "DL"
-   ],
-   "full_name": "Cedric Johnson",
-   "gsis_id": null,
-   "injury_body_part": "Ankle",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "11785",
-   "position": "DE",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "CIN"
-  },
-  {
-   "fantasy_positions": [
     "LB"
    ],
    "full_name": "Nathaniel Watson",
@@ -2994,23 +2960,6 @@
   },
   {
    "fantasy_positions": [
-    "DL"
-   ],
-   "full_name": "James Pearce Jr.",
-   "gsis_id": null,
-   "injury_body_part": "Back",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "12585",
-   "position": "DL",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "ATL"
-  },
-  {
-   "fantasy_positions": [
     "OL"
    ],
    "full_name": "Cameron Williams",
@@ -3249,6 +3198,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Billy Bowman Jr.",
+   "gsis_id": null,
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "12647",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "ATL"
+  },
+  {
+   "fantasy_positions": [
     "DL"
    ],
    "full_name": "C.J. West",
@@ -3419,6 +3385,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Robert Longerbeam",
+   "gsis_id": null,
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "12695",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "ATL"
+  },
+  {
+   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Aeneas Peebles",
@@ -3467,6 +3450,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "HOU"
+  },
+  {
+   "fantasy_positions": [
+    "OT"
+   ],
+   "full_name": "Myles Hinton",
+   "gsis_id": null,
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "12709",
+   "position": "OT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CIN"
   },
   {
    "fantasy_positions": [
@@ -3688,23 +3688,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": null
-  },
-  {
-   "fantasy_positions": [
-    "WR"
-   ],
-   "full_name": "Beaux Collins",
-   "gsis_id": null,
-   "injury_body_part": "Hip",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "12889",
-   "position": "WR",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "ATL"
   },
   {
    "fantasy_positions": [
@@ -5068,6 +5051,21 @@
    "team": "CAR"
   },
   {
+   "fantasy_positions": null,
+   "full_name": "Connor Lew",
+   "gsis_id": null,
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "13486",
+   "position": "C",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CIN"
+  },
+  {
    "fantasy_positions": [
     "DB"
    ],
@@ -5320,6 +5318,23 @@
   },
   {
    "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Landon Robinson",
+   "gsis_id": null,
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "13574",
+   "position": "NT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CIN"
+  },
+  {
+   "fantasy_positions": [
     "OL"
    ],
    "full_name": "Jayden Williams",
@@ -5419,6 +5434,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "LAR"
+  },
+  {
+   "fantasy_positions": [
+    "QB"
+   ],
+   "full_name": "Jack Strand",
+   "gsis_id": null,
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "13602",
+   "position": "QB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "ATL"
   },
   {
    "fantasy_positions": [
@@ -10892,23 +10924,6 @@
   },
   {
    "fantasy_positions": [
-    "LB"
-   ],
-   "full_name": "Divine Deablo",
-   "gsis_id": null,
-   "injury_body_part": "Forearm",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "7677",
-   "position": "LB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "ATL"
-  },
-  {
-   "fantasy_positions": [
     "DL",
     "LB"
    ],
@@ -11814,6 +11829,23 @@
   },
   {
    "fantasy_positions": [
+    "QB"
+   ],
+   "full_name": "Andy Dalton",
+   "gsis_id": "00-0027973",
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "829",
+   "position": "QB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "ATL"
+  },
+  {
+   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Coby Bryant",
@@ -12015,6 +12047,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "DET"
+  },
+  {
+   "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Drake Jackson",
+   "gsis_id": null,
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "8351",
+   "position": "DL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "ATL"
   },
   {
    "fantasy_positions": [

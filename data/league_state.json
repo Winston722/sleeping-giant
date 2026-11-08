@@ -77,6 +77,7 @@
     "12530",
     "12533",
     "12534",
+    "12536",
     "12545",
     "12556",
     "12562",
@@ -752,6 +753,12 @@
       "gsis_id": null,
       "name": "Kyle Monangai",
       "position": "RB"
+    },
+    {
+      "id": "12536",
+      "gsis_id": null,
+      "name": "Jaylin Noel",
+      "position": "WR"
     },
     {
       "id": "12545",

@@ -1189,6 +1189,22 @@
     "team": "CHI",
     "years_exp": 1
   },
+  "12536": {
+    "age": 24,
+    "birth_date": "2002-09-04",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jaylin",
+    "full_name": "Jaylin Noel",
+    "gsis_id": null,
+    "last_name": "Noel",
+    "player_id": "12536",
+    "position": "WR",
+    "status": "Inactive",
+    "team": "HOU",
+    "years_exp": 1
+  },
   "12545": {
     "age": 27,
     "birth_date": "1999-09-28",
