@@ -107,7 +107,7 @@
     "last_name": "Campbell",
     "player_id": "10880",
     "position": "LB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DET",
     "years_exp": 3
   },
@@ -241,22 +241,6 @@
     "position": "LB",
     "status": "Active",
     "team": "PIT",
-    "years_exp": 3
-  },
-  "11435": {
-    "age": 27,
-    "birth_date": "1999-05-08",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Emanuel",
-    "full_name": "Emanuel Wilson",
-    "gsis_id": null,
-    "last_name": "Wilson",
-    "player_id": "11435",
-    "position": "RB",
-    "status": "Active",
-    "team": "SEA",
     "years_exp": 3
   },
   "11470": {
@@ -820,22 +804,6 @@
     "team": "CHI",
     "years_exp": 2
   },
-  "11834": {
-    "age": 28,
-    "birth_date": "1997-12-12",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Devaughn",
-    "full_name": "Devaughn Vele",
-    "gsis_id": null,
-    "last_name": "Vele",
-    "player_id": "11834",
-    "position": "WR",
-    "status": "Active",
-    "team": "NO",
-    "years_exp": 2
-  },
   "12474": {
     "age": 25,
     "birth_date": "2000-12-29",
@@ -1205,6 +1173,22 @@
     "team": "CHI",
     "years_exp": 1
   },
+  "12536": {
+    "age": 24,
+    "birth_date": "2002-09-04",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jaylin",
+    "full_name": "Jaylin Noel",
+    "gsis_id": null,
+    "last_name": "Noel",
+    "player_id": "12536",
+    "position": "WR",
+    "status": "Inactive",
+    "team": "HOU",
+    "years_exp": 1
+  },
   "12545": {
     "age": 27,
     "birth_date": "1999-09-28",
@@ -1539,7 +1523,7 @@
     "last_name": "Tyson",
     "player_id": "13281",
     "position": "WR",
-    "status": "Inactive",
+    "status": "Active",
     "team": "NO",
     "years_exp": 0
   },
@@ -1909,7 +1893,7 @@
     "last_name": "Lawrence",
     "player_id": "13359",
     "position": "DL",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DAL",
     "years_exp": 0
   },
@@ -2649,7 +2633,7 @@
     "last_name": "Garrett",
     "player_id": "3973",
     "position": "DE",
-    "status": "Inactive",
+    "status": "Active",
     "team": "LAR",
     "years_exp": 9
   },

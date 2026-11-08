@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-06",
+  "as_of": "2026-11-08",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -18,7 +18,6 @@
     "10917",
     "10927",
     "10940",
-    "11435",
     "11470",
     "11559",
     "11560",
@@ -54,7 +53,6 @@
     "11727",
     "11739",
     "11760",
-    "11834",
     "12474",
     "12481",
     "12487",
@@ -78,6 +76,7 @@
     "12530",
     "12533",
     "12534",
+    "12536",
     "12545",
     "12556",
     "12562",
@@ -401,12 +400,6 @@
       "position": "LB"
     },
     {
-      "id": "11435",
-      "gsis_id": null,
-      "name": "Emanuel Wilson",
-      "position": "RB"
-    },
-    {
       "id": "11470",
       "gsis_id": null,
       "name": "Drake Thomas",
@@ -617,12 +610,6 @@
       "position": "DL"
     },
     {
-      "id": "11834",
-      "gsis_id": null,
-      "name": "Devaughn Vele",
-      "position": "WR"
-    },
-    {
       "id": "12474",
       "gsis_id": null,
       "name": "Woody Marks",
@@ -759,6 +746,12 @@
       "gsis_id": null,
       "name": "Kyle Monangai",
       "position": "RB"
+    },
+    {
+      "id": "12536",
+      "gsis_id": null,
+      "name": "Jaylin Noel",
+      "position": "WR"
     },
     {
       "id": "12545",
