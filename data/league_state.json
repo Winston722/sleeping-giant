@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -18,7 +18,6 @@
     "10917",
     "10927",
     "10940",
-    "11435",
     "11470",
     "11559",
     "11560",
@@ -399,12 +398,6 @@
       "gsis_id": null,
       "name": "Nick Herbig",
       "position": "LB"
-    },
-    {
-      "id": "11435",
-      "gsis_id": null,
-      "name": "Emanuel Wilson",
-      "position": "RB"
     },
     {
       "id": "11470",

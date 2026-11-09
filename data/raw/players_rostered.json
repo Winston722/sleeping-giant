@@ -243,22 +243,6 @@
     "team": "PIT",
     "years_exp": 3
   },
-  "11435": {
-    "age": 27,
-    "birth_date": "1999-05-08",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Emanuel",
-    "full_name": "Emanuel Wilson",
-    "gsis_id": null,
-    "last_name": "Wilson",
-    "player_id": "11435",
-    "position": "RB",
-    "status": "Active",
-    "team": "SEA",
-    "years_exp": 3
-  },
   "11470": {
     "age": 26,
     "birth_date": "2000-02-25",
@@ -2971,7 +2955,7 @@
     "player_id": "5017",
     "position": "DB",
     "status": "Active",
-    "team": "ATL",
+    "team": "JAX",
     "years_exp": 8
   },
   "5022": {
@@ -3314,7 +3298,7 @@
     "years_exp": 7
   },
   "5947": {
-    "age": 29,
+    "age": 30,
     "birth_date": "1996-11-09",
     "fantasy_positions": [
       "WR"
