@@ -52,6 +52,7 @@
     "11727",
     "11739",
     "11760",
+    "11783",
     "12474",
     "12481",
     "12487",
@@ -602,6 +603,12 @@
       "gsis_id": null,
       "name": "Austin Booker",
       "position": "DL"
+    },
+    {
+      "id": "11783",
+      "gsis_id": null,
+      "name": "Ryan Flournoy",
+      "position": "WR"
     },
     {
       "id": "12474",
