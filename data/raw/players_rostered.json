@@ -59,7 +59,7 @@
     "last_name": "Wilson",
     "player_id": "10232",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "ARI",
     "years_exp": 3
   },
@@ -190,7 +190,7 @@
     "player_id": "10914",
     "position": "LB",
     "status": "Active",
-    "team": "LAC",
+    "team": "DEN",
     "years_exp": 3
   },
   "10917": {
@@ -656,7 +656,7 @@
     "player_id": "1166",
     "position": "QB",
     "status": "Active",
-    "team": "LV",
+    "team": "MIN",
     "years_exp": 14
   },
   "11667": {
@@ -674,22 +674,6 @@
     "position": "LB",
     "status": "Active",
     "team": "MIN",
-    "years_exp": 2
-  },
-  "11674": {
-    "age": 25,
-    "birth_date": "2001-06-14",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Tyler",
-    "full_name": "Tyler Nubin",
-    "gsis_id": null,
-    "last_name": "Nubin",
-    "player_id": "11674",
-    "position": "DB",
-    "status": "Active",
-    "team": "NYG",
     "years_exp": 2
   },
   "11678": {
@@ -3261,7 +3245,7 @@
     "player_id": "5908",
     "position": "DB",
     "status": "Active",
-    "team": "TEN",
+    "team": "BUF",
     "years_exp": 7
   },
   "5912": {
@@ -4757,7 +4741,7 @@
     "player_id": "9500",
     "position": "WR",
     "status": "Active",
-    "team": "IND",
+    "team": "KC",
     "years_exp": 3
   },
   "9508": {

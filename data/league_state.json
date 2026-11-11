@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -45,7 +45,6 @@
     "11655",
     "1166",
     "11667",
-    "11674",
     "11678",
     "11682",
     "11687",
@@ -560,12 +559,6 @@
       "gsis_id": null,
       "name": "Dallas Turner",
       "position": "LB"
-    },
-    {
-      "id": "11674",
-      "gsis_id": null,
-      "name": "Tyler Nubin",
-      "position": "DB"
     },
     {
       "id": "11678",
