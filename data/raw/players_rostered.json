@@ -59,7 +59,7 @@
     "last_name": "Wilson",
     "player_id": "10232",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "ARI",
     "years_exp": 3
   },
@@ -190,7 +190,7 @@
     "player_id": "10914",
     "position": "LB",
     "status": "Active",
-    "team": "LAC",
+    "team": "DEN",
     "years_exp": 3
   },
   "10917": {
@@ -321,22 +321,6 @@
     "position": "QB",
     "status": "Active",
     "team": "NE",
-    "years_exp": 2
-  },
-  "11565": {
-    "age": 23,
-    "birth_date": "2003-01-20",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "J.J.",
-    "full_name": "J.J. McCarthy",
-    "gsis_id": null,
-    "last_name": "McCarthy",
-    "player_id": "11565",
-    "position": "QB",
-    "status": "Active",
-    "team": "NYG",
     "years_exp": 2
   },
   "11566": {
@@ -564,7 +548,7 @@
     "years_exp": 2
   },
   "11635": {
-    "age": 24,
+    "age": 25,
     "birth_date": "2001-11-11",
     "fantasy_positions": [
       "WR"
@@ -656,7 +640,7 @@
     "player_id": "1166",
     "position": "QB",
     "status": "Active",
-    "team": "LV",
+    "team": "MIN",
     "years_exp": 14
   },
   "11667": {
@@ -676,20 +660,20 @@
     "team": "MIN",
     "years_exp": 2
   },
-  "11674": {
+  "11669": {
     "age": 25,
-    "birth_date": "2001-06-14",
+    "birth_date": "2000-12-31",
     "fantasy_positions": [
-      "DB"
+      "DL"
     ],
-    "first_name": "Tyler",
-    "full_name": "Tyler Nubin",
+    "first_name": "Laiatu",
+    "full_name": "Laiatu Latu",
     "gsis_id": null,
-    "last_name": "Nubin",
-    "player_id": "11674",
-    "position": "DB",
+    "last_name": "Latu",
+    "player_id": "11669",
+    "position": "DL",
     "status": "Active",
-    "team": "NYG",
+    "team": "IND",
     "years_exp": 2
   },
   "11678": {
@@ -804,6 +788,22 @@
     "team": "CHI",
     "years_exp": 2
   },
+  "11783": {
+    "age": 27,
+    "birth_date": "1999-10-27",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Ryan",
+    "full_name": "Ryan Flournoy",
+    "gsis_id": null,
+    "last_name": "Flournoy",
+    "player_id": "11783",
+    "position": "WR",
+    "status": "Active",
+    "team": "DAL",
+    "years_exp": 2
+  },
   "12474": {
     "age": 25,
     "birth_date": "2000-12-29",
@@ -882,6 +882,22 @@
     "position": "RB",
     "status": "Active",
     "team": "JAX",
+    "years_exp": 1
+  },
+  "12492": {
+    "age": 23,
+    "birth_date": "2002-12-10",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Pat",
+    "full_name": "Pat Bryant",
+    "gsis_id": null,
+    "last_name": "Bryant",
+    "player_id": "12492",
+    "position": "WR",
+    "status": "Active",
+    "team": "DEN",
     "years_exp": 1
   },
   "12495": {
@@ -1362,6 +1378,22 @@
     "gsis_id": null,
     "last_name": "Knight Jr.",
     "player_id": "12617",
+    "position": "LB",
+    "status": "Active",
+    "team": "CIN",
+    "years_exp": 1
+  },
+  "12646": {
+    "age": 24,
+    "birth_date": "2002-10-23",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Barrett",
+    "full_name": "Barrett Carter",
+    "gsis_id": null,
+    "last_name": "Carter",
+    "player_id": "12646",
     "position": "LB",
     "status": "Active",
     "team": "CIN",
@@ -2428,6 +2460,22 @@
     "team": "KC",
     "years_exp": 13
   },
+  "1479": {
+    "age": 34,
+    "birth_date": "1992-04-27",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Keenan",
+    "full_name": "Keenan Allen",
+    "gsis_id": "00-0030279",
+    "last_name": "Allen",
+    "player_id": "1479",
+    "position": "WR",
+    "status": "Active",
+    "team": "SF",
+    "years_exp": 13
+  },
   "2133": {
     "age": 33,
     "birth_date": "1992-12-24",
@@ -2524,22 +2572,6 @@
     "status": "Active",
     "team": "DEN",
     "years_exp": 11
-  },
-  "3161": {
-    "age": 33,
-    "birth_date": "1992-12-30",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Carson",
-    "full_name": "Carson Wentz",
-    "gsis_id": "00-0032950",
-    "last_name": "Wentz",
-    "player_id": "3161",
-    "position": "QB",
-    "status": "Active",
-    "team": "MIN",
-    "years_exp": 10
   },
   "3163": {
     "age": 32,
@@ -3151,6 +3183,22 @@
     "team": "GB",
     "years_exp": 7
   },
+  "5854": {
+    "age": 30,
+    "birth_date": "1996-11-10",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Drew",
+    "full_name": "Drew Lock",
+    "gsis_id": " 00-0035704",
+    "last_name": "Lock",
+    "player_id": "5854",
+    "position": "QB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 7
+  },
   "5859": {
     "age": 29,
     "birth_date": "1997-06-30",
@@ -3261,7 +3309,7 @@
     "player_id": "5908",
     "position": "DB",
     "status": "Active",
-    "team": "TEN",
+    "team": "BUF",
     "years_exp": 7
   },
   "5912": {
@@ -3538,22 +3586,6 @@
     "team": "LAC",
     "years_exp": 6
   },
-  "6799": {
-    "age": 28,
-    "birth_date": "1998-09-20",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Grant",
-    "full_name": "Grant Delpit",
-    "gsis_id": null,
-    "last_name": "Delpit",
-    "player_id": "6799",
-    "position": "DB",
-    "status": "Active",
-    "team": "CLE",
-    "years_exp": 6
-  },
   "6801": {
     "age": 27,
     "birth_date": "1999-01-18",
@@ -3648,22 +3680,6 @@
     "position": "LB",
     "status": "Active",
     "team": "PHI",
-    "years_exp": 6
-  },
-  "6896": {
-    "age": 28,
-    "birth_date": "1998-07-06",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Amik",
-    "full_name": "Amik Robertson",
-    "gsis_id": null,
-    "last_name": "Robertson",
-    "player_id": "6896",
-    "position": "CB",
-    "status": "Active",
-    "team": "WAS",
     "years_exp": 6
   },
   "6904": {
@@ -4536,6 +4552,22 @@
     "team": "KC",
     "years_exp": 4
   },
+  "8392": {
+    "age": 25,
+    "birth_date": "2001-09-10",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Nick",
+    "full_name": "Nick Cross",
+    "gsis_id": null,
+    "last_name": "Cross",
+    "player_id": "8392",
+    "position": "DB",
+    "status": "Active",
+    "team": "WAS",
+    "years_exp": 4
+  },
   "8395": {
     "age": 25,
     "birth_date": "2000-12-07",
@@ -4566,22 +4598,6 @@
     "position": "RB",
     "status": "Active",
     "team": "MIN",
-    "years_exp": 4
-  },
-  "8659": {
-    "age": 27,
-    "birth_date": "1998-11-19",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Nate",
-    "full_name": "Nate Landman",
-    "gsis_id": null,
-    "last_name": "Landman",
-    "player_id": "8659",
-    "position": "LB",
-    "status": "Active",
-    "team": "LAR",
     "years_exp": 4
   },
   "9221": {
@@ -4757,7 +4773,7 @@
     "player_id": "9500",
     "position": "WR",
     "status": "Active",
-    "team": "IND",
+    "team": "KC",
     "years_exp": 3
   },
   "9508": {

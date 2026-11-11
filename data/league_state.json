@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-10",
+  "as_of": "2026-11-11",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -23,7 +23,6 @@
     "11560",
     "11563",
     "11564",
-    "11565",
     "11566",
     "11576",
     "11583",
@@ -45,7 +44,7 @@
     "11655",
     "1166",
     "11667",
-    "11674",
+    "11669",
     "11678",
     "11682",
     "11687",
@@ -53,11 +52,13 @@
     "11727",
     "11739",
     "11760",
+    "11783",
     "12474",
     "12481",
     "12487",
     "12489",
     "12490",
+    "12492",
     "12495",
     "12501",
     "12504",
@@ -88,6 +89,7 @@
     "12597",
     "12605",
     "12617",
+    "12646",
     "12652",
     "12978",
     "13269",
@@ -154,13 +156,13 @@
     "13533",
     "1373",
     "1466",
+    "1479",
     "2133",
     "2216",
     "2306",
     "2393",
     "2449",
     "2617",
-    "3161",
     "3163",
     "3172",
     "3198",
@@ -199,6 +201,7 @@
     "5847",
     "5849",
     "5850",
+    "5854",
     "5859",
     "5862",
     "5871",
@@ -223,14 +226,12 @@
     "6790",
     "6794",
     "6797",
-    "6799",
     "6801",
     "6804",
     "6806",
     "6807",
     "6813",
     "6815",
-    "6896",
     "6904",
     "6911",
     "6949",
@@ -285,9 +286,9 @@
     "8355",
     "8364",
     "8385",
+    "8392",
     "8395",
     "8408",
-    "8659",
     "9221",
     "9224",
     "9225",
@@ -430,12 +431,6 @@
       "position": "QB"
     },
     {
-      "id": "11565",
-      "gsis_id": null,
-      "name": "J.J. McCarthy",
-      "position": "QB"
-    },
-    {
       "id": "11566",
       "gsis_id": null,
       "name": "Jayden Daniels",
@@ -562,10 +557,10 @@
       "position": "LB"
     },
     {
-      "id": "11674",
+      "id": "11669",
       "gsis_id": null,
-      "name": "Tyler Nubin",
-      "position": "DB"
+      "name": "Laiatu Latu",
+      "position": "DL"
     },
     {
       "id": "11678",
@@ -610,6 +605,12 @@
       "position": "DL"
     },
     {
+      "id": "11783",
+      "gsis_id": null,
+      "name": "Ryan Flournoy",
+      "position": "WR"
+    },
+    {
       "id": "12474",
       "gsis_id": null,
       "name": "Woody Marks",
@@ -638,6 +639,12 @@
       "gsis_id": null,
       "name": "Bhayshul Tuten",
       "position": "RB"
+    },
+    {
+      "id": "12492",
+      "gsis_id": null,
+      "name": "Pat Bryant",
+      "position": "WR"
     },
     {
       "id": "12495",
@@ -817,6 +824,12 @@
       "id": "12617",
       "gsis_id": null,
       "name": "Demetrius Knight Jr.",
+      "position": "LB"
+    },
+    {
+      "id": "12646",
+      "gsis_id": null,
+      "name": "Barrett Carter",
       "position": "LB"
     },
     {
@@ -1216,6 +1229,12 @@
       "position": "TE"
     },
     {
+      "id": "1479",
+      "gsis_id": "00-0030279",
+      "name": "Keenan Allen",
+      "position": "WR"
+    },
+    {
       "id": "2133",
       "gsis_id": "00-0031381",
       "name": "Davante Adams",
@@ -1250,12 +1269,6 @@
       "gsis_id": " 00-0031898",
       "name": "Alex Singleton",
       "position": "LB"
-    },
-    {
-      "id": "3161",
-      "gsis_id": "00-0032950",
-      "name": "Carson Wentz",
-      "position": "QB"
     },
     {
       "id": "3163",
@@ -1486,6 +1499,12 @@
       "position": "RB"
     },
     {
+      "id": "5854",
+      "gsis_id": " 00-0035704",
+      "name": "Drew Lock",
+      "position": "QB"
+    },
+    {
       "id": "5859",
       "gsis_id": " 00-0035676",
       "name": "A.J. Brown",
@@ -1630,12 +1649,6 @@
       "position": "QB"
     },
     {
-      "id": "6799",
-      "gsis_id": null,
-      "name": "Grant Delpit",
-      "position": "DB"
-    },
-    {
       "id": "6801",
       "gsis_id": null,
       "name": "Tee Higgins",
@@ -1670,12 +1683,6 @@
       "gsis_id": null,
       "name": "Zack Baun",
       "position": "LB"
-    },
-    {
-      "id": "6896",
-      "gsis_id": null,
-      "name": "Amik Robertson",
-      "position": "CB"
     },
     {
       "id": "6904",
@@ -2002,6 +2009,12 @@
       "position": "DL"
     },
     {
+      "id": "8392",
+      "gsis_id": null,
+      "name": "Nick Cross",
+      "position": "DB"
+    },
+    {
       "id": "8395",
       "gsis_id": null,
       "name": "Dane Belton",
@@ -2012,12 +2025,6 @@
       "gsis_id": null,
       "name": "Jordan Mason",
       "position": "RB"
-    },
-    {
-      "id": "8659",
-      "gsis_id": null,
-      "name": "Nate Landman",
-      "position": "LB"
     },
     {
       "id": "9221",
@@ -2134,5 +2141,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 67
+  "_gsis_resolved": 68
 }
