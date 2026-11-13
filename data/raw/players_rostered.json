@@ -1255,7 +1255,7 @@
     "years_exp": 1
   },
   "12567": {
-    "age": 22,
+    "age": 23,
     "birth_date": "2003-11-13",
     "fantasy_positions": [
       "DB"
@@ -2798,22 +2798,6 @@
     "team": "ARI",
     "years_exp": 9
   },
-  "4199": {
-    "age": 31,
-    "birth_date": "1994-12-02",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Aaron",
-    "full_name": "Aaron Jones Sr.",
-    "gsis_id": "00-0033293",
-    "last_name": "Jones Sr.",
-    "player_id": "4199",
-    "position": "RB",
-    "status": "Active",
-    "team": "MIN",
-    "years_exp": 9
-  },
   "421": {
     "age": 38,
     "birth_date": "1988-02-07",
@@ -3149,22 +3133,6 @@
     "position": "DT",
     "status": "Active",
     "team": "CIN",
-    "years_exp": 7
-  },
-  "5849": {
-    "age": 29,
-    "birth_date": "1997-08-07",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Kyler",
-    "full_name": "Kyler Murray",
-    "gsis_id": " 00-0035228",
-    "last_name": "Murray",
-    "player_id": "5849",
-    "position": "QB",
-    "status": "Active",
-    "team": "MIN",
     "years_exp": 7
   },
   "5850": {
@@ -3536,6 +3504,22 @@
     "position": "WR",
     "status": "Active",
     "team": "DAL",
+    "years_exp": 6
+  },
+  "6788": {
+    "age": 28,
+    "birth_date": "1998-08-08",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Xavier",
+    "full_name": "Xavier McKinney",
+    "gsis_id": null,
+    "last_name": "McKinney",
+    "player_id": "6788",
+    "position": "DB",
+    "status": "Active",
+    "team": "GB",
     "years_exp": 6
   },
   "6790": {
@@ -4756,7 +4740,7 @@
     "last_name": "Nacua",
     "player_id": "9493",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "LAR",
     "years_exp": 3
   },
