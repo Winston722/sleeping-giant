@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-13",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -177,7 +177,6 @@
     "4081",
     "4135",
     "4137",
-    "4199",
     "421",
     "4217",
     "4866",
@@ -199,7 +198,6 @@
     "5844",
     "5846",
     "5847",
-    "5849",
     "5850",
     "5854",
     "5859",
@@ -223,6 +221,7 @@
     "6770",
     "6782",
     "6786",
+    "6788",
     "6790",
     "6794",
     "6797",
@@ -1355,12 +1354,6 @@
       "position": "RB"
     },
     {
-      "id": "4199",
-      "gsis_id": "00-0033293",
-      "name": "Aaron Jones Sr.",
-      "position": "RB"
-    },
-    {
       "id": "421",
       "gsis_id": "00-0026498",
       "name": "Matthew Stafford",
@@ -1485,12 +1478,6 @@
       "gsis_id": " 00-0035683",
       "name": "Dexter Lawrence II",
       "position": "DT"
-    },
-    {
-      "id": "5849",
-      "gsis_id": " 00-0035228",
-      "name": "Kyler Murray",
-      "position": "QB"
     },
     {
       "id": "5850",
@@ -1629,6 +1616,12 @@
       "gsis_id": null,
       "name": "CeeDee Lamb",
       "position": "WR"
+    },
+    {
+      "id": "6788",
+      "gsis_id": null,
+      "name": "Xavier McKinney",
+      "position": "DB"
     },
     {
       "id": "6790",
@@ -2141,5 +2134,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 68
+  "_gsis_resolved": 66
 }
