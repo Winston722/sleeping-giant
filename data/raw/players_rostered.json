@@ -1136,7 +1136,7 @@
     "last_name": "Henderson",
     "player_id": "12529",
     "position": "RB",
-    "status": "Active",
+    "status": "Inactive",
     "team": "NE",
     "years_exp": 1
   },
@@ -3763,7 +3763,7 @@
     "years_exp": 5
   },
   "7525": {
-    "age": 27,
+    "age": 28,
     "birth_date": "1998-11-14",
     "fantasy_positions": [
       "WR"
@@ -3806,7 +3806,7 @@
     "last_name": "Etienne Jr.",
     "player_id": "7543",
     "position": "RB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "NO",
     "years_exp": 5
   },
