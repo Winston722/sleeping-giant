@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-16",
+  "as_of": "2026-11-17",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -47,7 +47,6 @@
     "11669",
     "11678",
     "11682",
-    "11687",
     "11705",
     "11727",
     "11739",
@@ -572,12 +571,6 @@
       "gsis_id": null,
       "name": "Cole Bishop",
       "position": "DB"
-    },
-    {
-      "id": "11687",
-      "gsis_id": null,
-      "name": "Edgerrin Cooper",
-      "position": "LB"
     },
     {
       "id": "11705",

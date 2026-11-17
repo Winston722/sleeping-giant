@@ -708,22 +708,6 @@
     "team": "BUF",
     "years_exp": 2
   },
-  "11687": {
-    "age": 24,
-    "birth_date": "2001-11-17",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Edgerrin",
-    "full_name": "Edgerrin Cooper",
-    "gsis_id": null,
-    "last_name": "Cooper",
-    "player_id": "11687",
-    "position": "LB",
-    "status": "Inactive",
-    "team": "GB",
-    "years_exp": 2
-  },
   "11705": {
     "age": 25,
     "birth_date": "2001-02-18",
@@ -4852,7 +4836,7 @@
     "last_name": "Addison",
     "player_id": "9756",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "MIN",
     "years_exp": 3
   },
