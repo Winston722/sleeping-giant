@@ -1146,6 +1146,23 @@
    "fantasy_positions": [
     "WR"
    ],
+   "full_name": "Isaiah Williams",
+   "gsis_id": null,
+   "injury_body_part": "Ribs",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11608",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "NYJ"
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
    "full_name": "Jalen McMillan",
    "gsis_id": null,
    "injury_body_part": "Knee - PCL",
@@ -1489,9 +1506,9 @@
    "full_name": "Mason McCormick",
    "gsis_id": null,
    "injury_body_part": "Ankle",
-   "injury_notes": null,
+   "injury_notes": "Dislocated",
    "injury_start_date": null,
-   "injury_status": "Doubtful",
+   "injury_status": "Out",
    "player_id": "11733",
    "position": "OL",
    "practice_description": null,
@@ -11068,9 +11085,9 @@
    "full_name": "Robert Hainsey",
    "gsis_id": null,
    "injury_body_part": "Knee",
-   "injury_notes": null,
+   "injury_notes": "Sprain",
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "7689",
    "position": "OL",
    "practice_description": null,
