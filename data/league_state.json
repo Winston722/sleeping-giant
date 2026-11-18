@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-17",
+  "as_of": "2026-11-18",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -52,6 +52,7 @@
     "11739",
     "11760",
     "11783",
+    "12469",
     "12474",
     "12481",
     "12487",
@@ -86,11 +87,9 @@
     "12578",
     "12591",
     "12597",
-    "12605",
     "12617",
+    "12622",
     "12646",
-    "12652",
-    "12978",
     "13269",
     "13272",
     "13274",
@@ -233,6 +232,7 @@
     "6904",
     "6911",
     "6949",
+    "7016",
     "7021",
     "7136",
     "7523",
@@ -270,6 +270,7 @@
     "8150",
     "8151",
     "8155",
+    "8161",
     "8167",
     "8183",
     "8228",
@@ -293,6 +294,7 @@
     "9226",
     "9228",
     "9480",
+    "9482",
     "9484",
     "9487",
     "9488",
@@ -603,6 +605,12 @@
       "position": "WR"
     },
     {
+      "id": "12469",
+      "gsis_id": null,
+      "name": "Dylan Sampson",
+      "position": "RB"
+    },
+    {
       "id": "12474",
       "gsis_id": null,
       "name": "Woody Marks",
@@ -807,34 +815,22 @@
       "position": "DB"
     },
     {
-      "id": "12605",
-      "gsis_id": null,
-      "name": "Jacob Parrish",
-      "position": "DB"
-    },
-    {
       "id": "12617",
       "gsis_id": null,
       "name": "Demetrius Knight Jr.",
       "position": "LB"
     },
     {
+      "id": "12622",
+      "gsis_id": null,
+      "name": "Nohl Williams",
+      "position": "CB"
+    },
+    {
       "id": "12646",
       "gsis_id": null,
       "name": "Barrett Carter",
       "position": "LB"
-    },
-    {
-      "id": "12652",
-      "gsis_id": null,
-      "name": "Deone Walker",
-      "position": "DT"
-    },
-    {
-      "id": "12978",
-      "gsis_id": null,
-      "name": "Elijah Ponder",
-      "position": "DE"
     },
     {
       "id": "13269",
@@ -1689,6 +1685,12 @@
       "position": "LB"
     },
     {
+      "id": "7016",
+      "gsis_id": null,
+      "name": "Jeremy Chinn",
+      "position": "DB"
+    },
+    {
       "id": "7021",
       "gsis_id": null,
       "name": "Rico Dowdle",
@@ -1911,6 +1913,12 @@
       "position": "RB"
     },
     {
+      "id": "8161",
+      "gsis_id": null,
+      "name": "Malik Willis",
+      "position": "QB"
+    },
+    {
       "id": "8167",
       "gsis_id": null,
       "name": "Christian Watson",
@@ -2046,6 +2054,12 @@
       "id": "9480",
       "gsis_id": null,
       "name": "Brenton Strange",
+      "position": "TE"
+    },
+    {
+      "id": "9482",
+      "gsis_id": null,
+      "name": "Michael Mayer",
       "position": "TE"
     },
     {

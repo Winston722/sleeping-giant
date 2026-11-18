@@ -178,7 +178,7 @@
     "years_exp": 3
   },
   "10914": {
-    "age": 26,
+    "age": 27,
     "birth_date": "1999-11-18",
     "fantasy_positions": [
       "LB"
@@ -276,7 +276,7 @@
     "years_exp": 2
   },
   "11560": {
-    "age": 24,
+    "age": 25,
     "birth_date": "2001-11-18",
     "fantasy_positions": [
       "QB"
@@ -787,6 +787,22 @@
     "status": "Active",
     "team": "DAL",
     "years_exp": 2
+  },
+  "12469": {
+    "age": 22,
+    "birth_date": "2004-09-14",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Dylan",
+    "full_name": "Dylan Sampson",
+    "gsis_id": null,
+    "last_name": "Sampson",
+    "player_id": "12469",
+    "position": "RB",
+    "status": "Active",
+    "team": "CLE",
+    "years_exp": 1
   },
   "12474": {
     "age": 25,
@@ -1335,22 +1351,6 @@
     "team": "SEA",
     "years_exp": 1
   },
-  "12605": {
-    "age": 22,
-    "birth_date": "2004-02-29",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Jacob",
-    "full_name": "Jacob Parrish",
-    "gsis_id": null,
-    "last_name": "Parrish",
-    "player_id": "12605",
-    "position": "DB",
-    "status": "Active",
-    "team": "TB",
-    "years_exp": 1
-  },
   "12617": {
     "age": 26,
     "birth_date": "2000-07-21",
@@ -1367,6 +1367,22 @@
     "team": "CIN",
     "years_exp": 1
   },
+  "12622": {
+    "age": 24,
+    "birth_date": "2002-09-23",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Nohl",
+    "full_name": "Nohl Williams",
+    "gsis_id": null,
+    "last_name": "Williams",
+    "player_id": "12622",
+    "position": "CB",
+    "status": "Active",
+    "team": "KC",
+    "years_exp": 1
+  },
   "12646": {
     "age": 24,
     "birth_date": "2002-10-23",
@@ -1381,38 +1397,6 @@
     "position": "LB",
     "status": "Active",
     "team": "CIN",
-    "years_exp": 1
-  },
-  "12652": {
-    "age": 22,
-    "birth_date": "2004-03-11",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Deone",
-    "full_name": "Deone Walker",
-    "gsis_id": null,
-    "last_name": "Walker",
-    "player_id": "12652",
-    "position": "DT",
-    "status": "Active",
-    "team": "BUF",
-    "years_exp": 1
-  },
-  "12978": {
-    "age": 24,
-    "birth_date": "2002-08-24",
-    "fantasy_positions": [
-      "DL"
-    ],
-    "first_name": "Elijah",
-    "full_name": "Elijah Ponder",
-    "gsis_id": null,
-    "last_name": "Ponder",
-    "player_id": "12978",
-    "position": "DE",
-    "status": "Active",
-    "team": "NE",
     "years_exp": 1
   },
   "13269": {
@@ -3698,6 +3682,23 @@
     "team": "MIA",
     "years_exp": 6
   },
+  "7016": {
+    "age": 28,
+    "birth_date": "1998-02-26",
+    "fantasy_positions": [
+      "DB",
+      "LB"
+    ],
+    "first_name": "Jeremy",
+    "full_name": "Jeremy Chinn",
+    "gsis_id": null,
+    "last_name": "Chinn",
+    "player_id": "7016",
+    "position": "DB",
+    "status": "Active",
+    "team": "LV",
+    "years_exp": 6
+  },
   "7021": {
     "age": 28,
     "birth_date": "1998-06-14",
@@ -4081,7 +4082,7 @@
     "last_name": "Robinson",
     "player_id": "8126",
     "position": "WR",
-    "status": "Active",
+    "status": "Inactive",
     "team": "TEN",
     "years_exp": 4
   },
@@ -4291,6 +4292,22 @@
     "position": "RB",
     "status": "Active",
     "team": "NYJ",
+    "years_exp": 4
+  },
+  "8161": {
+    "age": 27,
+    "birth_date": "1999-05-25",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Malik",
+    "full_name": "Malik Willis",
+    "gsis_id": null,
+    "last_name": "Willis",
+    "player_id": "8161",
+    "position": "QB",
+    "status": "Inactive",
+    "team": "MIA",
     "years_exp": 4
   },
   "8167": {
@@ -4662,6 +4679,22 @@
     "position": "TE",
     "status": "Active",
     "team": "JAX",
+    "years_exp": 3
+  },
+  "9482": {
+    "age": 25,
+    "birth_date": "2001-07-06",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Michael",
+    "full_name": "Michael Mayer",
+    "gsis_id": null,
+    "last_name": "Mayer",
+    "player_id": "9482",
+    "position": "TE",
+    "status": "Active",
+    "team": "LV",
     "years_exp": 3
   },
   "9484": {
