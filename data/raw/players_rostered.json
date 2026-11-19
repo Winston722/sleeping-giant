@@ -323,6 +323,22 @@
     "team": "NE",
     "years_exp": 2
   },
+  "11565": {
+    "age": 23,
+    "birth_date": "2003-01-20",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "J.J.",
+    "full_name": "J.J. McCarthy",
+    "gsis_id": null,
+    "last_name": "McCarthy",
+    "player_id": "11565",
+    "position": "QB",
+    "status": "Active",
+    "team": "NYG",
+    "years_exp": 2
+  },
   "11566": {
     "age": 25,
     "birth_date": "2000-12-18",
@@ -1416,7 +1432,7 @@
     "years_exp": 0
   },
   "13272": {
-    "age": 23,
+    "age": 24,
     "birth_date": "2002-11-19",
     "fantasy_positions": [
       "QB"
@@ -1683,7 +1699,7 @@
     "last_name": "Randall",
     "player_id": "13302",
     "position": "RB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "BAL",
     "years_exp": 0
   },
@@ -2589,22 +2605,6 @@
     "team": "BAL",
     "years_exp": 10
   },
-  "3257": {
-    "age": 33,
-    "birth_date": "1992-12-11",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Jacoby",
-    "full_name": "Jacoby Brissett",
-    "gsis_id": "00-0033119",
-    "last_name": "Brissett",
-    "player_id": "3257",
-    "position": "QB",
-    "status": "Active",
-    "team": "BAL",
-    "years_exp": 10
-  },
   "3294": {
     "age": 33,
     "birth_date": "1993-07-29",
@@ -2959,7 +2959,7 @@
     "years_exp": 8
   },
   "5041": {
-    "age": 29,
+    "age": 30,
     "birth_date": "1996-11-19",
     "fantasy_positions": [
       "LB"
@@ -4419,7 +4419,7 @@
     "last_name": "Hutchinson",
     "player_id": "8289",
     "position": "DL",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DET",
     "years_exp": 4
   },
@@ -4869,7 +4869,7 @@
     "last_name": "Addison",
     "player_id": "9756",
     "position": "WR",
-    "status": "Inactive",
+    "status": "Active",
     "team": "MIN",
     "years_exp": 3
   },

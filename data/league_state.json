@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-18",
+  "as_of": "2026-11-19",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -23,6 +23,7 @@
     "11560",
     "11563",
     "11564",
+    "11565",
     "11566",
     "11576",
     "11583",
@@ -164,7 +165,6 @@
     "3163",
     "3172",
     "3198",
-    "3257",
     "3294",
     "3973",
     "4034",
@@ -428,6 +428,12 @@
       "id": "11564",
       "gsis_id": null,
       "name": "Drake Maye",
+      "position": "QB"
+    },
+    {
+      "id": "11565",
+      "gsis_id": null,
+      "name": "J.J. McCarthy",
       "position": "QB"
     },
     {
@@ -1275,12 +1281,6 @@
       "gsis_id": "00-0032764",
       "name": "Derrick Henry",
       "position": "RB"
-    },
-    {
-      "id": "3257",
-      "gsis_id": "00-0033119",
-      "name": "Jacoby Brissett",
-      "position": "QB"
     },
     {
       "id": "3294",
@@ -2141,5 +2141,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 66
+  "_gsis_resolved": 65
 }
