@@ -191,6 +191,23 @@
   },
   {
    "fantasy_positions": [
+    "TE"
+   ],
+   "full_name": "Luke Schoonmaker",
+   "gsis_id": null,
+   "injury_body_part": "Illness",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "10871",
+   "position": "TE",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "DAL"
+  },
+  {
+   "fantasy_positions": [
     "DL",
     "LB"
    ],
@@ -291,6 +308,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "ARI"
+  },
+  {
+   "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Quan Martin",
+   "gsis_id": null,
+   "injury_body_part": "Shoulder",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "10903",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "WAS"
   },
   {
    "fantasy_positions": [
@@ -491,7 +525,7 @@
    "injury_body_part": "Hip",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Doubtful",
+   "injury_status": "Questionable",
    "player_id": "10940",
    "position": "LB",
    "practice_description": null,
@@ -1554,23 +1588,6 @@
   },
   {
    "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Cole Bishop",
-   "gsis_id": null,
-   "injury_body_part": "Shoulder",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "11682",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BUF"
-  },
-  {
-   "fantasy_positions": [
     "LB"
    ],
    "full_name": "Edgerrin Cooper",
@@ -2333,23 +2350,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "LV"
-  },
-  {
-   "fantasy_positions": [
-    "TE"
-   ],
-   "full_name": "Colson Yankoff",
-   "gsis_id": null,
-   "injury_body_part": "Knee",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "11942",
-   "position": "TE",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "WAS"
   },
   {
    "fantasy_positions": [
@@ -3168,6 +3168,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Shavon Revel Jr.",
+   "gsis_id": null,
+   "injury_body_part": "Illness",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "12559",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "DAL"
+  },
+  {
+   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Nic Scourton",
@@ -3254,6 +3271,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Kevin Winston Jr.",
+   "gsis_id": null,
+   "injury_body_part": "Shoulder",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "12588",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "TEN"
+  },
+  {
+   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Alfred Collins",
@@ -3307,6 +3341,23 @@
    "fantasy_positions": [
     "DL"
    ],
+   "full_name": "T.J. Sanders",
+   "gsis_id": null,
+   "injury_body_part": "Shoulder",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "12612",
+   "position": "DL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "BUF"
+  },
+  {
+   "fantasy_positions": [
+    "DL"
+   ],
    "full_name": "Omarr Norman-Lott",
    "gsis_id": null,
    "injury_body_part": "Knee - ACL",
@@ -3327,15 +3378,32 @@
    "full_name": "Jaylin Smith",
    "gsis_id": null,
    "injury_body_part": "Hamstring",
-   "injury_notes": null,
+   "injury_notes": "Strain",
    "injury_start_date": null,
-   "injury_status": "IR",
+   "injury_status": "Questionable",
    "player_id": "12626",
    "position": "CB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "HOU"
+  },
+  {
+   "fantasy_positions": [
+    "OL"
+   ],
+   "full_name": "Dylan Fairchild",
+   "gsis_id": null,
+   "injury_body_part": "Oblique",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "12627",
+   "position": "OL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CIN"
   },
   {
    "fantasy_positions": [
@@ -3744,23 +3812,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": "JAX"
-  },
-  {
-   "fantasy_positions": [
-    "OT"
-   ],
-   "full_name": "Myles Hinton",
-   "gsis_id": null,
-   "injury_body_part": "Illness",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "12709",
-   "position": "OT",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "CIN"
   },
   {
    "fantasy_positions": [
@@ -5139,23 +5190,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": "HOU"
-  },
-  {
-   "fantasy_positions": [
-    "OG"
-   ],
-   "full_name": "Vega Ioane",
-   "gsis_id": null,
-   "injury_body_part": "Shoulder",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "13447",
-   "position": "OG",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "BAL"
   },
   {
    "fantasy_positions": [
@@ -6976,24 +7010,6 @@
   },
   {
    "fantasy_positions": [
-    "OG",
-    "OL"
-   ],
-   "full_name": "Lucas Patrick",
-   "gsis_id": "00-0033082",
-   "injury_body_part": "Concussion",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "3888",
-   "position": "G",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "WAS"
-  },
-  {
-   "fantasy_positions": [
     "RB"
    ],
    "full_name": "Joe Mixon",
@@ -7059,6 +7075,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "CLE"
+  },
+  {
+   "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Marlon Humphrey",
+   "gsis_id": "00-0033281",
+   "injury_body_part": "Coach's Decision",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "4071",
+   "position": "CB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "BAL"
   },
   {
    "fantasy_positions": [
@@ -7817,23 +7850,6 @@
   },
   {
    "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "DeShon Elliott",
-   "gsis_id": "00-0034277",
-   "injury_body_part": "Knee",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "5071",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "PIT"
-  },
-  {
-   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Sebastian Joseph-Day",
@@ -8394,24 +8410,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": "LAR"
-  },
-  {
-   "fantasy_positions": [
-    "DL",
-    "LB"
-   ],
-   "full_name": "John Franklin-Myers",
-   "gsis_id": "00-0034805",
-   "injury_body_part": "Back",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "5466",
-   "position": "DT",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "TEN"
   },
   {
    "fantasy_positions": [
@@ -10345,23 +10343,6 @@
   },
   {
    "fantasy_positions": [
-    "LB"
-   ],
-   "full_name": "Malik Harrison",
-   "gsis_id": null,
-   "injury_body_part": "Groin",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "6867",
-   "position": "LB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "NYG"
-  },
-  {
-   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Kyle Dugger",
@@ -11560,23 +11541,6 @@
   },
   {
    "fantasy_positions": [
-    "LB"
-   ],
-   "full_name": "Nick Bolton",
-   "gsis_id": null,
-   "injury_body_part": "Shin",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "7648",
-   "position": "LB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "KC"
-  },
-  {
-   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Dayo Odeyingbo",
@@ -11924,23 +11888,6 @@
    "fantasy_positions": [
     "DB"
    ],
-   "full_name": "Talanoa Hufanga",
-   "gsis_id": null,
-   "injury_body_part": "Ankle",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "7811",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "DEN"
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
    "full_name": "Shemar Jean-Charles",
    "gsis_id": null,
    "injury_body_part": "Undisclosed",
@@ -11953,23 +11900,6 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": null
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Jason Pinnock",
-   "gsis_id": null,
-   "injury_body_part": "Back",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "7816",
-   "position": "CB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "NYG"
   },
   {
    "fantasy_positions": [
@@ -12723,6 +12653,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Dax Hill",
+   "gsis_id": null,
+   "injury_body_part": "Illness",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8286",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CIN"
+  },
+  {
+   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Aidan Hutchinson",
@@ -13111,23 +13058,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": "NO"
-  },
-  {
-   "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Juanyeh Thomas",
-   "gsis_id": null,
-   "injury_body_part": "Ribs",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "8397",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "DAL"
   },
   {
    "fantasy_positions": [
@@ -13889,7 +13819,7 @@
    "position": "WR",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "LAR"
   },
   {
