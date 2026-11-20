@@ -5142,6 +5142,23 @@
   },
   {
    "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Seth McGowan",
+   "gsis_id": null,
+   "injury_body_part": "Hamstring",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "13424",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "IND"
+  },
+  {
+   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Jordan Poyer",
@@ -5203,6 +5220,23 @@
    "injury_status": "Out",
    "player_id": "13437",
    "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "HOU"
+  },
+  {
+   "fantasy_positions": [
+    "OL"
+   ],
+   "full_name": "Keylan Rutledge",
+   "gsis_id": null,
+   "injury_body_part": "Undisclosed",
+   "injury_notes": "Stinger",
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13442",
+   "position": "G",
    "practice_description": null,
    "practice_participation": null,
    "status": "Active",
@@ -5274,6 +5308,23 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Inactive",
+   "team": "LV"
+  },
+  {
+   "fantasy_positions": [
+    "OT"
+   ],
+   "full_name": "Trey Zuhn III",
+   "gsis_id": null,
+   "injury_body_part": "Illness",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13467",
+   "position": "OT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
    "team": "LV"
   },
   {
@@ -6700,6 +6751,24 @@
   },
   {
    "fantasy_positions": [
+    "OL",
+    "OT"
+   ],
+   "full_name": "Trent Brown",
+   "gsis_id": "00-0032071",
+   "injury_body_part": "Back",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "2543",
+   "position": "OL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "HOU"
+  },
+  {
+   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Jonathon Mincy",
@@ -6750,6 +6819,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "WAS"
+  },
+  {
+   "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Sheldon Rankins",
+   "gsis_id": "00-0032759",
+   "injury_body_part": "Ankle",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "3188",
+   "position": "DT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "HOU"
   },
   {
    "fantasy_positions": [
@@ -7640,6 +7726,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "TE"
+   ],
+   "full_name": "Ian Thomas",
+   "gsis_id": "00-0034365",
+   "injury_body_part": "Calf",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "4995",
+   "position": "TE",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LV"
   },
   {
    "fantasy_positions": [
@@ -13768,6 +13871,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
+   "full_name": "Kayshon Boutte",
+   "gsis_id": null,
+   "injury_body_part": "Hip",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "9504",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "HOU"
   },
   {
    "fantasy_positions": [
