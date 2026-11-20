@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19",
+  "as_of": "2026-11-20",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -29,7 +29,6 @@
     "11583",
     "11584",
     "11586",
-    "11603",
     "11604",
     "11610",
     "11620",
@@ -215,6 +214,7 @@
     "6141",
     "6183",
     "6217",
+    "6302",
     "6333",
     "6770",
     "6782",
@@ -465,12 +465,6 @@
       "gsis_id": null,
       "name": "Blake Corum",
       "position": "RB"
-    },
-    {
-      "id": "11603",
-      "gsis_id": null,
-      "name": "AJ Barner",
-      "position": "TE"
     },
     {
       "id": "11604",
@@ -1583,6 +1577,12 @@
       "position": "LB"
     },
     {
+      "id": "6302",
+      "gsis_id": " 00-0035316",
+      "name": "Kaden Elliss",
+      "position": "LB"
+    },
+    {
       "id": "6333",
       "gsis_id": " 00-0035133",
       "name": "Keisean Nixon",
@@ -2141,5 +2141,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 65
+  "_gsis_resolved": 66
 }
