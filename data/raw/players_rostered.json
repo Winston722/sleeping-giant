@@ -419,22 +419,6 @@
     "team": "LAR",
     "years_exp": 2
   },
-  "11603": {
-    "age": 24,
-    "birth_date": "2002-05-03",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "AJ",
-    "full_name": "AJ Barner",
-    "gsis_id": null,
-    "last_name": "Barner",
-    "player_id": "11603",
-    "position": "TE",
-    "status": "Active",
-    "team": "SEA",
-    "years_exp": 2
-  },
   "11604": {
     "age": 23,
     "birth_date": "2002-12-13",
@@ -1432,7 +1416,7 @@
     "years_exp": 0
   },
   "13272": {
-    "age": 23,
+    "age": 24,
     "birth_date": "2002-11-19",
     "fantasy_positions": [
       "QB"
@@ -2959,7 +2943,7 @@
     "years_exp": 8
   },
   "5041": {
-    "age": 29,
+    "age": 30,
     "birth_date": "1996-11-19",
     "fantasy_positions": [
       "LB"
@@ -3408,6 +3392,22 @@
     "position": "LB",
     "status": "Active",
     "team": "MIN",
+    "years_exp": 7
+  },
+  "6302": {
+    "age": 31,
+    "birth_date": "1995-07-10",
+    "fantasy_positions": [
+      "LB"
+    ],
+    "first_name": "Kaden",
+    "full_name": "Kaden Elliss",
+    "gsis_id": " 00-0035316",
+    "last_name": "Elliss",
+    "player_id": "6302",
+    "position": "LB",
+    "status": "Active",
+    "team": "NO",
     "years_exp": 7
   },
   "6333": {
@@ -4419,7 +4419,7 @@
     "last_name": "Hutchinson",
     "player_id": "8289",
     "position": "DL",
-    "status": "Active",
+    "status": "Inactive",
     "team": "DET",
     "years_exp": 4
   },
@@ -4757,7 +4757,7 @@
     "last_name": "Nacua",
     "player_id": "9493",
     "position": "WR",
-    "status": "Inactive",
+    "status": "Active",
     "team": "LAR",
     "years_exp": 3
   },
