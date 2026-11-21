@@ -1101,12 +1101,12 @@
    "injury_body_part": "Foot",
    "injury_notes": "Plantar Fasciitis",
    "injury_start_date": null,
-   "injury_status": "IR",
+   "injury_status": "Questionable",
    "player_id": "11577",
    "position": "RB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "PHI"
   },
   {
@@ -1344,7 +1344,7 @@
    "position": "WR",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "PIT"
   },
   {
@@ -3266,23 +3266,6 @@
    "practice_participation": null,
    "status": "Active",
    "team": "IND"
-  },
-  {
-   "fantasy_positions": [
-    "DL"
-   ],
-   "full_name": "C.J. West",
-   "gsis_id": null,
-   "injury_body_part": "Undisclosed",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "IR",
-   "player_id": "12649",
-   "position": "DT",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Inactive",
-   "team": "SF"
   },
   {
    "fantasy_positions": [
@@ -5465,12 +5448,12 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "13633",
    "position": "CB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "LAC"
   },
   {
@@ -8876,14 +8859,14 @@
    "full_name": "Mike Jackson",
    "gsis_id": " 00-0035277",
    "injury_body_part": "Groin",
-   "injury_notes": null,
+   "injury_notes": "Surgery",
    "injury_start_date": null,
-   "injury_status": "IR",
+   "injury_status": "Questionable",
    "player_id": "6025",
    "position": "CB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "CAR"
   },
   {
@@ -9150,12 +9133,12 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "IR",
+   "injury_status": "Questionable",
    "player_id": "6213",
    "position": "T",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Inactive",
+   "status": "Active",
    "team": "LAC"
   },
   {
@@ -9734,12 +9717,12 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "6781",
    "position": "DB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "CAR"
   },
   {
@@ -9802,12 +9785,12 @@
    "injury_body_part": "Back",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "6815",
    "position": "LB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "PHI"
   },
   {
@@ -9945,6 +9928,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "SF"
+  },
+  {
+   "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Kyle Dugger",
+   "gsis_id": null,
+   "injury_body_part": "Quadriceps",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "6872",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "CIN"
   },
   {
    "fantasy_positions": [
@@ -11799,23 +11799,6 @@
   },
   {
    "fantasy_positions": [
-    "WR"
-   ],
-   "full_name": "Treylon Burks",
-   "gsis_id": null,
-   "injury_body_part": "Foot",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "8135",
-   "position": "WR",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "WAS"
-  },
-  {
-   "fantasy_positions": [
     "RB"
    ],
    "full_name": "Rachaad White",
@@ -11864,6 +11847,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Kyren Williams",
+   "gsis_id": null,
+   "injury_body_part": "Toe",
+   "injury_notes": "Soreness",
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8150",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LAR"
   },
   {
    "fantasy_positions": [
@@ -12795,7 +12795,7 @@
    "position": "DB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "DAL"
   },
   {
@@ -12926,12 +12926,12 @@
    "injury_body_part": "Ankle",
    "injury_notes": "Sprain",
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "8502",
    "position": "OL",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "DET"
   },
   {
@@ -13249,12 +13249,12 @@
    "injury_body_part": "Ankle",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "9486",
    "position": "WR",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "PHI"
   },
   {
