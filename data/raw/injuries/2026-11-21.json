@@ -439,7 +439,7 @@
    "injury_body_part": "Hip",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "10940",
    "position": "LB",
    "practice_description": null,
@@ -1336,10 +1336,10 @@
    ],
    "full_name": "Roman Wilson",
    "gsis_id": null,
-   "injury_body_part": "Finger",
+   "injury_body_part": "Hand",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "IR",
+   "injury_status": "Questionable",
    "player_id": "11630",
    "position": "WR",
    "practice_description": null,
@@ -3820,7 +3820,7 @@
    "injury_body_part": "Concussion",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "12900",
    "position": "DL",
    "practice_description": null,
@@ -4245,7 +4245,7 @@
    "injury_body_part": "Back",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "13272",
    "position": "QB",
    "practice_description": null,
@@ -7532,12 +7532,12 @@
    "injury_body_part": "Groin",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "IR",
    "player_id": "5031",
    "position": "LB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "CIN"
   },
   {
@@ -8511,6 +8511,23 @@
   },
   {
    "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Ed Oliver",
+   "gsis_id": " 00-0035230",
+   "injury_body_part": "Oblique",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "5841",
+   "position": "DT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "BUF"
+  },
+  {
+   "fantasy_positions": [
     "QB"
    ],
    "full_name": "Kyler Murray",
@@ -8604,7 +8621,7 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "Out",
    "player_id": "5867",
    "position": "G",
    "practice_description": null,
@@ -10883,7 +10900,7 @@
    "practice_description": null,
    "practice_participation": null,
    "status": "Active",
-   "team": "CAR"
+   "team": null
   },
   {
    "fantasy_positions": [
@@ -12773,7 +12790,7 @@
    "injury_body_part": "Ankle",
    "injury_notes": "Sprain",
    "injury_start_date": null,
-   "injury_status": "Out",
+   "injury_status": "IR",
    "player_id": "8476",
    "position": "DB",
    "practice_description": null,
@@ -12991,10 +13008,10 @@
    ],
    "full_name": "Darrell Baker Jr.",
    "gsis_id": null,
-   "injury_body_part": "Undisclosed",
+   "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "PUP",
+   "injury_status": "Questionable",
    "player_id": "8666",
    "position": "CB",
    "practice_description": null,
@@ -13157,23 +13174,6 @@
   },
   {
    "fantasy_positions": [
-    "DB"
-   ],
-   "full_name": "Tony Adams",
-   "gsis_id": null,
-   "injury_body_part": "Concussion",
-   "injury_notes": null,
-   "injury_start_date": null,
-   "injury_status": "Questionable",
-   "player_id": "8860",
-   "position": "DB",
-   "practice_description": null,
-   "practice_participation": null,
-   "status": "Active",
-   "team": "TEN"
-  },
-  {
-   "fantasy_positions": [
     "OL"
    ],
    "full_name": "Greg Long",
@@ -13317,12 +13317,12 @@
    "injury_body_part": "Knee",
    "injury_notes": null,
    "injury_start_date": null,
-   "injury_status": "Questionable",
+   "injury_status": "IR",
    "player_id": "9508",
    "position": "RB",
    "practice_description": null,
    "practice_participation": null,
-   "status": "Active",
+   "status": "Inactive",
    "team": "TEN"
   },
   {
