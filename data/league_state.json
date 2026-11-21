@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-20",
+  "as_of": "2026-11-21",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -287,7 +287,6 @@
     "8385",
     "8392",
     "8395",
-    "8408",
     "9221",
     "9224",
     "9225",
@@ -2013,12 +2012,6 @@
       "gsis_id": null,
       "name": "Dane Belton",
       "position": "DB"
-    },
-    {
-      "id": "8408",
-      "gsis_id": null,
-      "name": "Jordan Mason",
-      "position": "RB"
     },
     {
       "id": "9221",

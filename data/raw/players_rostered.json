@@ -4569,22 +4569,6 @@
     "team": "NYJ",
     "years_exp": 4
   },
-  "8408": {
-    "age": 27,
-    "birth_date": "1999-05-24",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "Jordan",
-    "full_name": "Jordan Mason",
-    "gsis_id": null,
-    "last_name": "Mason",
-    "player_id": "8408",
-    "position": "RB",
-    "status": "Active",
-    "team": "MIN",
-    "years_exp": 4
-  },
   "9221": {
     "age": 24,
     "birth_date": "2002-03-20",
