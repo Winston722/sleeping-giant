@@ -7754,6 +7754,23 @@
    "fantasy_positions": [
     "TE"
    ],
+   "full_name": "David Njoku",
+   "gsis_id": "00-0033885",
+   "injury_body_part": "Shoulder",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "4033",
+   "position": "TE",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LAC"
+  },
+  {
+   "fantasy_positions": [
+    "TE"
+   ],
    "full_name": "Mo Alie-Cox",
    "gsis_id": "00-0033217",
    "injury_body_part": "Groin",
@@ -12456,6 +12473,23 @@
   },
   {
    "fantasy_positions": [
+    "LB"
+   ],
+   "full_name": "Isaiah McDuffie",
+   "gsis_id": null,
+   "injury_body_part": "Ribs",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "7782",
+   "position": "LB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "GB"
+  },
+  {
+   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Shemar Jean-Charles",
@@ -14442,6 +14476,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "TEN"
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Keaton Mitchell",
+   "gsis_id": null,
+   "injury_body_part": "Back",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "9511",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LAC"
   },
   {
    "fantasy_positions": [
