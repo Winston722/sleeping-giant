@@ -1790,6 +1790,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Jarrian Jones",
+   "gsis_id": null,
+   "injury_body_part": "Chest",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "11725",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "JAX"
+  },
+  {
+   "fantasy_positions": [
     "OL"
    ],
    "full_name": "Mason McCormick",
@@ -5019,6 +5036,24 @@
   },
   {
    "fantasy_positions": [
+    "DL",
+    "LB"
+   ],
+   "full_name": "Akheem Mesidor",
+   "gsis_id": null,
+   "injury_body_part": "Ankle",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13341",
+   "position": "DL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LAC"
+  },
+  {
+   "fantasy_positions": [
     "TE"
    ],
    "full_name": "John Michael Gyllenborg",
@@ -6130,6 +6165,23 @@
    "practice_participation": null,
    "status": "Active",
    "team": "JAX"
+  },
+  {
+   "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Tim Keenan III",
+   "gsis_id": null,
+   "injury_body_part": "Knee",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "13558",
+   "position": "DT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LV"
   },
   {
    "fantasy_positions": [
@@ -7666,6 +7718,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Jonathan Jones",
+   "gsis_id": "00-0032580",
+   "injury_body_part": "Foot",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "3415",
+   "position": "DB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "PHI"
+  },
+  {
+   "fantasy_positions": [
     "DL"
    ],
    "full_name": "Roy Robertson-Harris",
@@ -8063,6 +8132,23 @@
   },
   {
    "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "Adam Butler",
+   "gsis_id": "00-0033381",
+   "injury_body_part": "Head",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "4415",
+   "position": "DT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LV"
+  },
+  {
+   "fantasy_positions": [
     "TE"
    ],
    "full_name": "Anthony Firkser",
@@ -8265,6 +8351,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": null
+  },
+  {
+   "fantasy_positions": [
+    "RB"
+   ],
+   "full_name": "Saquon Barkley",
+   "gsis_id": "00-0034844",
+   "injury_body_part": "Arm",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "4866",
+   "position": "RB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "PHI"
   },
   {
    "fantasy_positions": [
@@ -12074,6 +12177,23 @@
   },
   {
    "fantasy_positions": [
+    "DB"
+   ],
+   "full_name": "Greg Newsome II",
+   "gsis_id": null,
+   "injury_body_part": "Ankle",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "7630",
+   "position": "CB",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "NYG"
+  },
+  {
+   "fantasy_positions": [
     "OG",
     "OL"
    ],
@@ -14051,6 +14171,23 @@
    "practice_participation": null,
    "status": "Inactive",
    "team": "DET"
+  },
+  {
+   "fantasy_positions": [
+    "WR"
+   ],
+   "full_name": "Dareke Young",
+   "gsis_id": null,
+   "injury_body_part": "Undisclosed",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "8527",
+   "position": "WR",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LV"
   },
   {
    "fantasy_positions": [
