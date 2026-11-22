@@ -75,5 +75,12 @@
     "roster_id": 6,
     "round": 1,
     "season": "2029"
+  },
+  {
+    "owner_id": 2,
+    "previous_owner_id": 7,
+    "roster_id": 7,
+    "round": 1,
+    "season": "2027"
   }
 ]
