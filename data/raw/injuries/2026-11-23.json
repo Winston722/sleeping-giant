@@ -3863,6 +3863,23 @@
   },
   {
    "fantasy_positions": [
+    "DL"
+   ],
+   "full_name": "JJ Pegues",
+   "gsis_id": null,
+   "injury_body_part": "Forearm",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "12689",
+   "position": "DT",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "LV"
+  },
+  {
+   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Robert Longerbeam",
@@ -11101,6 +11118,23 @@
   },
   {
    "fantasy_positions": [
+    "OL"
+   ],
+   "full_name": "Colton McKivitz",
+   "gsis_id": null,
+   "injury_body_part": "Lower Leg",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Out",
+   "player_id": "6889",
+   "position": "OL",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "SF"
+  },
+  {
+   "fantasy_positions": [
     "DB"
    ],
    "full_name": "Amik Robertson",
@@ -12225,6 +12259,24 @@
    "practice_participation": null,
    "status": "Active",
    "team": "NYG"
+  },
+  {
+   "fantasy_positions": [
+    "OL",
+    "OT"
+   ],
+   "full_name": "Christian Darrisaw",
+   "gsis_id": null,
+   "injury_body_part": "Shoulder",
+   "injury_notes": null,
+   "injury_start_date": null,
+   "injury_status": "Questionable",
+   "player_id": "7631",
+   "position": "T",
+   "practice_description": null,
+   "practice_participation": null,
+   "status": "Active",
+   "team": "MIN"
   },
   {
    "fantasy_positions": [
