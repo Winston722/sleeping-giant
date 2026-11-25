@@ -127,6 +127,22 @@
     "team": "PHI",
     "years_exp": 3
   },
+  "10891": {
+    "age": 25,
+    "birth_date": "2000-12-11",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Devon",
+    "full_name": "Devon Witherspoon",
+    "gsis_id": null,
+    "last_name": "Witherspoon",
+    "player_id": "10891",
+    "position": "DB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 3
+  },
   "10892": {
     "age": 25,
     "birth_date": "2001-09-02",
@@ -241,22 +257,6 @@
     "position": "LB",
     "status": "Active",
     "team": "PIT",
-    "years_exp": 3
-  },
-  "11470": {
-    "age": 26,
-    "birth_date": "2000-02-25",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Drake",
-    "full_name": "Drake Thomas",
-    "gsis_id": null,
-    "last_name": "Thomas",
-    "player_id": "11470",
-    "position": "LB",
-    "status": "Active",
-    "team": "SEA",
     "years_exp": 3
   },
   "11559": {
@@ -404,7 +404,7 @@
     "years_exp": 2
   },
   "11586": {
-    "age": 25,
+    "age": 26,
     "birth_date": "2000-11-25",
     "fantasy_positions": [
       "RB"
@@ -563,22 +563,6 @@
     "team": "LAC",
     "years_exp": 2
   },
-  "11637": {
-    "age": 23,
-    "birth_date": "2003-05-17",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Keon",
-    "full_name": "Keon Coleman",
-    "gsis_id": null,
-    "last_name": "Coleman",
-    "player_id": "11637",
-    "position": "WR",
-    "status": "Active",
-    "team": "BUF",
-    "years_exp": 2
-  },
   "11638": {
     "age": 26,
     "birth_date": "2000-09-09",
@@ -612,7 +596,7 @@
     "years_exp": 2
   },
   "11655": {
-    "age": 26,
+    "age": 27,
     "birth_date": "1999-11-23",
     "fantasy_positions": [
       "RB"
@@ -706,6 +690,22 @@
     "position": "DB",
     "status": "Active",
     "team": "BUF",
+    "years_exp": 2
+  },
+  "11685": {
+    "age": 23,
+    "birth_date": "2003-01-23",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Kamari",
+    "full_name": "Kamari Lassiter",
+    "gsis_id": null,
+    "last_name": "Lassiter",
+    "player_id": "11685",
+    "position": "DB",
+    "status": "Active",
+    "team": "HOU",
     "years_exp": 2
   },
   "11705": {
@@ -834,6 +834,22 @@
     "position": "RB",
     "status": "Active",
     "team": "NYG",
+    "years_exp": 1
+  },
+  "12483": {
+    "age": 23,
+    "birth_date": "2002-12-18",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jack",
+    "full_name": "Jack Bech",
+    "gsis_id": null,
+    "last_name": "Bech",
+    "player_id": "12483",
+    "position": "WR",
+    "status": "Active",
+    "team": "LV",
     "years_exp": 1
   },
   "12487": {
@@ -1169,7 +1185,7 @@
     "last_name": "Croskey-Merritt",
     "player_id": "12533",
     "position": "RB",
-    "status": "Inactive",
+    "status": "Active",
     "team": "WAS",
     "years_exp": 1
   },
@@ -1270,20 +1286,21 @@
     "team": "BAL",
     "years_exp": 1
   },
-  "12573": {
+  "12571": {
     "age": 23,
-    "birth_date": "2003-09-02",
+    "birth_date": "2003-07-28",
     "fantasy_positions": [
-      "DL"
+      "DL",
+      "LB"
     ],
-    "first_name": "Mason",
-    "full_name": "Mason Graham",
+    "first_name": "Mike",
+    "full_name": "Mike Green",
     "gsis_id": null,
-    "last_name": "Graham",
-    "player_id": "12573",
+    "last_name": "Green",
+    "player_id": "12571",
     "position": "DL",
     "status": "Active",
-    "team": "CLE",
+    "team": "BAL",
     "years_exp": 1
   },
   "12574": {
@@ -1349,6 +1366,22 @@
     "position": "DB",
     "status": "Active",
     "team": "SEA",
+    "years_exp": 1
+  },
+  "12605": {
+    "age": 22,
+    "birth_date": "2004-02-29",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Jacob",
+    "full_name": "Jacob Parrish",
+    "gsis_id": null,
+    "last_name": "Parrish",
+    "player_id": "12605",
+    "position": "DB",
+    "status": "Active",
+    "team": "TB",
     "years_exp": 1
   },
   "12617": {
@@ -2011,7 +2044,7 @@
     "years_exp": 0
   },
   "13375": {
-    "age": 21,
+    "age": 22,
     "birth_date": "2004-11-24",
     "fantasy_positions": [
       "LB"
@@ -2814,6 +2847,22 @@
     "team": "BAL",
     "years_exp": 8
   },
+  "4892": {
+    "age": 31,
+    "birth_date": "1995-04-14",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Baker",
+    "full_name": "Baker Mayfield",
+    "gsis_id": "00-0034855",
+    "last_name": "Mayfield",
+    "player_id": "4892",
+    "position": "QB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 8
+  },
   "4943": {
     "age": 29,
     "birth_date": "1997-06-05",
@@ -3101,22 +3150,6 @@
     "position": "RB",
     "status": "Active",
     "team": "GB",
-    "years_exp": 7
-  },
-  "5854": {
-    "age": 30,
-    "birth_date": "1996-11-10",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Drew",
-    "full_name": "Drew Lock",
-    "gsis_id": " 00-0035704",
-    "last_name": "Lock",
-    "player_id": "5854",
-    "position": "QB",
-    "status": "Active",
-    "team": "SEA",
     "years_exp": 7
   },
   "5859": {
@@ -3410,22 +3443,6 @@
     "team": "NO",
     "years_exp": 7
   },
-  "6333": {
-    "age": 29,
-    "birth_date": "1997-06-22",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Keisean",
-    "full_name": "Keisean Nixon",
-    "gsis_id": " 00-0035133",
-    "last_name": "Nixon",
-    "player_id": "6333",
-    "position": "CB",
-    "status": "Active",
-    "team": "GB",
-    "years_exp": 7
-  },
   "6770": {
     "age": 29,
     "birth_date": "1996-12-10",
@@ -3570,22 +3587,6 @@
     "team": "GB",
     "years_exp": 6
   },
-  "6806": {
-    "age": 27,
-    "birth_date": "1998-12-17",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "J.K.",
-    "full_name": "J.K. Dobbins",
-    "gsis_id": null,
-    "last_name": "Dobbins",
-    "player_id": "6806",
-    "position": "RB",
-    "status": "Active",
-    "team": "DEN",
-    "years_exp": 6
-  },
   "6807": {
     "age": 27,
     "birth_date": "1999-08-13",
@@ -3682,23 +3683,6 @@
     "team": "MIA",
     "years_exp": 6
   },
-  "7016": {
-    "age": 28,
-    "birth_date": "1998-02-26",
-    "fantasy_positions": [
-      "DB",
-      "LB"
-    ],
-    "first_name": "Jeremy",
-    "full_name": "Jeremy Chinn",
-    "gsis_id": null,
-    "last_name": "Chinn",
-    "player_id": "7016",
-    "position": "DB",
-    "status": "Active",
-    "team": "LV",
-    "years_exp": 6
-  },
   "7021": {
     "age": 28,
     "birth_date": "1998-06-14",
@@ -3764,7 +3748,7 @@
     "years_exp": 5
   },
   "7526": {
-    "age": 27,
+    "age": 28,
     "birth_date": "1998-11-25",
     "fantasy_positions": [
       "WR"
@@ -4569,6 +4553,22 @@
     "team": "NYJ",
     "years_exp": 4
   },
+  "8408": {
+    "age": 27,
+    "birth_date": "1999-05-24",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Jordan",
+    "full_name": "Jordan Mason",
+    "gsis_id": null,
+    "last_name": "Mason",
+    "player_id": "8408",
+    "position": "RB",
+    "status": "Active",
+    "team": "MIN",
+    "years_exp": 4
+  },
   "9221": {
     "age": 24,
     "birth_date": "2002-03-20",
@@ -4808,22 +4808,6 @@
     "status": "Active",
     "team": "LAC",
     "years_exp": 3
-  },
-  "96": {
-    "age": 42,
-    "birth_date": "1983-12-02",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Aaron",
-    "full_name": "Aaron Rodgers",
-    "gsis_id": "00-0023459",
-    "last_name": "Rodgers",
-    "player_id": "96",
-    "position": "QB",
-    "status": "Active",
-    "team": "PIT",
-    "years_exp": 21
   },
   "9753": {
     "age": 25,
