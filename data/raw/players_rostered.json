@@ -127,6 +127,22 @@
     "team": "PHI",
     "years_exp": 3
   },
+  "10891": {
+    "age": 25,
+    "birth_date": "2000-12-11",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Devon",
+    "full_name": "Devon Witherspoon",
+    "gsis_id": null,
+    "last_name": "Witherspoon",
+    "player_id": "10891",
+    "position": "DB",
+    "status": "Active",
+    "team": "SEA",
+    "years_exp": 3
+  },
   "10892": {
     "age": 25,
     "birth_date": "2001-09-02",
@@ -404,7 +420,7 @@
     "years_exp": 2
   },
   "11586": {
-    "age": 25,
+    "age": 26,
     "birth_date": "2000-11-25",
     "fantasy_positions": [
       "RB"
@@ -563,22 +579,6 @@
     "team": "LAC",
     "years_exp": 2
   },
-  "11637": {
-    "age": 23,
-    "birth_date": "2003-05-17",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "first_name": "Keon",
-    "full_name": "Keon Coleman",
-    "gsis_id": null,
-    "last_name": "Coleman",
-    "player_id": "11637",
-    "position": "WR",
-    "status": "Active",
-    "team": "BUF",
-    "years_exp": 2
-  },
   "11638": {
     "age": 26,
     "birth_date": "2000-09-09",
@@ -706,6 +706,22 @@
     "position": "DB",
     "status": "Active",
     "team": "BUF",
+    "years_exp": 2
+  },
+  "11685": {
+    "age": 23,
+    "birth_date": "2003-01-23",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Kamari",
+    "full_name": "Kamari Lassiter",
+    "gsis_id": null,
+    "last_name": "Lassiter",
+    "player_id": "11685",
+    "position": "DB",
+    "status": "Active",
+    "team": "HOU",
     "years_exp": 2
   },
   "11705": {
@@ -1270,20 +1286,21 @@
     "team": "BAL",
     "years_exp": 1
   },
-  "12573": {
+  "12571": {
     "age": 23,
-    "birth_date": "2003-09-02",
+    "birth_date": "2003-07-28",
     "fantasy_positions": [
-      "DL"
+      "DL",
+      "LB"
     ],
-    "first_name": "Mason",
-    "full_name": "Mason Graham",
+    "first_name": "Mike",
+    "full_name": "Mike Green",
     "gsis_id": null,
-    "last_name": "Graham",
-    "player_id": "12573",
+    "last_name": "Green",
+    "player_id": "12571",
     "position": "DL",
     "status": "Active",
-    "team": "CLE",
+    "team": "BAL",
     "years_exp": 1
   },
   "12574": {
@@ -1349,6 +1366,22 @@
     "position": "DB",
     "status": "Active",
     "team": "SEA",
+    "years_exp": 1
+  },
+  "12605": {
+    "age": 22,
+    "birth_date": "2004-02-29",
+    "fantasy_positions": [
+      "DB"
+    ],
+    "first_name": "Jacob",
+    "full_name": "Jacob Parrish",
+    "gsis_id": null,
+    "last_name": "Parrish",
+    "player_id": "12605",
+    "position": "DB",
+    "status": "Active",
+    "team": "TB",
     "years_exp": 1
   },
   "12617": {
@@ -3103,22 +3136,6 @@
     "team": "GB",
     "years_exp": 7
   },
-  "5854": {
-    "age": 30,
-    "birth_date": "1996-11-10",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Drew",
-    "full_name": "Drew Lock",
-    "gsis_id": " 00-0035704",
-    "last_name": "Lock",
-    "player_id": "5854",
-    "position": "QB",
-    "status": "Active",
-    "team": "SEA",
-    "years_exp": 7
-  },
   "5859": {
     "age": 29,
     "birth_date": "1997-06-30",
@@ -3570,22 +3587,6 @@
     "team": "GB",
     "years_exp": 6
   },
-  "6806": {
-    "age": 27,
-    "birth_date": "1998-12-17",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "first_name": "J.K.",
-    "full_name": "J.K. Dobbins",
-    "gsis_id": null,
-    "last_name": "Dobbins",
-    "player_id": "6806",
-    "position": "RB",
-    "status": "Active",
-    "team": "DEN",
-    "years_exp": 6
-  },
   "6807": {
     "age": 27,
     "birth_date": "1999-08-13",
@@ -3682,23 +3683,6 @@
     "team": "MIA",
     "years_exp": 6
   },
-  "7016": {
-    "age": 28,
-    "birth_date": "1998-02-26",
-    "fantasy_positions": [
-      "DB",
-      "LB"
-    ],
-    "first_name": "Jeremy",
-    "full_name": "Jeremy Chinn",
-    "gsis_id": null,
-    "last_name": "Chinn",
-    "player_id": "7016",
-    "position": "DB",
-    "status": "Active",
-    "team": "LV",
-    "years_exp": 6
-  },
   "7021": {
     "age": 28,
     "birth_date": "1998-06-14",
@@ -3764,7 +3748,7 @@
     "years_exp": 5
   },
   "7526": {
-    "age": 27,
+    "age": 28,
     "birth_date": "1998-11-25",
     "fantasy_positions": [
       "WR"

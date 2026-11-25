@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-24",
+  "as_of": "2026-11-25",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -11,6 +11,7 @@
     "10859",
     "10880",
     "10888",
+    "10891",
     "10892",
     "10898",
     "10905",
@@ -38,7 +39,6 @@
     "11631",
     "11632",
     "11635",
-    "11637",
     "11638",
     "11646",
     "11655",
@@ -47,6 +47,7 @@
     "11669",
     "11678",
     "11682",
+    "11685",
     "11705",
     "11727",
     "11739",
@@ -82,11 +83,12 @@
     "12556",
     "12562",
     "12567",
-    "12573",
+    "12571",
     "12574",
     "12578",
     "12591",
     "12597",
+    "12605",
     "12617",
     "12622",
     "12646",
@@ -196,7 +198,6 @@
     "5846",
     "5847",
     "5850",
-    "5854",
     "5859",
     "5862",
     "5871",
@@ -225,14 +226,12 @@
     "6797",
     "6801",
     "6804",
-    "6806",
     "6807",
     "6813",
     "6815",
     "6904",
     "6911",
     "6949",
-    "7016",
     "7021",
     "7136",
     "7523",
@@ -357,6 +356,12 @@
       "gsis_id": null,
       "name": "Jalen Carter",
       "position": "DL"
+    },
+    {
+      "id": "10891",
+      "gsis_id": null,
+      "name": "Devon Witherspoon",
+      "position": "DB"
     },
     {
       "id": "10892",
@@ -521,12 +526,6 @@
       "position": "WR"
     },
     {
-      "id": "11637",
-      "gsis_id": null,
-      "name": "Keon Coleman",
-      "position": "WR"
-    },
-    {
       "id": "11638",
       "gsis_id": null,
       "name": "Ricky Pearsall",
@@ -572,6 +571,12 @@
       "id": "11682",
       "gsis_id": null,
       "name": "Cole Bishop",
+      "position": "DB"
+    },
+    {
+      "id": "11685",
+      "gsis_id": null,
+      "name": "Kamari Lassiter",
       "position": "DB"
     },
     {
@@ -785,9 +790,9 @@
       "position": "DB"
     },
     {
-      "id": "12573",
+      "id": "12571",
       "gsis_id": null,
-      "name": "Mason Graham",
+      "name": "Mike Green",
       "position": "DL"
     },
     {
@@ -812,6 +817,12 @@
       "id": "12597",
       "gsis_id": null,
       "name": "Nick Emmanwori",
+      "position": "DB"
+    },
+    {
+      "id": "12605",
+      "gsis_id": null,
+      "name": "Jacob Parrish",
       "position": "DB"
     },
     {
@@ -1469,12 +1480,6 @@
       "position": "RB"
     },
     {
-      "id": "5854",
-      "gsis_id": " 00-0035704",
-      "name": "Drew Lock",
-      "position": "QB"
-    },
-    {
       "id": "5859",
       "gsis_id": " 00-0035676",
       "name": "A.J. Brown",
@@ -1643,12 +1648,6 @@
       "position": "QB"
     },
     {
-      "id": "6806",
-      "gsis_id": null,
-      "name": "J.K. Dobbins",
-      "position": "RB"
-    },
-    {
       "id": "6807",
       "gsis_id": null,
       "name": "Patrick Queen",
@@ -1683,12 +1682,6 @@
       "gsis_id": null,
       "name": "Jordyn Brooks",
       "position": "LB"
-    },
-    {
-      "id": "7016",
-      "gsis_id": null,
-      "name": "Jeremy Chinn",
-      "position": "DB"
     },
     {
       "id": "7021",
@@ -2141,5 +2134,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 66
+  "_gsis_resolved": 65
 }
