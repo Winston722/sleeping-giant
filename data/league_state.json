@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-25",
+  "as_of": "2026-11-27",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
@@ -19,7 +19,6 @@
     "10917",
     "10927",
     "10940",
-    "11470",
     "11559",
     "11560",
     "11563",
@@ -56,6 +55,7 @@
     "12469",
     "12474",
     "12481",
+    "12483",
     "12487",
     "12489",
     "12490",
@@ -180,11 +180,13 @@
     "4217",
     "4866",
     "4881",
+    "4892",
     "4943",
     "4960",
     "4971",
     "4983",
     "4984",
+    "4993",
     "5012",
     "5017",
     "5022",
@@ -216,7 +218,6 @@
     "6183",
     "6217",
     "6302",
-    "6333",
     "6770",
     "6782",
     "6786",
@@ -253,7 +254,6 @@
     "7672",
     "7726",
     "7841",
-    "8110",
     "8112",
     "8126",
     "8130",
@@ -272,6 +272,7 @@
     "8161",
     "8167",
     "8183",
+    "8210",
     "8228",
     "8266",
     "8267",
@@ -293,7 +294,6 @@
     "9226",
     "9228",
     "9480",
-    "9482",
     "9484",
     "9487",
     "9488",
@@ -302,7 +302,6 @@
     "9508",
     "9509",
     "9511",
-    "96",
     "9753",
     "9756",
     "9758",
@@ -403,12 +402,6 @@
       "id": "10940",
       "gsis_id": null,
       "name": "Nick Herbig",
-      "position": "LB"
-    },
-    {
-      "id": "11470",
-      "gsis_id": null,
-      "name": "Drake Thomas",
       "position": "LB"
     },
     {
@@ -626,6 +619,12 @@
       "gsis_id": null,
       "name": "Cam Skattebo",
       "position": "RB"
+    },
+    {
+      "id": "12483",
+      "gsis_id": null,
+      "name": "Jack Bech",
+      "position": "WR"
     },
     {
       "id": "12487",
@@ -1372,6 +1371,12 @@
       "position": "QB"
     },
     {
+      "id": "4892",
+      "gsis_id": "00-0034855",
+      "name": "Baker Mayfield",
+      "position": "QB"
+    },
+    {
       "id": "4943",
       "gsis_id": "00-0034869",
       "name": "Sam Darnold",
@@ -1400,6 +1405,12 @@
       "gsis_id": "00-0034857",
       "name": "Josh Allen",
       "position": "QB"
+    },
+    {
+      "id": "4993",
+      "gsis_id": "00-0034829",
+      "name": "Mike Gesicki",
+      "position": "TE"
     },
     {
       "id": "5012",
@@ -1586,12 +1597,6 @@
       "gsis_id": " 00-0035316",
       "name": "Kaden Elliss",
       "position": "LB"
-    },
-    {
-      "id": "6333",
-      "gsis_id": " 00-0035133",
-      "name": "Keisean Nixon",
-      "position": "CB"
     },
     {
       "id": "6770",
@@ -1810,12 +1815,6 @@
       "position": "LB"
     },
     {
-      "id": "8110",
-      "gsis_id": null,
-      "name": "Jake Ferguson",
-      "position": "TE"
-    },
-    {
       "id": "8112",
       "gsis_id": null,
       "name": "Drake London",
@@ -1922,6 +1921,12 @@
       "gsis_id": null,
       "name": "Brock Purdy",
       "position": "QB"
+    },
+    {
+      "id": "8210",
+      "gsis_id": null,
+      "name": "Chig Okonkwo",
+      "position": "TE"
     },
     {
       "id": "8228",
@@ -2050,12 +2055,6 @@
       "position": "TE"
     },
     {
-      "id": "9482",
-      "gsis_id": null,
-      "name": "Michael Mayer",
-      "position": "TE"
-    },
-    {
       "id": "9484",
       "gsis_id": null,
       "name": "Tucker Kraft",
@@ -2102,12 +2101,6 @@
       "gsis_id": null,
       "name": "Keaton Mitchell",
       "position": "RB"
-    },
-    {
-      "id": "96",
-      "gsis_id": "00-0023459",
-      "name": "Aaron Rodgers",
-      "position": "QB"
     },
     {
       "id": "9753",

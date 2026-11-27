@@ -259,22 +259,6 @@
     "team": "PIT",
     "years_exp": 3
   },
-  "11470": {
-    "age": 26,
-    "birth_date": "2000-02-25",
-    "fantasy_positions": [
-      "LB"
-    ],
-    "first_name": "Drake",
-    "full_name": "Drake Thomas",
-    "gsis_id": null,
-    "last_name": "Thomas",
-    "player_id": "11470",
-    "position": "LB",
-    "status": "Active",
-    "team": "SEA",
-    "years_exp": 3
-  },
   "11559": {
     "age": 26,
     "birth_date": "2000-05-08",
@@ -850,6 +834,22 @@
     "position": "RB",
     "status": "Active",
     "team": "NYG",
+    "years_exp": 1
+  },
+  "12483": {
+    "age": 23,
+    "birth_date": "2002-12-18",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Jack",
+    "full_name": "Jack Bech",
+    "gsis_id": null,
+    "last_name": "Bech",
+    "player_id": "12483",
+    "position": "WR",
+    "status": "Active",
+    "team": "LV",
     "years_exp": 1
   },
   "12487": {
@@ -2847,6 +2847,22 @@
     "team": "BAL",
     "years_exp": 8
   },
+  "4892": {
+    "age": 31,
+    "birth_date": "1995-04-14",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "first_name": "Baker",
+    "full_name": "Baker Mayfield",
+    "gsis_id": "00-0034855",
+    "last_name": "Mayfield",
+    "player_id": "4892",
+    "position": "QB",
+    "status": "Active",
+    "team": "TB",
+    "years_exp": 8
+  },
   "4943": {
     "age": 29,
     "birth_date": "1997-06-05",
@@ -2925,6 +2941,22 @@
     "position": "QB",
     "status": "Active",
     "team": "BUF",
+    "years_exp": 8
+  },
+  "4993": {
+    "age": 31,
+    "birth_date": "1995-10-03",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Mike",
+    "full_name": "Mike Gesicki",
+    "gsis_id": "00-0034829",
+    "last_name": "Gesicki",
+    "player_id": "4993",
+    "position": "TE",
+    "status": "Active",
+    "team": "CIN",
     "years_exp": 8
   },
   "5012": {
@@ -3425,22 +3457,6 @@
     "position": "LB",
     "status": "Active",
     "team": "NO",
-    "years_exp": 7
-  },
-  "6333": {
-    "age": 29,
-    "birth_date": "1997-06-22",
-    "fantasy_positions": [
-      "DB"
-    ],
-    "first_name": "Keisean",
-    "full_name": "Keisean Nixon",
-    "gsis_id": " 00-0035133",
-    "last_name": "Nixon",
-    "player_id": "6333",
-    "position": "CB",
-    "status": "Active",
-    "team": "GB",
     "years_exp": 7
   },
   "6770": {
@@ -4022,22 +4038,6 @@
     "team": "NYJ",
     "years_exp": 5
   },
-  "8110": {
-    "age": 27,
-    "birth_date": "1999-01-18",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Jake",
-    "full_name": "Jake Ferguson",
-    "gsis_id": null,
-    "last_name": "Ferguson",
-    "player_id": "8110",
-    "position": "TE",
-    "status": "Active",
-    "team": "DAL",
-    "years_exp": 4
-  },
   "8112": {
     "age": 25,
     "birth_date": "2001-07-24",
@@ -4324,6 +4324,22 @@
     "position": "QB",
     "status": "Active",
     "team": "SF",
+    "years_exp": 4
+  },
+  "8210": {
+    "age": 27,
+    "birth_date": "1999-09-08",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "first_name": "Chig",
+    "full_name": "Chig Okonkwo",
+    "gsis_id": null,
+    "last_name": "Okonkwo",
+    "player_id": "8210",
+    "position": "TE",
+    "status": "Active",
+    "team": "WAS",
     "years_exp": 4
   },
   "8228": {
@@ -4665,22 +4681,6 @@
     "team": "JAX",
     "years_exp": 3
   },
-  "9482": {
-    "age": 25,
-    "birth_date": "2001-07-06",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Michael",
-    "full_name": "Michael Mayer",
-    "gsis_id": null,
-    "last_name": "Mayer",
-    "player_id": "9482",
-    "position": "TE",
-    "status": "Active",
-    "team": "LV",
-    "years_exp": 3
-  },
   "9484": {
     "age": 26,
     "birth_date": "2000-11-03",
@@ -4808,22 +4808,6 @@
     "status": "Active",
     "team": "LAC",
     "years_exp": 3
-  },
-  "96": {
-    "age": 42,
-    "birth_date": "1983-12-02",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "first_name": "Aaron",
-    "full_name": "Aaron Rodgers",
-    "gsis_id": "00-0023459",
-    "last_name": "Rodgers",
-    "player_id": "96",
-    "position": "QB",
-    "status": "Active",
-    "team": "PIT",
-    "years_exp": 21
   },
   "9753": {
     "age": 25,
