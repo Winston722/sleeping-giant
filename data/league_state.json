@@ -1,9 +1,10 @@
 {
-  "as_of": "2026-11-25",
+  "as_of": "2026-11-27",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
     "10213",
+    "10219",
     "10222",
     "10229",
     "10232",
@@ -140,6 +141,7 @@
     "13388",
     "13389",
     "13390",
+    "13394",
     "13395",
     "13411",
     "13413",
@@ -253,7 +255,6 @@
     "7672",
     "7726",
     "7841",
-    "8110",
     "8112",
     "8126",
     "8130",
@@ -272,6 +273,7 @@
     "8161",
     "8167",
     "8183",
+    "8210",
     "8228",
     "8266",
     "8267",
@@ -293,7 +295,6 @@
     "9226",
     "9228",
     "9480",
-    "9482",
     "9484",
     "9487",
     "9488",
@@ -313,6 +314,12 @@
       "gsis_id": null,
       "name": "Tre Tucker",
       "position": "WR"
+    },
+    {
+      "id": "10219",
+      "gsis_id": null,
+      "name": "Chris Rodriguez Jr.",
+      "position": "RB"
     },
     {
       "id": "10222",
@@ -1131,6 +1138,12 @@
       "position": "DL"
     },
     {
+      "id": "13394",
+      "gsis_id": null,
+      "name": "Josh Cameron",
+      "position": "WR"
+    },
+    {
       "id": "13395",
       "gsis_id": null,
       "name": "Keldric Faulk",
@@ -1809,12 +1822,6 @@
       "position": "LB"
     },
     {
-      "id": "8110",
-      "gsis_id": null,
-      "name": "Jake Ferguson",
-      "position": "TE"
-    },
-    {
       "id": "8112",
       "gsis_id": null,
       "name": "Drake London",
@@ -1921,6 +1928,12 @@
       "gsis_id": null,
       "name": "Brock Purdy",
       "position": "QB"
+    },
+    {
+      "id": "8210",
+      "gsis_id": null,
+      "name": "Chig Okonkwo",
+      "position": "TE"
     },
     {
       "id": "8228",
@@ -2046,12 +2059,6 @@
       "id": "9480",
       "gsis_id": null,
       "name": "Brenton Strange",
-      "position": "TE"
-    },
-    {
-      "id": "9482",
-      "gsis_id": null,
-      "name": "Michael Mayer",
       "position": "TE"
     },
     {
