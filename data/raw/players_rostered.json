@@ -15,6 +15,22 @@
     "team": "LV",
     "years_exp": 3
   },
+  "10219": {
+    "age": 27,
+    "birth_date": "1999-09-26",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "first_name": "Chris",
+    "full_name": "Chris Rodriguez Jr.",
+    "gsis_id": null,
+    "last_name": "Rodriguez Jr.",
+    "player_id": "10219",
+    "position": "RB",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 3
+  },
   "10222": {
     "age": 26,
     "birth_date": "2000-04-28",
@@ -2205,6 +2221,22 @@
     "team": "KC",
     "years_exp": 0
   },
+  "13394": {
+    "age": 23,
+    "birth_date": "2003-03-18",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "first_name": "Josh",
+    "full_name": "Josh Cameron",
+    "gsis_id": null,
+    "last_name": "Cameron",
+    "player_id": "13394",
+    "position": "WR",
+    "status": "Active",
+    "team": "JAX",
+    "years_exp": 0
+  },
   "13395": {
     "age": 22,
     "birth_date": "2004-09-07",
@@ -2941,22 +2973,6 @@
     "position": "QB",
     "status": "Active",
     "team": "BUF",
-    "years_exp": 8
-  },
-  "4993": {
-    "age": 31,
-    "birth_date": "1995-10-03",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "first_name": "Mike",
-    "full_name": "Mike Gesicki",
-    "gsis_id": "00-0034829",
-    "last_name": "Gesicki",
-    "player_id": "4993",
-    "position": "TE",
-    "status": "Active",
-    "team": "CIN",
     "years_exp": 8
   },
   "5012": {

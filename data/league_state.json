@@ -1,9 +1,10 @@
 {
-  "as_of": "2026-11-27",
+  "as_of": "2026-11-28",
   "id_type": "sleeper",
   "num_teams": 8,
   "rostered_player_ids": [
     "10213",
+    "10219",
     "10222",
     "10229",
     "10232",
@@ -140,6 +141,7 @@
     "13388",
     "13389",
     "13390",
+    "13394",
     "13395",
     "13411",
     "13413",
@@ -186,7 +188,6 @@
     "4971",
     "4983",
     "4984",
-    "4993",
     "5012",
     "5017",
     "5022",
@@ -313,6 +314,12 @@
       "gsis_id": null,
       "name": "Tre Tucker",
       "position": "WR"
+    },
+    {
+      "id": "10219",
+      "gsis_id": null,
+      "name": "Chris Rodriguez Jr.",
+      "position": "RB"
     },
     {
       "id": "10222",
@@ -1131,6 +1138,12 @@
       "position": "DL"
     },
     {
+      "id": "13394",
+      "gsis_id": null,
+      "name": "Josh Cameron",
+      "position": "WR"
+    },
+    {
       "id": "13395",
       "gsis_id": null,
       "name": "Keldric Faulk",
@@ -1405,12 +1418,6 @@
       "gsis_id": "00-0034857",
       "name": "Josh Allen",
       "position": "QB"
-    },
-    {
-      "id": "4993",
-      "gsis_id": "00-0034829",
-      "name": "Mike Gesicki",
-      "position": "TE"
     },
     {
       "id": "5012",
@@ -2127,5 +2134,5 @@
       "position": "WR"
     }
   ],
-  "_gsis_resolved": 65
+  "_gsis_resolved": 64
 }
